@@ -4263,7 +4263,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "indices" : [ 3, 14 ],
       "id_str" : "15080202",
@@ -4307,7 +4307,7 @@ Grailbird.data.tweets_2011_05 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "protected" : false,
       "id_str" : "15080202",
@@ -10786,7 +10786,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

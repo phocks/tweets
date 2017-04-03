@@ -3030,11 +3030,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 224855157253480452,
     "created_at" : "2012-07-16 13:17:01 +0000",
     "user" : {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807762085102792704\/_3FkhZOQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847368324832837632\/ec9TimVu_normal.jpg",
       "id" : 14709131,
       "verified" : false
     }
@@ -3823,7 +3823,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "111783880",
       "id" : 111783880
     }, {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 11, 24 ],
       "id_str" : "14709131",
@@ -3917,7 +3917,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "111783880",
       "id" : 111783880
     }, {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 11, 24 ],
       "id_str" : "14709131",
@@ -5568,7 +5568,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -6042,7 +6042,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "111783880",
       "id" : 111783880
     }, {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 11, 24 ],
       "id_str" : "14709131",

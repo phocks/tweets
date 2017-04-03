@@ -195,6 +195,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1029998739",
+  "text" : "writhing from the insanities of last night",
+  "id" : 1029998739,
+  "created_at" : "2008-11-29 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1028779743",
   "text" : "picked up the vespa, went to the servo to pump the tyre back up, found out the problem.. a big nail sticking out, must have run over it",
   "id" : 1028779743,
@@ -264,28 +286,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1029132028",
   "text" : "scorching day, cold shower's effects already being negated, jamming before the party\/show tonight",
   "id" : 1029132028,
-  "created_at" : "2008-11-29 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1029998739",
-  "text" : "writhing from the insanities of last night",
-  "id" : 1029998739,
   "created_at" : "2008-11-29 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1236,6 +1236,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1020506105",
+  "text" : "leaving for pullenvale to pick up master tracks for our recordings",
+  "id" : 1020506105,
+  "created_at" : "2008-11-24 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1020649600",
   "text" : "getting sarah started on gmail, still listening to stone roses, can't get enough",
   "id" : 1020649600,
@@ -1393,28 +1415,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1020279524",
   "text" : "lunch time, need to feed this raging hunger before i fade away",
   "id" : 1020279524,
-  "created_at" : "2008-11-24 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1020506105",
-  "text" : "leaving for pullenvale to pick up master tracks for our recordings",
-  "id" : 1020506105,
   "created_at" : "2008-11-24 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2381,6 +2381,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1009196046",
+  "text" : "finally managed to slip away, now to write like the wind!",
+  "id" : 1009196046,
+  "created_at" : "2008-11-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1009226477",
   "text" : "i got about 700 words, now just waiting for 5pm to click over so i can clone the backup server back onto the (hopefully) fixed real server",
   "id" : 1009226477,
@@ -2566,28 +2588,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "1009161415",
   "text" : "i was supposed to get out of here to do some writing sometime today, but it's been too busy, and too rainy",
   "id" : 1009161415,
-  "created_at" : "2008-11-17 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1009196046",
-  "text" : "finally managed to slip away, now to write like the wind!",
-  "id" : 1009196046,
   "created_at" : "2008-11-17 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3524,6 +3524,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "999841031",
+  "text" : "i don't know what it is i like about you, but i like it a lot",
+  "id" : 999841031,
+  "created_at" : "2008-11-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "999969410",
   "text" : "starting to get hot in here, turning the fan on",
   "id" : 999969410,
@@ -3731,28 +3753,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "999786930",
   "text" : "ok, got it off with a screwdriver, a big dodgy but it worked. but i have no thermal compound to put the heatsink back on now. toothpaste? :P",
   "id" : 999786930,
-  "created_at" : "2008-11-11 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "999841031",
-  "text" : "i don't know what it is i like about you, but i like it a lot",
-  "id" : 999841031,
   "created_at" : "2008-11-11 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4785,6 +4785,28 @@ Grailbird.data.tweets_2008_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "992990564",
+  "text" : "chocolate sundae to the rescue!",
+  "id" : 992990564,
+  "created_at" : "2008-11-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "993032443",
   "text" : "have to go to dinner on the other side of town, but i think i'm back in the swing of things, Earl Fisher is narrating again in his crazy way",
   "id" : 993032443,
@@ -4997,28 +5019,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "992977372",
   "text" : "actually... actually... scrap that, now i'm having a character dilemma, to be or not to be.. taking a walk to clear my head",
   "id" : 992977372,
-  "created_at" : "2008-11-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "992990564",
-  "text" : "chocolate sundae to the rescue!",
-  "id" : 992990564,
   "created_at" : "2008-11-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5953,6 +5953,34 @@ Grailbird.data.tweets_2008_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "sie \u2728\uD83D\uDD2A",
+      "screen_name" : "kissability",
+      "indices" : [ 0, 12 ],
+      "id_str" : "797151622207934464",
+      "id" : 797151622207934464
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "986907150",
+  "text" : "@kissability friends over thought it a little strange, others from her group were a little apprehensive about coming in.. social boundaries",
+  "id" : 986907150,
+  "created_at" : "2008-11-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Conjure",
       "screen_name" : "Conjure",
       "indices" : [ 0, 8 ],
@@ -6170,34 +6198,6 @@ Grailbird.data.tweets_2008_11 =
   "id_str" : "986896959",
   "text" : "some people came last nite who apparently used to live in our house ages ago. they wanted a photo outside, but i let them in to look around",
   "id" : 986896959,
-  "created_at" : "2008-11-02 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "sie \u2728\uD83D\uDD2A",
-      "screen_name" : "kissability",
-      "indices" : [ 0, 12 ],
-      "id_str" : "797151622207934464",
-      "id" : 797151622207934464
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "986907150",
-  "text" : "@kissability friends over thought it a little strange, others from her group were a little apprehensive about coming in.. social boundaries",
-  "id" : 986907150,
   "created_at" : "2008-11-02 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

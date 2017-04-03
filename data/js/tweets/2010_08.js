@@ -954,6 +954,39 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron",
+      "screen_name" : "ozmusiq",
+      "indices" : [ 0, 8 ],
+      "id_str" : "21481069",
+      "id" : 21481069
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "22338585391",
+  "geo" : { },
+  "id_str" : "22341542075",
+  "in_reply_to_user_id" : 21481069,
+  "text" : "@ozmusiq don't ask me what i want it for, if you don't want to pay some more. cause i'm the tax man",
+  "id" : 22341542075,
+  "in_reply_to_status_id" : 22338585391,
+  "created_at" : "2010-08-28 00:00:00 +0000",
+  "in_reply_to_screen_name" : "ozmusiq",
+  "in_reply_to_user_id_str" : "21481069",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1206,39 +1239,6 @@ Grailbird.data.tweets_2010_08 =
   "text" : "brilliant seeing friends from up north, no lights in the beer garden here",
   "id" : 22341473167,
   "created_at" : "2010-08-28 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Aaron",
-      "screen_name" : "ozmusiq",
-      "indices" : [ 0, 8 ],
-      "id_str" : "21481069",
-      "id" : 21481069
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "22338585391",
-  "geo" : { },
-  "id_str" : "22341542075",
-  "in_reply_to_user_id" : 21481069,
-  "text" : "@ozmusiq don't ask me what i want it for, if you don't want to pay some more. cause i'm the tax man",
-  "id" : 22341542075,
-  "in_reply_to_status_id" : 22338585391,
-  "created_at" : "2010-08-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ozmusiq",
-  "in_reply_to_user_id_str" : "21481069",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -2216,6 +2216,28 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "21840029986",
+  "text" : "being kept awake by someone's terrible music taste across the way",
+  "id" : 21840029986,
+  "created_at" : "2010-08-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "21864991193",
   "text" : "the bacon beckons to be brought home",
   "id" : 21864991193,
@@ -2699,28 +2721,6 @@ Grailbird.data.tweets_2010_08 =
     }
   },
   "id" : 21837576887,
-  "created_at" : "2010-08-22 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21840029986",
-  "text" : "being kept awake by someone's terrible music taste across the way",
-  "id" : 21840029986,
   "created_at" : "2010-08-22 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3602,6 +3602,39 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Elize Strydom",
+      "screen_name" : "elizestrydom",
+      "indices" : [ 0, 13 ],
+      "id_str" : "22588734",
+      "id" : 22588734
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "21518811046",
+  "geo" : { },
+  "id_str" : "21526984834",
+  "in_reply_to_user_id" : 22588734,
+  "text" : "@elizestrydom happy birthday radiostarlett!",
+  "id" : 21526984834,
+  "in_reply_to_status_id" : 21518811046,
+  "created_at" : "2010-08-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "elizestrydom",
+  "in_reply_to_user_id_str" : "22588734",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3840,40 +3873,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "21518811046",
-  "geo" : { },
-  "id_str" : "21526984834",
-  "in_reply_to_user_id" : 22588734,
-  "text" : "@elizestrydom happy birthday radiostarlett!",
-  "id" : 21526984834,
-  "in_reply_to_status_id" : 21518811046,
-  "created_at" : "2010-08-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4711,6 +4711,28 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "21213594419",
+  "text" : "seeing scott pilgrim vs. the world. yes!",
+  "id" : 21213594419,
+  "created_at" : "2010-08-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "21218563046",
   "text" : "scott pilgrim vs. the world = like pretty cool, or whatever !!",
   "id" : 21218563046,
@@ -4984,28 +5006,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21207146125",
   "text" : "deceptive exteriors abound in this town",
   "id" : 21207146125,
-  "created_at" : "2010-08-15 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "21213594419",
-  "text" : "seeing scott pilgrim vs. the world. yes!",
-  "id" : 21213594419,
   "created_at" : "2010-08-15 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5802,6 +5802,28 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20864196546",
+  "text" : "thought that sounded a lot like DZ on 102.7fm.. it was!",
+  "id" : 20864196546,
+  "created_at" : "2010-08-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Flake Music",
       "screen_name" : "FlakeMusic",
@@ -6299,28 +6321,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20862605943",
   "text" : "@mandyschneider well, had to have a quick flick though didn't i? ;)",
   "id" : 20862605943,
-  "created_at" : "2010-08-11 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20864196546",
-  "text" : "thought that sounded a lot like DZ on 102.7fm.. it was!",
-  "id" : 20864196546,
   "created_at" : "2010-08-11 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -7242,6 +7242,34 @@ Grailbird.data.tweets_2010_08 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "btub",
+      "indices" : [ 7, 12 ]
+    }, {
+      "text" : "mtub",
+      "indices" : [ 20, 25 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20434383912",
+  "text" : "misses #btub a bit. #mtub seems virtually nonexistent",
+  "id" : 20434383912,
+  "created_at" : "2010-08-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -7401,34 +7429,6 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20433640792",
   "text" : "eating a muffin",
   "id" : 20433640792,
-  "created_at" : "2010-08-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "btub",
-      "indices" : [ 7, 12 ]
-    }, {
-      "text" : "mtub",
-      "indices" : [ 20, 25 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "20434383912",
-  "text" : "misses #btub a bit. #mtub seems virtually nonexistent",
-  "id" : 20434383912,
   "created_at" : "2010-08-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

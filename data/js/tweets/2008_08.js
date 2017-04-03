@@ -471,6 +471,28 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "901695439",
+  "text" : "youtube vid from last nite. that joel can sure shake a tambourine http:\/\/twurl.nl\/ra7lhw",
+  "id" : 901695439,
+  "created_at" : "2008-08-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "901199710",
   "text" : "up the road for a slushie, and some tai chicken soup",
   "id" : 901199710,
@@ -606,28 +628,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "901662624",
   "text" : "left phone at home, nooo, important communications fallen by the wayside, good night out with fletch and james anyway.. that redhead..",
   "id" : 901662624,
-  "created_at" : "2008-08-28 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "901695439",
-  "text" : "youtube vid from last nite. that joel can sure shake a tambourine http:\/\/twurl.nl\/ra7lhw",
-  "id" : 901695439,
   "created_at" : "2008-08-28 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1572,6 +1572,28 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "895120582",
+  "text" : "some classy dancing last night at the red room to the sounds of kristy london http:\/\/youtube.com\/watch?v=hQDjshVpdOw",
+  "id" : 895120582,
+  "created_at" : "2008-08-22 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "895210688",
   "text" : "it's pouring down, but the sun is still shining",
   "id" : 895210688,
@@ -1619,28 +1641,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "895026368",
   "text" : "too many talking heads and phony cleverness, mindstream of an old man, past it, somehow elevated",
   "id" : 895026368,
-  "created_at" : "2008-08-22 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "895120582",
-  "text" : "some classy dancing last night at the red room to the sounds of kristy london http:\/\/youtube.com\/watch?v=hQDjshVpdOw",
-  "id" : 895120582,
   "created_at" : "2008-08-22 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2675,6 +2675,28 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "889999708",
+  "text" : "playing poker with the boys, high stakes ha",
+  "id" : 889999708,
+  "created_at" : "2008-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "890032234",
   "text" : "a call from fletch, he's back in oz at last, rehearsing for his ric's show tomorrow night",
   "id" : 890032234,
@@ -2799,28 +2821,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "889968548",
   "text" : "filming, wasting time, thinking about futures",
   "id" : 889968548,
-  "created_at" : "2008-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "889999708",
-  "text" : "playing poker with the boys, high stakes ha",
-  "id" : 889999708,
   "created_at" : "2008-08-17 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3812,6 +3812,28 @@ Grailbird.data.tweets_2008_08 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "882970223",
+  "text" : "another fine day in wine country, though i'm wondering what i'm missing back home",
+  "id" : 882970223,
+  "created_at" : "2008-08-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3889,28 +3911,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "883625305",
   "text" : "stopped at the crowded house cafe at scone after listening to crowed house all morning, home is 700kms away",
   "id" : 883625305,
-  "created_at" : "2008-08-10 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "882970223",
-  "text" : "another fine day in wine country, though i'm wondering what i'm missing back home",
-  "id" : 882970223,
   "created_at" : "2008-08-10 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4866,6 +4866,28 @@ Grailbird.data.tweets_2008_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "876830442",
+  "text" : "leftover rice and noodles from last night, reading on lunch, a fool on the hill, but i feel fine",
+  "id" : 876830442,
+  "created_at" : "2008-08-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "876939485",
   "text" : "swelling on left thumb is now going down, no doctor, just the miraculous l33t healing skillz i acquired in jerusalem",
   "id" : 876939485,
@@ -5045,28 +5067,6 @@ Grailbird.data.tweets_2008_08 =
   "id_str" : "876786785",
   "text" : "interestingly enough with all this talk of earworms at last nite's lecture, blur's badhead is still rambling around my brain",
   "id" : 876786785,
-  "created_at" : "2008-08-04 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "876830442",
-  "text" : "leftover rice and noodles from last night, reading on lunch, a fool on the hill, but i feel fine",
-  "id" : 876830442,
   "created_at" : "2008-08-04 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

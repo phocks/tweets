@@ -682,7 +682,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83D\uDC83",
       "screen_name" : "battledinosaur",
       "indices" : [ 3, 18 ],
       "id_str" : "22708423",
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 130165141626032129,
     "created_at" : "2011-10-29 06:12:42 +0000",
     "user" : {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83D\uDC83",
       "screen_name" : "battledinosaur",
       "protected" : false,
       "id_str" : "22708423",
@@ -1257,7 +1257,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 129335327881043969,
   "in_reply_to_status_id" : 129331543901605888,
   "created_at" : "2011-10-26 23:15:19 +0000",
-  "in_reply_to_screen_name" : "_joseph_johns_",
+  "in_reply_to_screen_name" : "mrjosephjohns",
   "in_reply_to_user_id_str" : "167312768",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5029,7 +5029,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83D\uDC83",
       "screen_name" : "battledinosaur",
       "indices" : [ 1, 16 ],
       "id_str" : "22708423",
@@ -6260,16 +6260,27 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Upulie Divisekera",
+      "screen_name" : "upulie",
+      "indices" : [ 0, 7 ],
+      "id_str" : "187518287",
+      "id" : 187518287
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "124297729785602048",
   "geo" : { },
   "id_str" : "124302168965652480",
+  "in_reply_to_user_id" : 187518287,
   "text" : "@upulie I am currently re-reading it right now on the tram home. It is very heavy-going at times, but brilliant if you get through it all.",
   "id" : 124302168965652480,
+  "in_reply_to_status_id" : 124297729785602048,
   "created_at" : "2011-10-13 01:55:21 +0000",
+  "in_reply_to_screen_name" : "upulie",
+  "in_reply_to_user_id_str" : "187518287",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",

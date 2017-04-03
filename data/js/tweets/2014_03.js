@@ -4948,12 +4948,6 @@ Grailbird.data.tweets_2014_03 =
       "indices" : [ 0, 12 ],
       "id_str" : "29694396",
       "id" : 29694396
-    }, {
-      "name" : "BrisKaren",
-      "screen_name" : "BrisKaren",
-      "indices" : [ 13, 23 ],
-      "id_str" : "20474932",
-      "id" : 20474932
     } ],
     "media" : [ ],
     "hashtags" : [ ],

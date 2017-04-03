@@ -1188,7 +1188,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -1540,7 +1540,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "DeanMcKinney3",
       "protected" : false,
       "id_str" : "594506985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845359004243120128\/jmjw0hCm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847869279617863680\/lHTnri6Z_normal.jpg",
       "id" : 594506985,
       "verified" : false
     }
@@ -3089,7 +3089,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413",
+      "name" : "\u040C\u0424\u041C\u0420\u042F\u0424\u041C\u0414\u0413 \uD83D\uDC25",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -3644,7 +3644,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -3710,7 +3710,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -4279,7 +4279,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "blackbirdvc",
       "protected" : false,
       "id_str" : "733763864",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2461068747\/Blackbird_ONLY-01-smaller_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847637363702366208\/3CyvMMEx_normal.jpg",
       "id" : 733763864,
       "verified" : false
     }
@@ -4704,7 +4704,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -4737,7 +4737,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -4791,13 +4791,7 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "indices" : [ 0, 10 ],
-      "id_str" : "183962378",
-      "id" : 183962378
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "DownWithWork",
@@ -4805,16 +4799,11 @@ Grailbird.data.tweets_2016_02 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "702290680773652480",
   "geo" : { },
   "id_str" : "702291159310163968",
-  "in_reply_to_user_id" : 183962378,
   "text" : "@EllyOcean 100% unemployment by 2020! #DownWithWork \uD83D\uDE05",
   "id" : 702291159310163968,
-  "in_reply_to_status_id" : 702290680773652480,
   "created_at" : "2016-02-24 00:37:14 +0000",
-  "in_reply_to_screen_name" : "EllyOcean",
-  "in_reply_to_user_id_str" : "183962378",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -11490,7 +11479,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -12781,7 +12770,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -14609,7 +14598,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -14694,7 +14683,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -14727,7 +14716,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -20580,7 +20569,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Snowflake from hell\uD83E\uDD44",
+      "name" : "\uD83D\uDC95\uD83E\uDD44Thumbelina \uD83E\uDD44\uD83D\uDC95",
       "screen_name" : "MsRachyDoodle",
       "indices" : [ 0, 14 ],
       "id_str" : "14175294",
@@ -22120,7 +22109,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "_bbradleyy",
       "protected" : false,
       "id_str" : "879443948",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/825170434970652672\/IZpkkKMk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846831699090522113\/r1XMBV2p_normal.jpg",
       "id" : 879443948,
       "verified" : false
     }

@@ -806,6 +806,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1080549266",
+  "text" : "nana nap time",
+  "id" : 1080549266,
+  "created_at" : "2008-12-27 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1080641071",
   "text" : "waiting at benny's behind new farm bowles, full from mango curry",
   "id" : 1080641071,
@@ -897,28 +919,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1080343230",
   "text" : "drinking pine orange juice to sooth the savage beast",
   "id" : 1080343230,
-  "created_at" : "2008-12-27 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1080549266",
-  "text" : "nana nap time",
-  "id" : 1080549266,
   "created_at" : "2008-12-27 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1824,6 +1824,46 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Greg Lexiphanic",
+      "screen_name" : "lexiphanic",
+      "indices" : [ 57, 68 ],
+      "id_str" : "6989",
+      "id" : 6989
+    }, {
+      "name" : "Andrew",
+      "screen_name" : "websynth",
+      "indices" : [ 73, 82 ],
+      "id_str" : "815038986666311684",
+      "id" : 815038986666311684
+    }, {
+      "name" : "Tempyra",
+      "screen_name" : "Tempyra",
+      "indices" : [ 100, 108 ],
+      "id_str" : "310917408",
+      "id" : 310917408
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1070200747",
+  "text" : "cleanup wasn't so bad, good to see some twits there like @lexiphanic and @websynth and nice to meet @tempyra going through photos now",
+  "id" : 1070200747,
+  "created_at" : "2008-12-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Ben Grubb",
       "screen_name" : "bengrubb",
       "indices" : [ 0, 9 ],
@@ -2030,46 +2070,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1071286091",
   "text" : "shaved with the proper 3 blade razor thismorning, instead of the dodgy old disposable one i've been using, can feel the difference",
   "id" : 1071286091,
-  "created_at" : "2008-12-21 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Greg Lexiphanic",
-      "screen_name" : "lexiphanic",
-      "indices" : [ 57, 68 ],
-      "id_str" : "6989",
-      "id" : 6989
-    }, {
-      "name" : "Andrew",
-      "screen_name" : "websynth",
-      "indices" : [ 73, 82 ],
-      "id_str" : "815038986666311684",
-      "id" : 815038986666311684
-    }, {
-      "name" : "Tempyra",
-      "screen_name" : "Tempyra",
-      "indices" : [ 100, 108 ],
-      "id_str" : "310917408",
-      "id" : 310917408
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1070200747",
-  "text" : "cleanup wasn't so bad, good to see some twits there like @lexiphanic and @websynth and nice to meet @tempyra going through photos now",
-  "id" : 1070200747,
   "created_at" : "2008-12-21 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3206,6 +3206,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1054745897",
+  "text" : "going underground for a while",
+  "id" : 1054745897,
+  "created_at" : "2008-12-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1055414269",
   "text" : "sweating in the night, pondering the world outside",
   "id" : 1055414269,
@@ -3231,28 +3253,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1054617989",
   "text" : "got a feeling today is going to be a hot one",
   "id" : 1054617989,
-  "created_at" : "2008-12-13 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1054745897",
-  "text" : "going underground for a while",
-  "id" : 1054745897,
   "created_at" : "2008-12-13 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4333,6 +4333,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1044787010",
+  "text" : "scanning polaroids of the strange attractors, pretty much set on the logistics of our cd production, now just need to source some artwork",
+  "id" : 1044787010,
+  "created_at" : "2008-12-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1044853867",
   "text" : "a-headin on down to the shire. haven't been there before",
   "id" : 1044853867,
@@ -4496,28 +4518,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1044653254",
   "text" : "probably heading down to officeworks after work to look at getting a cd\/dvd inkjet printer, canon pixma most likely",
   "id" : 1044653254,
-  "created_at" : "2008-12-08 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1044787010",
-  "text" : "scanning polaroids of the strange attractors, pretty much set on the logistics of our cd production, now just need to source some artwork",
-  "id" : 1044787010,
   "created_at" : "2008-12-08 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5556,6 +5556,28 @@ Grailbird.data.tweets_2008_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1037153333",
+  "text" : "testing firefox 3.1 beta, though all add-ons bar stumbleupon are apparently incompatible, looking for ways to beat it into submission",
+  "id" : 1037153333,
+  "created_at" : "2008-12-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1037172197",
   "text" : "aha! this nightly tester tools add-on allows you to override extension compatibility http:\/\/twurl.nl\/swhtkh",
   "id" : 1037172197,
@@ -5851,28 +5873,6 @@ Grailbird.data.tweets_2008_12 =
   "id_str" : "1037129274",
   "text" : "managed to get to work on time, though i was planning on getting here early, traffic is a killer, time killer, never enough",
   "id" : 1037129274,
-  "created_at" : "2008-12-03 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1037153333",
-  "text" : "testing firefox 3.1 beta, though all add-ons bar stumbleupon are apparently incompatible, looking for ways to beat it into submission",
-  "id" : 1037153333,
   "created_at" : "2008-12-03 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

@@ -842,7 +842,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -2954,7 +2954,7 @@ Grailbird.data.tweets_2014_07 =
       "id_str" : "15424441",
       "id" : 15424441
     }, {
-      "name" : "Josh\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 13, 20 ],
       "id_str" : "5703342",
@@ -5630,7 +5630,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A good Steven",
+      "name" : "\u0440\u043E\u0431\u043E\u0442 \u0441\u0442\u0435\u0432\u0430\u043D",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

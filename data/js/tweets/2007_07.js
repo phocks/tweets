@@ -679,9 +679,9 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "166761602",
-  "text" : "coughing and feeling terrible",
-  "id" : 166761602,
+  "id_str" : "167205852",
+  "text" : "Stumbling, learning card tricks, wondering how long 'till my body can expel all of the viruses",
+  "id" : 167205852,
   "created_at" : "2007-07-25 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -701,9 +701,9 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "167205852",
-  "text" : "Stumbling, learning card tricks, wondering how long 'till my body can expel all of the viruses",
-  "id" : 167205852,
+  "id_str" : "166761602",
+  "text" : "coughing and feeling terrible",
+  "id" : 166761602,
   "created_at" : "2007-07-25 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1681,6 +1681,28 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "150750912",
+  "text" : "thinking that i should blog about existence and inexistence later tonight",
+  "id" : 150750912,
+  "created_at" : "2007-07-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "150771222",
   "text" : "wondering why mum just doesn't get it: i am not interested in Big Brother!",
   "id" : 150771222,
@@ -1882,28 +1904,6 @@ Grailbird.data.tweets_2007_07 =
   "id_str" : "150748412",
   "text" : "at mums, testing out her phone, thinking about turns of events :)",
   "id" : 150748412,
-  "created_at" : "2007-07-15 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "150750912",
-  "text" : "thinking that i should blog about existence and inexistence later tonight",
-  "id" : 150750912,
   "created_at" : "2007-07-15 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2765,6 +2765,28 @@ Grailbird.data.tweets_2007_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "137010432",
+  "text" : "editing Madhappy Poker. lol hillarious",
+  "id" : 137010432,
+  "created_at" : "2007-07-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "137012332",
   "text" : "\"21st July, The Troubadour The Strange Attractors, live! Debut Live Show in Bris! from 8pm\" ad +variations has received 15373 impressions",
   "id" : 137012332,
@@ -2966,28 +2988,6 @@ Grailbird.data.tweets_2007_07 =
   "id_str" : "136913012",
   "text" : "Video of the cheese eating surrender monkey :) http:\/\/tinyurl.com\/ytwr5c",
   "id" : 136913012,
-  "created_at" : "2007-07-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "137010432",
-  "text" : "editing Madhappy Poker. lol hillarious",
-  "id" : 137010432,
   "created_at" : "2007-07-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

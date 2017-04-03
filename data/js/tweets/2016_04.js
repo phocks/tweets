@@ -2161,7 +2161,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "3183854786",
       "id" : 3183854786
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 16, 23 ],
       "id_str" : "5703342",
@@ -2208,7 +2208,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -2699,7 +2699,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -4120,7 +4120,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 22, 37 ],
       "id_str" : "2907731137",
@@ -5670,7 +5670,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "hellomishki",
       "protected" : false,
       "id_str" : "20124270",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815907966134022144\/5Q08H8-c_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847753348489003008\/jbv32Aij_normal.jpg",
       "id" : 20124270,
       "verified" : false
     }
@@ -6665,7 +6665,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 3, 18 ],
       "id_str" : "2907731137",
@@ -6752,7 +6752,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 721937630355546113,
     "created_at" : "2016-04-18 05:45:18 +0000",
     "user" : {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "protected" : false,
       "id_str" : "2907731137",
@@ -7062,7 +7062,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "boredcactus",
       "protected" : false,
       "id_str" : "536543509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800031759987593217\/4J9oBkz9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846392176812707841\/9i7ihUG9_normal.jpg",
       "id" : 536543509,
       "verified" : false
     }
@@ -7193,7 +7193,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -9320,7 +9320,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -10710,7 +10710,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patty Abalos",
+      "name" : "Patty Abalos \u270A\uD83C\uDFFD",
       "screen_name" : "mspattyabalos",
       "indices" : [ 0, 14 ],
       "id_str" : "397888102",
@@ -10743,7 +10743,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Patty Abalos",
+      "name" : "Patty Abalos \u270A\uD83C\uDFFD",
       "screen_name" : "mspattyabalos",
       "indices" : [ 0, 14 ],
       "id_str" : "397888102",
@@ -10902,7 +10902,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DREDD MILIBAND",
+      "name" : "BIDEN MY TIME",
       "screen_name" : "therealcarew",
       "indices" : [ 3, 16 ],
       "id_str" : "21481164",
@@ -10959,7 +10959,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 719801794617024513,
     "created_at" : "2016-04-12 08:18:15 +0000",
     "user" : {
-      "name" : "DREDD MILIBAND",
+      "name" : "BIDEN MY TIME",
       "screen_name" : "therealcarew",
       "protected" : false,
       "id_str" : "21481164",
@@ -12498,7 +12498,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ouijabro",
       "protected" : false,
       "id_str" : "145286803",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842853047768297472\/_HEqlHU8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847224261777293312\/iFE4HoY6_normal.jpg",
       "id" : 145286803,
       "verified" : false
     }
@@ -12792,7 +12792,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "f\u00E9e \uD83C\uDF39",
+      "name" : "f\u00E9e",
       "screen_name" : "meowwkenzie",
       "indices" : [ 0, 12 ],
       "id_str" : "144379062",
@@ -12947,7 +12947,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "3183854786",
       "id" : 3183854786
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 27, 34 ],
       "id_str" : "5703342",
@@ -13000,7 +13000,7 @@ Grailbird.data.tweets_2016_04 =
         "id_str" : "3183854786",
         "id" : 3183854786
       }, {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 12, 19 ],
         "id_str" : "5703342",
@@ -13081,7 +13081,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "3183854786",
       "id" : 3183854786
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 23, 30 ],
       "id_str" : "5703342",
@@ -13128,7 +13128,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 7, 14 ],
         "id_str" : "5703342",
@@ -14610,117 +14610,6 @@ Grailbird.data.tweets_2016_04 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "World and Science",
-      "screen_name" : "WorldAndScience",
-      "indices" : [ 3, 19 ],
-      "id_str" : "511402689",
-      "id" : 511402689
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/WorldAndScience\/status\/717846870756700161\/photo\/1",
-      "indices" : [ 77, 100 ],
-      "url" : "https:\/\/t.co\/3sbcUJRCNn",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CfYTzIjWsAE1ONF.jpg",
-      "id_str" : "717782959802200065",
-      "id" : 717782959802200065,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfYTzIjWsAE1ONF.jpg",
-      "sizes" : [ {
-        "h" : 387,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 219,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 620
-      } ],
-      "display_url" : "pic.twitter.com\/3sbcUJRCNn"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "717852908566368256",
-  "text" : "RT @WorldAndScience: What a guitar string looks like when magnified 60 times https:\/\/t.co\/3sbcUJRCNn",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/WorldAndScience\/status\/717846870756700161\/photo\/1",
-        "indices" : [ 56, 79 ],
-        "url" : "https:\/\/t.co\/3sbcUJRCNn",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CfYTzIjWsAE1ONF.jpg",
-        "id_str" : "717782959802200065",
-        "id" : 717782959802200065,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfYTzIjWsAE1ONF.jpg",
-        "sizes" : [ {
-          "h" : 387,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 219,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 620
-        } ],
-        "display_url" : "pic.twitter.com\/3sbcUJRCNn"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "717846870756700161",
-    "text" : "What a guitar string looks like when magnified 60 times https:\/\/t.co\/3sbcUJRCNn",
-    "id" : 717846870756700161,
-    "created_at" : "2016-04-06 22:50:05 +0000",
-    "user" : {
-      "name" : "World and Science",
-      "screen_name" : "WorldAndScience",
-      "protected" : false,
-      "id_str" : "511402689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1866445064\/and2disk_normal.jpg",
-      "id" : 511402689,
-      "verified" : false
-    }
-  },
-  "id" : 717852908566368256,
-  "created_at" : "2016-04-06 23:14:05 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -14850,7 +14739,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "bbyvegan",
       "protected" : false,
       "id_str" : "2632649518",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844911343048298497\/wuIgGc22_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847826532110348288\/xwBFSGrg_normal.jpg",
       "id" : 2632649518,
       "verified" : false
     }
@@ -15123,7 +15012,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "781272930596425728",
       "id" : 781272930596425728
     }, {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 17, 29 ],
       "id_str" : "22970177",
@@ -15387,7 +15276,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "2585244434",
       "id" : 2585244434
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 18, 25 ],
       "id_str" : "5703342",
@@ -15404,7 +15293,7 @@ Grailbird.data.tweets_2016_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -17071,7 +16960,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -17208,7 +17097,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "rosemcgowan",
       "protected" : false,
       "id_str" : "46233559",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842611835144568832\/TnK57WsZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847200925349367808\/LKDhCXoL_normal.jpg",
       "id" : 46233559,
       "verified" : true
     }
@@ -17523,87 +17412,6 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "World and Science",
-      "screen_name" : "WorldAndScience",
-      "indices" : [ 3, 19 ],
-      "id_str" : "511402689",
-      "id" : 511402689
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "717150965116174336",
-  "text" : "RT @WorldAndScience: ''Imagination will often carry us to worlds that never were. But without it we go nowhere.'' - Carl Sagan https:\/\/t.co\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/WorldAndScience\/status\/717137201029521408\/photo\/1",
-        "indices" : [ 106, 129 ],
-        "url" : "https:\/\/t.co\/juiWiGyZQW",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CfMPUR1WEAAg6V_.jpg",
-        "id_str" : "716933606740987904",
-        "id" : 716933606740987904,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CfMPUR1WEAAg6V_.jpg",
-        "sizes" : [ {
-          "h" : 949,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 2095,
-          "resize" : "fit",
-          "w" : 1324
-        }, {
-          "h" : 1620,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 538,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/juiWiGyZQW"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "717137201029521408",
-    "text" : "''Imagination will often carry us to worlds that never were. But without it we go nowhere.'' - Carl Sagan https:\/\/t.co\/juiWiGyZQW",
-    "id" : 717137201029521408,
-    "created_at" : "2016-04-04 23:50:07 +0000",
-    "user" : {
-      "name" : "World and Science",
-      "screen_name" : "WorldAndScience",
-      "protected" : false,
-      "id_str" : "511402689",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1866445064\/and2disk_normal.jpg",
-      "id" : 511402689,
-      "verified" : false
-    }
-  },
-  "id" : 717150965116174336,
-  "created_at" : "2016-04-05 00:44:48 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Benjamin Law",
       "screen_name" : "mrbenjaminlaw",
       "indices" : [ 3, 17 ],
@@ -17682,117 +17490,6 @@ Grailbird.data.tweets_2016_04 =
   },
   "id" : 717150706671616000,
   "created_at" : "2016-04-05 00:43:47 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "indices" : [ 3, 13 ],
-      "id_str" : "183962378",
-      "id" : 183962378
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/EllyOcean\/status\/713999078497996800\/photo\/1",
-      "indices" : [ 53, 76 ],
-      "url" : "https:\/\/t.co\/qeXQOsErsD",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CeiiXydWIAA8Wgt.jpg",
-      "id_str" : "713999070503772160",
-      "id" : 713999070503772160,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CeiiXydWIAA8Wgt.jpg",
-      "sizes" : [ {
-        "h" : 332,
-        "resize" : "fit",
-        "w" : 443
-      }, {
-        "h" : 332,
-        "resize" : "fit",
-        "w" : 443
-      }, {
-        "h" : 332,
-        "resize" : "fit",
-        "w" : 443
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 255,
-        "resize" : "fit",
-        "w" : 340
-      } ],
-      "display_url" : "pic.twitter.com\/qeXQOsErsD"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "717149879689056256",
-  "text" : "RT @EllyOcean: don't talk to me or my son ever again https:\/\/t.co\/qeXQOsErsD",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/EllyOcean\/status\/713999078497996800\/photo\/1",
-        "indices" : [ 38, 61 ],
-        "url" : "https:\/\/t.co\/qeXQOsErsD",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CeiiXydWIAA8Wgt.jpg",
-        "id_str" : "713999070503772160",
-        "id" : 713999070503772160,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CeiiXydWIAA8Wgt.jpg",
-        "sizes" : [ {
-          "h" : 332,
-          "resize" : "fit",
-          "w" : 443
-        }, {
-          "h" : 332,
-          "resize" : "fit",
-          "w" : 443
-        }, {
-          "h" : 332,
-          "resize" : "fit",
-          "w" : 443
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 255,
-          "resize" : "fit",
-          "w" : 340
-        } ],
-        "display_url" : "pic.twitter.com\/qeXQOsErsD"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "713999078497996800",
-    "text" : "don't talk to me or my son ever again https:\/\/t.co\/qeXQOsErsD",
-    "id" : 713999078497996800,
-    "created_at" : "2016-03-27 08:00:20 +0000",
-    "user" : {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "protected" : true,
-      "id_str" : "183962378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769150337085165568\/thhcnnRD_normal.jpg",
-      "id" : 183962378,
-      "verified" : false
-    }
-  },
-  "id" : 717149879689056256,
-  "created_at" : "2016-04-05 00:40:29 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -19134,7 +18831,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -19248,7 +18945,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 0, 15 ],
       "id_str" : "2907731137",
@@ -21391,7 +21088,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chi \uD83C\uDF38",
+      "name" : "Chi",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -23374,7 +23071,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "indices" : [ 3, 18 ],
       "id_str" : "2907731137",
@@ -23418,7 +23115,7 @@ Grailbird.data.tweets_2016_04 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "neggy gearo",
+      "name" : "nongus maximus",
       "screen_name" : "bortofdarkness",
       "protected" : false,
       "id_str" : "2907731137",

@@ -691,7 +691,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 100, 113 ],
       "id_str" : "14709131",
@@ -1760,7 +1760,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teags",
+      "name" : "\uD83D\uDDA4 Teags \uD83D\uDDA4",
       "screen_name" : "teags",
       "indices" : [ 0, 6 ],
       "id_str" : "15385676",
@@ -5545,12 +5545,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 0, 7 ],
       "id_str" : "23698824",
       "id" : 23698824
-    }, {
-      "name" : "Marie",
-      "screen_name" : "heartsdesire_",
-      "indices" : [ 8, 22 ],
-      "id_str" : "801710316652523520",
-      "id" : 801710316652523520
     }, {
       "name" : "Greg Lexiphanic",
       "screen_name" : "lexiphanic",

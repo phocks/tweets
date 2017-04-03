@@ -124,7 +124,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "66564888",
       "id" : 66564888
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 17, 24 ],
       "id_str" : "5703342",
@@ -751,7 +751,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "66564888",
       "id" : 66564888
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 17, 24 ],
       "id_str" : "5703342",

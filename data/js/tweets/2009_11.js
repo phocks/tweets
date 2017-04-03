@@ -286,6 +286,28 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "6171855892",
+  "text" : "far too tired to consider continuing this eternal tap tap tapping out of mindspeak. pretty sure i just sleepwrote that last paragraph",
+  "id" : 6171855892,
+  "created_at" : "2009-11-29 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "6155391631",
   "text" : "sweating profusely",
   "id" : 6155391631,
@@ -377,28 +399,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "6169058053",
   "text" : "exhausted, this weekend has killed me, so far behind with nanowrimo. determined to make 50k though by tomorrow",
   "id" : 6169058053,
-  "created_at" : "2009-11-29 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6171855892",
-  "text" : "far too tired to consider continuing this eternal tap tap tapping out of mindspeak. pretty sure i just sleepwrote that last paragraph",
-  "id" : 6171855892,
   "created_at" : "2009-11-29 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1436,6 +1436,28 @@ Grailbird.data.tweets_2009_11 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/friendfeed.com\" rel=\"nofollow\"\u003EFriendFeed\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6052489550",
+  "text" : "\"To achieve great things, two things are needed: a plan, and not quite enough time.\" ~Leonard Bernstein http:\/\/ff.im\/bZP8o",
+  "id" : 6052489550,
+  "created_at" : "2009-11-25 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -1702,28 +1724,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "6051945059",
   "text" : "midnight coffee once again. need some words. be kind o ye gods of narrative #nanowrimo",
   "id" : 6051945059,
-  "created_at" : "2009-11-25 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/friendfeed.com\" rel=\"nofollow\"\u003EFriendFeed\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6052489550",
-  "text" : "\"To achieve great things, two things are needed: a plan, and not quite enough time.\" ~Leonard Bernstein http:\/\/ff.im\/bZP8o",
-  "id" : 6052489550,
   "created_at" : "2009-11-25 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2395,6 +2395,52 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "artwiculate",
+      "screen_name" : "artwiculate",
+      "indices" : [ 6, 18 ],
+      "id_str" : "44884063",
+      "id" : 44884063
+    }, {
+      "name" : "Ysabel",
+      "screen_name" : "Ysabeluna",
+      "indices" : [ 39, 49 ],
+      "id_str" : "70423521",
+      "id" : 70423521
+    }, {
+      "name" : "Paul",
+      "screen_name" : "pn8r",
+      "indices" : [ 51, 56 ],
+      "id_str" : "135252371",
+      "id" : 135252371
+    }, {
+      "name" : "Silia J. Hatzi",
+      "screen_name" : "SJHatzi",
+      "indices" : [ 60, 68 ],
+      "id_str" : "55105919",
+      "id" : 55105919
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5906464102",
+  "text" : "i won @artwiculate! thnx especially to @Ysabeluna, @pn8r, & @SJHatzi http:\/\/artwiculate.com\/words\/epitome :)",
+  "id" : 5906464102,
+  "created_at" : "2009-11-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2655,52 +2701,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5924791029",
   "text" : "here comes the sun. where did you come from, where did you go?",
   "id" : 5924791029,
-  "created_at" : "2009-11-21 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "artwiculate",
-      "screen_name" : "artwiculate",
-      "indices" : [ 6, 18 ],
-      "id_str" : "44884063",
-      "id" : 44884063
-    }, {
-      "name" : "Ysabel",
-      "screen_name" : "Ysabeluna",
-      "indices" : [ 39, 49 ],
-      "id_str" : "70423521",
-      "id" : 70423521
-    }, {
-      "name" : "Paul",
-      "screen_name" : "pn8r",
-      "indices" : [ 51, 56 ],
-      "id_str" : "135252371",
-      "id" : 135252371
-    }, {
-      "name" : "Silia J. Hatzi",
-      "screen_name" : "SJHatzi",
-      "indices" : [ 60, 68 ],
-      "id_str" : "55105919",
-      "id" : 55105919
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5906464102",
-  "text" : "i won @artwiculate! thnx especially to @Ysabeluna, @pn8r, & @SJHatzi http:\/\/artwiculate.com\/words\/epitome :)",
-  "id" : 5906464102,
   "created_at" : "2009-11-21 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3871,6 +3871,28 @@ Grailbird.data.tweets_2009_11 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "5762608607",
+  "text" : "just passed half way, 25k. it's down hill from here all the way, that's what they say, anyway. can't. stop. rhyming.",
+  "id" : 5762608607,
+  "created_at" : "2009-11-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "5765175521",
   "text" : "caught up, and then some. slowly edging my protagonist towards some sort of paranoid delusional mental state.. just for kicks",
   "id" : 5765175521,
@@ -4181,28 +4203,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5759411708",
   "text" : "catch up time #nanowrimo",
   "id" : 5759411708,
-  "created_at" : "2009-11-16 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5762608607",
-  "text" : "just passed half way, 25k. it's down hill from here all the way, that's what they say, anyway. can't. stop. rhyming.",
-  "id" : 5762608607,
   "created_at" : "2009-11-16 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5109,6 +5109,34 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "ameliajdowd",
+      "screen_name" : "ameliadowd",
+      "indices" : [ 42, 53 ],
+      "id_str" : "15056870",
+      "id" : 15056870
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5614224465",
+  "text" : "preps before seeing The Crucible tonight. @ameliadowd better put on a good show for us ;)",
+  "id" : 5614224465,
+  "created_at" : "2009-11-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5165,34 +5193,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5612984167",
   "text" : "actually ahead in my #nanowrimo wordcount for the first time! 18482 words. bring on the week 2 slump..",
   "id" : 5612984167,
-  "created_at" : "2009-11-11 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 42, 53 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5614224465",
-  "text" : "preps before seeing The Crucible tonight. @ameliadowd better put on a good show for us ;)",
-  "id" : 5614224465,
   "created_at" : "2009-11-11 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -6289,6 +6289,31 @@ Grailbird.data.tweets_2009_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nanowrimo",
+      "indices" : [ 126, 136 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "5423376774",
+  "text" : "keeping up with wordcount goals, only just. story seems to be stagnating just a little. time for a shakeup! but first.. sleep #nanowrimo",
+  "id" : 5423376774,
+  "created_at" : "2009-11-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
@@ -6608,31 +6633,6 @@ Grailbird.data.tweets_2009_11 =
   "id_str" : "5422639981",
   "text" : "quietly impressed with the forth beta release of Thunderbird 3.0, brilliant gmail imap interfacing & email indexing http:\/\/bit.ly\/z36zi",
   "id" : 5422639981,
-  "created_at" : "2009-11-04 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "nanowrimo",
-      "indices" : [ 126, 136 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "5423376774",
-  "text" : "keeping up with wordcount goals, only just. story seems to be stagnating just a little. time for a shakeup! but first.. sleep #nanowrimo",
-  "id" : 5423376774,
   "created_at" : "2009-11-04 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

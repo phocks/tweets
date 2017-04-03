@@ -2719,7 +2719,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -2993,13 +2993,7 @@ Grailbird.data.tweets_2015_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "dang",
-      "screen_name" : "rasioli",
-      "indices" : [ 0, 8 ],
-      "id_str" : "66978568",
-      "id" : 66978568
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -3017,7 +3011,7 @@ Grailbird.data.tweets_2015_05 =
   "id" : 602398311815876608,
   "in_reply_to_status_id" : 602397986660855808,
   "created_at" : "2015-05-24 08:58:44 +0000",
-  "in_reply_to_screen_name" : "rasioli",
+  "in_reply_to_screen_name" : "eab6c7",
   "in_reply_to_user_id_str" : "66978568",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4250,7 +4244,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "3183854786",
       "id" : 3183854786
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 33, 40 ],
       "id_str" : "5703342",
@@ -4273,7 +4267,7 @@ Grailbird.data.tweets_2015_05 =
         "id_str" : "3183854786",
         "id" : 3183854786
       }, {
-        "name" : "\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 12, 19 ],
         "id_str" : "5703342",
@@ -4376,7 +4370,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "3183854786",
       "id" : 3183854786
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 16, 23 ],
       "id_str" : "5703342",
@@ -4393,7 +4387,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -5091,7 +5085,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "grateful deadbeat",
+      "name" : "tommy scroggins",
       "screen_name" : "ttfb",
       "indices" : [ 3, 8 ],
       "id_str" : "20200086",
@@ -5178,7 +5172,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600454356043862017,
     "created_at" : "2015-05-19 00:14:09 +0000",
     "user" : {
-      "name" : "grateful deadbeat",
+      "name" : "tommy scroggins",
       "screen_name" : "ttfb",
       "protected" : false,
       "id_str" : "20200086",
@@ -6080,7 +6074,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -6113,13 +6107,13 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeRWorld \uD83D\uDD91 James",
+      "name" : "WeRWorld \/ Nick",
       "screen_name" : "WeRWorld",
       "indices" : [ 3, 12 ],
       "id_str" : "2595571764",
       "id" : 2595571764
     }, {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 26, 40 ],
       "id_str" : "2444895445",
@@ -6141,7 +6135,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeAreBNE\/Cassie",
+        "name" : "WeAreBNE\/Jacob",
         "screen_name" : "WeAreBrisbane",
         "indices" : [ 12, 26 ],
         "id_str" : "2444895445",
@@ -6162,11 +6156,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600161776236244992,
     "created_at" : "2015-05-18 04:51:32 +0000",
     "user" : {
-      "name" : "WeRWorld \uD83D\uDD91 James",
+      "name" : "WeRWorld \/ Nick",
       "screen_name" : "WeRWorld",
       "protected" : false,
       "id_str" : "2595571764",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/844469395774738432\/e2f5dXG6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847019224123883521\/DKeFVUXx_normal.jpg",
       "id" : 2595571764,
       "verified" : false
     }
@@ -6507,7 +6501,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 1, 15 ],
       "id_str" : "2444895445",
@@ -6545,7 +6539,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -6695,7 +6689,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -6763,11 +6757,11 @@ Grailbird.data.tweets_2015_05 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -6793,7 +6787,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "20585378",
       "id" : 20585378
     }, {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 98, 112 ],
       "id_str" : "2444895445",
@@ -6977,7 +6971,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -7016,11 +7010,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600060071880491008,
     "created_at" : "2015-05-17 22:07:24 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -7934,7 +7928,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -7961,11 +7955,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 599045347873140736,
     "created_at" : "2015-05-15 02:55:15 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8278,7 +8272,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8305,11 +8299,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598636811833856000,
     "created_at" : "2015-05-13 23:51:52 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8392,7 +8386,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "942695827",
       "id" : 942695827
     }, {
-      "name" : "Josh\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 124, 131 ],
       "id_str" : "5703342",
@@ -8421,7 +8415,7 @@ Grailbird.data.tweets_2015_05 =
         "id_str" : "942695827",
         "id" : 942695827
       }, {
-        "name" : "Josh\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 109, 116 ],
         "id_str" : "5703342",
@@ -8612,7 +8606,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8679,11 +8673,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598282752027267072,
     "created_at" : "2015-05-13 00:24:58 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8829,7 +8823,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8856,11 +8850,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598273194689069058,
     "created_at" : "2015-05-12 23:46:59 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -9004,7 +8998,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -9047,11 +9041,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598092160118849536,
     "created_at" : "2015-05-12 11:47:37 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -9221,7 +9215,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -9320,11 +9314,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 597996429773283328,
     "created_at" : "2015-05-12 05:27:13 +0000",
     "user" : {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846102581642387456\/NarzAwEe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/848663200081952768\/E8bt0oNW_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -9374,7 +9368,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBNE\/Cassie",
+      "name" : "WeAreBNE\/Jacob",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 28, 42 ],
       "id_str" : "2444895445",
@@ -12538,7 +12532,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 18, 25 ],
       "id_str" : "5703342",
@@ -12558,7 +12552,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -13470,7 +13464,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "482409318",
       "id" : 482409318
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 20, 27 ],
       "id_str" : "5703342",
@@ -13487,7 +13481,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",

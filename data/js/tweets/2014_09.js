@@ -3245,7 +3245,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -4384,7 +4384,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -4417,7 +4417,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 3, 16 ],
       "id_str" : "14709131",
@@ -4504,11 +4504,11 @@ Grailbird.data.tweets_2014_09 =
     "id" : 512046353501810688,
     "created_at" : "2014-09-17 01:12:18 +0000",
     "user" : {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/807762085102792704\/_3FkhZOQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/847368324832837632\/ec9TimVu_normal.jpg",
       "id" : 14709131,
       "verified" : false
     }
@@ -4700,7 +4700,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "40785142",
       "id" : 40785142
     }, {
-      "name" : "\uD83D\uDC7D",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 18, 25 ],
       "id_str" : "5703342",
@@ -4747,7 +4747,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83D\uDC7D",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -4971,95 +4971,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "indices" : [ 3, 13 ],
-      "id_str" : "183962378",
-      "id" : 183962378
-    }, {
-      "name" : "\uD83D\uDC07\uD83D\uDC01",
-      "screen_name" : "phocks",
-      "indices" : [ 15, 22 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : { },
-  "id_str" : "511756277584646145",
-  "text" : "RT @EllyOcean: @phocks I fought the system and won",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "\uD83D\uDC07\uD83D\uDC01",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "511754872396324864",
-    "geo" : { },
-    "id_str" : "511755634123866112",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks I fought the system and won",
-    "id" : 511755634123866112,
-    "in_reply_to_status_id" : 511754872396324864,
-    "created_at" : "2014-09-16 05:57:05 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "protected" : true,
-      "id_str" : "183962378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/769150337085165568\/thhcnnRD_normal.jpg",
-      "id" : 183962378,
-      "verified" : false
-    }
-  },
-  "id" : 511756277584646145,
-  "created_at" : "2014-09-16 05:59:39 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "indices" : [ 0, 10 ],
-      "id_str" : "183962378",
-      "id" : 183962378
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "511754111272747008",
   "geo" : { },
   "id_str" : "511754872396324864",
-  "in_reply_to_user_id" : 183962378,
   "text" : "@EllyOcean hmm well that could possibly account for my -13 following count, disabled accounts, as it appears i'm still following you..",
   "id" : 511754872396324864,
-  "in_reply_to_status_id" : 511754111272747008,
   "created_at" : "2014-09-16 05:54:04 +0000",
-  "in_reply_to_screen_name" : "EllyOcean",
-  "in_reply_to_user_id_str" : "183962378",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -5072,13 +4993,7 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "hot x buns",
-      "screen_name" : "EllyOcean",
-      "indices" : [ 32, 42 ],
-      "id_str" : "183962378",
-      "id" : 183962378
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/511753316745752576\/photo\/1",
       "indices" : [ 102, 124 ],
@@ -5153,7 +5068,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -5539,7 +5454,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "15424441",
       "id" : 15424441
     }, {
-      "name" : "\uD83D\uDC7D",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 15, 22 ],
       "id_str" : "5703342",
@@ -5586,7 +5501,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83D\uDC7D",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -8820,7 +8735,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -10170,7 +10085,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "15424441",
       "id" : 15424441
     }, {
-      "name" : "Josh \uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 15, 22 ],
       "id_str" : "5703342",
@@ -10205,7 +10120,7 @@ Grailbird.data.tweets_2014_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",

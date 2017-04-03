@@ -4151,7 +4151,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "609848733",
       "id" : 609848733
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 75, 82 ],
       "id_str" : "5703342",
@@ -4174,7 +4174,7 @@ Grailbird.data.tweets_2011_07 =
         "id_str" : "609848733",
         "id" : 609848733
       }, {
-        "name" : "\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 57, 64 ],
         "id_str" : "5703342",
@@ -7436,7 +7436,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 61, 68 ],
       "id_str" : "5703342",
@@ -7453,7 +7453,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 43, 50 ],
         "id_str" : "5703342",

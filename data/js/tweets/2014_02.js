@@ -1600,7 +1600,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teags",
+      "name" : "\uD83D\uDDA4 Teags \uD83D\uDDA4",
       "screen_name" : "teags",
       "indices" : [ 106, 112 ],
       "id_str" : "15385676",
@@ -1779,7 +1779,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -3683,13 +3683,7 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BrisKaren",
-      "screen_name" : "BrisKaren",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20474932",
-      "id" : 20474932
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3702,7 +3696,7 @@ Grailbird.data.tweets_2014_02 =
   "id" : 432609339783020545,
   "in_reply_to_status_id" : 432511221162455042,
   "created_at" : "2014-02-09 20:17:58 +0000",
-  "in_reply_to_screen_name" : "BrisKaren",
+  "in_reply_to_screen_name" : "Katiche_",
   "in_reply_to_user_id_str" : "20474932",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3791,7 +3785,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 47, 60 ],
       "id_str" : "14709131",

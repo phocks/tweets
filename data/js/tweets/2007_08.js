@@ -592,6 +592,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "231752392",
+  "text" : "ok, thinking about going to practice now",
+  "id" : 231752392,
+  "created_at" : "2007-08-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "232274832",
   "text" : "Filmed the eclipse at Jerry's. Now slowly the moon's light is returning",
   "id" : 232274832,
@@ -727,28 +749,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "231557612",
   "text" : "so difficult to build something up, yet so easy for others to bring it down...",
   "id" : 231557612,
-  "created_at" : "2007-08-28 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "231752392",
-  "text" : "ok, thinking about going to practice now",
-  "id" : 231752392,
   "created_at" : "2007-08-28 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1500,6 +1500,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "221384402",
+  "text" : "just remembering when Paulie locked himself out of his place last night. he had to wait until a drunk guy came stumbling home",
+  "id" : 221384402,
+  "created_at" : "2007-08-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "221517072",
   "text" : "moving monitors around the office, visions of another world",
   "id" : 221517072,
@@ -1861,28 +1883,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "221355282",
   "text" : "@sirktulu is twittering! happy days, now if I can only get him to update is profile image :)",
   "id" : 221355282,
-  "created_at" : "2007-08-23 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "221384402",
-  "text" : "just remembering when Paulie locked himself out of his place last night. he had to wait until a drunk guy came stumbling home",
-  "id" : 221384402,
   "created_at" : "2007-08-23 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2854,6 +2854,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "210298482",
+  "text" : "down to two minute noodles again. shopping time? soon",
+  "id" : 210298482,
+  "created_at" : "2007-08-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "210365702",
   "text" : "uploading, uploading, to Vimeo & YouTube",
   "id" : 210365702,
@@ -2923,28 +2945,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "210244662",
   "text" : "home, sorting out what stuff i have time to do and what stuff i can procrastinate upon",
   "id" : 210244662,
-  "created_at" : "2007-08-17 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "210298482",
-  "text" : "down to two minute noodles again. shopping time? soon",
-  "id" : 210298482,
   "created_at" : "2007-08-17 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3982,6 +3982,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "200245562",
+  "text" : "so terribly pleased that my 9 hours of fractal render time is able to resume from an outage. i was a bit worried for a minute",
+  "id" : 200245562,
+  "created_at" : "2007-08-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "200331912",
   "text" : "checking out Vimeo as a YouTube alternative as it enables stereo sound in a video, very useful for music video clips. looking good so fa ...",
   "id" : 200331912,
@@ -4365,28 +4387,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "200238352",
   "text" : "oops too much power usage set off the safety switch so had to run up in the dark and flick it back",
   "id" : 200238352,
-  "created_at" : "2007-08-11 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "200245562",
-  "text" : "so terribly pleased that my 9 hours of fractal render time is able to resume from an outage. i was a bit worried for a minute",
-  "id" : 200245562,
   "created_at" : "2007-08-11 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5055,6 +5055,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "191138442",
+  "text" : "maybe i should try the internet... hmm they need virtual dressing rooms. i think you can set up your measurements in second life",
+  "id" : 191138442,
+  "created_at" : "2007-08-07 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "191229092",
   "text" : "encoding videos for archiving",
   "id" : 191229092,
@@ -5212,28 +5234,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "191130862",
   "text" : "there are no clothes... where are they hiding them? out the back? how can a guy go out wanting to buy clothes and walk out of every sing ...",
   "id" : 191130862,
-  "created_at" : "2007-08-07 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "191138442",
-  "text" : "maybe i should try the internet... hmm they need virtual dressing rooms. i think you can set up your measurements in second life",
-  "id" : 191138442,
   "created_at" : "2007-08-07 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5985,6 +5985,28 @@ Grailbird.data.tweets_2007_08 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "181390002",
+  "text" : "looking at the chaotic pattern in my coffee, thinking about fluid dynamics",
+  "id" : 181390002,
+  "created_at" : "2007-08-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "181517432",
   "text" : "just installed Twitbin for firefox, looks quite decent http:\/\/www.twitbin.com\/",
   "id" : 181517432,
@@ -6308,28 +6330,6 @@ Grailbird.data.tweets_2007_08 =
   "id_str" : "181388782",
   "text" : "steph caught me eyeing off the poppy seed muffins, yum",
   "id" : 181388782,
-  "created_at" : "2007-08-02 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "181390002",
-  "text" : "looking at the chaotic pattern in my coffee, thinking about fluid dynamics",
-  "id" : 181390002,
   "created_at" : "2007-08-02 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

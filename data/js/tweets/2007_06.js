@@ -437,6 +437,28 @@ Grailbird.data.tweets_2007_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "119501642",
+  "text" : "the server keeps crashing, oh why, oh why. i don't know. la di da, oh well",
+  "id" : 119501642,
+  "created_at" : "2007-06-25 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "119973392",
   "text" : "just finished watching King Kong. brilliant",
   "id" : 119973392,
@@ -506,28 +528,6 @@ Grailbird.data.tweets_2007_06 =
   "id_str" : "119394842",
   "text" : "i'm the master of the trailing slash, just ask jerry",
   "id" : 119394842,
-  "created_at" : "2007-06-25 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "119501642",
-  "text" : "the server keeps crashing, oh why, oh why. i don't know. la di da, oh well",
-  "id" : 119501642,
   "created_at" : "2007-06-25 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1460,6 +1460,28 @@ Grailbird.data.tweets_2007_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "102239522",
+  "text" : "The photography slide show for the Dalai Lama went off without a hitch :)",
+  "id" : 102239522,
+  "created_at" : "2007-06-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "102239832",
   "text" : "I think he's agreed to be Karuna's spiritual patron - whatever that means - but i'm sure it's good",
   "id" : 102239832,
@@ -1562,28 +1584,6 @@ Grailbird.data.tweets_2007_06 =
   "id_str" : "102494562",
   "text" : "going to see Ocean's 13 with Ocean",
   "id" : 102494562,
-  "created_at" : "2007-06-13 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "102239522",
-  "text" : "The photography slide show for the Dalai Lama went off without a hitch :)",
-  "id" : 102239522,
   "created_at" : "2007-06-13 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

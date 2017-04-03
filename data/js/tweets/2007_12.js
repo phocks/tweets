@@ -690,6 +690,28 @@ Grailbird.data.tweets_2007_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "525470892",
+  "text" : "watching Adaptation, thinking about nature",
+  "id" : 525470892,
+  "created_at" : "2007-12-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "525519942",
   "text" : "change is the only constant... and even that can be rather inconsistant",
   "id" : 525519942,
@@ -792,28 +814,6 @@ Grailbird.data.tweets_2007_12 =
   "id_str" : "525206442",
   "text" : "raining down on brisbane city streets...",
   "id" : 525206442,
-  "created_at" : "2007-12-23 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "525470892",
-  "text" : "watching Adaptation, thinking about nature",
-  "id" : 525470892,
   "created_at" : "2007-12-23 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1906,6 +1906,28 @@ Grailbird.data.tweets_2007_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "505979722",
+  "text" : "\"I have been noticing you around campus. I find you to be attractive. Would you go to bed with me tonight?\" http:\/\/snurl.com\/1vcze",
+  "id" : 505979722,
+  "created_at" : "2007-12-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "506035212",
   "text" : "the cost of curbing some others is the rapid rising resurgence of my latent StumbleUpon addiction http:\/\/phocks.stumbleupon.com\/",
   "id" : 506035212,
@@ -2228,28 +2250,6 @@ Grailbird.data.tweets_2007_12 =
   "id_str" : "505808202",
   "text" : "\"would you mind leaving, i need to write a song about you\" :) http:\/\/tinyurl.com\/ysn6yz",
   "id" : 505808202,
-  "created_at" : "2007-12-16 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "505979722",
-  "text" : "\"I have been noticing you around campus. I find you to be attractive. Would you go to bed with me tonight?\" http:\/\/snurl.com\/1vcze",
-  "id" : 505979722,
   "created_at" : "2007-12-16 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3017,6 +3017,28 @@ Grailbird.data.tweets_2007_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "488917772",
+  "text" : "drinking japan's \"number one\" beer...",
+  "id" : 488917772,
+  "created_at" : "2007-12-11 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "LynSL-Gaffar",
       "screen_name" : "lynsl",
@@ -3104,28 +3126,6 @@ Grailbird.data.tweets_2007_12 =
   "id_str" : "488512252",
   "text" : "wanting to read Moby-Dick again http:\/\/en.wikiquote.org\/wiki\/Moby-Dick",
   "id" : 488512252,
-  "created_at" : "2007-12-11 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "488917772",
-  "text" : "drinking japan's \"number one\" beer...",
-  "id" : 488917772,
   "created_at" : "2007-12-11 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4022,6 +4022,28 @@ Grailbird.data.tweets_2007_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "473367832",
+  "text" : "slowly reconstructing http:\/\/phocks.org",
+  "id" : 473367832,
+  "created_at" : "2007-12-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "473459632",
   "text" : "can sign in using my icq# too 552173",
   "id" : 473459632,
@@ -4246,28 +4268,6 @@ Grailbird.data.tweets_2007_12 =
   "id_str" : "474704722",
   "text" : "i hope i might watch I shot Andy Warhol with @urchincreature sometime",
   "id" : 474704722,
-  "created_at" : "2007-12-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "473367832",
-  "text" : "slowly reconstructing http:\/\/phocks.org",
-  "id" : 473367832,
   "created_at" : "2007-12-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

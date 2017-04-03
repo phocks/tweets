@@ -604,6 +604,28 @@ Grailbird.data.tweets_2010_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "17242492591",
+  "text" : "some shoulder weight lifted, now no longer homeless. celebration goon all 'round",
+  "id" : 17242492591,
+  "created_at" : "2010-06-28 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "17244764495",
   "text" : "looks like android can't connect to adhoc wireless networks. come on google, get it together",
   "id" : 17244764495,
@@ -818,28 +840,6 @@ Grailbird.data.tweets_2010_06 =
   "created_at" : "2010-06-28 00:00:00 +0000",
   "in_reply_to_screen_name" : "Scarlettjen",
   "in_reply_to_user_id_str" : "17398187",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "17242492591",
-  "text" : "some shoulder weight lifted, now no longer homeless. celebration goon all 'round",
-  "id" : 17242492591,
-  "created_at" : "2010-06-28 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -1646,6 +1646,39 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bronwen Hyde",
+      "screen_name" : "bronwenhyde",
+      "indices" : [ 0, 12 ],
+      "id_str" : "17859989",
+      "id" : 17859989
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "16913156776",
+  "geo" : { },
+  "id_str" : "16914202668",
+  "in_reply_to_user_id" : 17859989,
+  "text" : "@bronwenhyde thanks yea we got the car back from the carnappers",
+  "id" : 16914202668,
+  "in_reply_to_status_id" : 16913156776,
+  "created_at" : "2010-06-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "bronwenhyde",
+  "in_reply_to_user_id_str" : "17859989",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1997,39 +2030,6 @@ Grailbird.data.tweets_2010_06 =
   "text" : "commiseration drinks, first spatch of bad luck just hit.. involving one obscurely marked clearway & a tow truck. *cries*",
   "id" : 16913082650,
   "created_at" : "2010-06-24 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bronwen Hyde",
-      "screen_name" : "bronwenhyde",
-      "indices" : [ 0, 12 ],
-      "id_str" : "17859989",
-      "id" : 17859989
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "16913156776",
-  "geo" : { },
-  "id_str" : "16914202668",
-  "in_reply_to_user_id" : 17859989,
-  "text" : "@bronwenhyde thanks yea we got the car back from the carnappers",
-  "id" : 16914202668,
-  "in_reply_to_status_id" : 16913156776,
-  "created_at" : "2010-06-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "bronwenhyde",
-  "in_reply_to_user_id_str" : "17859989",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -3088,6 +3088,28 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "16553134495",
+  "text" : "back home, only one person yelled out \"russell\" to me tonight. watching the game before bed. a few more days",
+  "id" : 16553134495,
+  "created_at" : "2010-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3259,28 +3281,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "16539598670",
   "text" : "to shave or not to shave.. beginning to look a bit like russell brand",
   "id" : 16539598670,
-  "created_at" : "2010-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "16553134495",
-  "text" : "back home, only one person yelled out \"russell\" to me tonight. watching the game before bed. a few more days",
-  "id" : 16553134495,
   "created_at" : "2010-06-19 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3808,7 +3808,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -5492,6 +5492,28 @@ Grailbird.data.tweets_2010_06 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "15544289848",
+  "text" : "gaga",
+  "id" : 15544289848,
+  "created_at" : "2010-06-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5553,28 +5575,6 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15525014353",
   "text" : "@mandyschneider any kind of artist. website exposure",
   "id" : 15525014353,
-  "created_at" : "2010-06-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15544289848",
-  "text" : "gaga",
-  "id" : 15544289848,
   "created_at" : "2010-06-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

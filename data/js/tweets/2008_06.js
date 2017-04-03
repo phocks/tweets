@@ -586,6 +586,28 @@ Grailbird.data.tweets_2008_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "844720900",
+  "text" : "anton newcombe stole my destiny, the brian jonestown massacre are coming in august, when he'll give it back",
+  "id" : 844720900,
+  "created_at" : "2008-06-27 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Judy Pokras",
       "screen_name" : "sketchgrrl",
@@ -667,28 +689,6 @@ Grailbird.data.tweets_2008_06 =
   "id_str" : "844670233",
   "text" : "Blood on the Tracks _is_ Dylan's best album http:\/\/twurl.nl\/a7g441 \"either i'm too sensitive, or else i'm gettin' soft\"",
   "id" : 844670233,
-  "created_at" : "2008-06-27 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "844720900",
-  "text" : "anton newcombe stole my destiny, the brian jonestown massacre are coming in august, when he'll give it back",
-  "id" : 844720900,
   "created_at" : "2008-06-27 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1803,6 +1803,28 @@ Grailbird.data.tweets_2008_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "838810107",
+  "text" : "in bed reading. I should be tired, i really should",
+  "id" : 838810107,
+  "created_at" : "2008-06-19 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "838253426",
   "text" : "it's not so bad afterall. i'm loving this weather going on out the window. i have that cream song skipping and repeating in my head",
   "id" : 838253426,
@@ -2015,28 +2037,6 @@ Grailbird.data.tweets_2008_06 =
   "id_str" : "838768026",
   "text" : "feeling the tyrannous hand of majoritous sway despite some such so-called safeguards",
   "id" : 838768026,
-  "created_at" : "2008-06-19 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "838810107",
-  "text" : "in bed reading. I should be tired, i really should",
-  "id" : 838810107,
   "created_at" : "2008-06-19 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2690,6 +2690,28 @@ Grailbird.data.tweets_2008_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "834352497",
+  "text" : "caught up in a strange town",
+  "id" : 834352497,
+  "created_at" : "2008-06-14 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "834439846",
   "text" : "working out how they do that blurry face effect in videos to mask identity",
   "id" : 834439846,
@@ -2974,28 +2996,6 @@ Grailbird.data.tweets_2008_06 =
   "id_str" : "834785639",
   "text" : "warming my hands over the stove, boiling up a hot water bottle. containing that vital heat",
   "id" : 834785639,
-  "created_at" : "2008-06-14 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "834352497",
-  "text" : "caught up in a strange town",
-  "id" : 834352497,
   "created_at" : "2008-06-14 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3966,6 +3966,39 @@ Grailbird.data.tweets_2008_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "unfortunatalie",
+      "screen_name" : "definatalie",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11791522",
+      "id" : 11791522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "829464482",
+  "geo" : { },
+  "id_str" : "829468268",
+  "in_reply_to_user_id" : 11791522,
+  "text" : "@definatalie haha, i was being serious, kinda :) nice reading in of the humour",
+  "id" : 829468268,
+  "in_reply_to_status_id" : 829464482,
+  "created_at" : "2008-06-08 00:00:00 +0000",
+  "in_reply_to_screen_name" : "definatalie",
+  "in_reply_to_user_id_str" : "11791522",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4130,39 +4163,6 @@ Grailbird.data.tweets_2008_06 =
   "text" : "i would like to debate an intelligent creationist... any out there?... anywhere?",
   "id" : 829463508,
   "created_at" : "2008-06-08 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "unfortunatalie",
-      "screen_name" : "definatalie",
-      "indices" : [ 0, 12 ],
-      "id_str" : "11791522",
-      "id" : 11791522
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "829464482",
-  "geo" : { },
-  "id_str" : "829468268",
-  "in_reply_to_user_id" : 11791522,
-  "text" : "@definatalie haha, i was being serious, kinda :) nice reading in of the humour",
-  "id" : 829468268,
-  "in_reply_to_status_id" : 829464482,
-  "created_at" : "2008-06-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "definatalie",
-  "in_reply_to_user_id_str" : "11791522",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -5287,6 +5287,28 @@ Grailbird.data.tweets_2008_06 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "824851773",
+  "text" : "seems everyone had the same idea of driving to work today",
+  "id" : 824851773,
+  "created_at" : "2008-06-01 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "824357378",
   "text" : "a registered mail pickup notification.. must be my brian jonestown massacre tickets! dig!!!!!!!!",
   "id" : 824357378,
@@ -5378,28 +5400,6 @@ Grailbird.data.tweets_2008_06 =
   "id_str" : "824840216",
   "text" : "wow raining hard. going to be a touch late thismorning",
   "id" : 824840216,
-  "created_at" : "2008-06-01 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "824851773",
-  "text" : "seems everyone had the same idea of driving to work today",
-  "id" : 824851773,
   "created_at" : "2008-06-01 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

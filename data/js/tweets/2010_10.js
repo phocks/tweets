@@ -1277,7 +1277,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14719760",
       "id" : 14719760
     }, {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 7, 20 ],
       "id_str" : "14709131",
@@ -1685,7 +1685,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -4393,7 +4393,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 14, 27 ],
       "id_str" : "14709131",

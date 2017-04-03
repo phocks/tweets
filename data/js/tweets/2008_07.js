@@ -454,6 +454,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "871183642",
+  "text" : "reading a heartbreaking work of staggering genius at the sushi station",
+  "id" : 871183642,
+  "created_at" : "2008-07-29 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "871268474",
   "text" : "i love big typography like this http:\/\/wordpress.org\/download\/counter\/",
   "id" : 871268474,
@@ -545,28 +567,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "871151581",
   "text" : "jerry on our mundane IT work: we may be paying the karmic price for formatting the library computer back in high school",
   "id" : 871151581,
-  "created_at" : "2008-07-29 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "871183642",
-  "text" : "reading a heartbreaking work of staggering genius at the sushi station",
-  "id" : 871183642,
   "created_at" : "2008-07-29 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1626,6 +1626,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "866241731",
+  "text" : "rundown, weary, and a little bit bleary, sleep has asserted itself as the dominant activity of this moment in existence, best not to fight",
+  "id" : 866241731,
+  "created_at" : "2008-07-23 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "866581918",
   "text" : "didn't set an alarm, but woke up at the right time anyway. hmm........ strange",
   "id" : 866581918,
@@ -1860,28 +1882,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "866151091",
   "text" : "heading home now in the rain, the road is laid out for me, i just have to take it, not as easy as it sounds. felt naked without the band ...",
   "id" : 866151091,
-  "created_at" : "2008-07-23 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "866241731",
-  "text" : "rundown, weary, and a little bit bleary, sleep has asserted itself as the dominant activity of this moment in existence, best not to fight",
-  "id" : 866241731,
   "created_at" : "2008-07-23 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2799,6 +2799,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "860704061",
+  "text" : "regretfully yet necessarily creating a sense of otherness and separation from the flock, to see if they follow or stray",
+  "id" : 860704061,
+  "created_at" : "2008-07-17 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "860770906",
   "text" : "at the verve, experiencing my first real life meeting with twitter people. haha",
   "id" : 860770906,
@@ -2956,28 +2978,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "860668057",
   "text" : "need to pick up my tambourine and harmonicas before heading into the city, onwards!",
   "id" : 860668057,
-  "created_at" : "2008-07-17 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "860704061",
-  "text" : "regretfully yet necessarily creating a sense of otherness and separation from the flock, to see if they follow or stray",
-  "id" : 860704061,
   "created_at" : "2008-07-17 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3912,6 +3912,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "857329681",
+  "text" : "getting really sleepy, don't feel like reading, contemplating new theories on existence. will fall to dreamland soon i bet",
+  "id" : 857329681,
+  "created_at" : "2008-07-13 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "857518833",
   "text" : "having a shoulder massage, what is it that builds up such tension at times? monday morning, time to leave for work.. ah",
   "id" : 857518833,
@@ -4141,28 +4163,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "857303072",
   "text" : "stumbling on a sunday night, considering maybe going to sydney in august with zoran's magical mystery tour",
   "id" : 857303072,
-  "created_at" : "2008-07-13 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "857329681",
-  "text" : "getting really sleepy, don't feel like reading, contemplating new theories on existence. will fall to dreamland soon i bet",
-  "id" : 857329681,
   "created_at" : "2008-07-13 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5036,6 +5036,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "853426621",
+  "text" : "foolishly feeding the ibis on the grass before the show",
+  "id" : 853426621,
+  "created_at" : "2008-07-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "853499098",
   "text" : "walking up brunswick, gettin the blues tonight",
   "id" : 853499098,
@@ -5171,28 +5193,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "853388077",
   "text" : "seeing hancock later, but now going to get some food",
   "id" : 853388077,
-  "created_at" : "2008-07-09 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "853426621",
-  "text" : "foolishly feeding the ibis on the grass before the show",
-  "id" : 853426621,
   "created_at" : "2008-07-09 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -6220,6 +6220,28 @@ Grailbird.data.tweets_2008_07 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "849058844",
+  "text" : "going to see alexander tonight, playing his debut solo show at barsoma, should be a treat",
+  "id" : 849058844,
+  "created_at" : "2008-07-03 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "849250807",
   "text" : "walking to albion, some sleep is needed before we get truly committed to the cause, just around the bend, short sighted mend",
   "id" : 849250807,
@@ -6487,28 +6509,6 @@ Grailbird.data.tweets_2008_07 =
   "id_str" : "849048758",
   "text" : "looks like the twitter small avatar is fixed on the home screen, no longer a blurry mess",
   "id" : 849048758,
-  "created_at" : "2008-07-03 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "849058844",
-  "text" : "going to see alexander tonight, playing his debut solo show at barsoma, should be a treat",
-  "id" : 849058844,
   "created_at" : "2008-07-03 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

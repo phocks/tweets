@@ -279,7 +279,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teags",
+      "name" : "\uD83D\uDDA4 Teags \uD83D\uDDA4",
       "screen_name" : "teags",
       "indices" : [ 15, 21 ],
       "id_str" : "15385676",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Teags",
+      "name" : "\uD83D\uDDA4 Teags \uD83D\uDDA4",
       "screen_name" : "teags",
       "indices" : [ 3, 9 ],
       "id_str" : "15385676",
@@ -3150,7 +3150,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 25167321578,
     "created_at" : "2010-09-22 00:41:44 +0000",
     "user" : {
-      "name" : "Teags",
+      "name" : "\uD83D\uDDA4 Teags \uD83D\uDDA4",
       "screen_name" : "teags",
       "protected" : false,
       "id_str" : "15385676",
@@ -8850,7 +8850,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -9330,7 +9330,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "morning clouds: good",
+      "name" : "poorly cut pizza",
       "screen_name" : "pressdarling",
       "indices" : [ 49, 62 ],
       "id_str" : "14709131",

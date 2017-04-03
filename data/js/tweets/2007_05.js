@@ -1526,6 +1526,28 @@ Grailbird.data.tweets_2007_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "56545692",
+  "text" : "fine tuning my ASSP anti-spam filter so it is even more devastatingly accurate",
+  "id" : 56545692,
+  "created_at" : "2007-05-09 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "56641782",
   "text" : "getting a caffeine fix!",
   "id" : 56641782,
@@ -1639,28 +1661,6 @@ Grailbird.data.tweets_2007_05 =
   "id_str" : "56333732",
   "text" : "updating the Karuna website http:\/\/www.karuna.org.au\/",
   "id" : 56333732,
-  "created_at" : "2007-05-09 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "56545692",
-  "text" : "fine tuning my ASSP anti-spam filter so it is even more devastatingly accurate",
-  "id" : 56545692,
   "created_at" : "2007-05-09 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2670,6 +2670,28 @@ Grailbird.data.tweets_2007_05 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "46823032",
+  "text" : "burning cds and printing out labels",
+  "id" : 46823032,
+  "created_at" : "2007-05-02 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "46842562",
   "text" : "carefully peeling off a misapplied label, trying desperately not to tear it in the process or wreck the cd",
   "id" : 46842562,
@@ -2805,28 +2827,6 @@ Grailbird.data.tweets_2007_05 =
   "id_str" : "46803242",
   "text" : "drinking coffee and talking to Jerry",
   "id" : 46803242,
-  "created_at" : "2007-05-02 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "46823032",
-  "text" : "burning cds and printing out labels",
-  "id" : 46823032,
   "created_at" : "2007-05-02 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

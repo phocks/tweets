@@ -8,6 +8,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "940229994",
+  "text" : "whoa, just heard a high-school friend from my grade was killed in a motorcycle accident on the weekend, we weren't close, but still..",
+  "id" : 940229994,
+  "created_at" : "2008-09-30 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "940252045",
   "text" : "the jacaranda trees are in blossom, purple haze, must be closing in on uni exams, that's the signifier",
   "id" : 940252045,
@@ -154,28 +176,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "940191505",
   "text" : "in the garden for late lunch, watching californication on the laptop",
   "id" : 940191505,
-  "created_at" : "2008-09-30 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "940229994",
-  "text" : "whoa, just heard a high-school friend from my grade was killed in a motorcycle accident on the weekend, we weren't close, but still..",
-  "id" : 940229994,
   "created_at" : "2008-09-30 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1076,6 +1076,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "934067821",
+  "text" : "one day i'm going to leave on time. heading out into suburbia for a bit, then to the step inn for running guns. fletch is borrowing my amp",
+  "id" : 934067821,
+  "created_at" : "2008-09-25 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "934080469",
   "text" : "mmm mulberry season is in full swing, picked one as i rode on by",
   "id" : 934080469,
@@ -1288,28 +1310,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "934000545",
   "text" : "160 pages into my history gives me this tweet http:\/\/twurl.nl\/b5c0h8 twitter holding full archive for ransom, viable business model? :P",
   "id" : 934000545,
-  "created_at" : "2008-09-25 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "934067821",
-  "text" : "one day i'm going to leave on time. heading out into suburbia for a bit, then to the step inn for running guns. fletch is borrowing my amp",
-  "id" : 934067821,
   "created_at" : "2008-09-25 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -2199,6 +2199,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "928943459",
+  "text" : "got sunglasses, not precisely the ones, though they're quite the trip. standing in line now",
+  "id" : 928943459,
+  "created_at" : "2008-09-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "929046129",
   "text" : "cooking sizzling mongolian pork for lunch. nom",
   "id" : 929046129,
@@ -2472,28 +2494,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "928926432",
   "text" : "oo markets, might catch citycat back too",
   "id" : 928926432,
-  "created_at" : "2008-09-21 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "928943459",
-  "text" : "got sunglasses, not precisely the ones, though they're quite the trip. standing in line now",
-  "id" : 928943459,
   "created_at" : "2008-09-21 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3306,6 +3306,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "921559121",
+  "text" : "looking out the window, lovely day, wish i was out there and not in here",
+  "id" : 921559121,
+  "created_at" : "2008-09-15 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "921580424",
   "text" : "feels like a sushi day today, almost finished this book too",
   "id" : 921580424,
@@ -3525,28 +3547,6 @@ Grailbird.data.tweets_2008_09 =
   "created_at" : "2008-09-15 00:00:00 +0000",
   "in_reply_to_screen_name" : "kafeen",
   "in_reply_to_user_id_str" : "15628228",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "921559121",
-  "text" : "looking out the window, lovely day, wish i was out there and not in here",
-  "id" : 921559121,
-  "created_at" : "2008-09-15 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
     "screen_name" : "phocks",
@@ -4682,6 +4682,34 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kerry Jessep",
+      "screen_name" : "kafeen",
+      "indices" : [ 43, 50 ],
+      "id_str" : "15628228",
+      "id" : 15628228
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "914460366",
+  "text" : "liking the tuesday morning tweets :) @kcdc @kafeen",
+  "id" : 914460366,
+  "created_at" : "2008-09-08 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4845,34 +4873,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "914437501",
   "text" : "sometimes an instant coffee is just the change you need after so much strange brew",
   "id" : 914437501,
-  "created_at" : "2008-09-08 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kerry Jessep",
-      "screen_name" : "kafeen",
-      "indices" : [ 43, 50 ],
-      "id_str" : "15628228",
-      "id" : 15628228
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "914460366",
-  "text" : "liking the tuesday morning tweets :) @kcdc @kafeen",
-  "id" : 914460366,
   "created_at" : "2008-09-08 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5712,6 +5712,28 @@ Grailbird.data.tweets_2008_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "909099393",
+  "text" : "this cd has been sitting on my desk for weeks. i wonder if it's blank. will save me walking down to get one",
+  "id" : 909099393,
+  "created_at" : "2008-09-04 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "909128558",
   "text" : "heading off, going to visit jim to get that hi8 tape and drink coffee, then it's jenga championships time!",
   "id" : 909128558,
@@ -5853,28 +5875,6 @@ Grailbird.data.tweets_2008_09 =
   "id_str" : "908750060",
   "text" : "good news from fletch, the real estate people called him saying we all checked out, they're just waiting to hear from the landlord",
   "id" : 908750060,
-  "created_at" : "2008-09-04 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "909099393",
-  "text" : "this cd has been sitting on my desk for weeks. i wonder if it's blank. will save me walking down to get one",
-  "id" : 909099393,
   "created_at" : "2008-09-04 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

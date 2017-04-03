@@ -2285,7 +2285,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "297101295",
       "id" : 297101295
     }, {
-      "name" : "\uD83D\uDC7D",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 56, 63 ],
       "id_str" : "5703342",

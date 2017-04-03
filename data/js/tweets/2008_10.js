@@ -239,6 +239,28 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "981820599",
+  "text" : "there's a willy wagtail bird out the window that keeps jumping on and off a kookaburra's back. cheeky little birds they are!",
+  "id" : 981820599,
+  "created_at" : "2008-10-30 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Greg Lexiphanic",
       "screen_name" : "lexiphanic",
@@ -921,28 +943,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "981793695",
   "text" : "slyly escaped from the annual general meeting to do more design work",
   "id" : 981793695,
-  "created_at" : "2008-10-30 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "981820599",
-  "text" : "there's a willy wagtail bird out the window that keeps jumping on and off a kookaburra's back. cheeky little birds they are!",
-  "id" : 981820599,
   "created_at" : "2008-10-30 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -1788,6 +1788,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "975769943",
+  "text" : "getting the gear from Corey's, think James got his birthday wish ;)",
+  "id" : 975769943,
+  "created_at" : "2008-10-26 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "975782954",
   "text" : "getting ingredients to make beer battered chips and vege pies. we'll make quite a bit so come around",
   "id" : 975782954,
@@ -1868,28 +1890,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "975932796",
   "text" : "recording fletch's drum odyssey",
   "id" : 975932796,
-  "created_at" : "2008-10-26 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "975769943",
-  "text" : "getting the gear from Corey's, think James got his birthday wish ;)",
-  "id" : 975769943,
   "created_at" : "2008-10-26 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -3038,6 +3038,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "969178833",
+  "text" : "and in the immortal words of hank moody, \"whatever you do, don't be another brick in the wall\". always reference a reference of a reference",
+  "id" : 969178833,
+  "created_at" : "2008-10-21 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "969344786",
   "text" : "sleep, sweet mistress, so elusive.. wait, that sounds too familiar. methinks i tweeted that here a few weeks ago. i need a new metaphor",
   "id" : 969344786,
@@ -3388,28 +3410,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "969066641",
   "text" : "realising my affinity towards the unattainable.. not a very useful trait. or is it? could it be in what you find along the way? the paradox",
   "id" : 969066641,
-  "created_at" : "2008-10-21 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "969178833",
-  "text" : "and in the immortal words of hank moody, \"whatever you do, don't be another brick in the wall\". always reference a reference of a reference",
-  "id" : 969178833,
   "created_at" : "2008-10-21 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -4112,6 +4112,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "961924111",
+  "text" : "another real coffee brewed, psyching myself up to do some more work on this new site design",
+  "id" : 961924111,
+  "created_at" : "2008-10-16 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "962003980",
   "text" : "all that is to be accomplished it seems is piling up, more and more, into little mountains and molehills of future ascent.. daunting",
   "id" : 962003980,
@@ -4313,28 +4335,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "961878439",
   "text" : "hoping it doesn't rain tonight or our whimsical plans for greenlighting in the open fields with flying disc shall be dashed without recourse",
   "id" : 961878439,
-  "created_at" : "2008-10-16 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "961924111",
-  "text" : "another real coffee brewed, psyching myself up to do some more work on this new site design",
-  "id" : 961924111,
   "created_at" : "2008-10-16 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -5340,6 +5340,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "954312101",
+  "text" : "heading to rics",
+  "id" : 954312101,
+  "created_at" : "2008-10-10 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "954882634",
   "text" : "Fletch has apparently been locked out of the house, and i'm on the other side of town",
   "id" : 954882634,
@@ -5608,28 +5630,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "954273595",
   "text" : "rockin show",
   "id" : 954273595,
-  "created_at" : "2008-10-10 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "954312101",
-  "text" : "heading to rics",
-  "id" : 954312101,
   "created_at" : "2008-10-10 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",
@@ -6321,6 +6321,28 @@ Grailbird.data.tweets_2008_10 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "947959187",
+  "text" : "well i guess i owe microsoft an apology, they weren't at fault, it was ibm and their dodgy motherboard components",
+  "id" : 947959187,
+  "created_at" : "2008-10-06 00:00:00 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC07\uD83D\uDC01",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "947983176",
   "text" : "remembering last nite's drunken argument with fletch about how justin hawkins' sheer spandex awesomeness far outshines jack white :P",
   "id" : 947983176,
@@ -6654,28 +6676,6 @@ Grailbird.data.tweets_2008_10 =
   "id_str" : "947956080",
   "text" : "can't believe this has taken the whole day. determined it is a hardware problem, the capacitors next to the cpu are shot, no spares around..",
   "id" : 947956080,
-  "created_at" : "2008-10-06 00:00:00 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "947959187",
-  "text" : "well i guess i owe microsoft an apology, they weren't at fault, it was ibm and their dodgy motherboard components",
-  "id" : 947959187,
   "created_at" : "2008-10-06 00:00:00 +0000",
   "user" : {
     "name" : "\uD83D\uDC07\uD83D\uDC01",

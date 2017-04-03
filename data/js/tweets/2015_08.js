@@ -3111,7 +3111,7 @@ Grailbird.data.tweets_2015_08 =
       "id_str" : "96156348",
       "id" : 96156348
     }, {
-      "name" : "\uD83E\uDD8A",
+      "name" : "\uD83D\uDC07\uD83D\uDC01",
       "screen_name" : "phocks",
       "indices" : [ 12, 19 ],
       "id_str" : "5703342",
@@ -3128,7 +3128,7 @@ Grailbird.data.tweets_2015_08 =
     "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows Phone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83E\uDD8A",
+        "name" : "\uD83D\uDC07\uD83D\uDC01",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -5630,117 +5630,6 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "courteneyh",
-      "screen_name" : "courteneyh",
-      "indices" : [ 3, 14 ],
-      "id_str" : "38417410",
-      "id" : 38417410
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/courteneyh\/status\/632536221747539968\/photo\/1",
-      "indices" : [ 57, 79 ],
-      "url" : "http:\/\/t.co\/guI3o75222",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CMc4JfRWcAA4bcD.jpg",
-      "id_str" : "632536008333094912",
-      "id" : 632536008333094912,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CMc4JfRWcAA4bcD.jpg",
-      "sizes" : [ {
-        "h" : 363,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 363,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 247,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 363,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "display_url" : "pic.twitter.com\/guI3o75222"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "632545146022719489",
-  "text" : "RT @courteneyh: best depiction of the internet i\u2019ve seen http:\/\/t.co\/guI3o75222",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/courteneyh\/status\/632536221747539968\/photo\/1",
-        "indices" : [ 41, 63 ],
-        "url" : "http:\/\/t.co\/guI3o75222",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CMc4JfRWcAA4bcD.jpg",
-        "id_str" : "632536008333094912",
-        "id" : 632536008333094912,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CMc4JfRWcAA4bcD.jpg",
-        "sizes" : [ {
-          "h" : 363,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 363,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 247,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 363,
-          "resize" : "fit",
-          "w" : 500
-        } ],
-        "display_url" : "pic.twitter.com\/guI3o75222"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "632536221747539968",
-    "text" : "best depiction of the internet i\u2019ve seen http:\/\/t.co\/guI3o75222",
-    "id" : 632536221747539968,
-    "created_at" : "2015-08-15 12:56:01 +0000",
-    "user" : {
-      "name" : "courteneyh",
-      "screen_name" : "courteneyh",
-      "protected" : false,
-      "id_str" : "38417410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834386520064692224\/YiCyiWGX_normal.jpg",
-      "id" : 38417410,
-      "verified" : false
-    }
-  },
-  "id" : 632545146022719489,
-  "created_at" : "2015-08-15 13:31:29 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC07\uD83D\uDC01",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
       "indices" : [ 3, 13 ],
@@ -6047,7 +5936,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A good Steven",
+      "name" : "\u0440\u043E\u0431\u043E\u0442 \u0441\u0442\u0435\u0432\u0430\u043D",
       "screen_name" : "hoaxie",
       "indices" : [ 1, 8 ],
       "id_str" : "801634435",
