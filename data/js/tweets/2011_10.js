@@ -2956,7 +2956,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -3131,7 +3131,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC88B\uC740 \uACC4\uB780",
+      "name" : "\uC624\uB9AC\uB108\uAD6C\uB9AC",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -3186,7 +3186,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC88B\uC740 \uACC4\uB780",
+      "name" : "\uC624\uB9AC\uB108\uAD6C\uB9AC",
       "screen_name" : "irrellievant",
       "indices" : [ 81, 94 ],
       "id_str" : "326518931",
@@ -3340,7 +3340,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/blip.fm\" rel=\"nofollow\"\u003EBlip.fm\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 89, 103 ],
       "id_str" : "14690376",
@@ -8236,7 +8236,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "F(Emma)nist \uD83D\uDD96\uD83C\uDFFB",
+      "name" : "\uD83C\uDF2AAunty Em\uD83C\uDF2A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

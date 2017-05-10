@@ -212,25 +212,16 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitpic.com\" rel=\"nofollow\"\u003ETwitpic\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "13110703148",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd http:\/\/twitpic.com\/1jjrro - gorgeous! golden age of hollywood, eat your scarlett heart out",
   "id" : 13110703148,
   "created_at" : "2010-04-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -1523,27 +1514,16 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "12815171404",
   "geo" : { },
   "id_str" : "12869317042",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd we had a splendid time. great play. will be sure to catch another, or at least to steal the idea and take it to melbourne :P",
   "id" : 12869317042,
-  "in_reply_to_status_id" : 12815171404,
   "created_at" : "2010-04-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -1766,12 +1746,6 @@ Grailbird.data.tweets_2010_04 =
       "indices" : [ 14, 27 ],
       "id_str" : "22483027",
       "id" : 22483027
-    }, {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 42, 53 ],
-      "id_str" : "15056870",
-      "id" : 15056870
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3966,27 +3940,16 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "12192533591",
   "geo" : { },
   "id_str" : "12201570994",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd may have to grab some analog photography tips off you sometime i.e. multiple exposures, opening the back of the camera",
   "id" : 12201570994,
-  "in_reply_to_status_id" : 12192533591,
   "created_at" : "2010-04-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -6771,7 +6734,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "TheMonicaShow",
       "protected" : false,
       "id_str" : "93123286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841307261368717314\/TvCsDMRr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/858956612467392512\/7QDPf3eH_normal.jpg",
       "id" : 93123286,
       "verified" : false
     }

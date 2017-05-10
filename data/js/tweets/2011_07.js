@@ -391,7 +391,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "xoxo, Joanne",
+      "name" : "xoxo, Gaga",
       "screen_name" : "ladygaga",
       "indices" : [ 53, 62 ],
       "id_str" : "14230524",
@@ -702,7 +702,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -957,7 +957,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -1607,7 +1607,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC88B\uC740 \uACC4\uB780",
+      "name" : "\uC624\uB9AC\uB108\uAD6C\uB9AC",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -4822,7 +4822,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris",
+      "name" : "\u1E09\u0127\u0AB0\u03AF\u01A8",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -5275,7 +5275,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -5952,7 +5952,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC07\uD83D\uDC01",
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
       "screen_name" : "phocks",
       "indices" : [ 34, 41 ],
       "id_str" : "5703342",
@@ -5969,7 +5969,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83D\uDC07\uD83D\uDC01",
+        "name" : "\uD83D\uDC01\uD83D\uDC00",
         "screen_name" : "phocks",
         "indices" : [ 19, 26 ],
         "id_str" : "5703342",
@@ -6944,7 +6944,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18926366",
       "id" : 18926366
     }, {
-      "name" : "Glen Maddern \uD83D\uDE0E",
+      "name" : "Glen Maddern \uD83D\uDE0E\uD83C\uDDE9\uD83C\uDDEA",
       "screen_name" : "glenmaddern",
       "indices" : [ 32, 44 ],
       "id_str" : "16664291",
@@ -7442,7 +7442,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "\uD83D\uDC07\uD83D\uDC01",
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
       "screen_name" : "phocks",
       "indices" : [ 61, 68 ],
       "id_str" : "5703342",
@@ -7459,7 +7459,7 @@ Grailbird.data.tweets_2011_07 =
     "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83D\uDC07\uD83D\uDC01",
+        "name" : "\uD83D\uDC01\uD83D\uDC00",
         "screen_name" : "phocks",
         "indices" : [ 43, 50 ],
         "id_str" : "5703342",
@@ -8644,12 +8644,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 0, 9 ],
       "id_str" : "13238382",
       "id" : 13238382
-    }, {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 100, 111 ],
-      "id_str" : "15056870",
-      "id" : 15056870
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8708,27 +8702,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "86929880234729472",
   "geo" : { },
   "id_str" : "86930884313362432",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd i invited you! at least i think i did.. it's confusing. haha",
   "id" : 86930884313362432,
-  "in_reply_to_status_id" : 86929880234729472,
   "created_at" : "2011-07-01 22:55:12 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",

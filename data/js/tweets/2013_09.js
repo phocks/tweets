@@ -3392,12 +3392,6 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    }, {
       "name" : "Washington",
       "screen_name" : "WASHINGTONx",
       "indices" : [ 95, 107 ],
@@ -3408,16 +3402,11 @@ Grailbird.data.tweets_2013_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "379786384321826817",
   "geo" : { },
   "id_str" : "379790618631090176",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd Just an bleary-eyed observation, that randomly generated Instagram URL almost says @WAshINGtoNx",
   "id" : 379790618631090176,
-  "in_reply_to_status_id" : 379786384321826817,
   "created_at" : "2013-09-17 02:15:14 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -3656,7 +3645,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stacey McTavish",
+      "name" : "the Mrs McTavish",
       "screen_name" : "misssstacey",
       "indices" : [ 0, 12 ],
       "id_str" : "22999093",
@@ -5662,7 +5651,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KATE || rougevelvet",
+      "name" : "AHBL8 || rougevelvet",
       "screen_name" : "rougevelvet",
       "indices" : [ 0, 12 ],
       "id_str" : "29694396",
@@ -6001,7 +5990,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -6056,7 +6045,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",

@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "66564888",
       "id" : 66564888
     }, {
-      "name" : "\uD83D\uDC07\uD83D\uDC01",
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
       "screen_name" : "phocks",
       "indices" : [ 18, 25 ],
       "id_str" : "5703342",
@@ -4390,7 +4390,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "\uD83D\uDC07\uD83D\uDC01",
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
       "screen_name" : "phocks",
       "indices" : [ 32, 39 ],
       "id_str" : "5703342",
@@ -4407,7 +4407,7 @@ Grailbird.data.tweets_2011_06 =
     "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "\uD83D\uDC07\uD83D\uDC01",
+        "name" : "\uD83D\uDC01\uD83D\uDC00",
         "screen_name" : "phocks",
         "indices" : [ 14, 21 ],
         "id_str" : "5703342",
@@ -9225,7 +9225,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",

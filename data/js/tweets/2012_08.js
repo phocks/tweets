@@ -457,7 +457,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kris Judith White",
+      "name" : "MissWhiteMoth",
       "screen_name" : "misswhitemoth",
       "indices" : [ 0, 14 ],
       "id_str" : "14690376",
@@ -1756,7 +1756,7 @@ Grailbird.data.tweets_2012_08 =
   "id" : 238306705199480832,
   "in_reply_to_status_id" : 238305858981859328,
   "created_at" : "2012-08-22 16:08:40 +0000",
-  "in_reply_to_screen_name" : "franknicelyart",
+  "in_reply_to_screen_name" : "damjonuts",
   "in_reply_to_user_id_str" : "14314544",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KATE || rougevelvet",
+      "name" : "AHBL8 || rougevelvet",
       "screen_name" : "rougevelvet",
       "indices" : [ 0, 12 ],
       "id_str" : "29694396",
@@ -2600,80 +2600,18 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "236776676967731200",
-  "text" : "RT @ameliadowd: free pussy riot!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "236774231147433984",
-    "text" : "free pussy riot!",
-    "id" : 236774231147433984,
-    "created_at" : "2012-08-18 10:39:10 +0000",
-    "user" : {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "protected" : false,
-      "id_str" : "15056870",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/682826927783022592\/DbYCksaZ_normal.jpg",
-      "id" : 15056870,
-      "verified" : false
-    }
-  },
-  "id" : 236776676967731200,
-  "created_at" : "2012-08-18 10:48:53 +0000",
-  "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "236747500130816000",
   "geo" : { },
   "id_str" : "236756727750598656",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd thankyou amelia, you are so very sweet &amp; lovely. x",
   "id" : 236756727750598656,
-  "in_reply_to_status_id" : 236747500130816000,
   "created_at" : "2012-08-18 09:29:37 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -2764,7 +2702,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KATE || rougevelvet",
+      "name" : "AHBL8 || rougevelvet",
       "screen_name" : "rougevelvet",
       "indices" : [ 0, 12 ],
       "id_str" : "29694396",

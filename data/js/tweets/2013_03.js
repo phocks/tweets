@@ -975,7 +975,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "13238382",
       "id" : 13238382
     }, {
-      "name" : "\uD83D\uDC01\uD83D\uDC00",
+      "name" : "book of joshua",
       "screen_name" : "phocks",
       "indices" : [ 78, 85 ],
       "id_str" : "5703342",
@@ -2922,7 +2922,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC88B\uC740 \uACC4\uB780",
+      "name" : "\uC624\uB9AC\uB108\uAD6C\uB9AC",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",

@@ -268,7 +268,7 @@ Grailbird.data.tweets_2008_10 =
       "id_str" : "6989",
       "id" : 6989
     }, {
-      "name" : "blarry",
+      "name" : "Barry Saunders",
       "screen_name" : "barrysaunders",
       "indices" : [ 12, 26 ],
       "id_str" : "19630784",

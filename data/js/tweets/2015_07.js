@@ -1065,7 +1065,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Kerry_Ingram",
       "protected" : false,
       "id_str" : "258308665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845395299124285440\/0xoVszUu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852498467809370113\/7oDLb9rg_normal.jpg",
       "id" : 258308665,
       "verified" : true
     }
@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837283266726014980\/CjUlF2-y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852851206196142080\/O_wBG5_A_normal.jpg",
       "id" : 1376219534,
       "verified" : false
     }
@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837283266726014980\/CjUlF2-y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852851206196142080\/O_wBG5_A_normal.jpg",
       "id" : 1376219534,
       "verified" : false
     }
@@ -2266,7 +2266,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "late stage Y-Dog",
+      "name" : "fake Y-Dog",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
@@ -4059,7 +4059,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "late stage Y-Dog",
+      "name" : "fake Y-Dog",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
@@ -5838,7 +5838,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Changed name again",
+      "name" : "The Villager",
       "screen_name" : "juhasaarinen",
       "indices" : [ 3, 16 ],
       "id_str" : "15829574",
@@ -5882,7 +5882,7 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Changed name again",
+      "name" : "The Villager",
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",

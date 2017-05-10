@@ -807,27 +807,16 @@ Grailbird.data.tweets_2009_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1378604005",
   "geo" : { },
   "id_str" : "1379717017",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd next time we play, you're coming with us! world domination.. so we can set it free!",
   "id" : 1379717017,
-  "in_reply_to_status_id" : 1378604005,
   "created_at" : "2009-03-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -2434,27 +2423,16 @@ Grailbird.data.tweets_2009_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1318579832",
   "geo" : { },
   "id_str" : "1319250129",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd well, to tell you the truth, i didn't actually stay out partying the night away.. just didn't stay at my place last night ;)",
   "id" : 1319250129,
-  "in_reply_to_status_id" : 1318579832,
   "created_at" : "2009-03-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",

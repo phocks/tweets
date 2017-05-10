@@ -1564,12 +1564,6 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    }, {
       "name" : "unfortunatalie",
       "screen_name" : "definatalie",
       "indices" : [ 52, 64 ],
@@ -1580,16 +1574,11 @@ Grailbird.data.tweets_2009_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "6023705197",
   "geo" : { },
   "id_str" : "6040273119",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd you should definitely check out some of @definatalie's typography photos, like this one http:\/\/bit.ly\/6zc9Bc",
   "id" : 6040273119,
-  "in_reply_to_status_id" : 6023705197,
   "created_at" : "2009-11-25 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -3072,27 +3061,16 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5851910147",
   "geo" : { },
   "id_str" : "5851970091",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd *raises hand* if there are no other suitable takers..",
   "id" : 5851970091,
-  "in_reply_to_status_id" : 5851910147,
   "created_at" : "2009-11-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -3149,27 +3127,16 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5852092347",
   "geo" : { },
   "id_str" : "5855453529",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd money is no object for this photo takeable suitor! thinking of relaunching my actor slash underwear model career. haha!",
   "id" : 5855453529,
-  "in_reply_to_status_id" : 5852092347,
   "created_at" : "2009-11-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -5109,13 +5076,7 @@ Grailbird.data.tweets_2009_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 42, 53 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6204,12 +6165,6 @@ Grailbird.data.tweets_2009_11 =
       "indices" : [ 0, 7 ],
       "id_str" : "15466135",
       "id" : 15466135
-    }, {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 38, 49 ],
-      "id_str" : "15056870",
-      "id" : 15056870
     }, {
       "name" : "Brisbane Times",
       "screen_name" : "brisbanetimes",

@@ -200,13 +200,7 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 30, 41 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -982,27 +976,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Peta",
-      "screen_name" : "PJPixie",
-      "indices" : [ 0, 8 ],
-      "id_str" : "20963310",
-      "id" : 20963310
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "2310302999",
   "geo" : { },
   "id_str" : "2339314845",
-  "in_reply_to_user_id" : 20963310,
   "text" : "@PJPixie thnx for the karma sent my way! i'm thinking it may have worked.. maybe",
   "id" : 2339314845,
-  "in_reply_to_status_id" : 2310302999,
   "created_at" : "2009-06-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "PJPixie",
-  "in_reply_to_user_id_str" : "20963310",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -5717,27 +5700,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "ameliajdowd",
-      "screen_name" : "ameliadowd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15056870",
-      "id" : 15056870
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1988285068",
   "geo" : { },
   "id_str" : "1989073490",
-  "in_reply_to_user_id" : 15056870,
   "text" : "@ameliadowd some light-hearted captures sound brilliant. figure my head is in a 70s grass dreamland most of the time anyway.. so perfect!",
   "id" : 1989073490,
-  "in_reply_to_status_id" : 1988285068,
   "created_at" : "2009-06-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "ameliadowd",
-  "in_reply_to_user_id_str" : "15056870",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",

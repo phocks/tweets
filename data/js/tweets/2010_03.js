@@ -5893,7 +5893,7 @@ Grailbird.data.tweets_2010_03 =
       "screen_name" : "Amb0b",
       "protected" : false,
       "id_str" : "26177951",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/842646407190204417\/-yXe-4ET_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/856461946496757760\/Ll2bDFS0_normal.jpg",
       "id" : 26177951,
       "verified" : false
     }

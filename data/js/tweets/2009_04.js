@@ -289,27 +289,16 @@ Grailbird.data.tweets_2009_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Peta",
-      "screen_name" : "PJPixie",
-      "indices" : [ 0, 8 ],
-      "id_str" : "20963310",
-      "id" : 20963310
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1636972170",
   "geo" : { },
   "id_str" : "1637714632",
-  "in_reply_to_user_id" : 20963310,
   "text" : "@PJPixie just make sure you don't spill it on yourself.. focus, focus. om nom! :)",
   "id" : 1637714632,
-  "in_reply_to_status_id" : 1636972170,
   "created_at" : "2009-04-28 00:00:00 +0000",
-  "in_reply_to_screen_name" : "PJPixie",
-  "in_reply_to_user_id_str" : "20963310",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",
@@ -2372,7 +2361,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hugo",
+      "name" : "\u30D2\u30E5\u30FC\u30B4\u30FB\u30D6\u30E9\u30A6\u30F3",
       "screen_name" : "hugobrown",
       "indices" : [ 0, 10 ],
       "id_str" : "18383003",
