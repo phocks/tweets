@@ -975,7 +975,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "13238382",
       "id" : 13238382
     }, {
-      "name" : "book of joshua",
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
       "screen_name" : "phocks",
       "indices" : [ 78, 85 ],
       "id_str" : "5703342",

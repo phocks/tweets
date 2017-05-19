@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852851206196142080\/O_wBG5_A_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862452343727546369\/uqTxw5AM_normal.jpg",
       "id" : 1376219534,
       "verified" : false
     }
@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852851206196142080\/O_wBG5_A_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862452343727546369\/uqTxw5AM_normal.jpg",
       "id" : 1376219534,
       "verified" : false
     }
@@ -5882,7 +5882,7 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "The Villager",
+      "name" : "Narrative wrecker",
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",

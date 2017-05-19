@@ -2004,7 +2004,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "AHBL8 || rougevelvet",
+      "name" : "KATE || rougevelvet",
       "screen_name" : "rougevelvet",
       "indices" : [ 0, 12 ],
       "id_str" : "29694396",
@@ -6572,7 +6572,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/852851206196142080\/O_wBG5_A_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/862452343727546369\/uqTxw5AM_normal.jpg",
       "id" : 1376219534,
       "verified" : false
     }
@@ -9101,6 +9101,74 @@ Grailbird.data.tweets_2014_11 =
   "text" : "Yay a crown! (I miss the old Foursquare mayorships) http:\/\/t.co\/8vP4Ar9MQU",
   "id" : 528397803412668417,
   "created_at" : "2014-11-01 04:07:08 +0000",
+  "user" : {
+    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/800604555612332032\/XogGYzJ-_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "My Aural Fixation",
+      "screen_name" : "myauralfixation",
+      "indices" : [ 3, 19 ],
+      "id_str" : "19749614",
+      "id" : 19749614
+    }, {
+      "name" : "\uD83D\uDC01\uD83D\uDC00",
+      "screen_name" : "phocks",
+      "indices" : [ 21, 28 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "528391094631809024",
+  "text" : "RT @myauralfixation: @phocks Aw, YOU LIVE IN THE SUBURB I'VE WANTED TO LIVE IN SINCE 1984?! How do you do this?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "\uD83D\uDC01\uD83D\uDC00",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "528379475868676096",
+    "geo" : { },
+    "id_str" : "528389631054606336",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks Aw, YOU LIVE IN THE SUBURB I'VE WANTED TO LIVE IN SINCE 1984?! How do you do this?",
+    "id" : 528389631054606336,
+    "in_reply_to_status_id" : 528379475868676096,
+    "created_at" : "2014-11-01 03:34:39 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "My Aural Fixation",
+      "screen_name" : "myauralfixation",
+      "protected" : false,
+      "id_str" : "19749614",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/861060981064998913\/391F6XnY_normal.jpg",
+      "id" : 19749614,
+      "verified" : false
+    }
+  },
+  "id" : 528391094631809024,
+  "created_at" : "2014-11-01 03:40:28 +0000",
   "user" : {
     "name" : "\uD83D\uDC01\uD83D\uDC00",
     "screen_name" : "phocks",

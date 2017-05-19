@@ -3154,7 +3154,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "teags",
       "protected" : false,
       "id_str" : "15385676",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/776543029008097284\/XlHJW3tY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/864614885023293440\/99WKVgIW_normal.jpg",
       "id" : 15385676,
       "verified" : false
     }

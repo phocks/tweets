@@ -6944,7 +6944,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18926366",
       "id" : 18926366
     }, {
-      "name" : "Glen Maddern \uD83D\uDE0E\uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Glen Maddern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 32, 44 ],
       "id_str" : "16664291",

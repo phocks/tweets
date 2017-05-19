@@ -682,7 +682,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83D\uDC83",
+      "name" : "Sam \uD83C\uDF0C",
       "screen_name" : "battledinosaur",
       "indices" : [ 3, 18 ],
       "id_str" : "22708423",
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 130165141626032129,
     "created_at" : "2011-10-29 06:12:42 +0000",
     "user" : {
-      "name" : "Sam \uD83D\uDC83",
+      "name" : "Sam \uD83C\uDF0C",
       "screen_name" : "battledinosaur",
       "protected" : false,
       "id_str" : "22708423",
@@ -5029,7 +5029,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83D\uDC83",
+      "name" : "Sam \uD83C\uDF0C",
       "screen_name" : "battledinosaur",
       "indices" : [ 1, 16 ],
       "id_str" : "22708423",
