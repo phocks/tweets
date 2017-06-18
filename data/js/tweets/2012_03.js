@@ -13,7 +13,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 186089776858927104,
   "created_at" : "2012-03-31 13:57:14 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -44,7 +44,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -66,7 +66,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185943368658980864,
   "created_at" : "2012-03-31 04:15:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -88,7 +88,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185903107673309184,
   "created_at" : "2012-03-31 01:35:29 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -110,7 +110,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185731325871919104,
   "created_at" : "2012-03-30 14:12:53 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CharleySDG",
   "in_reply_to_user_id_str" : "350315797",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -165,7 +165,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185628394115956736,
   "created_at" : "2012-03-30 07:23:52 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -190,7 +190,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185616979971940353,
   "created_at" : "2012-03-30 06:38:31 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "225722000",
       "id" : 225722000
     }, {
-      "name" : "getfucked",
+      "name" : "gemshines",
       "screen_name" : "gemlala",
       "indices" : [ 14, 22 ],
       "id_str" : "22241714",
@@ -229,7 +229,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -262,7 +262,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "notalwaysweak",
   "in_reply_to_user_id_str" : "73314673",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -284,7 +284,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185544663783047169,
   "created_at" : "2012-03-30 01:51:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -306,7 +306,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185388903568646144,
   "created_at" : "2012-03-29 15:32:13 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -339,7 +339,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "StellaValour",
   "in_reply_to_user_id_str" : "314962860",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -361,7 +361,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185344923904647168,
   "created_at" : "2012-03-29 12:37:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -386,7 +386,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185343752376823808,
   "created_at" : "2012-03-29 12:32:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185292087074373632,
   "created_at" : "2012-03-29 09:07:30 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -441,7 +441,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -463,7 +463,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185204323217707009,
   "created_at" : "2012-03-29 03:18:46 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -495,7 +495,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "unrosexcore",
   "in_reply_to_user_id_str" : "17036584",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185140903600599040,
   "created_at" : "2012-03-28 23:06:45 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -539,7 +539,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185136347000999936,
   "created_at" : "2012-03-28 22:48:39 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -557,7 +557,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "15254045",
       "id" : 15254045
     }, {
-      "name" : "MissWhiteMoth",
+      "name" : "Kris Judith White",
       "screen_name" : "misswhitemoth",
       "indices" : [ 10, 24 ],
       "id_str" : "14690376",
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "sirtessa",
   "in_reply_to_user_id_str" : "15254045",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185045759853461504,
   "created_at" : "2012-03-28 16:48:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -633,7 +633,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -655,7 +655,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185018116957409280,
   "created_at" : "2012-03-28 14:58:51 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tinyapples",
   "in_reply_to_user_id_str" : "24894012",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -710,7 +710,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184998234555564033,
   "created_at" : "2012-03-28 13:39:50 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184919834201567232,
   "created_at" : "2012-03-28 08:28:18 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -765,7 +765,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "marchofclouds",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -787,7 +787,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184861108400701440,
   "created_at" : "2012-03-28 04:34:57 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -820,7 +820,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Larapantsonfire",
   "in_reply_to_user_id_str" : "23908134",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -847,7 +847,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184814390120427520,
   "created_at" : "2012-03-28 01:29:18 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -880,7 +880,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -902,7 +902,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184650118664945666,
   "created_at" : "2012-03-27 14:36:33 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -939,7 +939,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184635806256865281,
   "created_at" : "2012-03-27 13:39:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -967,7 +967,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184630229514452993,
   "created_at" : "2012-03-27 13:17:31 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -979,7 +979,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the ugly duckling",
+      "name" : "space coyote",
       "screen_name" : "beeeeonka",
       "indices" : [ 0, 10 ],
       "id_str" : "111783880",
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "beeeeonka",
   "in_reply_to_user_id_str" : "111783880",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1030,7 +1030,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184594516643295232,
   "created_at" : "2012-03-27 10:55:37 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mariequinnn",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1096,7 +1096,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "teknetia",
   "in_reply_to_user_id_str" : "14422754",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1129,7 +1129,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "sasa_frass",
   "in_reply_to_user_id_str" : "105733292",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184519703132250114,
   "created_at" : "2012-03-27 05:58:20 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1178,7 +1178,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184473791592804352,
   "created_at" : "2012-03-27 02:55:53 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1200,7 +1200,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184292661547646976,
   "created_at" : "2012-03-26 14:56:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "fingsandstuff",
   "in_reply_to_user_id_str" : "66564888",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1255,7 +1255,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184185099477196800,
   "created_at" : "2012-03-26 07:48:44 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184175778479607808,
   "created_at" : "2012-03-26 07:11:42 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1302,7 +1302,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184145891119214594,
   "created_at" : "2012-03-26 05:12:56 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1324,7 +1324,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184136874074447872,
   "created_at" : "2012-03-26 04:37:06 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184058374864904192,
   "created_at" : "2012-03-25 23:25:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1371,7 +1371,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183904374693703680,
   "created_at" : "2012-03-25 13:13:14 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1396,7 +1396,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183894323870441472,
   "created_at" : "2012-03-25 12:33:18 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1423,7 +1423,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Svjet_Lana",
   "in_reply_to_user_id_str" : "278854243",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1448,7 +1448,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183833303529426944,
   "created_at" : "2012-03-25 08:30:49 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1484,7 +1484,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1520,7 +1520,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rougevelvet",
   "in_reply_to_user_id_str" : "29694396",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1542,7 +1542,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183811624187068416,
   "created_at" : "2012-03-25 07:04:40 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1564,7 +1564,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183804002071359488,
   "created_at" : "2012-03-25 06:34:23 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1586,7 +1586,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183777268349415425,
   "created_at" : "2012-03-25 04:48:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1598,7 +1598,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock",
+      "name" : "Pam,who death forgot",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -1631,7 +1631,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "hacklocked",
   "in_reply_to_user_id_str" : "262970056",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1653,7 +1653,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183703327694000128,
   "created_at" : "2012-03-24 23:54:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1686,7 +1686,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "fingsandstuff",
   "in_reply_to_user_id_str" : "66564888",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1741,7 +1741,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183670639905873920,
   "created_at" : "2012-03-24 21:44:27 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1763,7 +1763,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183519055947370496,
   "created_at" : "2012-03-24 11:42:07 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1788,7 +1788,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183439567561568256,
   "created_at" : "2012-03-24 06:26:15 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1815,7 +1815,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183408908679909377,
   "created_at" : "2012-03-24 04:24:26 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1837,7 +1837,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183360476191793152,
   "created_at" : "2012-03-24 01:11:58 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1849,7 +1849,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC624\uB9AC\uB108\uAD6C\uB9AC",
+      "name" : "\uACBD\uBE44 \uC544\uC90C\uB9C8",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -1870,7 +1870,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "irrellievant",
   "in_reply_to_user_id_str" : "326518931",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1892,7 +1892,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183347653122330625,
   "created_at" : "2012-03-24 00:21:01 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1914,7 +1914,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183336947681476609,
   "created_at" : "2012-03-23 23:38:29 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1939,7 +1939,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183200701709697028,
   "created_at" : "2012-03-23 14:37:05 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1991,7 +1991,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183152338729582592,
   "created_at" : "2012-03-23 11:24:56 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2013,7 +2013,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183125643779768320,
   "created_at" : "2012-03-23 09:38:50 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2035,7 +2035,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183116919178661889,
   "created_at" : "2012-03-23 09:04:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2066,7 +2066,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "triplejlinda",
   "in_reply_to_user_id_str" : "461806770",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2097,7 +2097,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "triplejlinda",
   "in_reply_to_user_id_str" : "461806770",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183085199037444096,
   "created_at" : "2012-03-23 06:58:07 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2141,7 +2141,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183030495129518080,
   "created_at" : "2012-03-23 03:20:45 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2163,7 +2163,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183026617696788481,
   "created_at" : "2012-03-23 03:05:20 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2185,7 +2185,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182993368882749441,
   "created_at" : "2012-03-23 00:53:13 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2254,7 +2254,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182978949536694273,
   "created_at" : "2012-03-22 23:55:55 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182843750840664064,
   "created_at" : "2012-03-22 14:58:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2301,7 +2301,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182840685735575553,
   "created_at" : "2012-03-22 14:46:31 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2323,7 +2323,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182835137564774400,
   "created_at" : "2012-03-22 14:24:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2371,7 +2371,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "eemzy",
   "in_reply_to_user_id_str" : "79376957",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2396,7 +2396,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182808254378811392,
   "created_at" : "2012-03-22 12:37:38 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2421,7 +2421,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182803147658493954,
   "created_at" : "2012-03-22 12:17:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2443,7 +2443,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182745344591921156,
   "created_at" : "2012-03-22 08:27:40 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2476,7 +2476,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jdeplater",
   "in_reply_to_user_id_str" : "15668582",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2498,7 +2498,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182707903302615041,
   "created_at" : "2012-03-22 05:58:53 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2520,7 +2520,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182702028026421248,
   "created_at" : "2012-03-22 05:35:32 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2556,7 +2556,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2574,11 +2574,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5730592",
       "id" : 5730592
     }, {
-      "name" : "sie \u2728\uD83D\uDD2A",
+      "name" : "sie \u26D3\uD83D\uDD2E\uD83C\uDF08 28",
       "screen_name" : "kissability",
       "indices" : [ 13, 25 ],
-      "id_str" : "797151622207934464",
-      "id" : 797151622207934464
+      "id_str" : "710261863536132096",
+      "id" : 710261863536132096
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2595,7 +2595,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "KateEdwards",
   "in_reply_to_user_id_str" : "5730592",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2620,7 +2620,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182680786389049344,
   "created_at" : "2012-03-22 04:11:08 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2653,7 +2653,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "NickiGirlStar",
   "in_reply_to_user_id_str" : "103263212",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2683,7 +2683,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182666863233347585,
   "created_at" : "2012-03-22 03:15:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2705,7 +2705,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182631418587910144,
   "created_at" : "2012-03-22 00:54:57 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2760,7 +2760,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182450089694986240,
   "created_at" : "2012-03-21 12:54:25 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2785,7 +2785,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182417118703267840,
   "created_at" : "2012-03-21 10:43:24 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "teknetia",
   "in_reply_to_user_id_str" : "14422754",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2849,7 +2849,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182373933473992704,
   "created_at" : "2012-03-21 07:51:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2874,7 +2874,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182270393472647168,
   "created_at" : "2012-03-21 01:00:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2896,7 +2896,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182208910109847552,
   "created_at" : "2012-03-20 20:56:04 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2927,7 +2927,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182200195629592577,
   "created_at" : "2012-03-20 20:21:26 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2949,7 +2949,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182196349746425857,
   "created_at" : "2012-03-20 20:06:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2971,7 +2971,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182102754611826688,
   "created_at" : "2012-03-20 13:54:14 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2993,7 +2993,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182072178710290432,
   "created_at" : "2012-03-20 11:52:44 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3015,7 +3015,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181952278075416576,
   "created_at" : "2012-03-20 03:56:18 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3037,7 +3037,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181924564236906496,
   "created_at" : "2012-03-20 02:06:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "teknetia",
   "in_reply_to_user_id_str" : "14422754",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3092,7 +3092,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181922286364934145,
   "created_at" : "2012-03-20 01:57:07 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181917224708227072,
   "created_at" : "2012-03-20 01:37:00 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3141,7 +3141,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181896137542873089,
   "created_at" : "2012-03-20 00:13:13 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3174,7 +3174,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "helveticade",
   "in_reply_to_user_id_str" : "14111299",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3196,7 +3196,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181881075834949632,
   "created_at" : "2012-03-19 23:13:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3229,7 +3229,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CharleySDG",
   "in_reply_to_user_id_str" : "350315797",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3254,7 +3254,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181736149616832514,
   "created_at" : "2012-03-19 13:37:29 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3276,7 +3276,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181726994361360384,
   "created_at" : "2012-03-19 13:01:06 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3298,7 +3298,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181688980058808321,
   "created_at" : "2012-03-19 10:30:03 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3320,7 +3320,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181668329419833345,
   "created_at" : "2012-03-19 09:07:59 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3342,7 +3342,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181642562329788416,
   "created_at" : "2012-03-19 07:25:36 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3364,7 +3364,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181628689732206592,
   "created_at" : "2012-03-19 06:30:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3386,7 +3386,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181575944316792832,
   "created_at" : "2012-03-19 03:00:53 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3419,7 +3419,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3441,7 +3441,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181526417962565632,
   "created_at" : "2012-03-18 23:44:05 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3466,7 +3466,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181381205592244224,
   "created_at" : "2012-03-18 14:07:03 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3488,7 +3488,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181370687414468608,
   "created_at" : "2012-03-18 13:25:16 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3515,7 +3515,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181327176795303936,
   "created_at" : "2012-03-18 10:32:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3537,7 +3537,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181273674681286656,
   "created_at" : "2012-03-18 06:59:46 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3559,7 +3559,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181254768621125633,
   "created_at" : "2012-03-18 05:44:39 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3592,7 +3592,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "gemmawhitaker",
   "in_reply_to_user_id_str" : "137836163",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3625,7 +3625,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "pressedstarling",
   "in_reply_to_user_id_str" : "94484772",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3647,7 +3647,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181092435223515137,
   "created_at" : "2012-03-17 18:59:35 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3669,7 +3669,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180994802152775681,
   "created_at" : "2012-03-17 12:31:38 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3691,7 +3691,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180957197096849408,
   "created_at" : "2012-03-17 10:02:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3713,7 +3713,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180911010318794752,
   "created_at" : "2012-03-17 06:58:40 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3735,7 +3735,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180869158785921026,
   "created_at" : "2012-03-17 04:12:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3757,7 +3757,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180848281927155712,
   "created_at" : "2012-03-17 02:49:25 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3779,7 +3779,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180828653003866113,
   "created_at" : "2012-03-17 01:31:25 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3801,7 +3801,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180822553735086080,
   "created_at" : "2012-03-17 01:07:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3826,7 +3826,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180718066735390720,
   "created_at" : "2012-03-16 18:11:59 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3859,7 +3859,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "NickiGirlStar",
   "in_reply_to_user_id_str" : "103263212",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3881,7 +3881,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180605409164398594,
   "created_at" : "2012-03-16 10:44:19 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3903,7 +3903,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180533456139325440,
   "created_at" : "2012-03-16 05:58:24 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3925,7 +3925,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180516432453451776,
   "created_at" : "2012-03-16 04:50:45 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3958,7 +3958,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3980,7 +3980,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180493828711649280,
   "created_at" : "2012-03-16 03:20:56 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4002,7 +4002,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180441951928193024,
   "created_at" : "2012-03-15 23:54:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4024,7 +4024,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180314803062050816,
   "created_at" : "2012-03-15 15:29:33 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4046,7 +4046,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180308322166124544,
   "created_at" : "2012-03-15 15:03:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4079,7 +4079,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CharleySDG",
   "in_reply_to_user_id_str" : "350315797",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4101,7 +4101,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180283217797058560,
   "created_at" : "2012-03-15 13:24:03 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4123,7 +4123,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180216255444295680,
   "created_at" : "2012-03-15 08:57:58 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4145,7 +4145,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180205098935394304,
   "created_at" : "2012-03-15 08:13:38 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4167,7 +4167,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180163359499485184,
   "created_at" : "2012-03-15 05:27:46 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4200,7 +4200,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "McJessiePie",
   "in_reply_to_user_id_str" : "137327081",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4233,7 +4233,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "imaginary_lines",
   "in_reply_to_user_id_str" : "25795865",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4260,7 +4260,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180075302280630272,
   "created_at" : "2012-03-14 23:37:52 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4282,7 +4282,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179940201546784768,
   "created_at" : "2012-03-14 14:41:01 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4315,7 +4315,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4348,7 +4348,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "7roy",
   "in_reply_to_user_id_str" : "28301477",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4370,7 +4370,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179930925268873217,
   "created_at" : "2012-03-14 14:04:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4397,7 +4397,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179926892005171201,
   "created_at" : "2012-03-14 13:48:08 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4428,7 +4428,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4456,7 +4456,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179847886278901760,
   "created_at" : "2012-03-14 08:34:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4478,7 +4478,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179820254548074496,
   "created_at" : "2012-03-14 06:44:24 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4516,7 +4516,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rocknbee",
   "in_reply_to_user_id_str" : "145138705",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4538,7 +4538,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179707094151331840,
   "created_at" : "2012-03-13 23:14:44 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4560,7 +4560,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179676667634135040,
   "created_at" : "2012-03-13 21:13:50 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4582,7 +4582,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179672374252277760,
   "created_at" : "2012-03-13 20:56:46 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4607,7 +4607,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179537120841572352,
   "created_at" : "2012-03-13 11:59:19 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4640,7 +4640,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rocknbee",
   "in_reply_to_user_id_str" : "145138705",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4665,7 +4665,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179534582180364289,
   "created_at" : "2012-03-13 11:49:14 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4687,7 +4687,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179446076108046336,
   "created_at" : "2012-03-13 05:57:33 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4720,7 +4720,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "7roy",
   "in_reply_to_user_id_str" : "28301477",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4748,7 +4748,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179412999352750081,
   "created_at" : "2012-03-13 03:46:07 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4773,7 +4773,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179381816048893952,
   "created_at" : "2012-03-13 01:42:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4806,7 +4806,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "nichtnez",
   "in_reply_to_user_id_str" : "242214138",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4828,7 +4828,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179124936718295040,
   "created_at" : "2012-03-12 08:41:27 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4850,7 +4850,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179045246309629952,
   "created_at" : "2012-03-12 03:24:47 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4872,7 +4872,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179011245029064705,
   "created_at" : "2012-03-12 01:09:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4894,7 +4894,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178964333898891266,
   "created_at" : "2012-03-11 22:03:16 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4916,7 +4916,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178943326207213568,
   "created_at" : "2012-03-11 20:39:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4952,7 +4952,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rougevelvet",
   "in_reply_to_user_id_str" : "29694396",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4985,7 +4985,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trickyidnego",
   "in_reply_to_user_id_str" : "225722000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5012,7 +5012,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178906176493334528,
   "created_at" : "2012-03-11 18:12:11 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5040,7 +5040,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178831729254076419,
   "created_at" : "2012-03-11 13:16:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5076,7 +5076,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mariequinnn",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5098,7 +5098,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178769349308452864,
   "created_at" : "2012-03-11 09:08:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5120,7 +5120,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178704717600407552,
   "created_at" : "2012-03-11 04:51:39 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5142,7 +5142,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178698629236785153,
   "created_at" : "2012-03-11 04:27:27 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178694016496443394,
   "created_at" : "2012-03-11 04:09:08 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5197,7 +5197,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "fingsandstuff",
   "in_reply_to_user_id_str" : "66564888",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5224,7 +5224,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178674900188397568,
   "created_at" : "2012-03-11 02:53:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5246,7 +5246,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178625255034716160,
   "created_at" : "2012-03-10 23:35:54 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5274,7 +5274,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178491879413919744,
   "created_at" : "2012-03-10 14:45:54 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5301,7 +5301,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178471898974392320,
   "created_at" : "2012-03-10 13:26:31 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5337,7 +5337,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "amandaschneider",
   "in_reply_to_user_id_str" : "192467817",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5359,7 +5359,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178451873882320896,
   "created_at" : "2012-03-10 12:06:56 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5384,7 +5384,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178446777505161217,
   "created_at" : "2012-03-10 11:46:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5409,7 +5409,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178445776740032513,
   "created_at" : "2012-03-10 11:42:43 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5431,7 +5431,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178435500238045185,
   "created_at" : "2012-03-10 11:01:53 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5464,7 +5464,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mariequinnn",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5486,7 +5486,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178394475641581568,
   "created_at" : "2012-03-10 08:18:52 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5508,7 +5508,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178383587618455553,
   "created_at" : "2012-03-10 07:35:36 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5539,7 +5539,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CharleySDG",
   "in_reply_to_user_id_str" : "350315797",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5561,7 +5561,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178366243366109184,
   "created_at" : "2012-03-10 06:26:40 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5594,7 +5594,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mariequinnn",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5619,7 +5619,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178071560081514496,
   "created_at" : "2012-03-09 10:55:42 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5652,7 +5652,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5674,7 +5674,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177993933228474368,
   "created_at" : "2012-03-09 05:47:15 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5707,7 +5707,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5732,7 +5732,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177982886132195328,
   "created_at" : "2012-03-09 05:03:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5759,7 +5759,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "LiltMyTea",
   "in_reply_to_user_id_str" : "148320906",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5781,7 +5781,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177953583797518337,
   "created_at" : "2012-03-09 03:06:55 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5803,7 +5803,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177945556574932994,
   "created_at" : "2012-03-09 02:35:01 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5836,7 +5836,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "elizestrydom",
   "in_reply_to_user_id_str" : "22588734",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5869,7 +5869,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dan__stonehouse",
   "in_reply_to_user_id_str" : "18575556",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5891,7 +5891,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177929004333006851,
   "created_at" : "2012-03-09 01:29:15 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5924,7 +5924,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "elizestrydom",
   "in_reply_to_user_id_str" : "22588734",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5960,7 +5960,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "seveniste",
   "in_reply_to_user_id_str" : "12979902",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5985,7 +5985,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177909867057643520,
   "created_at" : "2012-03-09 00:13:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6010,7 +6010,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177888717623656448,
   "created_at" : "2012-03-08 22:49:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6032,7 +6032,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177783372121243648,
   "created_at" : "2012-03-08 15:50:33 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6065,7 +6065,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "fingsandstuff",
   "in_reply_to_user_id_str" : "66564888",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6087,7 +6087,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177747013406965761,
   "created_at" : "2012-03-08 13:26:05 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6114,7 +6114,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177741107541708800,
   "created_at" : "2012-03-08 13:02:36 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6147,7 +6147,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rocknbee",
   "in_reply_to_user_id_str" : "145138705",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6169,7 +6169,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177652323961679872,
   "created_at" : "2012-03-08 07:09:49 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6202,7 +6202,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "StellaValour",
   "in_reply_to_user_id_str" : "314962860",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6224,7 +6224,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177615838197723136,
   "created_at" : "2012-03-08 04:44:50 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6251,7 +6251,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "megabichi",
   "in_reply_to_user_id_str" : "38154086",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6305,7 +6305,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177536956710912000,
   "created_at" : "2012-03-07 23:31:23 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6327,7 +6327,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177536457584558082,
   "created_at" : "2012-03-07 23:29:24 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6349,7 +6349,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177405426302844928,
   "created_at" : "2012-03-07 14:48:44 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6382,7 +6382,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CharleySDG",
   "in_reply_to_user_id_str" : "350315797",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6406,11 +6406,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "27845142",
       "id" : 27845142
     }, {
-      "name" : "sie \u2728\uD83D\uDD2A",
+      "name" : "sie \u26D3\uD83D\uDD2E\uD83C\uDF08 28",
       "screen_name" : "kissability",
       "indices" : [ 29, 41 ],
-      "id_str" : "797151622207934464",
-      "id" : 797151622207934464
+      "id_str" : "710261863536132096",
+      "id" : 710261863536132096
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6425,7 +6425,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "MinniexMonster",
   "in_reply_to_user_id_str" : "30399213",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6459,7 +6459,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177368022888103936,
   "created_at" : "2012-03-07 12:20:06 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6481,7 +6481,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177364065889423361,
   "created_at" : "2012-03-07 12:04:23 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6503,7 +6503,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177288776484261889,
   "created_at" : "2012-03-07 07:05:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6528,7 +6528,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177249729296609280,
   "created_at" : "2012-03-07 04:30:03 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6559,7 +6559,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6586,7 +6586,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177233744455929858,
   "created_at" : "2012-03-07 03:26:32 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6608,7 +6608,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177199922012110849,
   "created_at" : "2012-03-07 01:12:08 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6641,7 +6641,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6663,7 +6663,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177070517008863232,
   "created_at" : "2012-03-06 16:37:55 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6685,7 +6685,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177064384084967424,
   "created_at" : "2012-03-06 16:13:33 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6718,7 +6718,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "TimeOutForFun",
   "in_reply_to_user_id_str" : "390585270",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6756,7 +6756,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6768,7 +6768,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "getfucked",
+      "name" : "gemshines",
       "screen_name" : "gemlala",
       "indices" : [ 0, 8 ],
       "id_str" : "22241714",
@@ -6789,7 +6789,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "gemlala",
   "in_reply_to_user_id_str" : "22241714",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6811,7 +6811,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176985262797242368,
   "created_at" : "2012-03-06 10:59:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6844,7 +6844,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6877,7 +6877,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mizminh",
   "in_reply_to_user_id_str" : "9510792",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6902,7 +6902,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176909476002152448,
   "created_at" : "2012-03-06 05:58:00 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6924,7 +6924,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176875708084273152,
   "created_at" : "2012-03-06 03:43:49 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6946,7 +6946,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176866182144589824,
   "created_at" : "2012-03-06 03:05:58 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6968,7 +6968,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176834574146478080,
   "created_at" : "2012-03-06 01:00:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6990,7 +6990,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176831020535001089,
   "created_at" : "2012-03-06 00:46:15 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7012,7 +7012,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176813526755708928,
   "created_at" : "2012-03-05 23:36:44 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7034,7 +7034,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176687579834494976,
   "created_at" : "2012-03-05 15:16:16 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7056,7 +7056,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176676822979842048,
   "created_at" : "2012-03-05 14:33:31 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7078,7 +7078,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176572948046548993,
   "created_at" : "2012-03-05 07:40:46 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7111,7 +7111,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rougevelvet",
   "in_reply_to_user_id_str" : "29694396",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7133,7 +7133,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176548210972704768,
   "created_at" : "2012-03-05 06:02:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7155,7 +7155,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176519684412289024,
   "created_at" : "2012-03-05 04:09:06 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7188,7 +7188,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7210,7 +7210,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176501402280001536,
   "created_at" : "2012-03-05 02:56:28 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7232,7 +7232,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176325680798240769,
   "created_at" : "2012-03-04 15:18:12 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7254,7 +7254,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176291999710842880,
   "created_at" : "2012-03-04 13:04:22 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7287,7 +7287,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "amandaschneider",
   "in_reply_to_user_id_str" : "192467817",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7320,7 +7320,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tinyapples",
   "in_reply_to_user_id_str" : "24894012",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7353,7 +7353,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "annarchy",
   "in_reply_to_user_id_str" : "13238382",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7365,7 +7365,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock",
+      "name" : "Pam,who death forgot",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -7386,7 +7386,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "hacklocked",
   "in_reply_to_user_id_str" : "262970056",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7413,7 +7413,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "LiltMyTea",
   "in_reply_to_user_id_str" : "148320906",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7435,7 +7435,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176236218323963904,
   "created_at" : "2012-03-04 09:22:43 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7467,7 +7467,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176220556725723136,
   "created_at" : "2012-03-04 08:20:29 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7489,7 +7489,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176189588480598016,
   "created_at" : "2012-03-04 06:17:25 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7517,7 +7517,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176122232781803520,
   "created_at" : "2012-03-04 01:49:47 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7539,7 +7539,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176104228316659712,
   "created_at" : "2012-03-04 00:38:14 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7572,7 +7572,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AnnaMcGahan",
   "in_reply_to_user_id_str" : "339652698",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7594,7 +7594,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175925760475934720,
   "created_at" : "2012-03-03 12:49:04 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7627,7 +7627,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "fingsandstuff",
   "in_reply_to_user_id_str" : "66564888",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7654,7 +7654,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175906965791322113,
   "created_at" : "2012-03-03 11:34:23 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7676,7 +7676,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175876944833937409,
   "created_at" : "2012-03-03 09:35:05 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7698,7 +7698,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175777848932569089,
   "created_at" : "2012-03-03 03:01:19 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7731,7 +7731,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dfbiz",
   "in_reply_to_user_id_str" : "17498817",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7753,7 +7753,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175756443855765504,
   "created_at" : "2012-03-03 01:36:16 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7778,7 +7778,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175581973492940800,
   "created_at" : "2012-03-02 14:02:59 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7803,7 +7803,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175532733739708416,
   "created_at" : "2012-03-02 10:47:19 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7828,7 +7828,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175502106508275712,
   "created_at" : "2012-03-02 08:45:37 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7864,7 +7864,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175487444307808256,
   "created_at" : "2012-03-02 07:47:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7889,7 +7889,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175472917239447552,
   "created_at" : "2012-03-02 06:49:38 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7911,7 +7911,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175456852908314625,
   "created_at" : "2012-03-02 05:45:48 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7944,7 +7944,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7966,7 +7966,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175432143898554368,
   "created_at" : "2012-03-02 04:07:37 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7991,7 +7991,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175394228149555200,
   "created_at" : "2012-03-02 01:36:57 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8016,7 +8016,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175388746735304704,
   "created_at" : "2012-03-02 01:15:10 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8041,7 +8041,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175369586357710848,
   "created_at" : "2012-03-01 23:59:02 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8066,7 +8066,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175270209668657152,
   "created_at" : "2012-03-01 17:24:09 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8091,7 +8091,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175241512895004672,
   "created_at" : "2012-03-01 15:30:07 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8116,7 +8116,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175219716363796480,
   "created_at" : "2012-03-01 14:03:30 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8141,7 +8141,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175218246495109120,
   "created_at" : "2012-03-01 13:57:40 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8166,7 +8166,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175188277689729024,
   "created_at" : "2012-03-01 11:58:34 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8191,7 +8191,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175182363737862144,
   "created_at" : "2012-03-01 11:35:04 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8221,7 +8221,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175160307793145856,
   "created_at" : "2012-03-01 10:07:26 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8257,7 +8257,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8275,7 +8275,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "19749614",
       "id" : 19749614
     }, {
-      "name" : "MissWhiteMoth",
+      "name" : "Kris Judith White",
       "screen_name" : "misswhitemoth",
       "indices" : [ 17, 31 ],
       "id_str" : "14690376",
@@ -8299,7 +8299,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8324,7 +8324,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175140025049169920,
   "created_at" : "2012-03-01 08:46:50 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8363,7 +8363,7 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "NickiGirlStar",
   "in_reply_to_user_id_str" : "103263212",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8385,7 +8385,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175013953208991744,
   "created_at" : "2012-03-01 00:25:52 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8407,7 +8407,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 174998218030071808,
   "created_at" : "2012-02-29 23:23:21 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8429,7 +8429,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 174899527487209472,
   "created_at" : "2012-02-29 16:51:11 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8454,7 +8454,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 174877922111389697,
   "created_at" : "2012-02-29 15:25:20 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8481,7 +8481,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 174871970196889602,
   "created_at" : "2012-02-29 15:01:41 +0000",
   "user" : {
-    "name" : "\uD83D\uDC01\uD83D\uDC00",
+    "name" : "Joshua Byrd",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
