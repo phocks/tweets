@@ -3182,7 +3182,13 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4977,7 +4983,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83C\uDF84",
       "screen_name" : "battledinosaur",
       "indices" : [ 0, 15 ],
       "id_str" : "22708423",
@@ -6266,6 +6272,12 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
+    }, {
       "name" : "Miranda Forwood",
       "screen_name" : "mirandaforwood",
       "indices" : [ 13, 28 ],
@@ -9419,7 +9431,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "22451405",
       "id" : 22451405
     }, {
-      "name" : "Stop being a mole Judy.",
+      "name" : "Natalie literally means Christmas.",
       "screen_name" : "definatalie",
       "indices" : [ 78, 90 ],
       "id_str" : "11791522",

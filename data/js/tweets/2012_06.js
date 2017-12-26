@@ -355,7 +355,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 218683482375847936,
     "created_at" : "2012-06-29 12:32:59 +0000",
     "user" : {
-      "name" : "Amy",
+      "name" : "\u2728\uD83C\uDF4F\u2728 Amy",
       "screen_name" : "LiltMyTea",
       "protected" : false,
       "id_str" : "148320906",
@@ -5754,7 +5754,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Qui'stro_f'r",
+      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",

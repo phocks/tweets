@@ -890,28 +890,6 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "7044446737",
-  "text" : "boxing day, lace up the gloves",
-  "id" : 7044446737,
-  "created_at" : "2009-12-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
   "id_str" : "7017546984",
   "text" : "extended family visits, contemplating the evolution of christmas, from fading roots to gohills boots",
   "id" : 7017546984,
@@ -938,6 +916,50 @@ Grailbird.data.tweets_2009_12 =
   "text" : "mum's pulled out the wuthering heights. watching it now with the dogs. oh dear heathcliff..",
   "id" : 7025188096,
   "created_at" : "2009-12-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7044446737",
+  "text" : "boxing day, lace up the gloves",
+  "id" : 7044446737,
+  "created_at" : "2009-12-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "7014351110",
+  "text" : "stacked it on chelsea's rip-stick",
+  "id" : 7014351110,
+  "created_at" : "2009-12-24 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1216,28 +1238,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "7000980075",
   "text" : "\"a very merry xmas & a happy new year, let's hope it's a good one, without any fears\" ~lennon",
   "id" : 7000980075,
-  "created_at" : "2009-12-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "7014351110",
-  "text" : "stacked it on chelsea's rip-stick",
-  "id" : 7014351110,
   "created_at" : "2009-12-24 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -1919,6 +1919,50 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "6846449694",
+  "text" : "slept in, unsurprisingly. ha! dashed half-baked plans for brekfast at sizzler",
+  "id" : 6846449694,
+  "created_at" : "2009-12-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6848009942",
+  "text" : "finally found a park! it's chaos here..",
+  "id" : 6848009942,
+  "created_at" : "2009-12-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "6848610551",
   "text" : "boost juice don't take plastic.. anyone else stupid enough to brave the chermside crowd?",
   "id" : 6848610551,
@@ -2060,10 +2104,10 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6846449694",
-  "text" : "slept in, unsurprisingly. ha! dashed half-baked plans for brekfast at sizzler",
-  "id" : 6846449694,
-  "created_at" : "2009-12-20 00:00:00 +0000",
+  "id_str" : "6826235598",
+  "text" : "esky packed, joint birthday party awaits. happy birthday danny boy & mello",
+  "id" : 6826235598,
+  "created_at" : "2009-12-19 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2082,10 +2126,10 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6848009942",
-  "text" : "finally found a park! it's chaos here..",
-  "id" : 6848009942,
-  "created_at" : "2009-12-20 00:00:00 +0000",
+  "id_str" : "6826919567",
+  "text" : "30 centimetre plush laying horse & unicorn",
+  "id" : 6826919567,
+  "created_at" : "2009-12-19 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2173,50 +2217,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6820603628",
   "text" : "the second i make it to mum's for a visit she's already put me to work. sorting through a lot of my old toys and trinkets..",
   "id" : 6820603628,
-  "created_at" : "2009-12-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6826235598",
-  "text" : "esky packed, joint birthday party awaits. happy birthday danny boy & mello",
-  "id" : 6826235598,
-  "created_at" : "2009-12-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6826919567",
-  "text" : "30 centimetre plush laying horse & unicorn",
-  "id" : 6826919567,
   "created_at" : "2009-12-19 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -3102,6 +3102,61 @@ Grailbird.data.tweets_2009_12 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amanda Hausfrau",
+      "screen_name" : "iamhausfrau",
+      "indices" : [ 0, 12 ],
+      "id_str" : "17461024",
+      "id" : 17461024
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "6642130172",
+  "geo" : { },
+  "id_str" : "6644931990",
+  "in_reply_to_user_id" : 17461024,
+  "text" : "@iamhausfrau http:\/\/motorola.com\/milestone",
+  "id" : 6644931990,
+  "in_reply_to_status_id" : 6642130172,
+  "created_at" : "2009-12-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "iamhausfrau",
+  "in_reply_to_user_id_str" : "17461024",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6645879222",
+  "text" : "backing up data from old phone",
+  "id" : 6645879222,
+  "created_at" : "2009-12-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/spring.me\" rel=\"nofollow\"\u003ESpring.me\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3236,27 +3291,16 @@ Grailbird.data.tweets_2009_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amanda Hausfrau",
-      "screen_name" : "iamhausfrau",
-      "indices" : [ 0, 12 ],
-      "id_str" : "17461024",
-      "id" : 17461024
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "6642130172",
   "geo" : { },
-  "id_str" : "6644931990",
-  "in_reply_to_user_id" : 17461024,
-  "text" : "@iamhausfrau http:\/\/motorola.com\/milestone",
-  "id" : 6644931990,
-  "in_reply_to_status_id" : 6642130172,
-  "created_at" : "2009-12-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "iamhausfrau",
-  "in_reply_to_user_id_str" : "17461024",
+  "id_str" : "6628541841",
+  "text" : "putting down the book, final chapter can wait. eyelids are ten thousand pound weights. farewell weekend warriors",
+  "id" : 6628541841,
+  "created_at" : "2009-12-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3275,10 +3319,10 @@ Grailbird.data.tweets_2009_12 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "6645879222",
-  "text" : "backing up data from old phone",
-  "id" : 6645879222,
-  "created_at" : "2009-12-14 00:00:00 +0000",
+  "id_str" : "6641498327",
+  "text" : "new android phone has arrived in brisbane! may be delivered today.. hopefully http:\/\/bit.ly\/76esLp",
+  "id" : 6641498327,
+  "created_at" : "2009-12-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3410,50 +3454,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6627396877",
   "text" : "conjurations of new year's resolutions",
   "id" : 6627396877,
-  "created_at" : "2009-12-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6628541841",
-  "text" : "putting down the book, final chapter can wait. eyelids are ten thousand pound weights. farewell weekend warriors",
-  "id" : 6628541841,
-  "created_at" : "2009-12-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6641498327",
-  "text" : "new android phone has arrived in brisbane! may be delivered today.. hopefully http:\/\/bit.ly\/76esLp",
-  "id" : 6641498327,
   "created_at" : "2009-12-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -4215,6 +4215,105 @@ Grailbird.data.tweets_2009_12 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "m",
+      "screen_name" : "melwonderland",
+      "indices" : [ 0, 14 ],
+      "id_str" : "709671175660691456",
+      "id" : 709671175660691456
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "6357302160",
+  "geo" : { },
+  "id_str" : "6487805315",
+  "in_reply_to_user_id" : 90996540,
+  "text" : "@melwonderland the show on friday was quite a spectacle. we played rudolph the red nodes reindeer!",
+  "id" : 6487805315,
+  "in_reply_to_status_id" : 6357302160,
+  "created_at" : "2009-12-09 00:00:00 +0000",
+  "in_reply_to_screen_name" : "melwondermusic",
+  "in_reply_to_user_id_str" : "90996540",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6488109601",
+  "text" : "stumbleupon extension for chrome beta is rather lacklustre. sticking still with firefox",
+  "id" : 6488109601,
+  "created_at" : "2009-12-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6488761589",
+  "text" : "a vespa ride to the city, taking refuge in air-conditioned record shopping",
+  "id" : 6488761589,
+  "created_at" : "2009-12-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6489924357",
+  "text" : "found the who sell out & a quick one. tis the season, sweet spirit of consumerism",
+  "id" : 6489924357,
+  "created_at" : "2009-12-09 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4433,105 +4532,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6483331617",
   "text" : "thought it appropriate & about time i made an amazon.com wishlist http:\/\/amazon.com\/wishlist\/3KSKGFIJTXL94\/",
   "id" : 6483331617,
-  "created_at" : "2009-12-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "m",
-      "screen_name" : "melwonderland",
-      "indices" : [ 0, 14 ],
-      "id_str" : "709671175660691456",
-      "id" : 709671175660691456
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6357302160",
-  "geo" : { },
-  "id_str" : "6487805315",
-  "in_reply_to_user_id" : 90996540,
-  "text" : "@melwonderland the show on friday was quite a spectacle. we played rudolph the red nodes reindeer!",
-  "id" : 6487805315,
-  "in_reply_to_status_id" : 6357302160,
-  "created_at" : "2009-12-09 00:00:00 +0000",
-  "in_reply_to_screen_name" : "melwondermusic",
-  "in_reply_to_user_id_str" : "90996540",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6488109601",
-  "text" : "stumbleupon extension for chrome beta is rather lacklustre. sticking still with firefox",
-  "id" : 6488109601,
-  "created_at" : "2009-12-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6488761589",
-  "text" : "a vespa ride to the city, taking refuge in air-conditioned record shopping",
-  "id" : 6488761589,
-  "created_at" : "2009-12-09 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6489924357",
-  "text" : "found the who sell out & a quick one. tis the season, sweet spirit of consumerism",
-  "id" : 6489924357,
   "created_at" : "2009-12-09 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -5324,6 +5324,105 @@ Grailbird.data.tweets_2009_12 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6322949694",
+  "text" : "so little sleep last night. so much coffee needed to stay upright today",
+  "id" : 6322949694,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6324191544",
+  "text" : "edward cullen = crepuscular",
+  "id" : 6324191544,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Laurene tomczak",
+      "screen_name" : "Laureneeee",
+      "indices" : [ 0, 11 ],
+      "id_str" : "260484239",
+      "id" : 260484239
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "6319184013",
+  "geo" : { },
+  "id_str" : "6324870921",
+  "in_reply_to_user_id" : 23405315,
+  "text" : "@laureneeee stone roses",
+  "id" : 6324870921,
+  "in_reply_to_status_id" : 6319184013,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "in_reply_to_screen_name" : "friendlylozza",
+  "in_reply_to_user_id_str" : "23405315",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "6325813762",
+  "text" : "google is trying to hijack the internet again. meh http:\/\/bit.ly\/8uzwvl",
+  "id" : 6325813762,
+  "created_at" : "2009-12-04 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "btub",
       "indices" : [ 34, 39 ]
@@ -5524,105 +5623,6 @@ Grailbird.data.tweets_2009_12 =
   "id_str" : "6335727319",
   "text" : "clubhouse coming. on stage at midnight",
   "id" : 6335727319,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6322949694",
-  "text" : "so little sleep last night. so much coffee needed to stay upright today",
-  "id" : 6322949694,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6324191544",
-  "text" : "edward cullen = crepuscular",
-  "id" : 6324191544,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Laurene tomczak",
-      "screen_name" : "Laureneeee",
-      "indices" : [ 0, 11 ],
-      "id_str" : "260484239",
-      "id" : 260484239
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "6319184013",
-  "geo" : { },
-  "id_str" : "6324870921",
-  "in_reply_to_user_id" : 23405315,
-  "text" : "@laureneeee stone roses",
-  "id" : 6324870921,
-  "in_reply_to_status_id" : 6319184013,
-  "created_at" : "2009-12-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "friendlylozza",
-  "in_reply_to_user_id_str" : "23405315",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "6325813762",
-  "text" : "google is trying to hijack the internet again. meh http:\/\/bit.ly\/8uzwvl",
-  "id" : 6325813762,
   "created_at" : "2009-12-04 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

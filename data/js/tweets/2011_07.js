@@ -4794,7 +4794,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Qui'stro_f'r",
+      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -5581,7 +5581,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -5920,7 +5920,7 @@ Grailbird.data.tweets_2011_07 =
     "id" : 90396954252689408,
     "created_at" : "2011-07-11 12:28:08 +0000",
     "user" : {
-      "name" : "Amy",
+      "name" : "\u2728\uD83C\uDF4F\u2728 Amy",
       "screen_name" : "LiltMyTea",
       "protected" : false,
       "id_str" : "148320906",
@@ -6876,7 +6876,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18926366",
       "id" : 18926366
     }, {
-      "name" : "Glen Maddern \uD83D\uDE0E",
+      "name" : "\uD835\uDD3Elen \uD835\uDD44addern \uD83D\uDE0E",
       "screen_name" : "glenmaddern",
       "indices" : [ 32, 44 ],
       "id_str" : "16664291",
@@ -7197,7 +7197,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",

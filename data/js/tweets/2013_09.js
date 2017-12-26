@@ -901,7 +901,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash \uD83D\uDC10",
+      "name" : "Ash Kyd",
       "screen_name" : "AshKyd",
       "indices" : [ 0, 7 ],
       "id_str" : "5111011",
@@ -1454,7 +1454,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1579,21 +1579,21 @@ Grailbird.data.tweets_2013_09 =
       "id" : 382601615238127616,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BU9GJFbCYAA9RQJ.jpg",
       "sizes" : [ {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 1200
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
       }, {
         "h" : 453,
         "resize" : "fit",
         "w" : 680
       }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
         "h" : 1365,
         "resize" : "fit",
         "w" : 2048
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       }, {
         "h" : 1365,
         "resize" : "fit",
@@ -2932,7 +2932,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "6989",
       "id" : 6989
     }, {
-      "name" : "Charlie Gleason \uD83C\uDF08",
+      "name" : "Charlie Gleason",
       "screen_name" : "superhighfives",
       "indices" : [ 12, 27 ],
       "id_str" : "6808",
@@ -4375,7 +4375,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree Mateljan",
+      "name" : "Byrnn Mandeljams",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -5836,7 +5836,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "megabichi",
       "protected" : false,
       "id_str" : "38154086",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925385398825766912\/ykcOhrN-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
       "verified" : false
     }

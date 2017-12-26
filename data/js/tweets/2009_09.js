@@ -854,6 +854,111 @@ Grailbird.data.tweets_2009_09 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.myspace.com\/sync\" rel=\"nofollow\"\u003EMySpace\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4336252326",
+  "text" : "logging into myspace for the first time in maybe a year. testing out two-way twitter sync ... http:\/\/lnk.ms\/21QpR",
+  "id" : 4336252326,
+  "created_at" : "2009-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4336809625",
+  "text" : "scribbling setlists for tonight",
+  "id" : 4336809625,
+  "created_at" : "2009-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ben Connolly",
+      "screen_name" : "bensconnolly",
+      "indices" : [ 0, 13 ],
+      "id_str" : "49351173",
+      "id" : 49351173
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "4336902125",
+  "geo" : { },
+  "id_str" : "4337049324",
+  "in_reply_to_user_id" : 18789291,
+  "text" : "@BensConnolly no we will not play any chisel! well.. maybe something from \"You're Thirteen, You're Beautiful, and You're Mine\" hmmmm :\\",
+  "id" : 4337049324,
+  "in_reply_to_status_id" : 4336902125,
+  "created_at" : "2009-09-24 00:00:00 +0000",
+  "in_reply_to_screen_name" : "AlbionLoveDen",
+  "in_reply_to_user_id_str" : "18789291",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Strange Attractors",
+      "screen_name" : "attractors",
+      "indices" : [ 6, 17 ],
+      "id_str" : "7387832",
+      "id" : 7387832
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4337394511",
+  "text" : "quick @attractors run through then taking the gear up",
+  "id" : 4337394511,
+  "created_at" : "2009-09-24 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1129,111 +1234,6 @@ Grailbird.data.tweets_2009_09 =
   "id_str" : "4335575493",
   "text" : "@tamarakong the fallout has mostly blown over, though i've heard there may be more on its way this weekend",
   "id" : 4335575493,
-  "created_at" : "2009-09-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.myspace.com\/sync\" rel=\"nofollow\"\u003EMySpace\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4336252326",
-  "text" : "logging into myspace for the first time in maybe a year. testing out two-way twitter sync ... http:\/\/lnk.ms\/21QpR",
-  "id" : 4336252326,
-  "created_at" : "2009-09-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4336809625",
-  "text" : "scribbling setlists for tonight",
-  "id" : 4336809625,
-  "created_at" : "2009-09-24 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ben Connolly",
-      "screen_name" : "bensconnolly",
-      "indices" : [ 0, 13 ],
-      "id_str" : "49351173",
-      "id" : 49351173
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4336902125",
-  "geo" : { },
-  "id_str" : "4337049324",
-  "in_reply_to_user_id" : 18789291,
-  "text" : "@BensConnolly no we will not play any chisel! well.. maybe something from \"You're Thirteen, You're Beautiful, and You're Mine\" hmmmm :\\",
-  "id" : 4337049324,
-  "in_reply_to_status_id" : 4336902125,
-  "created_at" : "2009-09-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AlbionLoveDen",
-  "in_reply_to_user_id_str" : "18789291",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Strange Attractors",
-      "screen_name" : "attractors",
-      "indices" : [ 6, 17 ],
-      "id_str" : "7387832",
-      "id" : 7387832
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4337394511",
-  "text" : "quick @attractors run through then taking the gear up",
-  "id" : 4337394511,
   "created_at" : "2009-09-24 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James",
+      "name" : "Reindeer James",
       "screen_name" : "jamestinniswood",
       "indices" : [ 0, 16 ],
       "id_str" : "18632506",
@@ -2028,8 +2028,52 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4115320107",
+  "text" : "sleepy sunday. jamming down in new farm thisarv",
+  "id" : 4115320107,
+  "created_at" : "2009-09-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4117139672",
+  "text" : "I favorited a YouTube video -- Playing Monopoly City in high speed http:\/\/bit.ly\/19zkT0",
+  "id" : 4117139672,
+  "created_at" : "2009-09-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
-      "name" : "scott \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "\uD83C\uDF84 scottmas",
       "screen_name" : "scottsues",
       "indices" : [ 0, 10 ],
       "id_str" : "35589929",
@@ -2200,10 +2244,10 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "4115320107",
-  "text" : "sleepy sunday. jamming down in new farm thisarv",
-  "id" : 4115320107,
-  "created_at" : "2009-09-20 00:00:00 +0000",
+  "id_str" : "4099132708",
+  "text" : "helping cook calamari salad",
+  "id" : 4099132708,
+  "created_at" : "2009-09-19 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2214,18 +2258,29 @@ Grailbird.data.tweets_2009_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Muzza",
+      "screen_name" : "Muzzzza",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14118977",
+      "id" : 14118977
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "4099775607",
   "geo" : { },
-  "id_str" : "4117139672",
-  "text" : "I favorited a YouTube video -- Playing Monopoly City in high speed http:\/\/bit.ly\/19zkT0",
-  "id" : 4117139672,
-  "created_at" : "2009-09-20 00:00:00 +0000",
+  "id_str" : "4099820297",
+  "in_reply_to_user_id" : 14118977,
+  "text" : "@Muzzzza what a coincidence, lady madonna just came on here!  soz couldn't make it there. rock one out for me!",
+  "id" : 4099820297,
+  "in_reply_to_status_id" : 4099775607,
+  "created_at" : "2009-09-19 00:00:00 +0000",
+  "in_reply_to_screen_name" : "Muzzzza",
+  "in_reply_to_user_id_str" : "14118977",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2292,61 +2347,6 @@ Grailbird.data.tweets_2009_09 =
   "text" : "trying to find out if there's anything interesting happening today here in brisbane..",
   "id" : 4097345406,
   "created_at" : "2009-09-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4099132708",
-  "text" : "helping cook calamari salad",
-  "id" : 4099132708,
-  "created_at" : "2009-09-19 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Muzza",
-      "screen_name" : "Muzzzza",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14118977",
-      "id" : 14118977
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "4099775607",
-  "geo" : { },
-  "id_str" : "4099820297",
-  "in_reply_to_user_id" : 14118977,
-  "text" : "@Muzzzza what a coincidence, lady madonna just came on here!  soz couldn't make it there. rock one out for me!",
-  "id" : 4099820297,
-  "in_reply_to_status_id" : 4099775607,
-  "created_at" : "2009-09-19 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Muzzzza",
-  "in_reply_to_user_id_str" : "14118977",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kiara Price",
+      "name" : "Kiaramas",
       "screen_name" : "ki25",
       "indices" : [ 0, 5 ],
       "id_str" : "16664006",
@@ -3275,6 +3275,56 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "3967026013",
+  "text" : "new coffee types arrived for the espresso machine: amabile, ricco, dolce, & delicato. closing in on caffeine heaven",
+  "id" : 3967026013,
+  "created_at" : "2009-09-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "YouTube",
+      "screen_name" : "YouTube",
+      "indices" : [ 15, 23 ],
+      "id_str" : "10228272",
+      "id" : 10228272
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3968370705",
+  "text" : "so essentially @youtube are refusing me the \"phocks\" username, despite the account being closed & it being my google account name. fuckers..",
+  "id" : 3968370705,
+  "created_at" : "2009-09-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "3970070455",
   "text" : "dream girl #115 http:\/\/phocks.org\/p\/452",
   "id" : 3970070455,
@@ -3385,10 +3435,10 @@ Grailbird.data.tweets_2009_09 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3967026013",
-  "text" : "new coffee types arrived for the espresso machine: amabile, ricco, dolce, & delicato. closing in on caffeine heaven",
-  "id" : 3967026013,
-  "created_at" : "2009-09-14 00:00:00 +0000",
+  "id_str" : "3952623133",
+  "text" : "the beatles just fixed my life..",
+  "id" : 3952623133,
+  "created_at" : "2009-09-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3401,22 +3451,16 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "YouTube",
-      "screen_name" : "YouTube",
-      "indices" : [ 15, 23 ],
-      "id_str" : "10228272",
-      "id" : 10228272
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "3968370705",
-  "text" : "so essentially @youtube are refusing me the \"phocks\" username, despite the account being closed & it being my google account name. fuckers..",
-  "id" : 3968370705,
-  "created_at" : "2009-09-14 00:00:00 +0000",
+  "id_str" : "3964088299",
+  "text" : "see the suits on the corner, the haircuts in the alley",
+  "id" : 3964088299,
+  "created_at" : "2009-09-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3538,50 +3582,6 @@ Grailbird.data.tweets_2009_09 =
   "created_at" : "2009-09-13 00:00:00 +0000",
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3952623133",
-  "text" : "the beatles just fixed my life..",
-  "id" : 3952623133,
-  "created_at" : "2009-09-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3964088299",
-  "text" : "see the suits on the corner, the haircuts in the alley",
-  "id" : 3964088299,
-  "created_at" : "2009-09-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4518,28 +4518,6 @@ Grailbird.data.tweets_2009_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3818076527",
-  "text" : "searching for good stock audio",
-  "id" : 3818076527,
-  "created_at" : "2009-09-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/flickr.com\/services\/twitter\/\" rel=\"nofollow\"\u003EFlickr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4596,6 +4574,50 @@ Grailbird.data.tweets_2009_09 =
   "text" : "forgotten m&ms left in the fridge are satisfying the soul, but for how long? time to go. run rabbit run",
   "id" : 3815011928,
   "created_at" : "2009-09-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3818076527",
+  "text" : "searching for good stock audio",
+  "id" : 3818076527,
+  "created_at" : "2009-09-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "3807112752",
+  "text" : "grabbing the guitar, not leaving it in the car",
+  "id" : 3807112752,
+  "created_at" : "2009-09-06 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4927,28 +4949,6 @@ Grailbird.data.tweets_2009_09 =
   "id_str" : "3801013798",
   "text" : "awaiting the spell of sleep",
   "id" : 3801013798,
-  "created_at" : "2009-09-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "3807112752",
-  "text" : "grabbing the guitar, not leaving it in the car",
-  "id" : 3807112752,
   "created_at" : "2009-09-06 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

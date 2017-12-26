@@ -409,6 +409,12 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
       "id" : 326518931
+    }, {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 14, 26 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3249,7 +3255,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "\uD83C\uDF84 Hack-banthenazis-lock \uD83C\uDF84",
+      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
       "screen_name" : "hacklocked",
       "indices" : [ 29, 40 ],
       "id_str" : "262970056",
@@ -3339,7 +3345,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3394,7 +3406,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3690,7 +3708,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84 Hack-banthenazis-lock \uD83C\uDF84",
+      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -6196,7 +6214,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree Mateljan",
+      "name" : "Byrnn Mandeljams",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -6593,7 +6611,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cassie",
+      "name" : "Merry Kit-mas",
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",

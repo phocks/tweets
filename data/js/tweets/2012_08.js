@@ -599,10 +599,6 @@ Grailbird.data.tweets_2012_08 =
       "id" : 240630665954086913,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A1bkUNZCUAEEJYL.jpg",
       "sizes" : [ {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 846
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -614,6 +610,10 @@ Grailbird.data.tweets_2012_08 =
         "h" : 1406,
         "resize" : "fit",
         "w" : 991
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 846
       }, {
         "h" : 1406,
         "resize" : "fit",
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Money Lion",
+      "name" : "\uFF32\uFF35\uFF2D\uFF2F\uFF2B\uFF2F",
       "screen_name" : "RUMOKO",
       "indices" : [ 0, 7 ],
       "id_str" : "1352881",
@@ -2870,7 +2870,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "117199326",
       "id" : 117199326
     }, {
-      "name" : "Cassie",
+      "name" : "Merry Kit-mas",
       "screen_name" : "KittenFlower",
       "indices" : [ 26, 39 ],
       "id_str" : "40785142",
@@ -5213,7 +5213,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ban the mf nazis from twiter already kthx",
+      "name" : "CRONCHMAS",
       "screen_name" : "quiteawful",
       "indices" : [ 0, 11 ],
       "id_str" : "909185826",
@@ -5249,7 +5249,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ban the mf nazis from twiter already kthx",
+      "name" : "CRONCHMAS",
       "screen_name" : "quiteawful",
       "indices" : [ 0, 11 ],
       "id_str" : "909185826",

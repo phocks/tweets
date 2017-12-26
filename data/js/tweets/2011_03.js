@@ -2203,7 +2203,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "[Needs Witty Christmas Name]",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -3225,7 +3225,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James\uD83E\uDD86\uD83E\uDD96Hutson",
+      "name" : "James\uD83C\uDF08\uD83D\uDC8D\uD83D\uDE4CHutson",
       "screen_name" : "jameshutson",
       "indices" : [ 3, 15 ],
       "id_str" : "14850190",
@@ -3252,7 +3252,7 @@ Grailbird.data.tweets_2011_03 =
     "id" : 50339995545911296,
     "created_at" : "2011-03-22 23:36:04 +0000",
     "user" : {
-      "name" : "James\uD83E\uDD86\uD83E\uDD96Hutson",
+      "name" : "James\uD83C\uDF08\uD83D\uDC8D\uD83D\uDE4CHutson",
       "screen_name" : "jameshutson",
       "protected" : false,
       "id_str" : "14850190",
@@ -8733,7 +8733,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "15695207",
       "id" : 15695207
     }, {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 61, 70 ],
       "id_str" : "3638351",

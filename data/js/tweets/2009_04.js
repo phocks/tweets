@@ -8,6 +8,56 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1657274772",
+  "text" : "unusually sleepy before the show, just doing last minute promo. bummed that the shirt i want to wear, a button fell off it.. hmm",
+  "id" : 1657274772,
+  "created_at" : "2009-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Drawn from Bees",
+      "screen_name" : "drawnfrombees",
+      "indices" : [ 9, 23 ],
+      "id_str" : "21547668",
+      "id" : 21547668
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1657532124",
+  "text" : "watching @drawnfrombees soundcheck. a little intimidated, ha! we're up next",
+  "id" : 1657532124,
+  "created_at" : "2009-04-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1657754112",
   "text" : "up at hynes st. button sewed. kate's cat has gone missing. heading back down to rics soon. you should stop by. starts at 9:45",
   "id" : 1657754112,
@@ -83,56 +133,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1664068318",
   "text" : "enjoying the new twitter layout, though the @attractors account has had it for quite some time. about to make a trip to the post office",
   "id" : 1664068318,
-  "created_at" : "2009-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1657274772",
-  "text" : "unusually sleepy before the show, just doing last minute promo. bummed that the shirt i want to wear, a button fell off it.. hmm",
-  "id" : 1657274772,
-  "created_at" : "2009-04-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Drawn from Bees",
-      "screen_name" : "drawnfrombees",
-      "indices" : [ 9, 23 ],
-      "id_str" : "21547668",
-      "id" : 21547668
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1657532124",
-  "text" : "watching @drawnfrombees soundcheck. a little intimidated, ha! we're up next",
-  "id" : 1657532124,
   "created_at" : "2009-04-30 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -361,6 +361,12 @@ Grailbird.data.tweets_2009_04 =
       "indices" : [ 93, 104 ],
       "id_str" : "16270196",
       "id" : 16270196
+    }, {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 107, 119 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1226,6 +1232,100 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1581140177",
+  "text" : "wrote a new song, on a sunny afternoon, we'll be there soon, lying down, flying around, trying, dying, buying, frying, conspiring, defying..",
+  "id" : 1581140177,
+  "created_at" : "2009-04-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brenda Lee",
+      "screen_name" : "Snow_white84",
+      "indices" : [ 37, 50 ],
+      "id_str" : "159644574",
+      "id" : 159644574
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1582182693",
+  "text" : "will be at rics tonight listening to @snow_white84's dj set & watching Moon Jog electro it up",
+  "id" : 1582182693,
+  "created_at" : "2009-04-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1582649596",
+  "text" : "where's my camera? got a photoshoot to do..",
+  "id" : 1582649596,
+  "created_at" : "2009-04-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1583424129",
+  "text" : "popped over to mum's to pick up the PA warranty. thinking about the emergence of a new aristocracy of the spirit",
+  "id" : 1583424129,
+  "created_at" : "2009-04-22 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1585133709",
   "text" : "brunswick blah..",
   "id" : 1585133709,
@@ -1328,100 +1428,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1580726255",
   "text" : "diggin' stuff http:\/\/digg.com\/users\/phocks",
   "id" : 1580726255,
-  "created_at" : "2009-04-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1581140177",
-  "text" : "wrote a new song, on a sunny afternoon, we'll be there soon, lying down, flying around, trying, dying, buying, frying, conspiring, defying..",
-  "id" : 1581140177,
-  "created_at" : "2009-04-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Brenda Lee",
-      "screen_name" : "Snow_white84",
-      "indices" : [ 37, 50 ],
-      "id_str" : "159644574",
-      "id" : 159644574
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1582182693",
-  "text" : "will be at rics tonight listening to @snow_white84's dj set & watching Moon Jog electro it up",
-  "id" : 1582182693,
-  "created_at" : "2009-04-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1582649596",
-  "text" : "where's my camera? got a photoshoot to do..",
-  "id" : 1582649596,
-  "created_at" : "2009-04-22 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1583424129",
-  "text" : "popped over to mum's to pick up the PA warranty. thinking about the emergence of a new aristocracy of the spirit",
-  "id" : 1583424129,
   "created_at" : "2009-04-22 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -2277,6 +2283,114 @@ Grailbird.data.tweets_2009_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/wefollow.com\" rel=\"nofollow\"\u003EWefollow\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "sex",
+      "indices" : [ 70, 74 ]
+    }, {
+      "text" : "drugs",
+      "indices" : [ 75, 81 ]
+    }, {
+      "text" : "rocknroll",
+      "indices" : [ 82, 92 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1530041837",
+  "text" : "just added myself to the http:\/\/wefollow.com twitter directory under: #sex #drugs #rocknroll",
+  "id" : 1530041837,
+  "created_at" : "2009-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1530500469",
+  "text" : "mind battles, a toss up, between going across the road for lunch, or saving the cash and starving.. fasting i mean",
+  "id" : 1530500469,
+  "created_at" : "2009-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1530884014",
+  "text" : "miraculously found some mini plum puddings in the kitchen. looks like i'll not be going hungry today!",
+  "id" : 1530884014,
+  "created_at" : "2009-04-16 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Emma Gunders",
+      "screen_name" : "EmmaGunders",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1171425133",
+      "id" : 1171425133
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1530852620",
+  "geo" : { },
+  "id_str" : "1530937368",
+  "in_reply_to_user_id" : 15425872,
+  "text" : "@EmmaGunders i haven't played Creatures in forever! i'm half inspired to try to dig up my old norns, and play god again",
+  "id" : 1530937368,
+  "in_reply_to_status_id" : 1530852620,
+  "created_at" : "2009-04-16 00:00:00 +0000",
+  "in_reply_to_screen_name" : "these_heights",
+  "in_reply_to_user_id_str" : "15425872",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -2463,114 +2577,6 @@ Grailbird.data.tweets_2009_04 =
   "text" : "craving a little stimulation",
   "id" : 1529627240,
   "created_at" : "2009-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/wefollow.com\" rel=\"nofollow\"\u003EWefollow\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "sex",
-      "indices" : [ 70, 74 ]
-    }, {
-      "text" : "drugs",
-      "indices" : [ 75, 81 ]
-    }, {
-      "text" : "rocknroll",
-      "indices" : [ 82, 92 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1530041837",
-  "text" : "just added myself to the http:\/\/wefollow.com twitter directory under: #sex #drugs #rocknroll",
-  "id" : 1530041837,
-  "created_at" : "2009-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1530500469",
-  "text" : "mind battles, a toss up, between going across the road for lunch, or saving the cash and starving.. fasting i mean",
-  "id" : 1530500469,
-  "created_at" : "2009-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1530884014",
-  "text" : "miraculously found some mini plum puddings in the kitchen. looks like i'll not be going hungry today!",
-  "id" : 1530884014,
-  "created_at" : "2009-04-16 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Emma Gunders",
-      "screen_name" : "EmmaGunders",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1171425133",
-      "id" : 1171425133
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1530852620",
-  "geo" : { },
-  "id_str" : "1530937368",
-  "in_reply_to_user_id" : 15425872,
-  "text" : "@EmmaGunders i haven't played Creatures in forever! i'm half inspired to try to dig up my old norns, and play god again",
-  "id" : 1530937368,
-  "in_reply_to_status_id" : 1530852620,
-  "created_at" : "2009-04-16 00:00:00 +0000",
-  "in_reply_to_screen_name" : "these_heights",
-  "in_reply_to_user_id_str" : "15425872",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3631,6 +3637,105 @@ Grailbird.data.tweets_2009_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "1468173657",
+  "text" : "rolling down the beaten track homeward, will be wandering up to alibi at around 8 to quell corona cravings",
+  "id" : 1468173657,
+  "created_at" : "2009-04-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "screen_name" : "memily",
+      "indices" : [ 0, 7 ],
+      "id_str" : "5949072",
+      "id" : 5949072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "1468097134",
+  "geo" : { },
+  "id_str" : "1468386204",
+  "in_reply_to_user_id" : 5949072,
+  "text" : "@memily thanks, it was a very serene day, broken only by the pouring rain during the killers",
+  "id" : 1468386204,
+  "in_reply_to_status_id" : 1468097134,
+  "created_at" : "2009-04-07 00:00:00 +0000",
+  "in_reply_to_screen_name" : "memily",
+  "in_reply_to_user_id_str" : "5949072",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1468599026",
+  "text" : "a quick listen to \"i am the resurrection\", a quick facebook profile image change, then i'll be on my way up the street to the alibi",
+  "id" : 1468599026,
+  "created_at" : "2009-04-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "1469599653",
+  "text" : "freaking out, just a bit, situations in heads, getting the better of each other",
+  "id" : 1469599653,
+  "created_at" : "2009-04-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "1466592592",
   "text" : "i keep finding strands of long blonde hair everywhere, everywhere.. hmm",
   "id" : 1466592592,
@@ -3722,105 +3827,6 @@ Grailbird.data.tweets_2009_04 =
   "id_str" : "1468084823",
   "text" : "posting late 365 project photos, and quite enjoying this v festival skyline taken from my phone cam http:\/\/twurl.nl\/p18paa",
   "id" : 1468084823,
-  "created_at" : "2009-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1468173657",
-  "text" : "rolling down the beaten track homeward, will be wandering up to alibi at around 8 to quell corona cravings",
-  "id" : 1468173657,
-  "created_at" : "2009-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
-      "screen_name" : "memily",
-      "indices" : [ 0, 7 ],
-      "id_str" : "5949072",
-      "id" : 5949072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "1468097134",
-  "geo" : { },
-  "id_str" : "1468386204",
-  "in_reply_to_user_id" : 5949072,
-  "text" : "@memily thanks, it was a very serene day, broken only by the pouring rain during the killers",
-  "id" : 1468386204,
-  "in_reply_to_status_id" : 1468097134,
-  "created_at" : "2009-04-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "memily",
-  "in_reply_to_user_id_str" : "5949072",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1468599026",
-  "text" : "a quick listen to \"i am the resurrection\", a quick facebook profile image change, then i'll be on my way up the street to the alibi",
-  "id" : 1468599026,
-  "created_at" : "2009-04-07 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "1469599653",
-  "text" : "freaking out, just a bit, situations in heads, getting the better of each other",
-  "id" : 1469599653,
   "created_at" : "2009-04-07 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -3945,7 +3951,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke \uD83C\uDF08",
+      "name" : "Luke Actually \uD83C\uDF81",
       "screen_name" : "lukerhn",
       "indices" : [ 0, 8 ],
       "id_str" : "345553",

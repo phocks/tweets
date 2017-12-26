@@ -967,7 +967,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "14422754",
       "id" : 14422754
     }, {
-      "name" : "Your Favourite Tweeter (me)",
+      "name" : "Mr. Bob Dobalina",
       "screen_name" : "ErikVeland",
       "indices" : [ 10, 21 ],
       "id_str" : "15080202",
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stop being a mole Judy.",
+      "name" : "Natalie literally means Christmas.",
       "screen_name" : "definatalie",
       "indices" : [ 71, 83 ],
       "id_str" : "11791522",
@@ -2262,7 +2262,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -2733,7 +2733,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash \uD83D\uDC10",
+      "name" : "Ash Kyd",
       "screen_name" : "AshKyd",
       "indices" : [ 0, 7 ],
       "id_str" : "5111011",
@@ -4302,7 +4302,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "8844972",
       "id" : 8844972
     }, {
-      "name" : "\uD83C\uDF84 Hack-banthenazis-lock \uD83C\uDF84",
+      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
       "screen_name" : "hacklocked",
       "indices" : [ 10, 21 ],
       "id_str" : "262970056",
@@ -4597,7 +4597,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash \uD83D\uDC10",
+      "name" : "Ash Kyd",
       "screen_name" : "AshKyd",
       "indices" : [ 0, 7 ],
       "id_str" : "5111011",
@@ -5098,7 +5098,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "907835672",
       "id" : 907835672
     }, {
-      "name" : "Your Favourite Tweeter (me)",
+      "name" : "Mr. Bob Dobalina",
       "screen_name" : "ErikVeland",
       "indices" : [ 21, 32 ],
       "id_str" : "15080202",
@@ -5131,7 +5131,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Your Favourite Tweeter (me)",
+      "name" : "Mr. Bob Dobalina",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

@@ -1008,6 +1008,10 @@ Grailbird.data.tweets_2013_06 =
       "id" : 349593770939006976,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BNoBrrSCQAA6ltA.jpg",
       "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
         "h" : 764,
         "resize" : "fit",
         "w" : 1024
@@ -1023,10 +1027,6 @@ Grailbird.data.tweets_2013_06 =
         "h" : 764,
         "resize" : "fit",
         "w" : 1024
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
       } ],
       "display_url" : "pic.twitter.com\/PNf5ttkUya"
     } ],
@@ -1860,7 +1860,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree Mateljan",
+      "name" : "Byrnn Mandeljams",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -2323,7 +2323,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "12196972",
       "id" : 12196972
     }, {
-      "name" : "Epictetus",
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
       "screen_name" : "memily",
       "indices" : [ 26, 33 ],
       "id_str" : "5949072",
@@ -2842,21 +2842,21 @@ Grailbird.data.tweets_2013_06 =
       "id" : 347014153199841280,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BNDXiKWCcAAoyG1.jpg",
       "sizes" : [ {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 640
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 453
+      }, {
         "h" : 960,
         "resize" : "fit",
         "w" : 640
       }, {
-        "h" : 680,
+        "h" : 960,
         "resize" : "fit",
-        "w" : 453
+        "w" : 640
       }, {
         "h" : 960,
         "resize" : "fit",

@@ -354,6 +354,99 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Ali Batman",
+      "screen_name" : "ivyandthedrips",
+      "indices" : [ 3, 18 ],
+      "id_str" : "24154994",
+      "id" : 24154994
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "MasterChef",
+      "indices" : [ 67, 78 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "13067238688",
+  "text" : "RT @ivyandthedrips: Australia has never seen so many grown men cry #MasterChef",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/lifestream.aim.com\" rel=\"nofollow\"\u003EAIM\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "MasterChef",
+        "indices" : [ 47, 58 ]
+      } ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "13061549107",
+    "text" : "Australia has never seen so many grown men cry #MasterChef",
+    "id" : 13061549107,
+    "created_at" : "2010-04-29 10:32:34 +0000",
+    "user" : {
+      "name" : "Ali Batman",
+      "screen_name" : "ivyandthedrips",
+      "protected" : false,
+      "id_str" : "24154994",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520949070961991680\/fdVK4Jzv_normal.jpeg",
+      "id" : 24154994,
+      "verified" : false
+    }
+  },
+  "id" : 13067238688,
+  "created_at" : "2010-04-29 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Black",
+      "screen_name" : "peterjblack",
+      "indices" : [ 0, 12 ],
+      "id_str" : "754714",
+      "id" : 754714
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "masterchef",
+      "indices" : [ 40, 51 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13066622787",
+  "geo" : { },
+  "id_str" : "13067504694",
+  "in_reply_to_user_id" : 754714,
+  "text" : "@peterjblack devon was eliminated. devo #masterchef",
+  "id" : 13067504694,
+  "in_reply_to_status_id" : 13066622787,
+  "created_at" : "2010-04-29 00:00:00 +0000",
+  "in_reply_to_screen_name" : "peterjblack",
+  "in_reply_to_user_id_str" : "754714",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Jeff Howe",
       "screen_name" : "crowdsourcing",
       "indices" : [ 3, 17 ],
@@ -647,99 +740,6 @@ Grailbird.data.tweets_2010_04 =
   "text" : "web streaming #masterchef cause the tv died. was it good?",
   "id" : 13066518855,
   "created_at" : "2010-04-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ali Batman",
-      "screen_name" : "ivyandthedrips",
-      "indices" : [ 3, 18 ],
-      "id_str" : "24154994",
-      "id" : 24154994
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "MasterChef",
-      "indices" : [ 67, 78 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "13067238688",
-  "text" : "RT @ivyandthedrips: Australia has never seen so many grown men cry #MasterChef",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/lifestream.aim.com\" rel=\"nofollow\"\u003EAIM\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "MasterChef",
-        "indices" : [ 47, 58 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "13061549107",
-    "text" : "Australia has never seen so many grown men cry #MasterChef",
-    "id" : 13061549107,
-    "created_at" : "2010-04-29 10:32:34 +0000",
-    "user" : {
-      "name" : "Ali Batman",
-      "screen_name" : "ivyandthedrips",
-      "protected" : false,
-      "id_str" : "24154994",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520949070961991680\/fdVK4Jzv_normal.jpeg",
-      "id" : 24154994,
-      "verified" : false
-    }
-  },
-  "id" : 13067238688,
-  "created_at" : "2010-04-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Peter Black",
-      "screen_name" : "peterjblack",
-      "indices" : [ 0, 12 ],
-      "id_str" : "754714",
-      "id" : 754714
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "masterchef",
-      "indices" : [ 40, 51 ]
-    } ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "13066622787",
-  "geo" : { },
-  "id_str" : "13067504694",
-  "in_reply_to_user_id" : 754714,
-  "text" : "@peterjblack devon was eliminated. devo #masterchef",
-  "id" : 13067504694,
-  "in_reply_to_status_id" : 13066622787,
-  "created_at" : "2010-04-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "peterjblack",
-  "in_reply_to_user_id_str" : "754714",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1697,50 +1697,6 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12822978595",
-  "text" : "unbeatable at connect 4 up at dorothy's",
-  "id" : 12822978595,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12799520393",
-  "text" : "upon the twitter stream, the articulate assemblage of words emerge, they themselves a gathering afloat, held up by lofty aspirations",
-  "id" : 12799520393,
-  "created_at" : "2010-04-25 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
@@ -1784,6 +1740,50 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12813159499",
   "text" : "skating dangerously close to the line that separates deliciousness and epic brainfreeze, scoffing a large slurpee before the bus comes",
   "id" : 12813159499,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12822978595",
+  "text" : "unbeatable at connect 4 up at dorothy's",
+  "id" : 12822978595,
+  "created_at" : "2010-04-25 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12799520393",
+  "text" : "upon the twitter stream, the articulate assemblage of words emerge, they themselves a gathering afloat, held up by lofty aspirations",
+  "id" : 12799520393,
   "created_at" : "2010-04-25 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -2629,6 +2629,61 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "jacq",
+      "screen_name" : "jacqray",
+      "indices" : [ 0, 8 ],
+      "id_str" : "69229772",
+      "id" : 69229772
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "12440246921",
+  "geo" : { },
+  "id_str" : "12486448305",
+  "in_reply_to_user_id" : 69229772,
+  "text" : "@jacqray if only i had a way of getting it down there. can't take it on the highways. might just buy another in melbourne",
+  "id" : 12486448305,
+  "in_reply_to_status_id" : 12440246921,
+  "created_at" : "2010-04-20 00:00:00 +0000",
+  "in_reply_to_screen_name" : "jacqray",
+  "in_reply_to_user_id_str" : "69229772",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "12488105032",
+  "text" : "resignation written communication",
+  "id" : 12488105032,
+  "created_at" : "2010-04-20 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3009,61 +3064,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12486170056",
   "text" : "mind's already on an early lunch. will catch up with it soon",
   "id" : 12486170056,
-  "created_at" : "2010-04-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "jacq",
-      "screen_name" : "jacqray",
-      "indices" : [ 0, 8 ],
-      "id_str" : "69229772",
-      "id" : 69229772
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "12440246921",
-  "geo" : { },
-  "id_str" : "12486448305",
-  "in_reply_to_user_id" : 69229772,
-  "text" : "@jacqray if only i had a way of getting it down there. can't take it on the highways. might just buy another in melbourne",
-  "id" : 12486448305,
-  "in_reply_to_status_id" : 12440246921,
-  "created_at" : "2010-04-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jacqray",
-  "in_reply_to_user_id_str" : "69229772",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12488105032",
-  "text" : "resignation written communication",
-  "id" : 12488105032,
   "created_at" : "2010-04-20 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -4085,6 +4085,28 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "12135987313",
+  "text" : "and so the giant rube goldberg machine of life is set in motion",
+  "id" : 12135987313,
+  "created_at" : "2010-04-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "12140967678",
   "text" : "eight shots spent & reloaded, and that explains the spool on the wrong side, the film slips roll to roll, partner swapping for development",
   "id" : 12140967678,
@@ -4173,10 +4195,10 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "12135987313",
-  "text" : "and so the giant rube goldberg machine of life is set in motion",
-  "id" : 12135987313,
-  "created_at" : "2010-04-14 00:00:00 +0000",
+  "id_str" : "12129639394",
+  "text" : "morning glory, and life's a different story",
+  "id" : 12129639394,
+  "created_at" : "2010-04-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4438,28 +4460,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12127573159",
   "text" : "a clean room, what a novel concept",
   "id" : 12127573159,
-  "created_at" : "2010-04-13 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "12129639394",
-  "text" : "morning glory, and life's a different story",
-  "id" : 12129639394,
   "created_at" : "2010-04-13 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -5077,6 +5077,50 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "11916733130",
+  "text" : "fun bath times ;)",
+  "id" : 11916733130,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11920750420",
+  "text" : "returning a shirt",
+  "id" : 11920750420,
+  "created_at" : "2010-04-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "11923467480",
   "text" : "i go to borders, while she looks for shoes. how did i end up holding all the bags? lol",
   "id" : 11923467480,
@@ -5348,50 +5392,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11945812276",
   "text" : "walking back from new farm park frisbee. fletch found a bike",
   "id" : 11945812276,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11916733130",
-  "text" : "fun bath times ;)",
-  "id" : 11916733130,
-  "created_at" : "2010-04-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11920750420",
-  "text" : "returning a shirt",
-  "id" : 11920750420,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -6484,6 +6484,50 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "11635808493",
+  "text" : "out & in",
+  "id" : 11635808493,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11651307863",
+  "text" : "end celebrations, begin preparations",
+  "id" : 11651307863,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "11655016727",
   "text" : "the reacquaintance with that other realm, that dream state is proving impossible",
   "id" : 11655016727,
@@ -6692,7 +6736,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "TheMonicaShow",
       "protected" : false,
       "id_str" : "93123286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/922277676274069504\/ghIXbQQO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943932406960189440\/o2bD6Eca_normal.jpg",
       "id" : 93123286,
       "verified" : false
     }
@@ -6742,50 +6786,6 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "11619800479",
   "text" : "I'm at Royal George Hotel (Brunswick St Mall, Ann St, Brisbane). http:\/\/4sq.com\/cppwe1",
   "id" : 11619800479,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11635808493",
-  "text" : "out & in",
-  "id" : 11635808493,
-  "created_at" : "2010-04-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11651307863",
-  "text" : "end celebrations, begin preparations",
-  "id" : 11651307863,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

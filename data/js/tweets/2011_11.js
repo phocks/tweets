@@ -851,7 +851,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "5949072",
       "id" : 5949072
     }, {
-      "name" : "\uD83C\uDF84 good king wenspargo \uD83C\uDF84",
+      "name" : "\uD83C\uDF84Anna Sleighbells-Ringin' \u2744\uFE0F\uD83C\uDF84",
       "screen_name" : "annaspargoryan",
       "indices" : [ 71, 86 ],
       "id_str" : "20012387",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Qui'stro_f'r",
+      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -1825,7 +1825,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84 good king wenspargo \uD83C\uDF84",
+      "name" : "\uD83C\uDF84Anna Sleighbells-Ringin' \u2744\uFE0F\uD83C\uDF84",
       "screen_name" : "annaspargoryan",
       "indices" : [ 0, 15 ],
       "id_str" : "20012387",
@@ -6253,7 +6253,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "megabichi",
       "protected" : false,
       "id_str" : "38154086",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925385398825766912\/ykcOhrN-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
       "verified" : false
     }
@@ -7428,7 +7428,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Qui'stro_f'r",
+      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -7876,7 +7876,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 133141238701490176,
     "created_at" : "2011-11-06 11:18:39 +0000",
     "user" : {
-      "name" : "Amy",
+      "name" : "\u2728\uD83C\uDF4F\u2728 Amy",
       "screen_name" : "LiltMyTea",
       "protected" : false,
       "id_str" : "148320906",
@@ -9097,7 +9097,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellie CK",
+      "name" : "Merry CK \uD83C\uDF84",
       "screen_name" : "EllieCK",
       "indices" : [ 0, 8 ],
       "id_str" : "15528938",

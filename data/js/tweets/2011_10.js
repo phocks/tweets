@@ -682,7 +682,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83C\uDF84",
       "screen_name" : "battledinosaur",
       "indices" : [ 3, 18 ],
       "id_str" : "22708423",
@@ -709,11 +709,11 @@ Grailbird.data.tweets_2011_10 =
     "id" : 130165141626032129,
     "created_at" : "2011-10-29 06:12:42 +0000",
     "user" : {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83C\uDF84",
       "screen_name" : "battledinosaur",
       "protected" : false,
       "id_str" : "22708423",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/841339276411428865\/Fm7_hD64_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943374051535233024\/ELOevexg_normal.jpg",
       "id" : 22708423,
       "verified" : false
     }
@@ -5007,7 +5007,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sam \uD83C\uDF08",
+      "name" : "Sam \uD83C\uDF84",
       "screen_name" : "battledinosaur",
       "indices" : [ 1, 16 ],
       "id_str" : "22708423",
@@ -8203,7 +8203,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

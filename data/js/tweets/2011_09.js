@@ -4957,7 +4957,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",
@@ -5096,9 +5096,9 @@ Grailbird.data.tweets_2011_09 =
       "id" : 114506206944567296,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AZbOyd2CIAAKKCd.jpg",
       "sizes" : [ {
-        "h" : 680,
+        "h" : 1024,
         "resize" : "fit",
-        "w" : 507
+        "w" : 764
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -5108,9 +5108,9 @@ Grailbird.data.tweets_2011_09 =
         "resize" : "fit",
         "w" : 764
       }, {
-        "h" : 1024,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 764
+        "w" : 507
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -5187,9 +5187,9 @@ Grailbird.data.tweets_2011_09 =
       "id" : 114298205289721856,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AZYRnLTCMAAeCvV.jpg",
       "sizes" : [ {
-        "h" : 680,
+        "h" : 1024,
         "resize" : "fit",
-        "w" : 507
+        "w" : 764
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -5199,9 +5199,9 @@ Grailbird.data.tweets_2011_09 =
         "resize" : "fit",
         "w" : 764
       }, {
-        "h" : 1024,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 764
+        "w" : 507
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -5583,25 +5583,25 @@ Grailbird.data.tweets_2011_09 =
       "id" : 114135470228779009,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AZV9mv9CMAEWPdi.png",
       "sizes" : [ {
+        "h" : 839,
+        "resize" : "fit",
+        "w" : 587
+      }, {
         "h" : 680,
         "resize" : "fit",
         "w" : 476
       }, {
+        "h" : 839,
+        "resize" : "fit",
+        "w" : 587
+      }, {
+        "h" : 839,
+        "resize" : "fit",
+        "w" : 587
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 839,
-        "resize" : "fit",
-        "w" : 587
-      }, {
-        "h" : 839,
-        "resize" : "fit",
-        "w" : 587
-      }, {
-        "h" : 839,
-        "resize" : "fit",
-        "w" : 587
       } ],
       "display_url" : "pic.twitter.com\/3d3ogrHD"
     } ],
@@ -6412,6 +6412,12 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 0, 12 ],
       "id_str" : "3093954488",
       "id" : 3093954488
+    }, {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 123, 135 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
     } ],
     "media" : [ ],
     "hashtags" : [ ],

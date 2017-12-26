@@ -823,13 +823,13 @@ Grailbird.data.tweets_2012_07 =
         "resize" : "fit",
         "w" : 2048
       }, {
-        "h" : 900,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
         "h" : 1536,
         "resize" : "fit",
         "w" : 2048
+      }, {
+        "h" : 900,
+        "resize" : "fit",
+        "w" : 1200
       }, {
         "h" : 510,
         "resize" : "fit",
@@ -2196,7 +2196,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Billie-Ella\u26A1",
+      "name" : "E L L A",
       "screen_name" : "treasurecunt",
       "indices" : [ 0, 13 ],
       "id_str" : "2221563814",
@@ -3034,7 +3034,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911731907284525057\/takhfDz5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943798706431713280\/5wk3k_Y0_normal.jpg",
       "id" : 14709131,
       "verified" : false
     }

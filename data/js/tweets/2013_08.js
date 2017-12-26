@@ -2850,7 +2850,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -3957,21 +3957,21 @@ Grailbird.data.tweets_2013_08 =
       "id" : 364708235904696321,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BQ-0NU_CQAExTe6.png",
       "sizes" : [ {
+        "h" : 552,
+        "resize" : "fit",
+        "w" : 652
+      }, {
+        "h" : 552,
+        "resize" : "fit",
+        "w" : 652
+      }, {
+        "h" : 552,
+        "resize" : "fit",
+        "w" : 652
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 652
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 652
-      }, {
-        "h" : 552,
-        "resize" : "fit",
-        "w" : 652
       }, {
         "h" : 552,
         "resize" : "fit",
@@ -4937,7 +4937,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "megabichi",
       "protected" : false,
       "id_str" : "38154086",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925385398825766912\/ykcOhrN-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
       "verified" : false
     }
@@ -4957,7 +4957,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDC99\uD83D\uDC24\uD83D\uDC24\uD83D\uDC24Chrissie of Sussex\uD83D\uDC24\uD83D\uDC24\uD83D\uDC24\uD83D\uDC99",
+      "name" : "\uD835\uDFD9\uD835\uDFE1\uD835\uDFE0\uD835\uDFDF \uD835\uDD38\uD835\uDD5F\uD835\uDD58\uD835\uDD56\uD835\uDD5D \u2102\uD835\uDD59\uD835\uDD63\uD835\uDD5A\uD835\uDD64\uD835\uDD64\uD835\uDD5A\uD835\uDD56",
       "screen_name" : "ChrissieM",
       "indices" : [ 0, 10 ],
       "id_str" : "592662115",

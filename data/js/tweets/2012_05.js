@@ -2582,7 +2582,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul Kidd \uD83E\uDD89",
+      "name" : "Paul I Want For Xmas Is You \uD83C\uDF85\uD83C\uDFFB",
       "screen_name" : "paulkidd",
       "indices" : [ 0, 9 ],
       "id_str" : "14071129",
@@ -3866,7 +3866,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "3936150799",
       "id" : 3936150799
     }, {
-      "name" : "Scott 'Johnny Emojis' Williams \u263A\uD83D\uDE0E\uD83D\uDE16\uD83D\uDE3A\uD83D\uDC74\uD83D\uDC4C\uD83D\uDC5E\uD83D\uDCB9\uD83C\uDF84\uD83C\uDFB7",
+      "name" : "Teenage Mutant Ninja Turtledove",
       "screen_name" : "scottowilliams",
       "indices" : [ 12, 27 ],
       "id_str" : "45299787",
@@ -4052,7 +4052,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84 Hack-banthenazis-lock \uD83C\uDF84",
+      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -5247,7 +5247,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

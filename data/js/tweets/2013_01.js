@@ -4238,7 +4238,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -4819,7 +4819,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "10134092",
       "id" : 10134092
     }, {
-      "name" : "\uD83D\uDC99\uD83D\uDC24\uD83D\uDC24\uD83D\uDC24Chrissie of Sussex\uD83D\uDC24\uD83D\uDC24\uD83D\uDC24\uD83D\uDC99",
+      "name" : "\uD835\uDFD9\uD835\uDFE1\uD835\uDFE0\uD835\uDFDF \uD835\uDD38\uD835\uDD5F\uD835\uDD58\uD835\uDD56\uD835\uDD5D \u2102\uD835\uDD59\uD835\uDD63\uD835\uDD5A\uD835\uDD64\uD835\uDD64\uD835\uDD5A\uD835\uDD56",
       "screen_name" : "ChrissieM",
       "indices" : [ 10, 20 ],
       "id_str" : "592662115",
@@ -5109,14 +5109,6 @@ Grailbird.data.tweets_2013_01 =
       "id" : 285978877199777792,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A_gARgzCAAAs4KD.jpg",
       "sizes" : [ {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -5128,6 +5120,14 @@ Grailbird.data.tweets_2013_01 =
         "h" : 680,
         "resize" : "fit",
         "w" : 510
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
       } ],
       "display_url" : "pic.twitter.com\/tNjQCSO8"
     } ],

@@ -350,6 +350,61 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "screen_name" : "memily",
+      "indices" : [ 0, 7 ],
+      "id_str" : "5949072",
+      "id" : 5949072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11309876009",
+  "geo" : { },
+  "id_str" : "11309951252",
+  "in_reply_to_user_id" : 5949072,
+  "text" : "@memily no worries. meanwhile i'm still starving........",
+  "id" : 11309951252,
+  "in_reply_to_status_id" : 11309876009,
+  "created_at" : "2010-03-30 00:00:00 +0000",
+  "in_reply_to_screen_name" : "memily",
+  "in_reply_to_user_id_str" : "5949072",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11310757508",
+  "text" : "sweet seven eleven run remedy",
+  "id" : 11310757508,
+  "created_at" : "2010-03-30 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -765,61 +820,6 @@ Grailbird.data.tweets_2010_03 =
   "id_str" : "11309558566",
   "text" : "what? no bread? you've got to be kidding me!",
   "id" : 11309558566,
-  "created_at" : "2010-03-30 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
-      "screen_name" : "memily",
-      "indices" : [ 0, 7 ],
-      "id_str" : "5949072",
-      "id" : 5949072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11309876009",
-  "geo" : { },
-  "id_str" : "11309951252",
-  "in_reply_to_user_id" : 5949072,
-  "text" : "@memily no worries. meanwhile i'm still starving........",
-  "id" : 11309951252,
-  "in_reply_to_status_id" : 11309876009,
-  "created_at" : "2010-03-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "memily",
-  "in_reply_to_user_id_str" : "5949072",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11310757508",
-  "text" : "sweet seven eleven run remedy",
-  "id" : 11310757508,
   "created_at" : "2010-03-30 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -1274,6 +1274,28 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "11126035197",
+  "text" : "overheard: boys could never be girls",
+  "id" : 11126035197,
+  "created_at" : "2010-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "11130362195",
   "text" : "in the mood for a cyclone",
   "id" : 11130362195,
@@ -1560,10 +1582,43 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "11126035197",
-  "text" : "overheard: boys could never be girls",
-  "id" : 11126035197,
-  "created_at" : "2010-03-27 00:00:00 +0000",
+  "id_str" : "11092601657",
+  "text" : "out. escapade",
+  "id" : 11092601657,
+  "created_at" : "2010-03-26 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "felicity-anne erro",
+      "screen_name" : "felicityFALLEN",
+      "indices" : [ 0, 15 ],
+      "id_str" : "67487590",
+      "id" : 67487590
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "11095322495",
+  "geo" : { },
+  "id_str" : "11100749641",
+  "in_reply_to_user_id" : 67487590,
+  "text" : "@felicityFALLEN just home from the great beyond. wishing your weekend well. until tomorrow. goodnight.",
+  "id" : 11100749641,
+  "in_reply_to_status_id" : 11095322495,
+  "created_at" : "2010-03-26 00:00:00 +0000",
+  "in_reply_to_screen_name" : "felicityFALLEN",
+  "in_reply_to_user_id_str" : "67487590",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1848,61 +1903,6 @@ Grailbird.data.tweets_2010_03 =
   "created_at" : "2010-03-26 00:00:00 +0000",
   "in_reply_to_screen_name" : "aimeeholly",
   "in_reply_to_user_id_str" : "16281100",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "11092601657",
-  "text" : "out. escapade",
-  "id" : 11092601657,
-  "created_at" : "2010-03-26 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "felicity-anne erro",
-      "screen_name" : "felicityFALLEN",
-      "indices" : [ 0, 15 ],
-      "id_str" : "67487590",
-      "id" : 67487590
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "11095322495",
-  "geo" : { },
-  "id_str" : "11100749641",
-  "in_reply_to_user_id" : 67487590,
-  "text" : "@felicityFALLEN just home from the great beyond. wishing your weekend well. until tomorrow. goodnight.",
-  "id" : 11100749641,
-  "in_reply_to_status_id" : 11095322495,
-  "created_at" : "2010-03-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "felicityFALLEN",
-  "in_reply_to_user_id_str" : "67487590",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2493,6 +2493,84 @@ Grailbird.data.tweets_2010_03 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10905997314",
+  "text" : "who kicked a hole in the sky so the heavens would cry over me? \u266B http:\/\/blip.fm\/~ndf6n",
+  "id" : 10905997314,
+  "created_at" : "2010-03-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10906986418",
+  "text" : "wet sock from the boot-hole in my soul",
+  "id" : 10906986418,
+  "created_at" : "2010-03-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Adam",
+      "screen_name" : "sublimal",
+      "indices" : [ 14, 23 ],
+      "id_str" : "14489943",
+      "id" : 14489943
+    }, {
+      "name" : "Foursquare",
+      "screen_name" : "Foursquare",
+      "indices" : [ 56, 67 ],
+      "id_str" : "804341497441255424",
+      "id" : 804341497441255424
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10907192234",
+  "text" : "I just ousted @sublimal as the mayor of Sakura Sushi on @foursquare! http:\/\/4sq.com\/7dCudb",
+  "id" : 10907192234,
+  "created_at" : "2010-03-23 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2673,7 +2751,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "[Needs Witty Christmas Name]",
       "screen_name" : "djackmanson",
       "indices" : [ 3, 15 ],
       "id_str" : "2366841",
@@ -2787,84 +2865,6 @@ Grailbird.data.tweets_2010_03 =
   "id_str" : "10900755477",
   "text" : "booking tickets to a streetcar named desire",
   "id" : 10900755477,
-  "created_at" : "2010-03-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10905997314",
-  "text" : "who kicked a hole in the sky so the heavens would cry over me? \u266B http:\/\/blip.fm\/~ndf6n",
-  "id" : 10905997314,
-  "created_at" : "2010-03-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10906986418",
-  "text" : "wet sock from the boot-hole in my soul",
-  "id" : 10906986418,
-  "created_at" : "2010-03-23 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Adam",
-      "screen_name" : "sublimal",
-      "indices" : [ 14, 23 ],
-      "id_str" : "14489943",
-      "id" : 14489943
-    }, {
-      "name" : "Foursquare",
-      "screen_name" : "Foursquare",
-      "indices" : [ 56, 67 ],
-      "id_str" : "804341497441255424",
-      "id" : 804341497441255424
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10907192234",
-  "text" : "I just ousted @sublimal as the mayor of Sakura Sushi on @foursquare! http:\/\/4sq.com\/7dCudb",
-  "id" : 10907192234,
   "created_at" : "2010-03-23 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -3994,6 +3994,83 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "10693109253",
+  "text" : "overheard on the ferny grove line: this is a test message. \"testing\". lol",
+  "id" : 10693109253,
+  "created_at" : "2010-03-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10695025957",
+  "text" : "new screen protector came for the droid. how does it still sense touch straight through the plastic? amazing!",
+  "id" : 10695025957,
+  "created_at" : "2010-03-18 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anna",
+      "screen_name" : "annasamara",
+      "indices" : [ 0, 11 ],
+      "id_str" : "30395406",
+      "id" : 30395406
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "10692677245",
+  "geo" : { },
+  "id_str" : "10695877599",
+  "in_reply_to_user_id" : 30395406,
+  "text" : "@annasamara thismorning it was a pair of quite loud girls discussing relationships who inspired the tweet",
+  "id" : 10695877599,
+  "in_reply_to_status_id" : 10692677245,
+  "created_at" : "2010-03-18 00:00:00 +0000",
+  "in_reply_to_screen_name" : "annasamara",
+  "in_reply_to_user_id_str" : "30395406",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "10696166075",
   "text" : "wow, this really takes me back to pre-2008 when you could still tweet directly from gtalk. ah the memories.. http:\/\/tweet.im",
   "id" : 10696166075,
@@ -4317,83 +4394,6 @@ Grailbird.data.tweets_2010_03 =
   "text" : "connecting trains, faces, etymology at central",
   "id" : 10692600873,
   "created_at" : "2010-03-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10693109253",
-  "text" : "overheard on the ferny grove line: this is a test message. \"testing\". lol",
-  "id" : 10693109253,
-  "created_at" : "2010-03-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10695025957",
-  "text" : "new screen protector came for the droid. how does it still sense touch straight through the plastic? amazing!",
-  "id" : 10695025957,
-  "created_at" : "2010-03-18 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Anna",
-      "screen_name" : "annasamara",
-      "indices" : [ 0, 11 ],
-      "id_str" : "30395406",
-      "id" : 30395406
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "10692677245",
-  "geo" : { },
-  "id_str" : "10695877599",
-  "in_reply_to_user_id" : 30395406,
-  "text" : "@annasamara thismorning it was a pair of quite loud girls discussing relationships who inspired the tweet",
-  "id" : 10695877599,
-  "in_reply_to_status_id" : 10692677245,
-  "created_at" : "2010-03-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "annasamara",
-  "in_reply_to_user_id_str" : "30395406",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4968,6 +4968,81 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "10500856653",
+  "text" : "tearing up the old bank card. good riddance commonwealth!",
+  "id" : 10500856653,
+  "created_at" : "2010-03-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Laura Kirkham",
+      "screen_name" : "laurakirkham",
+      "indices" : [ 0, 13 ],
+      "id_str" : "22483027",
+      "id" : 22483027
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10506361768",
+  "in_reply_to_user_id" : 22483027,
+  "text" : "@laurakirkham http:\/\/twitpic.com\/18pglp - this is quite possibly the best thing i've seen.. ever",
+  "id" : 10506361768,
+  "created_at" : "2010-03-15 00:00:00 +0000",
+  "in_reply_to_screen_name" : "laurakirkham",
+  "in_reply_to_user_id_str" : "22483027",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10508060816",
+  "text" : "final flights on this stationary ship, last one left battling renegade dns configurations. redirect you rebel scum!",
+  "id" : 10508060816,
+  "created_at" : "2010-03-15 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "10512714333",
   "text" : "at mum's, saying hi, collecting a mattress & other tidbits. she has a migraine and patches is barking hysterically at something outside..",
   "id" : 10512714333,
@@ -5226,81 +5301,6 @@ Grailbird.data.tweets_2010_03 =
   "id_str" : "10498280432",
   "text" : "new photo: the sprites of saturday night http:\/\/flic.kr\/p\/7KLF28",
   "id" : 10498280432,
-  "created_at" : "2010-03-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10500856653",
-  "text" : "tearing up the old bank card. good riddance commonwealth!",
-  "id" : 10500856653,
-  "created_at" : "2010-03-15 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Laura Kirkham",
-      "screen_name" : "laurakirkham",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22483027",
-      "id" : 22483027
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10506361768",
-  "in_reply_to_user_id" : 22483027,
-  "text" : "@laurakirkham http:\/\/twitpic.com\/18pglp - this is quite possibly the best thing i've seen.. ever",
-  "id" : 10506361768,
-  "created_at" : "2010-03-15 00:00:00 +0000",
-  "in_reply_to_screen_name" : "laurakirkham",
-  "in_reply_to_user_id_str" : "22483027",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10508060816",
-  "text" : "final flights on this stationary ship, last one left battling renegade dns configurations. redirect you rebel scum!",
-  "id" : 10508060816,
   "created_at" : "2010-03-15 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -6193,6 +6193,28 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "10305484218",
+  "text" : "over to see the trippster to grab my film and leech some shows, while he pulls some bills",
+  "id" : 10305484218,
+  "created_at" : "2010-03-11 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "10306288952",
   "text" : "so hungry i could eat a jockey and ride the horse to freedom",
   "id" : 10306288952,
@@ -6427,10 +6449,32 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "10305484218",
-  "text" : "over to see the trippster to grab my film and leech some shows, while he pulls some bills",
-  "id" : 10305484218,
-  "created_at" : "2010-03-11 00:00:00 +0000",
+  "id_str" : "10280277879",
+  "text" : "mosquitoes suck!",
+  "id" : 10280277879,
+  "created_at" : "2010-03-10 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10295664770",
+  "text" : "pleasant morning wake up call. now maybe won't sleep the day away. where's this protest thingy tonight?",
+  "id" : 10295664770,
+  "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -6727,50 +6771,6 @@ Grailbird.data.tweets_2010_03 =
   "id_str" : "10278035375",
   "text" : "@mandyschneider i'd be interested in what a scientologist's concept of the devil would be. perhaps it is people like you and me",
   "id" : 10278035375,
-  "created_at" : "2010-03-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10280277879",
-  "text" : "mosquitoes suck!",
-  "id" : 10280277879,
-  "created_at" : "2010-03-10 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10295664770",
-  "text" : "pleasant morning wake up call. now maybe won't sleep the day away. where's this protest thingy tonight?",
-  "id" : 10295664770,
   "created_at" : "2010-03-10 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -7470,6 +7470,87 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10011214474",
+  "text" : "a colony of black ants seem to be invading my desk. i assume they are after my sugar",
+  "id" : 10011214474,
+  "created_at" : "2010-03-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "depressed, darling",
+      "screen_name" : "pressedstarling",
+      "indices" : [ 3, 19 ],
+      "id_str" : "94484772",
+      "id" : 94484772
+    }, {
+      "name" : "Josh \uD83D\uDC26",
+      "screen_name" : "phocks",
+      "indices" : [ 21, 28 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10013349246",
+  "text" : "RT @pressedstarling: @phocks first you get the sugar, then you get the money, then you get the women.",
+  "id" : 10013349246,
+  "created_at" : "2010-03-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "btub",
+      "indices" : [ 37, 42 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "10014204471",
+  "text" : "homeward bound. double date tonight. #btub after perhaps, if you're lucky",
+  "id" : 10014204471,
+  "created_at" : "2010-03-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Kate Edwards",
       "screen_name" : "KateEdwards",
@@ -7686,87 +7767,6 @@ Grailbird.data.tweets_2010_03 =
   "id_str" : "10009162025",
   "text" : "always a laugh, follow some of the loonies on the path @phocks\/bnemusic #followfriday",
   "id" : 10009162025,
-  "created_at" : "2010-03-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10011214474",
-  "text" : "a colony of black ants seem to be invading my desk. i assume they are after my sugar",
-  "id" : 10011214474,
-  "created_at" : "2010-03-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "depressed, darling",
-      "screen_name" : "pressedstarling",
-      "indices" : [ 3, 19 ],
-      "id_str" : "94484772",
-      "id" : 94484772
-    }, {
-      "name" : "Josh \uD83D\uDC26",
-      "screen_name" : "phocks",
-      "indices" : [ 21, 28 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10013349246",
-  "text" : "RT @pressedstarling: @phocks first you get the sugar, then you get the money, then you get the women.",
-  "id" : 10013349246,
-  "created_at" : "2010-03-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "btub",
-      "indices" : [ 37, 42 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "10014204471",
-  "text" : "homeward bound. double date tonight. #btub after perhaps, if you're lucky",
-  "id" : 10014204471,
   "created_at" : "2010-03-05 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

@@ -616,13 +616,13 @@ Grailbird.data.tweets_2011_08 =
         "resize" : "fit",
         "w" : 500
       }, {
-        "h" : 372,
-        "resize" : "fit",
-        "w" : 500
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 372,
+        "resize" : "fit",
+        "w" : 500
       }, {
         "h" : 372,
         "resize" : "fit",
@@ -1976,17 +1976,17 @@ Grailbird.data.tweets_2011_08 =
         "resize" : "fit",
         "w" : 500
       }, {
+        "h" : 384,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 384,
+        "resize" : "fit",
+        "w" : 500
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
-      }, {
-        "h" : 384,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 384,
-        "resize" : "fit",
-        "w" : 500
       }, {
         "h" : 384,
         "resize" : "fit",
@@ -4785,17 +4785,17 @@ Grailbird.data.tweets_2011_08 =
       "id" : 104384591606984704,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AXLZO6bCMAAXQuU.jpg",
       "sizes" : [ {
-        "h" : 240,
-        "resize" : "fit",
-        "w" : 239
-      }, {
-        "h" : 240,
-        "resize" : "fit",
-        "w" : 239
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 239
+      }, {
+        "h" : 240,
+        "resize" : "fit",
+        "w" : 239
       }, {
         "h" : 240,
         "resize" : "fit",
@@ -4914,7 +4914,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "megabichi",
       "protected" : false,
       "id_str" : "38154086",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925385398825766912\/ykcOhrN-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
       "verified" : false
     }
@@ -7207,7 +7207,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree Mateljan",
+      "name" : "Byrnn Mandeljams",
       "screen_name" : "BreeMateljan",
       "indices" : [ 11, 24 ],
       "id_str" : "5788332",

@@ -207,7 +207,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",
@@ -3494,7 +3494,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",
@@ -5037,7 +5037,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -5440,7 +5440,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -6166,7 +6166,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -6894,7 +6894,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 23, 32 ],
       "id_str" : "3638351",
@@ -7388,7 +7388,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -7674,7 +7674,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",
@@ -8032,7 +8032,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -8453,7 +8453,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -9526,7 +9526,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "whalleyrulz",
       "protected" : false,
       "id_str" : "23409021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/765644861445902336\/_kWZoY0o_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943165865285087232\/y9RRLleb_normal.jpg",
       "id" : 23409021,
       "verified" : false
     }

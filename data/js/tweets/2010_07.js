@@ -4422,7 +4422,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0FEmmsy\uD83E\uDD26\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",

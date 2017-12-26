@@ -262,7 +262,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -350,7 +350,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -2585,7 +2585,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "scott \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "\uD83C\uDF84 scottmas",
       "screen_name" : "scottsues",
       "indices" : [ 46, 56 ],
       "id_str" : "35589929",
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "yokoono",
       "protected" : false,
       "id_str" : "17681513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927466675133407232\/OXgMHqEj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941017175669858304\/X7tClDEN_normal.jpg",
       "id" : 17681513,
       "verified" : true
     }
@@ -3852,7 +3852,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Your Favourite Tweeter (me)",
+      "name" : "Mr. Bob Dobalina",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

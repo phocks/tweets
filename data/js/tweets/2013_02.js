@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84 Hack-banthenazis-lock \uD83C\uDF84",
+      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
       "screen_name" : "hacklocked",
       "indices" : [ 115, 126 ],
       "id_str" : "262970056",
@@ -1560,14 +1560,6 @@ Grailbird.data.tweets_2013_02 =
       "id" : 303818754586992641,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BDdhjC9CYAEOz9N.jpg",
       "sizes" : [ {
-        "h" : 913,
-        "resize" : "fit",
-        "w" : 652
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 486
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -1575,6 +1567,14 @@ Grailbird.data.tweets_2013_02 =
         "h" : 913,
         "resize" : "fit",
         "w" : 652
+      }, {
+        "h" : 913,
+        "resize" : "fit",
+        "w" : 652
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 486
       }, {
         "h" : 913,
         "resize" : "fit",
@@ -1607,14 +1607,6 @@ Grailbird.data.tweets_2013_02 =
         "id" : 303818754586992641,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BDdhjC9CYAEOz9N.jpg",
         "sizes" : [ {
-          "h" : 913,
-          "resize" : "fit",
-          "w" : 652
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 486
-        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -1622,6 +1614,14 @@ Grailbird.data.tweets_2013_02 =
           "h" : 913,
           "resize" : "fit",
           "w" : 652
+        }, {
+          "h" : 913,
+          "resize" : "fit",
+          "w" : 652
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 486
         }, {
           "h" : 913,
           "resize" : "fit",
@@ -5017,7 +5017,7 @@ Grailbird.data.tweets_2013_02 =
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/911731907284525057\/takhfDz5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943798706431713280\/5wk3k_Y0_normal.jpg",
       "id" : 14709131,
       "verified" : false
     }

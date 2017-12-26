@@ -536,6 +536,28 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "778290781",
+  "text" : "getting clawed by kitty in bed. ouch",
+  "id" : 778290781,
+  "created_at" : "2008-03-28 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "778338982",
   "text" : "opening up my eyes, getting a grip of myself inside",
   "id" : 778338982,
@@ -690,10 +712,54 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "778290781",
-  "text" : "getting clawed by kitty in bed. ouch",
-  "id" : 778290781,
-  "created_at" : "2008-03-28 00:00:00 +0000",
+  "id_str" : "777927283",
+  "text" : "ok, managed to get everything fixed save their laptop which had been hijacked by a nasty virus\/removal\/extortion app. reformat needed later",
+  "id" : 777927283,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778025773",
+  "text" : "first update to Darwin WordPress theme. begin the evolution. posting this using tweetburner http:\/\/twurl.nl\/kcms1y",
+  "id" : 778025773,
+  "created_at" : "2008-03-27 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "778056268",
+  "text" : "pleased with an increasing number of external entities, delighted with move to MediaTemple http:\/\/twurl.nl\/xecngk hoping to be dreaming soon",
+  "id" : 778056268,
+  "created_at" : "2008-03-27 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -814,72 +880,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "777844560",
   "text" : "by now i should have somehow realised what i've got to do",
   "id" : 777844560,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "777927283",
-  "text" : "ok, managed to get everything fixed save their laptop which had been hijacked by a nasty virus\/removal\/extortion app. reformat needed later",
-  "id" : 777927283,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778025773",
-  "text" : "first update to Darwin WordPress theme. begin the evolution. posting this using tweetburner http:\/\/twurl.nl\/kcms1y",
-  "id" : 778025773,
-  "created_at" : "2008-03-27 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "778056268",
-  "text" : "pleased with an increasing number of external entities, delighted with move to MediaTemple http:\/\/twurl.nl\/xecngk hoping to be dreaming soon",
-  "id" : 778056268,
   "created_at" : "2008-03-27 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -1758,6 +1758,61 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
+  "id_str" : "774716476",
+  "text" : "going up to catch some rays at the redcliff festival",
+  "id" : 774716476,
+  "created_at" : "2008-03-21 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Simon Brown",
+      "screen_name" : "skytrystsjoy",
+      "indices" : [ 0, 13 ],
+      "id_str" : "3038941",
+      "id" : 3038941
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "774750263",
+  "geo" : { },
+  "id_str" : "774751472",
+  "in_reply_to_user_id" : 3038941,
+  "text" : "@skytrystsjoy redclffe is north about 30 mins from brisbane. listening to african music by the sea",
+  "id" : 774751472,
+  "in_reply_to_status_id" : 774750263,
+  "created_at" : "2008-03-21 00:00:00 +0000",
+  "in_reply_to_screen_name" : "skytrystsjoy",
+  "in_reply_to_user_id_str" : "3038941",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
   "id_str" : "774856737",
   "text" : "going to jacqui's, time for some psychedelic tie dying experiments",
   "id" : 774856737,
@@ -1824,10 +1879,10 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "774716476",
-  "text" : "going up to catch some rays at the redcliff festival",
-  "id" : 774716476,
-  "created_at" : "2008-03-21 00:00:00 +0000",
+  "id_str" : "774297919",
+  "text" : "hey bungalow bill, was it a thrill, bungalow bill?",
+  "id" : 774297919,
+  "created_at" : "2008-03-20 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1840,27 +1895,16 @@ Grailbird.data.tweets_2008_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Simon Brown",
-      "screen_name" : "skytrystsjoy",
-      "indices" : [ 0, 13 ],
-      "id_str" : "3038941",
-      "id" : 3038941
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "774750263",
   "geo" : { },
-  "id_str" : "774751472",
-  "in_reply_to_user_id" : 3038941,
-  "text" : "@skytrystsjoy redclffe is north about 30 mins from brisbane. listening to african music by the sea",
-  "id" : 774751472,
-  "in_reply_to_status_id" : 774750263,
-  "created_at" : "2008-03-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "skytrystsjoy",
-  "in_reply_to_user_id_str" : "3038941",
+  "id_str" : "774328935",
+  "text" : "taking the time for a number of things that weren't important yesterday",
+  "id" : 774328935,
+  "created_at" : "2008-03-20 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1953,50 +1997,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "774268318",
   "text" : "i'm 100% sure that i over-exaggerate my level of certainty on a great number of assertions",
   "id" : 774268318,
-  "created_at" : "2008-03-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "774297919",
-  "text" : "hey bungalow bill, was it a thrill, bungalow bill?",
-  "id" : 774297919,
-  "created_at" : "2008-03-20 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "774328935",
-  "text" : "taking the time for a number of things that weren't important yesterday",
-  "id" : 774328935,
   "created_at" : "2008-03-20 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -2803,6 +2803,105 @@ Grailbird.data.tweets_2008_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Ocean",
+      "screen_name" : "urchincreature",
+      "indices" : [ 0, 15 ],
+      "id_str" : "5739132",
+      "id" : 5739132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "771138970",
+  "geo" : { },
+  "id_str" : "771202724",
+  "in_reply_to_user_id" : 5739132,
+  "text" : "@urchincreature tonight at the globe is going to be so great. you guys will rock the house!",
+  "id" : 771202724,
+  "in_reply_to_status_id" : 771138970,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "in_reply_to_screen_name" : "urchincreature",
+  "in_reply_to_user_id_str" : "5739132",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771212155",
+  "text" : "uploading folk songs into my head",
+  "id" : 771212155,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771234569",
+  "text" : "just saw a duck waddling across the main road near the creek. wtf?",
+  "id" : 771234569,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "771241110",
+  "text" : "fighting for the freedom not to vote is just as important as fighting for the initial suffrage. why all this coercion? why?",
+  "id" : 771241110,
+  "created_at" : "2008-03-14 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Lea de Groot",
       "screen_name" : "leadegroot",
       "indices" : [ 0, 11 ],
@@ -2954,105 +3053,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "771525796",
   "text" : "back home chatting with Cieon and Kadir, waiting for oshi to bring chocolate",
   "id" : 771525796,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ocean",
-      "screen_name" : "urchincreature",
-      "indices" : [ 0, 15 ],
-      "id_str" : "5739132",
-      "id" : 5739132
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "771138970",
-  "geo" : { },
-  "id_str" : "771202724",
-  "in_reply_to_user_id" : 5739132,
-  "text" : "@urchincreature tonight at the globe is going to be so great. you guys will rock the house!",
-  "id" : 771202724,
-  "in_reply_to_status_id" : 771138970,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "urchincreature",
-  "in_reply_to_user_id_str" : "5739132",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771212155",
-  "text" : "uploading folk songs into my head",
-  "id" : 771212155,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771234569",
-  "text" : "just saw a duck waddling across the main road near the creek. wtf?",
-  "id" : 771234569,
-  "created_at" : "2008-03-14 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "771241110",
-  "text" : "fighting for the freedom not to vote is just as important as fighting for the initial suffrage. why all this coercion? why?",
-  "id" : 771241110,
   "created_at" : "2008-03-14 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -3990,6 +3990,72 @@ Grailbird.data.tweets_2008_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "767291270",
+  "text" : "downloading ie8 beta, preparing to be unimpressed http:\/\/tinyurl.com\/36bcj4",
+  "id" : 767291270,
+  "created_at" : "2008-03-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "767382118",
+  "text" : "watchin people all robbed and broken by other men and fountain pens",
+  "id" : 767382118,
+  "created_at" : "2008-03-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "767404143",
+  "text" : "the geniuses at Yahoo! reset the wrong password...",
+  "id" : 767404143,
+  "created_at" : "2008-03-06 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "Nathan Hallett",
       "screen_name" : "Bluemania",
@@ -4090,54 +4156,10 @@ Grailbird.data.tweets_2008_03 =
     "urls" : [ ]
   },
   "geo" : { },
-  "id_str" : "767291270",
-  "text" : "downloading ie8 beta, preparing to be unimpressed http:\/\/tinyurl.com\/36bcj4",
-  "id" : 767291270,
-  "created_at" : "2008-03-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "767382118",
-  "text" : "watchin people all robbed and broken by other men and fountain pens",
-  "id" : 767382118,
-  "created_at" : "2008-03-06 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "767404143",
-  "text" : "the geniuses at Yahoo! reset the wrong password...",
-  "id" : 767404143,
-  "created_at" : "2008-03-06 00:00:00 +0000",
+  "id_str" : "767265126",
+  "text" : "aspiring to the hobo rambling life, just the same as woody, woody guthrie. this workaday is no life for a wandering soul",
+  "id" : 767265126,
+  "created_at" : "2008-03-05 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4357,28 +4379,6 @@ Grailbird.data.tweets_2008_03 =
   "id_str" : "767110353",
   "text" : "was waiting down by the lonesome crossroads today, no one would stop but the devil who'd say, he'd sell you his soul for the music you play",
   "id" : 767110353,
-  "created_at" : "2008-03-05 00:00:00 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "767265126",
-  "text" : "aspiring to the hobo rambling life, just the same as woody, woody guthrie. this workaday is no life for a wandering soul",
-  "id" : 767265126,
   "created_at" : "2008-03-05 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

@@ -595,7 +595,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
       "screen_name" : "georgiecel",
       "indices" : [ 16, 27 ],
       "id_str" : "18328488",
@@ -1109,9 +1109,9 @@ Grailbird.data.tweets_2013_07 =
       "id" : 359652274592681985,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BP291pXCEAEyWCQ.jpg",
       "sizes" : [ {
-        "h" : 680,
+        "h" : 1024,
         "resize" : "fit",
-        "w" : 507
+        "w" : 764
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -1121,9 +1121,9 @@ Grailbird.data.tweets_2013_07 =
         "resize" : "fit",
         "w" : 764
       }, {
-        "h" : 1024,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 764
+        "w" : 507
       }, {
         "h" : 1024,
         "resize" : "fit",
@@ -5086,7 +5086,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "145138705",
       "id" : 145138705
     }, {
-      "name" : "B",
+      "name" : "Vastly Brad",
       "screen_name" : "ThePatrician",
       "indices" : [ 26, 39 ],
       "id_str" : "23424239",
@@ -5172,13 +5172,13 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
       "id" : 18328488
     }, {
-      "name" : "Bree Mateljan",
+      "name" : "Byrnn Mandeljams",
       "screen_name" : "BreeMateljan",
       "indices" : [ 12, 25 ],
       "id_str" : "5788332",

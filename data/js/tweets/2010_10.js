@@ -1068,7 +1068,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "legs entangled",
+      "name" : "kerrie.",
       "screen_name" : "Kezarah",
       "indices" : [ 0, 8 ],
       "id_str" : "18936495",
@@ -3395,7 +3395,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jon",
+      "screen_name" : "Kissability",
+      "indices" : [ 28, 40 ],
+      "id_str" : "4281554412",
+      "id" : 4281554412
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4979,7 +4985,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "2312854706",
       "id" : 2312854706
     }, {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 94, 103 ],
       "id_str" : "3638351",
@@ -5007,7 +5013,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 0, 9 ],
       "id_str" : "3638351",
@@ -5149,7 +5155,13 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Digital Doily",
+      "screen_name" : "DigitalDoily",
+      "indices" : [ 0, 13 ],
+      "id_str" : "940648427972628480",
+      "id" : 940648427972628480
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5313,7 +5325,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hello and welcome!",
+      "name" : "I\u2019m off grid til Jan 9, 2018 :)",
       "screen_name" : "mariabamfoo",
       "indices" : [ 3, 15 ],
       "id_str" : "201419073",
@@ -5340,7 +5352,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27067148105,
     "created_at" : "2010-10-11 20:40:56 +0000",
     "user" : {
-      "name" : "Hello and welcome!",
+      "name" : "I\u2019m off grid til Jan 9, 2018 :)",
       "screen_name" : "mariabamfoo",
       "protected" : false,
       "id_str" : "201419073",
@@ -6893,7 +6905,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14111299",
       "id" : 14111299
     }, {
-      "name" : "\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\u2764\uFE0F Byorgen Druffeldroff \u2764\uFE0F\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Byorgen Druffeldroff",
       "screen_name" : "bastardsheep",
       "indices" : [ 111, 124 ],
       "id_str" : "16278101",
@@ -7925,7 +7937,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katerina Toussas",
+      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -8643,7 +8655,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "carnagefairy",
+      "name" : "christmasfairy",
       "screen_name" : "carnagefairy",
       "indices" : [ 3, 16 ],
       "id_str" : "14211650",
@@ -8670,7 +8682,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26302464045,
     "created_at" : "2010-10-03 21:30:26 +0000",
     "user" : {
-      "name" : "carnagefairy",
+      "name" : "christmasfairy",
       "screen_name" : "carnagefairy",
       "protected" : false,
       "id_str" : "14211650",
@@ -9649,13 +9661,13 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Efisia \uD83C\uDF08 #metoo \uD83D\uDCAA\uD83C\uDFFB",
+      "name" : "efisia",
       "screen_name" : "01000101",
       "indices" : [ 27, 36 ],
       "id_str" : "3638351",
       "id" : 3638351
     }, {
-      "name" : "Mike W",
+      "name" : "Bichael W",
       "screen_name" : "UnearthlyMike",
       "indices" : [ 39, 53 ],
       "id_str" : "68688199",
