@@ -1374,7 +1374,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84 Hark! the Hacklock angel sings! \uD83C\uDF84",
+      "name" : "\u210D\uD835\uDD52\uD835\uDD54\uD835\uDD5C\uD835\uDD5D\uD835\uDD60\uD835\uDD54\uD835\uDD5C",
       "screen_name" : "hacklocked",
       "indices" : [ 115, 126 ],
       "id_str" : "262970056",
@@ -3249,7 +3249,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bantrim Smoot",
+      "name" : "VeryStableGenius",
       "screen_name" : "gilfer",
       "indices" : [ 1, 8 ],
       "id_str" : "6024412",
@@ -3649,7 +3649,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 1, 14 ],
       "id_str" : "326518931",

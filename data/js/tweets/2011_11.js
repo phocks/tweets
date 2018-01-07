@@ -845,13 +845,13 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "254846221",
       "id" : 254846221
     }, {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 63, 70 ],
       "id_str" : "5949072",
       "id" : 5949072
     }, {
-      "name" : "\uD83C\uDF84Anna Sleighbells-Ringin' \u2744\uFE0F\uD83C\uDF84",
+      "name" : "Avo Spardo-Ryan \uD83E\uDD51",
       "screen_name" : "annaspargoryan",
       "indices" : [ 71, 86 ],
       "id_str" : "20012387",
@@ -1221,7 +1221,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -1403,7 +1403,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -1464,7 +1464,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -1825,7 +1825,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84Anna Sleighbells-Ringin' \u2744\uFE0F\uD83C\uDF84",
+      "name" : "Avo Spardo-Ryan \uD83E\uDD51",
       "screen_name" : "annaspargoryan",
       "indices" : [ 0, 15 ],
       "id_str" : "20012387",
@@ -2578,7 +2578,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -4777,7 +4777,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "94484772",
       "id" : 94484772
     }, {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 17, 30 ],
       "id_str" : "326518931",
@@ -5953,7 +5953,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 3, 16 ],
       "id_str" : "326518931",
@@ -5997,7 +5997,7 @@ Grailbird.data.tweets_2011_11 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "protected" : false,
       "id_str" : "326518931",
@@ -7428,7 +7428,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -8823,7 +8823,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -9097,7 +9097,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Merry CK \uD83C\uDF84",
+      "name" : "Ellie CK",
       "screen_name" : "EllieCK",
       "indices" : [ 0, 8 ],
       "id_str" : "15528938",
@@ -9365,7 +9365,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

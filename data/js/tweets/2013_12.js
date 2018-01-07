@@ -2649,7 +2649,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -3219,7 +3219,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4379,7 +4379,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -4531,7 +4531,7 @@ Grailbird.data.tweets_2013_12 =
       "id_str" : "2476861472",
       "id" : 2476861472
     }, {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 17, 30 ],
       "id_str" : "2543227753",
@@ -4625,7 +4625,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4783,7 +4783,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",

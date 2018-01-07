@@ -655,7 +655,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bantrim Smoot",
+      "name" : "VeryStableGenius",
       "screen_name" : "gilfer",
       "indices" : [ 0, 7 ],
       "id_str" : "6024412",
@@ -3124,7 +3124,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 3, 10 ],
       "id_str" : "5949072",
@@ -3151,7 +3151,7 @@ Grailbird.data.tweets_2011_08 =
     "id" : 106270171152400384,
     "created_at" : "2011-08-24 07:42:37 +0000",
     "user" : {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "protected" : false,
       "id_str" : "5949072",
@@ -4959,7 +4959,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -5550,7 +5550,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -7207,7 +7207,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 11, 24 ],
       "id_str" : "5788332",
@@ -7945,7 +7945,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 13, 26 ],
       "id_str" : "326518931",
@@ -7978,7 +7978,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 88, 101 ],
       "id_str" : "326518931",

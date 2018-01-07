@@ -342,10 +342,10 @@ Grailbird.data.tweets_2014_10 =
       "expanded_url" : "https:\/\/twitter.com\/jdeplater\/status\/527726787812290560\/photo\/1",
       "indices" : [ 23, 45 ],
       "url" : "http:\/\/t.co\/QVtKjl0ZUr",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAA5NB7.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAAXqhE.jpg",
       "id_str" : "527726769172774912",
       "id" : 527726769172774912,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAA5NB7.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAAXqhE.jpg",
       "sizes" : [ {
         "h" : 281,
         "resize" : "fit",
@@ -389,10 +389,10 @@ Grailbird.data.tweets_2014_10 =
         "expanded_url" : "https:\/\/twitter.com\/jdeplater\/status\/527726787812290560\/photo\/1",
         "indices" : [ 8, 30 ],
         "url" : "http:\/\/t.co\/QVtKjl0ZUr",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAA5NB7.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAAXqhE.jpg",
         "id_str" : "527726769172774912",
         "id" : 527726769172774912,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAA5NB7.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B1Lcs1cCAAAXqhE.jpg",
         "sizes" : [ {
           "h" : 281,
           "resize" : "fit",
@@ -430,7 +430,7 @@ Grailbird.data.tweets_2014_10 =
     "user" : {
       "name" : "Jason de Plater",
       "screen_name" : "jdeplater",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15668582",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/687194821346234368\/2gRUssU__normal.jpg",
       "id" : 15668582,
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -722,7 +722,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 1, 12 ],
       "id_str" : "18328488",
@@ -1166,7 +1166,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 3, 16 ],
       "id_str" : "5788332",
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
@@ -1811,7 +1811,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -2379,7 +2379,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SwiftOnSecurity",
+      "name" : ".",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -2406,11 +2406,11 @@ Grailbird.data.tweets_2014_10 =
     "id" : 524790377430020098,
     "created_at" : "2014-10-22 05:12:30 +0000",
     "user" : {
-      "name" : "SwiftOnSecurity",
+      "name" : ".",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/937825363710771201\/ODr22XYS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949747776405073920\/iSqhgIIc_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2813,7 +2813,7 @@ Grailbird.data.tweets_2014_10 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -4656,7 +4656,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -6500,7 +6500,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -6539,7 +6539,7 @@ Grailbird.data.tweets_2014_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -6590,7 +6590,7 @@ Grailbird.data.tweets_2014_10 =
     "id" : 520127579685019649,
     "created_at" : "2014-10-09 08:24:13 +0000",
     "user" : {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",

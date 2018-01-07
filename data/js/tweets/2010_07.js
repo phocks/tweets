@@ -1156,8 +1156,8 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19662533935,
     "created_at" : "2010-07-27 14:52:41 +0000",
     "user" : {
-      "name" : "Nico Dice",
-      "screen_name" : "daimonic0",
+      "name" : "Nico Del G",
+      "screen_name" : "Nico_Del_G",
       "protected" : false,
       "id_str" : "18538664",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912227263676022784\/X3R8wYFK_normal.jpg",
@@ -4422,7 +4422,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
+      "name" : "ImmaGangstaFromFrangsta",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",

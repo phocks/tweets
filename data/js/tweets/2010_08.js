@@ -262,7 +262,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
+      "name" : "Katerina",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -350,7 +350,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
+      "name" : "Katerina",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "yokoono",
       "protected" : false,
       "id_str" : "17681513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941017175669858304\/X7tClDEN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947851713473646592\/WJ-ZGymy_normal.jpg",
       "id" : 17681513,
       "verified" : true
     }
@@ -3852,7 +3852,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bob Dobalina",
+      "name" : "Very Stable Genius",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -7089,6 +7089,57 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20537850315",
   "text" : "bats!",
   "id" : 20537850315,
+  "created_at" : "2010-08-07 00:00:00 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "lil colbs \uD83C\uDF3B",
+      "screen_name" : "Cswizzle_",
+      "indices" : [ 3, 13 ],
+      "id_str" : "1029560072",
+      "id" : 1029560072
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "20538078230",
+  "text" : "RT @cswizzle_: twitter should rename the \"who to follow\" list to \"people you unfollowed because they are assholes..\"",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "20536379151",
+    "text" : "twitter should rename the \"who to follow\" list to \"people you unfollowed because they are assholes..\"",
+    "id" : 20536379151,
+    "created_at" : "2010-08-07 07:54:51 +0000",
+    "user" : {
+      "name" : "chelsey",
+      "screen_name" : "chelseymayr",
+      "protected" : false,
+      "id_str" : "118619145",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/947658118351044610\/Z4JDRHo9_normal.jpg",
+      "id" : 118619145,
+      "verified" : false
+    }
+  },
+  "id" : 20538078230,
   "created_at" : "2010-08-07 00:00:00 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

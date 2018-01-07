@@ -804,7 +804,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Making Fists with my Toes",
+      "name" : "But My Tweets",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -1819,7 +1819,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -2288,7 +2288,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -2922,7 +2922,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -3821,7 +3821,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 71816697287409664,
     "created_at" : "2011-05-21 05:56:49 +0000",
     "user" : {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -4230,7 +4230,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bob Dobalina",
+      "name" : "Very Stable Genius",
       "screen_name" : "ErikVeland",
       "indices" : [ 3, 14 ],
       "id_str" : "15080202",
@@ -4274,7 +4274,7 @@ Grailbird.data.tweets_2011_05 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Mr. Bob Dobalina",
+      "name" : "Very Stable Genius",
       "screen_name" : "ErikVeland",
       "protected" : false,
       "id_str" : "15080202",
@@ -5216,7 +5216,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -7000,7 +7000,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Carolyn Velociraptor Conspiracy",
+      "name" : "Carolyn Velociraptor",
       "screen_name" : "Arumi_kai",
       "indices" : [ 0, 10 ],
       "id_str" : "18069427",
@@ -7706,7 +7706,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -10713,7 +10713,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bob Dobalina",
+      "name" : "Very Stable Genius",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

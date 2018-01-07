@@ -1416,7 +1416,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Perkins",
+      "name" : "Nick off 2017, you're drunk",
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",
@@ -4629,7 +4629,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -4656,7 +4656,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15660554651701248,
     "created_at" : "2010-12-17 06:52:21 +0000",
     "user" : {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -4949,7 +4949,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -8122,7 +8122,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
+      "name" : "ImmaGangstaFromFrangsta",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

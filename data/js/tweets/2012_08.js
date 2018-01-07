@@ -2870,7 +2870,7 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "117199326",
       "id" : 117199326
     }, {
-      "name" : "Merry Kit-mas",
+      "name" : "Blossom, like the cat.",
       "screen_name" : "KittenFlower",
       "indices" : [ 26, 39 ],
       "id_str" : "40785142",
@@ -3205,8 +3205,8 @@ Grailbird.data.tweets_2012_08 =
       "name" : "triple j Mornings",
       "screen_name" : "triplejmornings",
       "indices" : [ 15, 31 ],
-      "id_str" : "20006373",
-      "id" : 20006373
+      "id_str" : "948398584591892480",
+      "id" : 948398584591892480
     } ],
     "media" : [ ],
     "hashtags" : [ ],

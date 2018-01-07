@@ -121,7 +121,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -1087,7 +1087,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -2866,7 +2866,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 3, 16 ],
       "id_str" : "326518931",
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2012_11 =
     "id" : 269635896779886592,
     "created_at" : "2012-11-17 02:59:42 +0000",
     "user" : {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "protected" : false,
       "id_str" : "326518931",
@@ -5288,7 +5288,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
+      "name" : "ImmaGangstaFromFrangsta",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -5552,7 +5552,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
+      "name" : "ImmaGangstaFromFrangsta",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

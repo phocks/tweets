@@ -4095,7 +4095,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -4134,7 +4134,7 @@ Grailbird.data.tweets_2013_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4867,16 +4867,11 @@ Grailbird.data.tweets_2013_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "329540664352190465",
   "geo" : { },
   "id_str" : "329582460683841537",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW Yes I am, in about a month!",
   "id" : 329582460683841537,
-  "in_reply_to_status_id" : 329540664352190465,
   "created_at" : "2013-05-01 13:05:56 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

@@ -5991,7 +5991,7 @@ Grailbird.data.tweets_2008_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke Actually \uD83C\uDF81",
+      "name" : "Luke",
       "screen_name" : "lukerhn",
       "indices" : [ 71, 79 ],
       "id_str" : "345553",

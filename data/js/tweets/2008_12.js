@@ -179,7 +179,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Needs Witty Christmas Name]",
+      "name" : "David (Which Means Beloved) Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -2486,7 +2486,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -2805,7 +2805,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -4069,7 +4069,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 13, 25 ],
       "id_str" : "11791522",
@@ -5766,7 +5766,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul I Want For Xmas Is You \uD83C\uDF85\uD83C\uDFFB",
+      "name" : "Paul Kidd",
       "screen_name" : "paulkidd",
       "indices" : [ 0, 9 ],
       "id_str" : "14071129",

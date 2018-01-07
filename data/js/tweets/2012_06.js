@@ -5221,7 +5221,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bantrim Smoot",
+      "name" : "VeryStableGenius",
       "screen_name" : "gilfer",
       "indices" : [ 0, 7 ],
       "id_str" : "6024412",
@@ -5754,7 +5754,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -6111,7 +6111,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "PoshLopez",
       "protected" : false,
       "id_str" : "24825958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/901415882609401856\/8PKnpz7W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948118374248194048\/5Uky3A4b_normal.jpg",
       "id" : 24825958,
       "verified" : false
     }
@@ -6995,7 +6995,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83E\uDD36\uD83C\uDFFC\uC0B0\uD0C0 \uD560\uBA38\uB2C8\uD83E\uDD36\uD83C\uDFFC",
+      "name" : "Smelly",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",

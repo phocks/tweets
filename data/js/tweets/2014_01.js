@@ -3954,7 +3954,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "14656514",
       "id" : 14656514
     }, {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 18, 29 ],
       "id_str" : "18328488",
@@ -4350,7 +4350,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDFD9\uD835\uDFE1\uD835\uDFE0\uD835\uDFDF \uD835\uDD38\uD835\uDD5F\uD835\uDD58\uD835\uDD56\uD835\uDD5D \u2102\uD835\uDD59\uD835\uDD63\uD835\uDD5A\uD835\uDD64\uD835\uDD64\uD835\uDD5A\uD835\uDD56",
+      "name" : "Chrissie",
       "screen_name" : "ChrissieM",
       "indices" : [ 0, 10 ],
       "id_str" : "592662115",

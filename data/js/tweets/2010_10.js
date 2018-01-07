@@ -1940,7 +1940,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "nicolejensen",
       "protected" : false,
       "id_str" : "17459950",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/916161167336259584\/E6aJjfFC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/946332095131009025\/y5ynIbo1_normal.jpg",
       "id" : 17459950,
       "verified" : false
     }
@@ -2522,7 +2522,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "903895406446354432",
       "id" : 903895406446354432
     }, {
-      "name" : "\uD83C\uDF84 Falalalalalalalian \uD83C\uDF84",
+      "name" : "Lara",
       "screen_name" : "lalalian",
       "indices" : [ 16, 25 ],
       "id_str" : "12430022",
@@ -7937,7 +7937,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
+      "name" : "Katerina",
       "screen_name" : "Kat_La",
       "indices" : [ 0, 7 ],
       "id_str" : "21745838",
@@ -8655,7 +8655,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "christmasfairy",
+      "name" : "happy new carnage",
       "screen_name" : "carnagefairy",
       "indices" : [ 3, 16 ],
       "id_str" : "14211650",
@@ -8682,7 +8682,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26302464045,
     "created_at" : "2010-10-03 21:30:26 +0000",
     "user" : {
-      "name" : "christmasfairy",
+      "name" : "happy new carnage",
       "screen_name" : "carnagefairy",
       "protected" : false,
       "id_str" : "14211650",

@@ -183,16 +183,11 @@ Grailbird.data.tweets_2013_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "384392054870384640",
   "geo" : { },
   "id_str" : "384413290916773888",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW just off to roam the European countryside for a while. I shall return!",
   "id" : 384413290916773888,
-  "in_reply_to_status_id" : 384392054870384640,
   "created_at" : "2013-09-29 20:24:05 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -697,7 +692,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "14709131",
       "id" : 14709131
     }, {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 114, 127 ],
       "id_str" : "2543227753",
@@ -1454,7 +1449,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Gingerbread Cooke \uD83C\uDF6A\uD83C\uDF84",
+      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3831,7 +3826,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4375,7 +4370,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -4548,7 +4543,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4719,7 +4714,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",

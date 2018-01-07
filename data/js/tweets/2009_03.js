@@ -880,7 +880,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -1491,7 +1491,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andrea \uD83C\uDF84",
+      "name" : "Andrea \u2728",
       "screen_name" : "fiannan",
       "indices" : [ 0, 8 ],
       "id_str" : "16921679",

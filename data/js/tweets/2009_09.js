@@ -1816,7 +1816,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Reindeer James",
+      "name" : "James",
       "screen_name" : "jamestinniswood",
       "indices" : [ 0, 16 ],
       "id_str" : "18632506",
@@ -2695,7 +2695,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kiaramas",
+      "name" : "Kiara Price",
       "screen_name" : "ki25",
       "indices" : [ 0, 5 ],
       "id_str" : "16664006",

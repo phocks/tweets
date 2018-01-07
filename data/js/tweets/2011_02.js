@@ -4958,7 +4958,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -6773,7 +6773,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Needs Witty Christmas Name]",
+      "name" : "David (Which Means Beloved) Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 48, 60 ],
       "id_str" : "2366841",

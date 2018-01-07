@@ -4800,7 +4800,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kat fa la la la la la la la la \uD83C\uDF84",
+      "name" : "Katerina",
       "screen_name" : "Kat_La",
       "indices" : [ 111, 118 ],
       "id_str" : "21745838",

@@ -141,7 +141,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Grainger",
+      "name" : "Michael Grainger [Mr G]",
       "screen_name" : "michaelgrainger",
       "indices" : [ 0, 16 ],
       "id_str" : "5931422",
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",

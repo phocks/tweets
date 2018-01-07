@@ -6093,7 +6093,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jake Holman",
+      "name" : "Jacob Holman",
       "screen_name" : "JacobLeigh",
       "indices" : [ 3, 14 ],
       "id_str" : "20220718",
@@ -6120,7 +6120,7 @@ Grailbird.data.tweets_2011_04 =
     "id" : 57640399015124992,
     "created_at" : "2011-04-12 03:05:16 +0000",
     "user" : {
-      "name" : "Jake Holman",
+      "name" : "Jacob Holman",
       "screen_name" : "JacobLeigh",
       "protected" : false,
       "id_str" : "20220718",
@@ -7075,7 +7075,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -8575,7 +8575,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2744\uFE0F\u26C4\uFE0F\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30\uD835\uDD2A\uD835\uDD22\uD835\uDD30\uD835\uDD30\u2603\uFE0F\u2744\uFE0F",
+      "name" : "\u0187\uD835\uDD25\uD835\uDD2F\uD835\uDD26\uD835\uDD30",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",

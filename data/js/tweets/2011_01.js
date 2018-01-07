@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Trifle is the worst. Say no to wet cake",
+      "name" : "Like, really smart",
       "screen_name" : "superhotmel",
       "indices" : [ 3, 15 ],
       "id_str" : "18152992",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 31696651835940865,
     "created_at" : "2011-01-30 12:54:05 +0000",
     "user" : {
-      "name" : "Trifle is the worst. Say no to wet cake",
+      "name" : "Like, really smart",
       "screen_name" : "superhotmel",
       "protected" : false,
       "id_str" : "18152992",
@@ -3758,7 +3758,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -7926,7 +7926,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -8870,7 +8870,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "5780202",
       "id" : 5780202
     }, {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 8, 20 ],
       "id_str" : "11791522",

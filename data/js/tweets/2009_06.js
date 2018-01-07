@@ -2458,7 +2458,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "354221886",
       "id" : 354221886
     }, {
-      "name" : "[Needs Witty Christmas Name]",
+      "name" : "David (Which Means Beloved) Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 54, 66 ],
       "id_str" : "2366841",

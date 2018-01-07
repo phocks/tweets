@@ -4451,7 +4451,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "719594351177900032",
       "id" : 719594351177900032
     }, {
-      "name" : "[Needs Witty Christmas Name]",
+      "name" : "David (Which Means Beloved) Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 39, 51 ],
       "id_str" : "2366841",
@@ -6772,7 +6772,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mr. Bob Dobalina",
+      "name" : "Very Stable Genius",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

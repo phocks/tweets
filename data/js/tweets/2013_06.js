@@ -1860,7 +1860,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Byrnn Mandeljams",
+      "name" : "Last, First",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -2323,7 +2323,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "12196972",
       "id" : 12196972
     }, {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 26, 33 ],
       "id_str" : "5949072",
@@ -2732,19 +2732,14 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "347297637592072192",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 51.5020298821, -0.1380240373 ]
   },
   "id_str" : "347340169076158466",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW The sun is up. The sky is blue.",
   "id" : 347340169076158466,
-  "in_reply_to_status_id" : 347297637592072192,
   "created_at" : "2013-06-19 13:08:44 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3504,19 +3499,14 @@ Grailbird.data.tweets_2013_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "344848735806836737",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 40.4175945314, -3.6973267864 ]
   },
   "id_str" : "344855267273486336",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW will do! It will be back on the 18th :)",
   "id" : 344855267273486336,
-  "in_reply_to_status_id" : 344848735806836737,
   "created_at" : "2013-06-12 16:34:37 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

@@ -1746,7 +1746,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on High",
+      "name" : "meemrs 3.4",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -4238,7 +4238,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF84Emma\uD83C\uDF84",
+      "name" : "ImmaGangstaFromFrangsta",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -4760,19 +4760,14 @@ Grailbird.data.tweets_2013_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "286738838045487104",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.4510305923, 153.039519789 ]
   },
   "id_str" : "286778911398952960",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW why do you think I'm getting out? ;)",
   "id" : 286778911398952960,
-  "in_reply_to_status_id" : 286738838045487104,
   "created_at" : "2013-01-03 10:19:55 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4790,16 +4785,11 @@ Grailbird.data.tweets_2013_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "286734921916088321",
   "geo" : { },
   "id_str" : "286738055807787008",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW the sun is shining here! swapsies!",
   "id" : 286738055807787008,
-  "in_reply_to_status_id" : 286734921916088321,
   "created_at" : "2013-01-03 07:37:34 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4819,7 +4809,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "10134092",
       "id" : 10134092
     }, {
-      "name" : "\uD835\uDFD9\uD835\uDFE1\uD835\uDFE0\uD835\uDFDF \uD835\uDD38\uD835\uDD5F\uD835\uDD58\uD835\uDD56\uD835\uDD5D \u2102\uD835\uDD59\uD835\uDD63\uD835\uDD5A\uD835\uDD64\uD835\uDD64\uD835\uDD5A\uD835\uDD56",
+      "name" : "Chrissie",
       "screen_name" : "ChrissieM",
       "indices" : [ 10, 20 ],
       "id_str" : "592662115",

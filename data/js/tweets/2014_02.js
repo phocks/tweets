@@ -992,7 +992,7 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",

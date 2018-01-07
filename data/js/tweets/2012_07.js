@@ -2196,7 +2196,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "E L L A",
+      "name" : "invisible girl",
       "screen_name" : "treasurecunt",
       "indices" : [ 0, 13 ],
       "id_str" : "2221563814",
@@ -5237,7 +5237,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "2542730658",
       "id" : 2542730658
     }, {
-      "name" : "MissAnthropy",
+      "name" : "YoungLady",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 8, 23 ],
       "id_str" : "154535572",

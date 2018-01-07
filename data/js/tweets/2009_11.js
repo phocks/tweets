@@ -1661,7 +1661,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "905550696799502336",
       "id" : 905550696799502336
     }, {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 52, 64 ],
       "id_str" : "11791522",
@@ -1934,7 +1934,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Reindeer James",
+      "name" : "James",
       "screen_name" : "jamestinniswood",
       "indices" : [ 0, 16 ],
       "id_str" : "18632506",
@@ -2506,7 +2506,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -2545,7 +2545,7 @@ Grailbird.data.tweets_2009_11 =
     "id" : 5909235498,
     "created_at" : "2009-11-21 03:16:55 +0000",
     "user" : {
-      "name" : "Natalie literally means Christmas.",
+      "name" : "Natalie",
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -3254,7 +3254,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots",
+      "name" : "Poots \u76AE\u7279 \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",

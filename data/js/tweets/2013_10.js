@@ -1092,16 +1092,11 @@ Grailbird.data.tweets_2013_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "393857460332933120",
   "geo" : { },
   "id_str" : "393860641481445376",
-  "in_reply_to_user_id" : 20137349,
   "text" : "@LeilaniVW pretty sure it's actually possessed. I'm back in the Netherlands right now for a bit. Still haven't started travelling properly..",
   "id" : 393860641481445376,
-  "in_reply_to_status_id" : 393857460332933120,
   "created_at" : "2013-10-25 22:04:29 +0000",
-  "in_reply_to_screen_name" : "lanivenessa",
-  "in_reply_to_user_id_str" : "20137349",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2382,7 +2377,7 @@ Grailbird.data.tweets_2013_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web (M2)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "Sara",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 26, 39 ],
       "id_str" : "2543227753",
