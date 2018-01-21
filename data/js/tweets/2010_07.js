@@ -246,7 +246,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "5730592",
       "id" : 5730592
     }, {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 20, 33 ],
       "id_str" : "14709131",
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2010_07 =
     "id" : 19662533935,
     "created_at" : "2010-07-27 14:52:41 +0000",
     "user" : {
-      "name" : "Nico Del G",
+      "name" : "Nico \uD83D\uDC80",
       "screen_name" : "Nico_Del_G",
       "protected" : false,
       "id_str" : "18538664",
@@ -4422,7 +4422,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "ImmaGangstaFromFrangsta",
+      "name" : "EmmasSummerOfArseKicking",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",
@@ -5670,7 +5670,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 7, 20 ],
       "id_str" : "14709131",
@@ -7658,7 +7658,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",

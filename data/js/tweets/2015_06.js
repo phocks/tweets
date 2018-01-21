@@ -88,7 +88,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Good Nights w\/ Linda",
+      "name" : "Mornings with Linda",
       "screen_name" : "triplejlinda",
       "indices" : [ 3, 16 ],
       "id_str" : "461806770",
@@ -127,7 +127,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 615815393261699072,
     "created_at" : "2015-06-30 09:33:25 +0000",
     "user" : {
-      "name" : "Good Nights w\/ Linda",
+      "name" : "Mornings with Linda",
       "screen_name" : "triplejlinda",
       "protected" : false,
       "id_str" : "461806770",
@@ -151,7 +151,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Good Nights w\/ Linda",
+      "name" : "Mornings with Linda",
       "screen_name" : "triplejlinda",
       "indices" : [ 3, 16 ],
       "id_str" : "461806770",
@@ -219,7 +219,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 615783220915777536,
     "created_at" : "2015-06-30 07:25:35 +0000",
     "user" : {
-      "name" : "Good Nights w\/ Linda",
+      "name" : "Mornings with Linda",
       "screen_name" : "triplejlinda",
       "protected" : false,
       "id_str" : "461806770",
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "1962711",
       "id" : 1962711
     }, {
-      "name" : "Good Nights w\/ Linda",
+      "name" : "Mornings with Linda",
       "screen_name" : "triplejlinda",
       "indices" : [ 84, 97 ],
       "id_str" : "461806770",
@@ -330,7 +330,7 @@ Grailbird.data.tweets_2015_06 =
         "id_str" : "1962711",
         "id" : 1962711
       }, {
-        "name" : "Good Nights w\/ Linda",
+        "name" : "Mornings with Linda",
         "screen_name" : "triplejlinda",
         "indices" : [ 64, 77 ],
         "id_str" : "461806770",
@@ -1338,7 +1338,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : ".",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "indices" : [ 3, 19 ],
       "id_str" : "2436389418",
@@ -1365,11 +1365,11 @@ Grailbird.data.tweets_2015_06 =
     "id" : 614606556785541120,
     "created_at" : "2015-06-27 01:29:56 +0000",
     "user" : {
-      "name" : ".",
+      "name" : "SwiftOnSecurity",
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949747776405073920\/iSqhgIIc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953125404910522369\/E5r_4e74_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -4156,7 +4156,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ImmaGangstaFromFrangsta",
+      "name" : "EmmasSummerOfArseKicking",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -4895,7 +4895,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "St. Even",
+      "name" : "Stay chill in the chat",
       "screen_name" : "hoaxie",
       "indices" : [ 3, 10 ],
       "id_str" : "801634435",
@@ -4939,11 +4939,11 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "St. Even",
+      "name" : "Stay chill in the chat",
       "screen_name" : "hoaxie",
       "protected" : false,
       "id_str" : "801634435",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934632179518205952\/e9BFigRg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953168759694372864\/QP03soyG_normal.jpg",
       "id" : 801634435,
       "verified" : false
     }
@@ -5271,10 +5271,10 @@ Grailbird.data.tweets_2015_06 =
       "expanded_url" : "https:\/\/twitter.com\/Taezar\/status\/611287521616490496\/photo\/1",
       "indices" : [ 70, 92 ],
       "url" : "http:\/\/t.co\/VFBWOfArPI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CHu6v04UkAAIQ4z.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CHu6v04UkAAclsq.jpg",
       "id_str" : "611287505250324480",
       "id" : 611287505250324480,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHu6v04UkAAIQ4z.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHu6v04UkAAclsq.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -5315,10 +5315,10 @@ Grailbird.data.tweets_2015_06 =
         "expanded_url" : "https:\/\/twitter.com\/Taezar\/status\/611287521616490496\/photo\/1",
         "indices" : [ 58, 80 ],
         "url" : "http:\/\/t.co\/VFBWOfArPI",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CHu6v04UkAAIQ4z.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CHu6v04UkAAclsq.jpg",
         "id_str" : "611287505250324480",
         "id" : 611287505250324480,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHu6v04UkAAIQ4z.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CHu6v04UkAAclsq.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -5356,7 +5356,7 @@ Grailbird.data.tweets_2015_06 =
     "user" : {
       "name" : "Taezar",
       "screen_name" : "Taezar",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15466135",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/518024444208373760\/XPBQDcph_normal.jpeg",
       "id" : 15466135,
@@ -6436,7 +6436,7 @@ Grailbird.data.tweets_2015_06 =
       "id_str" : "942695827",
       "id" : 942695827
     }, {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 19, 32 ],
       "id_str" : "14709131",
@@ -6459,7 +6459,7 @@ Grailbird.data.tweets_2015_06 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "number one fan of good morning and evening clouds",
+        "name" : "i have been on this garbage website for ten years",
         "screen_name" : "pressdarling",
         "indices" : [ 0, 13 ],
         "id_str" : "14709131",
@@ -6510,7 +6510,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 3, 16 ],
       "id_str" : "14709131",
@@ -6571,7 +6571,7 @@ Grailbird.data.tweets_2015_06 =
     "id" : 609908504057397248,
     "created_at" : "2015-06-14 02:21:33 +0000",
     "user" : {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "protected" : false,
       "id_str" : "14709131",

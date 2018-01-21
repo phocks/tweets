@@ -3770,7 +3770,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -5795,7 +5795,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A Busy Xmas Dad",
+      "name" : "A Busy Dad",
       "screen_name" : "mtats",
       "indices" : [ 3, 9 ],
       "id_str" : "16778161",
@@ -5828,7 +5828,7 @@ Grailbird.data.tweets_2010_06 =
     "id" : 15315401392,
     "created_at" : "2010-06-03 10:06:45 +0000",
     "user" : {
-      "name" : "A Busy Xmas Dad",
+      "name" : "A Busy Dad",
       "screen_name" : "mtats",
       "protected" : false,
       "id_str" : "16778161",

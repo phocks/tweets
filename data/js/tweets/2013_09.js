@@ -686,13 +686,13 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "number one fan of good morning and evening clouds",
+      "name" : "i have been on this garbage website for ten years",
       "screen_name" : "pressdarling",
       "indices" : [ 100, 113 ],
       "id_str" : "14709131",
       "id" : 14709131
     }, {
-      "name" : "Sara",
+      "name" : "she's got moxie \u270C\uFE0F\uD83D\uDC96",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 114, 127 ],
       "id_str" : "2543227753",
@@ -2422,13 +2422,7 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mali",
-      "screen_name" : "sicklepumpkin",
-      "indices" : [ 0, 14 ],
-      "id_str" : "925271664052510720",
-      "id" : 925271664052510720
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3826,7 +3820,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara",
+      "name" : "she's got moxie \u270C\uFE0F\uD83D\uDC96",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4370,7 +4364,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Last, First",
+      "name" : "Bree Mateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -4543,7 +4537,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara",
+      "name" : "she's got moxie \u270C\uFE0F\uD83D\uDC96",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",
@@ -4714,7 +4708,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sara",
+      "name" : "she's got moxie \u270C\uFE0F\uD83D\uDC96",
       "screen_name" : "Shesgotmoxie",
       "indices" : [ 0, 13 ],
       "id_str" : "2543227753",

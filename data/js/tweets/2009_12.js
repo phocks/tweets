@@ -163,7 +163,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kieran McIlwain",
+      "name" : "Kieran McIlwain \uD83D\uDE9F",
       "screen_name" : "kjmci",
       "indices" : [ 0, 6 ],
       "id_str" : "149495489",

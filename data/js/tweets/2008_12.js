@@ -2380,13 +2380,7 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pie",
-      "screen_name" : "reply",
-      "indices" : [ 103, 109 ],
-      "id_str" : "917867148978081792",
-      "id" : 917867148978081792
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

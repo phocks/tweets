@@ -5178,7 +5178,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "18328488",
       "id" : 18328488
     }, {
-      "name" : "Last, First",
+      "name" : "Bree Mateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 12, 25 ],
       "id_str" : "5788332",

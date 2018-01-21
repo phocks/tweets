@@ -1213,7 +1213,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "VeryStableGenius",
+      "name" : "Bantrim Smoot",
       "screen_name" : "gilfer",
       "indices" : [ 26, 33 ],
       "id_str" : "6024412",
@@ -1596,7 +1596,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Smelly",
+      "name" : "\uC57C\uC2DD\uC5EC\uC790",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -2012,7 +2012,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "105733292",
       "id" : 105733292
     }, {
-      "name" : "Ronson Dalby",
+      "name" : "Ron Dalby",
       "screen_name" : "ronsondalby",
       "indices" : [ 65, 77 ],
       "id_str" : "266343724",
@@ -4848,13 +4848,7 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Pie",
-      "screen_name" : "reply",
-      "indices" : [ 59, 65 ],
-      "id_str" : "917867148978081792",
-      "id" : 917867148978081792
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
