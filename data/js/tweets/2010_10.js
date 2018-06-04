@@ -1940,7 +1940,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "nicolejensen",
       "protected" : false,
       "id_str" : "17459950",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950269780946182144\/7ULyTrwD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002447774950936576\/R-jv_RuX_normal.jpg",
       "id" : 17459950,
       "verified" : false
     }
@@ -2516,12 +2516,6 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    }, {
       "name" : "Lara",
       "screen_name" : "lalalian",
       "indices" : [ 16, 25 ],
@@ -6905,7 +6899,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14111299",
       "id" : 14111299
     }, {
-      "name" : "Byorgen Druffeldroff",
+      "name" : "Sheepie",
       "screen_name" : "bastardsheep",
       "indices" : [ 111, 124 ],
       "id_str" : "16278101",
@@ -8684,7 +8678,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "carnagefairy",
       "screen_name" : "carnagefairy",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "14211650",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988943914512957440\/ROBmzWJ5_normal.jpg",
       "id" : 14211650,

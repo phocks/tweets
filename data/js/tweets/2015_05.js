@@ -552,7 +552,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rocketpilot \uD83D\uDE80",
+      "name" : "\uD83D\uDC36 Rocketpilot \uD83D\uDE80",
       "screen_name" : "ABillionSuns",
       "indices" : [ 0, 13 ],
       "id_str" : "32317477",
@@ -1402,7 +1402,7 @@ Grailbird.data.tweets_2015_05 =
     "id" : 603683584873000960,
     "created_at" : "2015-05-27 22:05:57 +0000",
     "user" : {
-      "name" : "I can't be managed.",
+      "name" : "Updated Privacy Policy",
       "screen_name" : "poniesandsodies",
       "protected" : false,
       "id_str" : "264419838",
@@ -1539,7 +1539,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "hollythrosby",
       "protected" : false,
       "id_str" : "69747378",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796865460822110208\/wWvYjm20_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993067511816966146\/RyTV6fJ7_normal.jpg",
       "id" : 69747378,
       "verified" : false
     }
@@ -2705,7 +2705,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -3633,7 +3633,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF42 Anna Spargo-Ryan \uD83C\uDF42",
+      "name" : "anna s-r",
       "screen_name" : "annaspargoryan",
       "indices" : [ 3, 18 ],
       "id_str" : "20012387",
@@ -3660,11 +3660,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 601617575567597568,
     "created_at" : "2015-05-22 05:16:22 +0000",
     "user" : {
-      "name" : "\uD83C\uDF42 Anna Spargo-Ryan \uD83C\uDF42",
+      "name" : "anna s-r",
       "screen_name" : "annaspargoryan",
       "protected" : false,
       "id_str" : "20012387",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985784683584614400\/O7oxizQX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993249823984795649\/rVyNFMqx_normal.jpg",
       "id" : 20012387,
       "verified" : true
     }
@@ -6079,7 +6079,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -6112,13 +6112,13 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeRWorld \/ Sacha V",
+      "name" : "WeRWorld - @creatrixtiara",
       "screen_name" : "WeRWorld",
       "indices" : [ 3, 12 ],
       "id_str" : "2595571764",
       "id" : 2595571764
     }, {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 26, 40 ],
       "id_str" : "2444895445",
@@ -6140,7 +6140,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+        "name" : "WeAreBne \/BarryRutherford",
         "screen_name" : "WeAreBrisbane",
         "indices" : [ 12, 26 ],
         "id_str" : "2444895445",
@@ -6161,11 +6161,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600161776236244992,
     "created_at" : "2015-05-18 04:51:32 +0000",
     "user" : {
-      "name" : "WeRWorld \/ Sacha V",
+      "name" : "WeRWorld - @creatrixtiara",
       "screen_name" : "WeRWorld",
       "protected" : false,
       "id_str" : "2595571764",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989013736768901120\/aAeFdDm0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001631808209879040\/e3Ludlkk_normal.jpg",
       "id" : 2595571764,
       "verified" : false
     }
@@ -6268,7 +6268,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Commissar Joe",
+      "name" : "My Joe-Called Life",
       "screen_name" : "CommissarJoe",
       "indices" : [ 0, 13 ],
       "id_str" : "176588955",
@@ -6507,7 +6507,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 1, 15 ],
       "id_str" : "2444895445",
@@ -6545,7 +6545,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -6696,7 +6696,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -6752,11 +6752,11 @@ Grailbird.data.tweets_2015_05 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -6782,7 +6782,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "20585378",
       "id" : 20585378
     }, {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 98, 112 ],
       "id_str" : "2444895445",
@@ -6962,7 +6962,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -7001,11 +7001,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 600060071880491008,
     "created_at" : "2015-05-17 22:07:24 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -7458,119 +7458,6 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christopher Mims \uD83C\uDF86",
-      "screen_name" : "mims",
-      "indices" : [ 3, 8 ],
-      "id_str" : "1769191",
-      "id" : 1769191
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/mims\/status\/598916659903111168\/photo\/1",
-      "indices" : [ 51, 73 ],
-      "url" : "http:\/\/t.co\/HdqEzciDzz",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CE_Hh1PWYAEtrPM.jpg",
-      "id_str" : "598916659504635905",
-      "id" : 598916659504635905,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CE_Hh1PWYAEtrPM.jpg",
-      "sizes" : [ {
-        "h" : 330,
-        "resize" : "fit",
-        "w" : 482
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 330,
-        "resize" : "fit",
-        "w" : 482
-      }, {
-        "h" : 330,
-        "resize" : "fit",
-        "w" : 482
-      }, {
-        "h" : 330,
-        "resize" : "fit",
-        "w" : 482
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/HdqEzciDzz"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "599070625936748544",
-  "text" : "RT @mims: Facebook to publishers every day forever http:\/\/t.co\/HdqEzciDzz",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/mims\/status\/598916659903111168\/photo\/1",
-        "indices" : [ 41, 63 ],
-        "url" : "http:\/\/t.co\/HdqEzciDzz",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CE_Hh1PWYAEtrPM.jpg",
-        "id_str" : "598916659504635905",
-        "id" : 598916659504635905,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CE_Hh1PWYAEtrPM.jpg",
-        "sizes" : [ {
-          "h" : 330,
-          "resize" : "fit",
-          "w" : 482
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 330,
-          "resize" : "fit",
-          "w" : 482
-        }, {
-          "h" : 330,
-          "resize" : "fit",
-          "w" : 482
-        }, {
-          "h" : 330,
-          "resize" : "fit",
-          "w" : 482
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/HdqEzciDzz"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "598916659903111168",
-    "text" : "Facebook to publishers every day forever http:\/\/t.co\/HdqEzciDzz",
-    "id" : 598916659903111168,
-    "created_at" : "2015-05-14 18:23:53 +0000",
-    "user" : {
-      "name" : "Christopher Mims \uD83C\uDF86",
-      "screen_name" : "mims",
-      "protected" : false,
-      "id_str" : "1769191",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/805781204381351936\/_P3k7Gmn_normal.jpg",
-      "id" : 1769191,
-      "verified" : true
-    }
-  },
-  "id" : 599070625936748544,
-  "created_at" : "2015-05-15 04:35:42 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Guardian Australia",
       "screen_name" : "GuardianAus",
       "indices" : [ 3, 15 ],
@@ -7928,7 +7815,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -7955,11 +7842,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 599045347873140736,
     "created_at" : "2015-05-15 02:55:15 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8221,7 +8108,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8248,11 +8135,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598636811833856000,
     "created_at" : "2015-05-13 23:51:52 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8556,7 +8443,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8624,11 +8511,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598282752027267072,
     "created_at" : "2015-05-13 00:24:58 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8774,7 +8661,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8801,11 +8688,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598273194689069058,
     "created_at" : "2015-05-12 23:46:59 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -8949,7 +8836,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -8992,11 +8879,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 598092160118849536,
     "created_at" : "2015-05-12 11:47:37 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -9167,7 +9054,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -9268,11 +9155,11 @@ Grailbird.data.tweets_2015_05 =
     "id" : 597996429773283328,
     "created_at" : "2015-05-12 05:27:13 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988177537518850048\/5wbVlt7u_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003414162674860033\/ykqAzu_W_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -9322,7 +9209,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 28, 42 ],
       "id_str" : "2444895445",
@@ -9700,7 +9587,7 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 41, 55 ],
       "id_str" : "2444895445",
@@ -10000,7 +9887,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990095823659651073\/61h9Ww_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993424056870322177\/MUhRysoq_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -11316,6 +11203,98 @@ Grailbird.data.tweets_2015_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Brisbane Journal",
+      "screen_name" : "brisbanejournal",
+      "indices" : [ 3, 19 ],
+      "id_str" : "386957562",
+      "id" : 386957562
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 110, 132 ],
+      "url" : "http:\/\/t.co\/sbCNQDprXu",
+      "expanded_url" : "http:\/\/dlvr.it\/9gWtHd",
+      "display_url" : "dlvr.it\/9gWtHd"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "595419556342038529",
+  "text" : "RT @brisbanejournal: LSD as a human right? Some in nanny-state Norway think so: In a country so wary of drug\u2026 http:\/\/t.co\/sbCNQDprXu http:\/\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/brisbanejournal\/status\/595418942782513155\/photo\/1",
+        "indices" : [ 112, 134 ],
+        "url" : "http:\/\/t.co\/Nv4bvDKgWn",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CENaX6vXIAEZGMg.jpg",
+        "id_str" : "595418942694432769",
+        "id" : 595418942694432769,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CENaX6vXIAEZGMg.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 349,
+          "resize" : "fit",
+          "w" : 620
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/Nv4bvDKgWn"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 89, 111 ],
+        "url" : "http:\/\/t.co\/sbCNQDprXu",
+        "expanded_url" : "http:\/\/dlvr.it\/9gWtHd",
+        "display_url" : "dlvr.it\/9gWtHd"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "595418942782513155",
+    "text" : "LSD as a human right? Some in nanny-state Norway think so: In a country so wary of drug\u2026 http:\/\/t.co\/sbCNQDprXu http:\/\/t.co\/Nv4bvDKgWn",
+    "id" : 595418942782513155,
+    "created_at" : "2015-05-05 02:45:12 +0000",
+    "user" : {
+      "name" : "Brisbane Journal",
+      "screen_name" : "brisbanejournal",
+      "protected" : false,
+      "id_str" : "386957562",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1582165126\/download_normal",
+      "id" : 386957562,
+      "verified" : false
+    }
+  },
+  "id" : 595419556342038529,
+  "created_at" : "2015-05-05 02:47:39 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "thomas violence",
       "screen_name" : "thomas_violence",
       "indices" : [ 0, 16 ],
@@ -11868,7 +11847,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "14350239",
       "id" : 14350239
     }, {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 11, 24 ],
       "id_str" : "15390381",
@@ -11907,7 +11886,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "14350239",
       "id" : 14350239
     }, {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 15, 28 ],
       "id_str" : "15390381",
@@ -11961,7 +11940,7 @@ Grailbird.data.tweets_2015_05 =
     "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "privacy policy updater",
+        "name" : "Chris O\u2019Regan",
         "screen_name" : "chrisjoregan",
         "indices" : [ 0, 13 ],
         "id_str" : "15390381",
@@ -12049,7 +12028,7 @@ Grailbird.data.tweets_2015_05 =
       "id_str" : "14350239",
       "id" : 14350239
     }, {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 11, 24 ],
       "id_str" : "15390381",
@@ -12448,7 +12427,7 @@ Grailbird.data.tweets_2015_05 =
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990095823659651073\/61h9Ww_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993424056870322177\/MUhRysoq_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }

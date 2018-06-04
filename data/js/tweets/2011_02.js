@@ -1338,12 +1338,6 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 73, 88 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    }, {
       "name" : "Daniel Olivares \uD83D\uDC35",
       "screen_name" : "TheMonkeyBoy",
       "indices" : [ 89, 102 ],
@@ -4970,7 +4964,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "C\u0489h\u0489r\u0489i\u0489s\u0489",
+      "name" : "\uD835\uDE0A\uD835\uDE29\uD835\uDE33\uD835\uDE2A\uD835\uDE34",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -6388,13 +6382,7 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7003,13 +6991,7 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7082,7 +7064,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\"17 Phones\" JimJoe",
+      "name" : "Mike Farmer dba \"Cocaine Mitch\"",
       "screen_name" : "kentuckyprophet",
       "indices" : [ 0, 16 ],
       "id_str" : "12392312",

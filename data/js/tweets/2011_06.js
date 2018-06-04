@@ -406,7 +406,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Guinevere Heald",
+      "name" : "EmotionalSupportPeacock",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -5878,12 +5878,6 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 44, 57 ],
       "id_str" : "22483027",
       "id" : 22483027
-    }, {
-      "name" : "bloddy lamb",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 58, 69 ],
-      "id_str" : "3936150799",
-      "id" : 3936150799
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6290,7 +6284,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "22876938",
       "id" : 22876938
     }, {
-      "name" : "Poots \u4ED6\u771F\u559C\u6B22\u9762\u5305 \u2728",
+      "name" : "Poots \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 29, 38 ],
       "id_str" : "8844972",

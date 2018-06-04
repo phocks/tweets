@@ -516,7 +516,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Runnin\u2019 from Dana Jean Harley",
+      "name" : "Thicctreebel",
       "screen_name" : "dylanjakemorris",
       "indices" : [ 16, 32 ],
       "id_str" : "2910620690",
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Runnin\u2019 from Dana Jean Harley",
+      "name" : "Thicctreebel",
       "screen_name" : "dylanjakemorris",
       "indices" : [ 3, 19 ],
       "id_str" : "2910620690",
@@ -669,11 +669,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Runnin\u2019 from Dana Jean Harley",
+      "name" : "Thicctreebel",
       "screen_name" : "dylanjakemorris",
       "protected" : false,
       "id_str" : "2910620690",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974127417076805632\/uDN8rg2h_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995996308371468289\/Afd0sjKj_normal.jpg",
       "id" : 2910620690,
       "verified" : false
     }
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990095823659651073\/61h9Ww_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993424056870322177\/MUhRysoq_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -2833,7 +2833,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888679303910699008\/FKrKu_32_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991242709519171584\/N8Cb7M3M_normal.jpg",
       "id" : 14083693,
       "verified" : true
     }
@@ -3361,7 +3361,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -3394,7 +3394,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -3526,7 +3526,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "OccupiedOutback",
       "protected" : false,
       "id_str" : "2279032932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/961183288307036161\/D216fkAl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001220147456032768\/RygzwSpN_normal.jpg",
       "id" : 2279032932,
       "verified" : false
     }
@@ -5500,7 +5500,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "3168609206",
       "id" : 3168609206
     }, {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 13, 23 ],
       "id_str" : "111783880",
@@ -5636,16 +5636,11 @@ Grailbird.data.tweets_2015_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "646248293744275456",
   "geo" : { },
   "id_str" : "646312482324152320",
-  "in_reply_to_user_id" : 179908459,
   "text" : "@LouiseDraper mmmmmmmmmmmm beeer!",
   "id" : 646312482324152320,
-  "in_reply_to_status_id" : 646248293744275456,
   "created_at" : "2015-09-22 13:17:58 +0000",
-  "in_reply_to_screen_name" : "LouiseDNurse",
-  "in_reply_to_user_id_str" : "179908459",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -8489,7 +8484,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 22, 35 ],
       "id_str" : "326518931",
@@ -8897,7 +8892,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888679303910699008\/FKrKu_32_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991242709519171584\/N8Cb7M3M_normal.jpg",
       "id" : 14083693,
       "verified" : true
     }
@@ -9245,7 +9240,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990095823659651073\/61h9Ww_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993424056870322177\/MUhRysoq_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -10207,7 +10202,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -11006,7 +11001,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "643322078607749121",
   "text" : "RT @Brocklesnitch: real men don\u2019t commit domestic violence. so gals, stop getting into relationships with fake men. he is a hologram. a mop\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -12081,7 +12076,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "642311373829988352",
   "text" : "RT @Brocklesnitch: Only 90s Kids Will Remember How Much Time I Spent Alone In My Room Reading In The 90s",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -12730,7 +12725,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -12768,7 +12763,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -13119,16 +13114,11 @@ Grailbird.data.tweets_2015_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "641509699322384384",
   "geo" : { },
   "id_str" : "641510186033647618",
-  "in_reply_to_user_id" : 179908459,
   "text" : ".@LouiseDraper took me only about a few seconds of sheer terror calculating carjacking and towing scenarios before realising haha",
   "id" : 641510186033647618,
-  "in_reply_to_status_id" : 641509699322384384,
   "created_at" : "2015-09-09 07:15:21 +0000",
-  "in_reply_to_screen_name" : "LouiseDNurse",
-  "in_reply_to_user_id_str" : "179908459",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -13713,7 +13703,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 3, 16 ],
       "id_str" : "326518931",
@@ -13740,7 +13730,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 641137914257084417,
     "created_at" : "2015-09-08 06:36:05 +0000",
     "user" : {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "protected" : false,
       "id_str" : "326518931",
@@ -14325,7 +14315,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "26889548",
       "id" : 26889548
     }, {
-      "name" : "Rocketpilot \uD83D\uDE80",
+      "name" : "\uD83D\uDC36 Rocketpilot \uD83D\uDE80",
       "screen_name" : "ABillionSuns",
       "indices" : [ 18, 31 ],
       "id_str" : "32317477",
@@ -14632,7 +14622,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE6\uD83C\uDDFA",
+      "name" : "Stephen \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83C\uDDE6\uD83C\uDDFA",
       "screen_name" : "HowellSrh8",
       "indices" : [ 0, 11 ],
       "id_str" : "1438068024",
@@ -15235,7 +15225,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "ambahtaynton",
       "protected" : false,
       "id_str" : "41950932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987011666587009024\/xxv_TQ2Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002811757532868608\/PLUnvNUf_normal.jpg",
       "id" : 41950932,
       "verified" : false
     }
@@ -15324,7 +15314,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Luke",
+      "name" : "Baron of Protons",
       "screen_name" : "lukemckinney",
       "indices" : [ 3, 16 ],
       "id_str" : "8704752",
@@ -15351,7 +15341,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 639797117247205376,
     "created_at" : "2015-09-04 13:48:14 +0000",
     "user" : {
-      "name" : "Luke",
+      "name" : "Baron of Protons",
       "screen_name" : "lukemckinney",
       "protected" : false,
       "id_str" : "8704752",
@@ -16799,7 +16789,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "XXXX_G0LD",
       "protected" : false,
       "id_str" : "24145539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952405291689132032\/i9X2nXRt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990871446887874560\/UO855MX8_normal.jpg",
       "id" : 24145539,
       "verified" : false
     }
@@ -17212,7 +17202,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "638587537561382912",
   "text" : "RT @JamieSkella: Here\u2019s a great photo from #Chermside shopping centre earlier today. Good at hacking, not so good at spelling. http:\/\/t.co\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {

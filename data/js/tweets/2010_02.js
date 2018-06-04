@@ -468,7 +468,7 @@ Grailbird.data.tweets_2010_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/tweepi.com\/\" rel=\"nofollow\"\u003ETweepi\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/tweepi.com\/\" rel=\"nofollow\"\u003ETweepi\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

@@ -322,7 +322,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21481069",
       "id" : 21481069
     }, {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 39, 50 ],
       "id_str" : "15080202",
@@ -632,7 +632,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -3840,7 +3840,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4144,7 +4144,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 93, 104 ],
       "id_str" : "15080202",
@@ -6373,13 +6373,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7787,7 +7781,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF32\uFF2F\uFF22\uFF2F\uFF23\uFF2F\uFF30",
+      "name" : "RUMOKO",
       "screen_name" : "RUMOKO",
       "indices" : [ 3, 10 ],
       "id_str" : "1352881",
@@ -7831,7 +7825,7 @@ Grailbird.data.tweets_2010_11 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\uFF32\uFF2F\uFF22\uFF2F\uFF23\uFF2F\uFF30",
+      "name" : "RUMOKO",
       "screen_name" : "RUMOKO",
       "protected" : false,
       "id_str" : "1352881",
@@ -9258,7 +9252,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

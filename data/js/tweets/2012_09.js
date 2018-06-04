@@ -707,7 +707,13 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "CraziiBirdRadio",
+      "screen_name" : "BirdRadio",
+      "indices" : [ 64, 74 ],
+      "id_str" : "997586007863291904",
+      "id" : 997586007863291904
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -961,7 +967,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "14422754",
       "id" : 14422754
     }, {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 10, 21 ],
       "id_str" : "15080202",
@@ -3860,7 +3866,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 0, 10 ],
       "id_str" : "111783880",
@@ -4290,13 +4296,13 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots \u4ED6\u771F\u559C\u6B22\u9762\u5305 \u2728",
+      "name" : "Poots \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
       "id" : 8844972
     }, {
-      "name" : "\u210D\uD835\uDD52\uD835\uDD54\uD835\uDD5C\uD835\uDD5D\uD835\uDD60\uD835\uDD54\uD835\uDD5C\u2019\uD835\uDD64 \uD835\uDD44\uD835\uDD60\uD835\uDD55\uD835\uDD56\uD835\uDD63 \uD835\uDD5F \uD835\uDD4E\uD835\uDD5A\uD835\uDD57\uD835\uDD56",
+      "name" : "\u210D\uD835\uDD52\uD835\uDD54\uD835\uDD5C\uD835\uDD5D\uD835\uDD60\uD835\uDD54\uD835\uDD5C-\uD835\uDD55\uD835\uDD56\uD835\uDD5D\uD835\uDD56\uD835\uDD65\uD835\uDD5A\uD835\uDD5F\uD835\uDD58 \uD835\uDD52\uD835\uDD5D\uD835\uDD5D \uD835\uDD52\uD835\uDD5F\uD835\uDD5A\uD835\uDD5E\uD835\uDD56",
       "screen_name" : "hacklocked",
       "indices" : [ 10, 21 ],
       "id_str" : "262970056",
@@ -5092,7 +5098,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "907835672",
       "id" : 907835672
     }, {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 21, 32 ],
       "id_str" : "15080202",
@@ -5125,7 +5131,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

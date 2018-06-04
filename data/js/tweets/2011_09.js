@@ -2106,7 +2106,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -5328,13 +5328,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "party \uD83D\uDC95\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
-      "screen_name" : "thatgirlpatty",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14188941",
-      "id" : 14188941
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5350,7 +5344,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 114281349812203520,
   "in_reply_to_status_id" : 114202617311277056,
   "created_at" : "2011-09-15 10:16:11 +0000",
-  "in_reply_to_screen_name" : "thatgirlpatty",
+  "in_reply_to_screen_name" : "makealimb",
   "in_reply_to_user_id_str" : "14188941",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -7201,12 +7195,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bloddy lamb",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3936150799",
-      "id" : 3936150799
-    }, {
       "name" : "Clem Bastow",
       "screen_name" : "clembastow",
       "indices" : [ 12, 23 ],
@@ -9661,7 +9649,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 3, 16 ],
       "id_str" : "326518931",
@@ -9706,7 +9694,7 @@ Grailbird.data.tweets_2011_09 =
     "id" : 109430591644119041,
     "created_at" : "2011-09-02 01:01:00 +0000",
     "user" : {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "protected" : false,
       "id_str" : "326518931",

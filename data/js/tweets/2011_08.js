@@ -1534,13 +1534,7 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bloddy lamb",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3936150799",
-      "id" : 3936150799
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4961,7 +4955,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Guinevere Heald",
+      "name" : "EmotionalSupportPeacock",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -5564,7 +5558,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots \u4ED6\u771F\u559C\u6B22\u9762\u5305 \u2728",
+      "name" : "Poots \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -7959,7 +7953,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 13, 26 ],
       "id_str" : "326518931",
@@ -7992,7 +7986,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 88, 101 ],
       "id_str" : "326518931",

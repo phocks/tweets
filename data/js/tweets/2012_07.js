@@ -3813,7 +3813,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 0, 10 ],
       "id_str" : "111783880",
@@ -3907,7 +3907,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 0, 10 ],
       "id_str" : "111783880",
@@ -4675,13 +4675,7 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "bloddy lamb",
-      "screen_name" : "buddyblanc",
-      "indices" : [ 0, 11 ],
-      "id_str" : "3936150799",
-      "id" : 3936150799
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5256,7 +5250,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "2542730658",
       "id" : 2542730658
     }, {
-      "name" : "Sarah Guinevere Heald",
+      "name" : "EmotionalSupportPeacock",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 8, 23 ],
       "id_str" : "154535572",
@@ -6033,7 +6027,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 0, 10 ],
       "id_str" : "111783880",

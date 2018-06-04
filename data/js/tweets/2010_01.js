@@ -3798,13 +3798,7 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "zzzZZ",
-      "screen_name" : "Sleepydumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "707503659123404800",
-      "id" : 707503659123404800
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

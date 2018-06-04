@@ -396,7 +396,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 1, 11 ],
       "id_str" : "111783880",
@@ -429,7 +429,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 3, 13 ],
       "id_str" : "111783880",
@@ -468,7 +468,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 538311668640387073,
     "created_at" : "2014-11-28 12:41:17 +0000",
     "user" : {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "protected" : false,
       "id_str" : "111783880",
@@ -2375,7 +2375,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986383417293099008\/XRR1K22C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998741424781733888\/O8Wc-nYb_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -7877,7 +7877,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }

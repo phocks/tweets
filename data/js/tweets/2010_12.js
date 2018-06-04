@@ -2184,7 +2184,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF32\uFF2F\uFF22\uFF2F\uFF23\uFF2F\uFF30",
+      "name" : "RUMOKO",
       "screen_name" : "RUMOKO",
       "indices" : [ 0, 7 ],
       "id_str" : "1352881",
@@ -4949,7 +4949,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots \u4ED6\u771F\u559C\u6B22\u9762\u5305 \u2728",
+      "name" : "Poots \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",
@@ -7135,12 +7135,6 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cherie",
-      "screen_name" : "CherieCheroo",
-      "indices" : [ 0, 13 ],
-      "id_str" : "36215283",
-      "id" : 36215283
-    }, {
       "name" : "si dawson",
       "screen_name" : "SiDawson",
       "indices" : [ 14, 23 ],
@@ -7151,16 +7145,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "13050458251722752",
   "geo" : { },
   "id_str" : "13096811346534400",
-  "in_reply_to_user_id" : 36215283,
   "text" : "@CherieCheroo @SiDawson I am genuinely surprised that the telstra guy showed up. I think it was due to my threatening to disconnect. ha!",
   "id" : 13096811346534400,
-  "in_reply_to_status_id" : 13050458251722752,
   "created_at" : "2010-12-10 05:04:57 +0000",
-  "in_reply_to_screen_name" : "CherieCheroo",
-  "in_reply_to_user_id_str" : "36215283",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

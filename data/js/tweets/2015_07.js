@@ -1072,7 +1072,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Kerry_Ingram",
       "protected" : false,
       "id_str" : "258308665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/958395145375944705\/8OF2yTjd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992567748654960640\/3lDnLJwA_normal.jpg",
       "id" : 258308665,
       "verified" : true
     }
@@ -5927,7 +5927,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/989429651347984385\/EvRL1ihe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992293875795410944\/qH_KB_12_normal.jpg",
       "id" : 15829574,
       "verified" : true
     }

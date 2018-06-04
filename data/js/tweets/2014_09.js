@@ -813,11 +813,16 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "515360670871605248",
   "geo" : { },
   "id_str" : "515361582138679296",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant @EllieCK DM me your email addresses :)",
   "id" : 515361582138679296,
+  "in_reply_to_status_id" : 515360670871605248,
   "created_at" : "2014-09-26 04:45:50 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1005,11 +1010,16 @@ Grailbird.data.tweets_2014_09 =
       "display_url" : "apple.stackexchange.com\/questions\/1468\u2026"
     } ]
   },
+  "in_reply_to_status_id_str" : "515083238876794880",
   "geo" : { },
   "id_str" : "515088254693937152",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant pretty scary. I'm still investigating. You might be able to find some info here: http:\/\/t.co\/LBtxzmsP2v",
   "id" : 515088254693937152,
+  "in_reply_to_status_id" : 515083238876794880,
   "created_at" : "2014-09-25 10:39:44 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1173,11 +1183,16 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "514996642198462464",
   "geo" : { },
   "id_str" : "514997371634061313",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant I wholeheartedly agree, especially with the whole \"won't kill you\" part! :)",
   "id" : 514997371634061313,
+  "in_reply_to_status_id" : 514996642198462464,
   "created_at" : "2014-09-25 04:38:36 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -4789,7 +4804,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976636761353801730\/wk_ZLerS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997044073008513026\/k7u6c196_normal.jpg",
       "id" : 40785142,
       "verified" : false
     }
@@ -5210,7 +5225,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "indices" : [ 3, 13 ],
       "id_str" : "111783880",
@@ -5316,7 +5331,7 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "midge",
+      "name" : "bianca",
       "screen_name" : "beeeeonka",
       "protected" : false,
       "id_str" : "111783880",
@@ -7076,7 +7091,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -8689,7 +8704,7 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "protected" : false,
       "id_str" : "299646877",

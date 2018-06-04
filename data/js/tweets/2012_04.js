@@ -1041,12 +1041,6 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "party \uD83D\uDC95\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
-      "screen_name" : "thatgirlpatty",
-      "indices" : [ 76, 90 ],
-      "id_str" : "14188941",
-      "id" : 14188941
-    }, {
       "name" : "Josh \uD83D\uDC26",
       "screen_name" : "phocks",
       "indices" : [ 92, 99 ],
@@ -1065,7 +1059,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 195722591711924228,
   "in_reply_to_status_id" : 195720596091445248,
   "created_at" : "2012-04-27 03:54:36 +0000",
-  "in_reply_to_screen_name" : "thatgirlpatty",
+  "in_reply_to_screen_name" : "makealimb",
   "in_reply_to_user_id_str" : "14188941",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -1223,7 +1217,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YIMBY",
+      "name" : "mel",
       "screen_name" : "superhotmel",
       "indices" : [ 0, 12 ],
       "id_str" : "18152992",
@@ -5403,7 +5397,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -5737,7 +5731,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poots \u4ED6\u771F\u559C\u6B22\u9762\u5305 \u2728",
+      "name" : "Poots \u2728",
       "screen_name" : "iusebiro",
       "indices" : [ 0, 9 ],
       "id_str" : "8844972",

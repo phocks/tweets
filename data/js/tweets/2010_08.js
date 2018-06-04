@@ -2710,7 +2710,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "yokoono",
       "protected" : false,
       "id_str" : "17681513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977191272640405504\/X3dZXG-W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998610173047459841\/lXel9gNH_normal.jpg",
       "id" : 17681513,
       "verified" : true
     }
@@ -3852,7 +3852,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

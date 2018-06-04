@@ -6104,6 +6104,57 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jacob Holman",
+      "screen_name" : "JacobLeigh",
+      "indices" : [ 3, 14 ],
+      "id_str" : "20220718",
+      "id" : 20220718
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "57642522851278848",
+  "text" : "RT @JacobLeigh: Pauline Hanson can't possibly have any more Horcruxes, can she?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "57640399015124992",
+    "text" : "Pauline Hanson can't possibly have any more Horcruxes, can she?",
+    "id" : 57640399015124992,
+    "created_at" : "2011-04-12 03:05:16 +0000",
+    "user" : {
+      "name" : "Jacob Holman",
+      "screen_name" : "JacobLeigh",
+      "protected" : false,
+      "id_str" : "20220718",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984992740193665025\/jx05wx9G_normal.jpg",
+      "id" : 20220718,
+      "verified" : false
+    }
+  },
+  "id" : 57642522851278848,
+  "created_at" : "2011-04-12 03:13:43 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8536,7 +8587,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "C\u0489h\u0489r\u0489i\u0489s\u0489",
+      "name" : "\uD835\uDE0A\uD835\uDE29\uD835\uDE33\uD835\uDE2A\uD835\uDE34",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",

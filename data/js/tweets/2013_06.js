@@ -4318,13 +4318,7 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "party \uD83D\uDC95\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
-      "screen_name" : "thatgirlpatty",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14188941",
-      "id" : 14188941
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4340,7 +4334,7 @@ Grailbird.data.tweets_2013_06 =
   "id" : 341977726074380288,
   "in_reply_to_status_id" : 341885123903496192,
   "created_at" : "2013-06-04 18:00:18 +0000",
-  "in_reply_to_screen_name" : "thatgirlpatty",
+  "in_reply_to_screen_name" : "makealimb",
   "in_reply_to_user_id_str" : "14188941",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

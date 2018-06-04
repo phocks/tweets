@@ -373,10 +373,10 @@ Grailbird.data.tweets_2015_08 =
       "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
       "indices" : [ 28, 50 ],
       "url" : "http:\/\/t.co\/AnkaZrnDK2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "id_str" : "638151830216675328",
       "id" : 638151830216675328,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -418,10 +418,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
         "indices" : [ 9, 31 ],
         "url" : "http:\/\/t.co\/AnkaZrnDK2",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "id_str" : "638151830216675328",
         "id" : 638151830216675328,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -460,7 +460,7 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19573120",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936384506067525632\/9AgUyVy__normal.jpg",
       "id" : 19573120,
@@ -3840,7 +3840,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -5927,7 +5927,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stev'n",
+      "name" : "steven",
       "screen_name" : "hoaxie",
       "indices" : [ 1, 8 ],
       "id_str" : "801634435",
@@ -8533,11 +8533,16 @@ Grailbird.data.tweets_2015_08 =
     } ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "628400313381298176",
   "geo" : { },
   "id_str" : "628402702704246784",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant #FuckYeahScience!",
   "id" : 628402702704246784,
+  "in_reply_to_status_id" : 628400313381298176,
   "created_at" : "2015-08-04 03:10:54 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -8626,7 +8631,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Neighborhood #1833 (Power Out)",
+      "name" : "Chelsea Hotel #1833",
       "screen_name" : "its1833",
       "indices" : [ 3, 11 ],
       "id_str" : "1201488590",
@@ -8653,7 +8658,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 628369535821852672,
     "created_at" : "2015-08-04 00:59:06 +0000",
     "user" : {
-      "name" : "Neighborhood #1833 (Power Out)",
+      "name" : "Chelsea Hotel #1833",
       "screen_name" : "its1833",
       "protected" : false,
       "id_str" : "1201488590",

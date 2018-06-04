@@ -146,11 +146,16 @@ Grailbird.data.tweets_2014_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "550097925733228544",
   "geo" : { },
   "id_str" : "550112044586762242",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant *reevaluates entire life*",
   "id" : 550112044586762242,
+  "in_reply_to_status_id" : 550097925733228544,
   "created_at" : "2014-12-31 02:11:46 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2233,7 +2238,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -2632,7 +2637,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }

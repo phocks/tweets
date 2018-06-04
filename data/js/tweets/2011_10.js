@@ -490,7 +490,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Guinevere Heald",
+      "name" : "EmotionalSupportPeacock",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -3109,7 +3109,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -3164,7 +3164,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 81, 94 ],
       "id_str" : "326518931",
@@ -5917,13 +5917,7 @@ Grailbird.data.tweets_2011_10 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "party \uD83D\uDC95\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
-      "screen_name" : "thatgirlpatty",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14188941",
-      "id" : 14188941
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5939,7 +5933,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 124749806072635392,
   "in_reply_to_status_id" : 124723515399208960,
   "created_at" : "2011-10-14 07:34:06 +0000",
-  "in_reply_to_screen_name" : "thatgirlpatty",
+  "in_reply_to_screen_name" : "makealimb",
   "in_reply_to_user_id_str" : "14188941",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

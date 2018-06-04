@@ -4469,12 +4469,6 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "2284606309",
       "id" : 2284606309
     }, {
-      "name" : "Priscilla Atkins",
-      "screen_name" : "missmarlane",
-      "indices" : [ 88, 100 ],
-      "id_str" : "970738272514256898",
-      "id" : 970738272514256898
-    }, {
       "name" : "Kahlia Litzow",
       "screen_name" : "KahliaLitzow",
       "indices" : [ 101, 114 ],
@@ -6778,7 +6772,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Poop Diddy",
+      "name" : "YE \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

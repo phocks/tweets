@@ -1373,7 +1373,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986383417293099008\/XRR1K22C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998741424781733888\/O8Wc-nYb_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -2936,11 +2936,16 @@ Grailbird.data.tweets_2015_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "612956207901376513",
   "geo" : { },
   "id_str" : "612956813911199744",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant @lady_smock been trying to take a photo through the lens but no luck!",
   "id" : 612956813911199744,
+  "in_reply_to_status_id" : 612956207901376513,
   "created_at" : "2015-06-22 12:14:27 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -2964,11 +2969,16 @@ Grailbird.data.tweets_2015_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "612526301321105408",
   "geo" : { },
   "id_str" : "612956616313344000",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant \uD83D\uDD2D",
   "id" : 612956616313344000,
+  "in_reply_to_status_id" : 612526301321105408,
   "created_at" : "2015-06-22 12:13:40 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3600,7 +3610,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "Susieaxemen",
       "protected" : false,
       "id_str" : "2789849677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942508898178625536\/VI3JtGy7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996217943095631872\/90ad0U15_normal.jpg",
       "id" : 2789849677,
       "verified" : false
     }
@@ -4145,7 +4155,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "Susieaxemen",
       "protected" : false,
       "id_str" : "2789849677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942508898178625536\/VI3JtGy7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996217943095631872\/90ad0U15_normal.jpg",
       "id" : 2789849677,
       "verified" : false
     }
@@ -4398,7 +4408,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",
@@ -4892,7 +4902,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -4912,7 +4922,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stev'n",
+      "name" : "steven",
       "screen_name" : "hoaxie",
       "indices" : [ 3, 10 ],
       "id_str" : "801634435",
@@ -4956,7 +4966,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Stev'n",
+      "name" : "steven",
       "screen_name" : "hoaxie",
       "protected" : false,
       "id_str" : "801634435",
@@ -5619,7 +5629,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907925485052559360\/ClA8x6uq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }

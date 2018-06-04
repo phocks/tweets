@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YIMBY",
+      "name" : "mel",
       "screen_name" : "superhotmel",
       "indices" : [ 3, 15 ],
       "id_str" : "18152992",
@@ -168,7 +168,7 @@ Grailbird.data.tweets_2011_01 =
     "id" : 31696651835940865,
     "created_at" : "2011-01-30 12:54:05 +0000",
     "user" : {
-      "name" : "YIMBY",
+      "name" : "mel",
       "screen_name" : "superhotmel",
       "protected" : false,
       "id_str" : "18152992",
@@ -3482,7 +3482,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "rockfotze",
       "protected" : false,
       "id_str" : "19856351",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871931147810349057\/1aD-uYe6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997719257000497152\/OTY-2-QB_normal.jpg",
       "id" : 19856351,
       "verified" : false
     }

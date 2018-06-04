@@ -503,7 +503,7 @@ Grailbird.data.tweets_2015_04 =
   "id_str" : "593314775330729984",
   "text" : "RT @Brocklesnitch: how can anyone argue that sexuality is a choice when there are still lots of women left who will date men",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -1140,16 +1140,11 @@ Grailbird.data.tweets_2015_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "592950640919187456",
   "geo" : { },
   "id_str" : "592951167862251520",
-  "in_reply_to_user_id" : 179908459,
   "text" : "@LouiseDraper *cuddles puppy* \uD83D\uDE0D\uD83D\uDE0D\uD83D\uDE0D",
   "id" : 592951167862251520,
-  "in_reply_to_status_id" : 592950640919187456,
   "created_at" : "2015-04-28 07:19:09 +0000",
-  "in_reply_to_screen_name" : "LouiseDNurse",
-  "in_reply_to_user_id_str" : "179908459",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -1470,13 +1465,7 @@ Grailbird.data.tweets_2015_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Teresa Sargent",
-      "screen_name" : "liltistis",
-      "indices" : [ 0, 10 ],
-      "id_str" : "427673790",
-      "id" : 427673790
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2135,7 +2124,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "Susieaxemen",
       "protected" : false,
       "id_str" : "2789849677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942508898178625536\/VI3JtGy7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996217943095631872\/90ad0U15_normal.jpg",
       "id" : 2789849677,
       "verified" : false
     }
@@ -2688,7 +2677,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990095823659651073\/61h9Ww_D_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993424056870322177\/MUhRysoq_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -2756,7 +2745,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "Susieaxemen",
       "protected" : false,
       "id_str" : "2789849677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942508898178625536\/VI3JtGy7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996217943095631872\/90ad0U15_normal.jpg",
       "id" : 2789849677,
       "verified" : false
     }
@@ -3172,7 +3161,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hucky Barnes: The Twintter Soldier",
+      "name" : "Tyler Huckabee",
       "screen_name" : "TylerHuckabee",
       "indices" : [ 3, 17 ],
       "id_str" : "39321718",
@@ -3230,7 +3219,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 591365206028095488,
     "created_at" : "2015-04-23 22:17:06 +0000",
     "user" : {
-      "name" : "Hucky Barnes: The Twintter Soldier",
+      "name" : "Tyler Huckabee",
       "screen_name" : "TylerHuckabee",
       "protected" : false,
       "id_str" : "39321718",
@@ -3485,7 +3474,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "mashable",
       "protected" : false,
       "id_str" : "972651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941796662770651137\/cDtLVz1j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002562532966531072\/9_Ps4xUI_normal.jpg",
       "id" : 972651,
       "verified" : true
     }
@@ -4015,7 +4004,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "do not open",
+      "name" : "hey you in the bush",
       "screen_name" : "50_Billion_ppl",
       "indices" : [ 3, 18 ],
       "id_str" : "1669954190",
@@ -4052,11 +4041,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590681172776202240,
     "created_at" : "2015-04-22 00:59:00 +0000",
     "user" : {
-      "name" : "do not open",
+      "name" : "hey you in the bush",
       "screen_name" : "50_Billion_ppl",
       "protected" : false,
       "id_str" : "1669954190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990107872498401280\/_5gsTG6i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002535663927824385\/0qz_mwAS_normal.jpg",
       "id" : 1669954190,
       "verified" : false
     }
@@ -4371,7 +4360,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "InfinityTimesMe",
       "protected" : false,
       "id_str" : "1021190509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986800303071637505\/oaQvCN-E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994790505992130560\/5ahd9Uhm_normal.jpg",
       "id" : 1021190509,
       "verified" : false
     }
@@ -4559,7 +4548,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mandy is a bitch",
+      "name" : "my dick is soft",
       "screen_name" : "MAZ_DY",
       "indices" : [ 0, 7 ],
       "id_str" : "282831531",
@@ -4592,7 +4581,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mandy is a bitch",
+      "name" : "my dick is soft",
       "screen_name" : "MAZ_DY",
       "indices" : [ 0, 7 ],
       "id_str" : "282831531",
@@ -4783,57 +4772,6 @@ Grailbird.data.tweets_2015_04 =
   "text" : "lol i know https:\/\/t.co\/2972ixqZP5",
   "id" : 590326064695619584,
   "created_at" : "2015-04-21 01:27:56 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Mitch Pileggi",
-      "screen_name" : "MitchPileggi1",
-      "indices" : [ 3, 17 ],
-      "id_str" : "2364602107",
-      "id" : 2364602107
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "590325347801030656",
-  "text" : "RT @MitchPileggi1: Very happy to announce that Walter Skinner will once again be getting all grumpy and bitchy with his two wayward kids. V\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "590231927648423936",
-    "text" : "Very happy to announce that Walter Skinner will once again be getting all grumpy and bitchy with his two wayward kids. Very happy.",
-    "id" : 590231927648423936,
-    "created_at" : "2015-04-20 19:13:52 +0000",
-    "user" : {
-      "name" : "Mitch Pileggi",
-      "screen_name" : "MitchPileggi1",
-      "protected" : false,
-      "id_str" : "2364602107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457598841445822464\/tFTbTzjp_normal.jpeg",
-      "id" : 2364602107,
-      "verified" : true
-    }
-  },
-  "id" : 590325347801030656,
-  "created_at" : "2015-04-21 01:25:05 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -5270,7 +5208,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "OwensDamien",
       "protected" : false,
       "id_str" : "67725191",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988765983102812160\/rvuxnY2p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001211056210042880\/kUGWVX6A_normal.jpg",
       "id" : 67725191,
       "verified" : false
     }
@@ -5738,7 +5676,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mei Dongler",
+      "name" : "Merged Lion",
       "screen_name" : "NedGilmore",
       "indices" : [ 3, 14 ],
       "id_str" : "166001040",
@@ -5765,7 +5703,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 589044413046784000,
     "created_at" : "2015-04-17 12:35:06 +0000",
     "user" : {
-      "name" : "Mei Dongler",
+      "name" : "Merged Lion",
       "screen_name" : "NedGilmore",
       "protected" : false,
       "id_str" : "166001040",
@@ -5855,7 +5793,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",
@@ -6363,7 +6301,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "Susieaxemen",
       "protected" : false,
       "id_str" : "2789849677",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942508898178625536\/VI3JtGy7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/996217943095631872\/90ad0U15_normal.jpg",
       "id" : 2789849677,
       "verified" : false
     }
@@ -7027,7 +6965,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -7360,7 +7298,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kylo ran",
+      "name" : "kylo ran, MD",
       "screen_name" : "deimachy",
       "indices" : [ 3, 12 ],
       "id_str" : "14263780",
@@ -7387,7 +7325,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 587852311201873920,
     "created_at" : "2015-04-14 05:38:07 +0000",
     "user" : {
-      "name" : "kylo ran",
+      "name" : "kylo ran, MD",
       "screen_name" : "deimachy",
       "protected" : false,
       "id_str" : "14263780",
@@ -9052,7 +8990,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986383417293099008\/XRR1K22C_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998741424781733888\/O8Wc-nYb_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -10046,7 +9984,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "privacy policy updater",
+      "name" : "Chris O\u2019Regan",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",

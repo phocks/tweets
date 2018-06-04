@@ -2443,7 +2443,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kindness Appreciator",
+      "name" : "Online Participant",
       "screen_name" : "SortaBad",
       "indices" : [ 3, 12 ],
       "id_str" : "248540363",
@@ -2470,7 +2470,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 912793402382573568,
     "created_at" : "2017-09-26 21:38:00 +0000",
     "user" : {
-      "name" : "Kindness Appreciator",
+      "name" : "Online Participant",
       "screen_name" : "SortaBad",
       "protected" : false,
       "id_str" : "248540363",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -6856,7 +6856,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "251527060",
       "id" : 251527060
     }, {
-      "name" : "Prince of Egypt",
+      "name" : "Prince of Logan",
       "screen_name" : "highrankedjnr",
       "indices" : [ 13, 27 ],
       "id_str" : "327141941",
@@ -7880,7 +7880,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "DC0451",
       "protected" : false,
       "id_str" : "3094712439",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956357409911353344\/i5nsTILW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998386232835981313\/xmOQ8oHF_normal.jpg",
       "id" : 3094712439,
       "verified" : false
     }
@@ -8146,7 +8146,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -9174,7 +9174,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ange \uD83E\uDDD9\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "ange \u2601\uFE0F",
       "screen_name" : "sarkisiancher",
       "indices" : [ 3, 17 ],
       "id_str" : "757402380254208000",
@@ -9201,11 +9201,11 @@ Grailbird.data.tweets_2017_09 =
     "id" : 909043915264856065,
     "created_at" : "2017-09-16 13:18:53 +0000",
     "user" : {
-      "name" : "ange \uD83E\uDDD9\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "ange \u2601\uFE0F",
       "screen_name" : "sarkisiancher",
       "protected" : false,
       "id_str" : "757402380254208000",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985370303617536000\/8hi4d2AV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003083358623227904\/EhIRRlqM_normal.jpg",
       "id" : 757402380254208000,
       "verified" : false
     }
@@ -10985,7 +10985,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "taylorndean",
       "protected" : false,
       "id_str" : "855106531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/970389290843824129\/bXyQ_sZM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999522105845690368\/BHu6Khvj_normal.jpg",
       "id" : 855106531,
       "verified" : true
     }
@@ -11909,7 +11909,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Whiskey Anne Rice \uD83E\uDD43\uD83E\uDD87",
+      "name" : "bianca xunise \uD83E\uDD87 CAKE 517",
       "screen_name" : "biancaxunise",
       "indices" : [ 3, 16 ],
       "id_str" : "158026337",
@@ -12184,7 +12184,7 @@ Grailbird.data.tweets_2017_09 =
     "id" : 908399109865967617,
     "created_at" : "2017-09-14 18:36:39 +0000",
     "user" : {
-      "name" : "Whiskey Anne Rice \uD83E\uDD43\uD83E\uDD87",
+      "name" : "bianca xunise \uD83E\uDD87 CAKE 517",
       "screen_name" : "biancaxunise",
       "protected" : false,
       "id_str" : "158026337",
@@ -12972,7 +12972,7 @@ Grailbird.data.tweets_2017_09 =
   "id_str" : "908477028940132352",
   "text" : "RT @drzax: Been wondering why the Prime Minister and the Attorney General keep talking about WhatsApp and iMessage recently? https:\/\/t.co\/r\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -13025,7 +13025,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "drzax",
       "protected" : false,
       "id_str" : "1462681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/560565216342052882\/tdaeqtPy_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998792347843362816\/sHaEZi77_normal.jpg",
       "id" : 1462681,
       "verified" : true
     }
@@ -15315,7 +15315,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "DC0451",
       "protected" : false,
       "id_str" : "3094712439",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956357409911353344\/i5nsTILW_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998386232835981313\/xmOQ8oHF_normal.jpg",
       "id" : 3094712439,
       "verified" : false
     }
@@ -15542,7 +15542,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TweezlingsMemphis\uD83D\uDD4A \u24CB\uD83C\uDF43",
+      "name" : "Tweezling's Memphis \uD83D\uDD4A\uD83C\uDF43 \u24CB",
       "screen_name" : "Bewyds",
       "indices" : [ 3, 10 ],
       "id_str" : "814185504581111808",
@@ -15622,7 +15622,7 @@ Grailbird.data.tweets_2017_09 =
     "in_reply_to_screen_name" : "genialgardener",
     "in_reply_to_user_id_str" : "894028319615791104",
     "user" : {
-      "name" : "TweezlingsMemphis\uD83D\uDD4A \u24CB\uD83C\uDF43",
+      "name" : "Tweezling's Memphis \uD83D\uDD4A\uD83C\uDF43 \u24CB",
       "screen_name" : "Bewyds",
       "protected" : false,
       "id_str" : "814185504581111808",
@@ -17288,7 +17288,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "20967389",
       "id" : 20967389
     }, {
-      "name" : "WeAreBne \/ Mel Kettle",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 11, 25 ],
       "id_str" : "2444895445",
@@ -17516,7 +17516,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
@@ -18715,7 +18715,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nadine Chemali @femmocollective",
+      "name" : "WeAreBne \/BarryRutherford",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -21172,7 +21172,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -21258,7 +21258,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -21291,7 +21291,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -21329,7 +21329,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -22172,7 +22172,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katsu Soup Savage",
+      "name" : "Golden Ghost Katsu Soup Savage (beyond the grave)",
       "screen_name" : "KATSUKOCKATOO",
       "indices" : [ 0, 14 ],
       "id_str" : "299646877",
@@ -22556,7 +22556,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC57C\uC2DD\uC5EC\uC790",
+      "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
       "indices" : [ 0, 13 ],
       "id_str" : "326518931",
