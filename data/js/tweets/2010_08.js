@@ -3586,27 +3586,16 @@ Grailbird.data.tweets_2010_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "21518811046",
   "geo" : { },
   "id_str" : "21526984834",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom happy birthday radiostarlett!",
   "id" : 21526984834,
-  "in_reply_to_status_id" : 21518811046,
   "created_at" : "2010-08-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -3852,7 +3841,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -6374,7 +6363,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "melbournegirl",
       "protected" : false,
       "id_str" : "21745890",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984075647503892480\/CnZH2Wxk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003986715319472129\/viCMg5wb_normal.jpg",
       "id" : 21745890,
       "verified" : true
     }

@@ -3248,7 +3248,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/timehop.com\/\" rel=\"nofollow\"\u003ETimehop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timehop",
+      "name" : "timehob",
       "screen_name" : "timehop",
       "indices" : [ 32, 40 ],
       "id_str" : "436143123",
@@ -4242,7 +4242,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "mspattyabalos",
       "protected" : false,
       "id_str" : "397888102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003069357948264450\/_NttBQ5Y_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006143213441183749\/-0FEiqo2_normal.jpg",
       "id" : 397888102,
       "verified" : false
     }

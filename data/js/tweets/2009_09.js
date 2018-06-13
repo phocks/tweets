@@ -854,7 +854,7 @@ Grailbird.data.tweets_2009_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.myspace.com\/sync\" rel=\"nofollow\"\u003EMySpace\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased858.com\" rel=\"nofollow\"\u003Eerased858\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

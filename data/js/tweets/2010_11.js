@@ -322,7 +322,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21481069",
       "id" : 21481069
     }, {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 39, 50 ],
       "id_str" : "15080202",
@@ -632,7 +632,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -3840,7 +3840,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4144,7 +4144,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 93, 104 ],
       "id_str" : "15080202",
@@ -4252,7 +4252,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalia~",
+      "name" : "Natalia [BT-DIQ17-28\/29dic]",
       "screen_name" : "doiha",
       "indices" : [ 3, 9 ],
       "id_str" : "18040565",
@@ -4279,7 +4279,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 4715081048793088,
     "created_at" : "2010-11-17 01:58:57 +0000",
     "user" : {
-      "name" : "Natalia~",
+      "name" : "Natalia [BT-DIQ17-28\/29dic]",
       "screen_name" : "doiha",
       "protected" : false,
       "id_str" : "18040565",
@@ -9252,7 +9252,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

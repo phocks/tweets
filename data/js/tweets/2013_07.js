@@ -4377,7 +4377,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TimmyP is Cursed",
+      "name" : "Various TimmyP is Cursed",
       "screen_name" : "TimmyPOfficial",
       "indices" : [ 0, 15 ],
       "id_str" : "2646272922",

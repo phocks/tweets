@@ -102,7 +102,7 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timehop",
+      "name" : "timehob",
       "screen_name" : "timehop",
       "indices" : [ 1, 9 ],
       "id_str" : "436143123",

@@ -2119,7 +2119,7 @@ Grailbird.data.tweets_2015_03 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875087697177567232\/Qfy0kRIP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006242731750981633\/VQ3ZWDQ1_normal.jpg",
       "id" : 783214,
       "verified" : true
     }
@@ -5595,7 +5595,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timehop",
+      "name" : "timehob",
       "screen_name" : "timehop",
       "indices" : [ 31, 39 ],
       "id_str" : "436143123",

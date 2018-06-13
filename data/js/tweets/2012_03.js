@@ -5794,27 +5794,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "177917901079195649",
   "geo" : { },
   "id_str" : "177930297508241409",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom Right! We should also play cliff faces & building rooftops more often.",
   "id" : 177930297508241409,
-  "in_reply_to_status_id" : 177917901079195649,
   "created_at" : "2012-03-09 01:34:23 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -5882,27 +5871,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "177912773064396800",
   "geo" : { },
   "id_str" : "177917081256337408",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom Soon there'll be no live music venues left at all! (though there still seems to be hundreds in Melbourne)",
   "id" : 177917081256337408,
-  "in_reply_to_status_id" : 177912773064396800,
   "created_at" : "2012-03-09 00:41:52 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

@@ -4887,57 +4887,6 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tole",
-      "screen_name" : "astarlia",
-      "indices" : [ 3, 12 ],
-      "id_str" : "19766279",
-      "id" : 19766279
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "533090691274907648",
-  "text" : "RT @astarlia: Best thing about current Australian politics:\u00A0The Member for Batman is the current Shadow Minister for Justice.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.myplume.com\/\" rel=\"nofollow\"\u003EPlume\u00A0for\u00A0Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "532250469729464320",
-    "text" : "Best thing about current Australian politics:\u00A0The Member for Batman is the current Shadow Minister for Justice.",
-    "id" : 532250469729464320,
-    "created_at" : "2014-11-11 19:16:15 +0000",
-    "user" : {
-      "name" : "Tole",
-      "screen_name" : "astarlia",
-      "protected" : false,
-      "id_str" : "19766279",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/549038320248819712\/l8k8wFwl_normal.jpeg",
-      "id" : 19766279,
-      "verified" : false
-    }
-  },
-  "id" : 533090691274907648,
-  "created_at" : "2014-11-14 02:54:59 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Southgate - \uC870\uC288\uC544",
       "screen_name" : "Southgated",
       "indices" : [ 1, 12 ],

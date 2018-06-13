@@ -638,7 +638,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Denizcan S.",
+      "name" : "Denizcan Grimes",
       "screen_name" : "MrFilmkritik",
       "indices" : [ 3, 16 ],
       "id_str" : "1589251639",
@@ -789,7 +789,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 925136819406229507,
     "created_at" : "2017-10-30 23:06:20 +0000",
     "user" : {
-      "name" : "Denizcan S.",
+      "name" : "Denizcan Grimes",
       "screen_name" : "MrFilmkritik",
       "protected" : false,
       "id_str" : "1589251639",
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "bortofdarkness",
       "protected" : false,
       "id_str" : "2907731137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003487270085644288\/tJQKRQA9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005282752525037568\/MtTX6LjF_normal.jpg",
       "id" : 2907731137,
       "verified" : false
     }
@@ -3718,7 +3718,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "bortofdarkness",
       "protected" : false,
       "id_str" : "2907731137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003487270085644288\/tJQKRQA9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005282752525037568\/MtTX6LjF_normal.jpg",
       "id" : 2907731137,
       "verified" : false
     }
@@ -5218,7 +5218,7 @@ Grailbird.data.tweets_2017_10 =
     "user" : {
       "name" : "\u308B\u308B\u3053",
       "screen_name" : "kittens_vegan",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "913346355405266944",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948862532915101696\/DOyhqhnX_normal.jpg",
       "id" : 913346355405266944,
@@ -7258,7 +7258,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "marbs",
+      "name" : "eat the booty like ratatouille",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -9053,7 +9053,7 @@ Grailbird.data.tweets_2017_10 =
   "id" : 921515362465677312,
   "in_reply_to_status_id" : 921514967072956416,
   "created_at" : "2017-10-20 23:15:57 +0000",
-  "in_reply_to_screen_name" : "amylouiseheddle",
+  "in_reply_to_screen_name" : "solameamy",
   "in_reply_to_user_id_str" : "725892726",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -9595,6 +9595,243 @@ Grailbird.data.tweets_2017_10 =
     "verified" : false
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "indices" : [ 3, 16 ],
+      "id_str" : "503708278",
+      "id" : 503708278
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/vusq76CVzQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLPX0AEGMUu.jpg",
+      "id_str" : "917106173618409473",
+      "id" : 917106173618409473,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLPX0AEGMUu.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1067,
+        "resize" : "fit",
+        "w" : 1600
+      }, {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 800,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1067,
+        "resize" : "fit",
+        "w" : 1600
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/vusq76CVzQ"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/vusq76CVzQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLQW0AAZNo2.jpg",
+      "id_str" : "917106173622538240",
+      "id" : 917106173622538240,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLQW0AAZNo2.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 440
+      }, {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 440
+      }, {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 440
+      }, {
+        "h" : 260,
+        "resize" : "fit",
+        "w" : 440
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/vusq76CVzQ"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/vusq76CVzQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLIWkAAiKKj.jpg",
+      "id_str" : "917106173588967424",
+      "id" : 917106173588967424,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLIWkAAiKKj.jpg",
+      "sizes" : [ {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 640
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/vusq76CVzQ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "921270673577721856",
+  "text" : "RT @Tomleewalker: the \"i don't want to hear your vegan propaganda\" starter pack https:\/\/t.co\/vusq76CVzQ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+        "indices" : [ 62, 85 ],
+        "url" : "https:\/\/t.co\/vusq76CVzQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLPX0AEGMUu.jpg",
+        "id_str" : "917106173618409473",
+        "id" : 917106173618409473,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLPX0AEGMUu.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1067,
+          "resize" : "fit",
+          "w" : 1600
+        }, {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 800,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1067,
+          "resize" : "fit",
+          "w" : 1600
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/vusq76CVzQ"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+        "indices" : [ 62, 85 ],
+        "url" : "https:\/\/t.co\/vusq76CVzQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLQW0AAZNo2.jpg",
+        "id_str" : "917106173622538240",
+        "id" : 917106173622538240,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLQW0AAZNo2.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 260,
+          "resize" : "fit",
+          "w" : 440
+        }, {
+          "h" : 260,
+          "resize" : "fit",
+          "w" : 440
+        }, {
+          "h" : 260,
+          "resize" : "fit",
+          "w" : 440
+        }, {
+          "h" : 260,
+          "resize" : "fit",
+          "w" : 440
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/vusq76CVzQ"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/917106182296350720\/photo\/1",
+        "indices" : [ 62, 85 ],
+        "url" : "https:\/\/t.co\/vusq76CVzQ",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DLo3NLIWkAAiKKj.jpg",
+        "id_str" : "917106173588967424",
+        "id" : 917106173588967424,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DLo3NLIWkAAiKKj.jpg",
+        "sizes" : [ {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 640
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 640
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 640
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 640
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/vusq76CVzQ"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "917106182296350720",
+    "text" : "the \"i don't want to hear your vegan propaganda\" starter pack https:\/\/t.co\/vusq76CVzQ",
+    "id" : 917106182296350720,
+    "created_at" : "2017-10-08 19:15:27 +0000",
+    "user" : {
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "protected" : false,
+      "id_str" : "503708278",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004847541576495105\/gjHRID6H_normal.jpg",
+      "id" : 503708278,
+      "verified" : false
+    }
+  },
+  "id" : 921270673577721856,
+  "created_at" : "2017-10-20 07:03:39 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -9794,7 +10031,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "38154086",
       "id" : 38154086
     }, {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 11, 24 ],
       "id_str" : "2351283432",
@@ -11605,7 +11842,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "lmlyskova",
       "protected" : false,
       "id_str" : "741087819314036736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000837988643942407\/cpq3bgGw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004562682278744064\/AWXKXPWw_normal.jpg",
       "id" : 741087819314036736,
       "verified" : false
     }
@@ -11625,7 +11862,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -11731,7 +11968,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bong, james bong",
+      "name" : "matty b",
       "screen_name" : "mattDCLXVI",
       "indices" : [ 0, 11 ],
       "id_str" : "348257571",
@@ -12805,7 +13042,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "16179055",
       "id" : 16179055
     }, {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "indices" : [ 15, 26 ],
       "id_str" : "16495353",
@@ -12855,7 +13092,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "marbs",
+      "name" : "eat the booty like ratatouille",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -12955,7 +13192,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "16179055",
       "id" : 16179055
     }, {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "indices" : [ 15, 26 ],
       "id_str" : "16495353",
@@ -13123,7 +13360,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "15353121",
       "id" : 15353121
     }, {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "indices" : [ 8, 19 ],
       "id_str" : "16495353",
@@ -13233,7 +13470,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Lite\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zouhir",
+      "name" : "Zouhir \uD83E\uDD5E aka The Original Pancake",
       "screen_name" : "_zouhir",
       "indices" : [ 0, 8 ],
       "id_str" : "251021107",
@@ -13245,7 +13482,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "1100495504",
       "id" : 1100495504
     }, {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "indices" : [ 19, 30 ],
       "id_str" : "16495353",
@@ -13397,7 +13634,7 @@ Grailbird.data.tweets_2017_10 =
       "screen_name" : "ArianaGrande",
       "protected" : false,
       "id_str" : "34507480",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995406469091733509\/0QzLe7dY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004810374967799808\/fXH7KPii_normal.jpg",
       "id" : 34507480,
       "verified" : true
     }
@@ -13468,7 +13705,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "indices" : [ 3, 14 ],
       "id_str" : "16495353",
@@ -13550,7 +13787,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 920028490287730693,
     "created_at" : "2017-10-16 20:47:40 +0000",
     "user" : {
-      "name" : "Jason Miller \uD83E\uDD8A\u269B at JSConf EU \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jason Miller \uD83E\uDD8A\u269B",
       "screen_name" : "_developit",
       "protected" : false,
       "id_str" : "16495353",
@@ -14454,7 +14691,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hi yukio \uD83D\uDC4B",
+      "name" : "[indistinct chatter]",
       "screen_name" : "Deonizm",
       "indices" : [ 0, 8 ],
       "id_str" : "898952095",
@@ -16793,7 +17030,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "20585378",
       "id" : 20585378
     }, {
-      "name" : "WeAreBne \/BarryRutherford",
+      "name" : "WeAreBne \/KittenFlower",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 68, 82 ],
       "id_str" : "2444895445",
@@ -16810,7 +17047,7 @@ Grailbird.data.tweets_2017_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeAreBne \/BarryRutherford",
+        "name" : "WeAreBne \/KittenFlower",
         "screen_name" : "WeAreBrisbane",
         "indices" : [ 51, 65 ],
         "id_str" : "2444895445",
@@ -18342,7 +18579,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Porku",
+      "name" : "Spooky Porkchop",
       "screen_name" : "Egoistporky",
       "indices" : [ 3, 15 ],
       "id_str" : "800640791051780096",
@@ -18431,7 +18668,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 918655314710347777,
     "created_at" : "2017-10-13 01:51:09 +0000",
     "user" : {
-      "name" : "Porku",
+      "name" : "Spooky Porkchop",
       "screen_name" : "Egoistporky",
       "protected" : false,
       "id_str" : "800640791051780096",
@@ -21687,7 +21924,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -25504,7 +25741,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "marbs",
+      "name" : "eat the booty like ratatouille",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -26248,7 +26485,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDDE9\uD83C\uDDEA fantastic ms.",
+      "name" : "\uD83C\uDDF5\uD83C\uDDF1 fantastic ms.",
       "screen_name" : "fox",
       "indices" : [ 3, 7 ],
       "id_str" : "42864649",
@@ -26285,7 +26522,7 @@ Grailbird.data.tweets_2017_10 =
     "id" : 916140725011603458,
     "created_at" : "2017-10-06 03:19:04 +0000",
     "user" : {
-      "name" : "\uD83C\uDDE9\uD83C\uDDEA fantastic ms.",
+      "name" : "\uD83C\uDDF5\uD83C\uDDF1 fantastic ms.",
       "screen_name" : "fox",
       "protected" : false,
       "id_str" : "42864649",
@@ -26339,7 +26576,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "marbs",
+      "name" : "eat the booty like ratatouille",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -26743,7 +26980,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "2585244434",
       "id" : 2585244434
     }, {
-      "name" : "WeAreBne \/BarryRutherford",
+      "name" : "WeAreBne \/KittenFlower",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 14, 28 ],
       "id_str" : "2444895445",
@@ -26782,7 +27019,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "2585244434",
       "id" : 2585244434
     }, {
-      "name" : "WeAreBne \/BarryRutherford",
+      "name" : "WeAreBne \/KittenFlower",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 14, 28 ],
       "id_str" : "2444895445",
@@ -26815,7 +27052,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/BarryRutherford",
+      "name" : "WeAreBne \/KittenFlower",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -30609,7 +30846,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tiny hag",
+      "name" : "shitty villain",
       "screen_name" : "sistersleaze",
       "indices" : [ 0, 13 ],
       "id_str" : "780254454822019072",
@@ -30642,7 +30879,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tiny hag",
+      "name" : "shitty villain",
       "screen_name" : "sistersleaze",
       "indices" : [ 0, 13 ],
       "id_str" : "780254454822019072",
@@ -30675,7 +30912,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tiny hag",
+      "name" : "shitty villain",
       "screen_name" : "sistersleaze",
       "indices" : [ 0, 13 ],
       "id_str" : "780254454822019072",
@@ -31497,7 +31734,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -31557,7 +31794,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -31716,7 +31953,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sunlit",
+      "name" : "tikus air",
       "screen_name" : "eab6c7",
       "indices" : [ 0, 7 ],
       "id_str" : "66978568",

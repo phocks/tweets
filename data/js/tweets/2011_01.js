@@ -4642,13 +4642,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 13, 26 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9253,13 +9247,7 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -9269,12 +9257,9 @@ Grailbird.data.tweets_2011_01 =
     "coordinates" : [ -37.8344357014, 144.9738478661 ]
   },
   "id_str" : "21515038862868480",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom ;)",
   "id" : 21515038862868480,
   "created_at" : "2011-01-02 10:35:59 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

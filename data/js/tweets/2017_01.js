@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WesOps",
+      "name" : "Wes@VelocityConf",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -2567,7 +2567,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 3, 16 ],
       "id_str" : "2351283432",
@@ -2656,7 +2656,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 825205223303974913,
     "created_at" : "2017-01-28 04:53:51 +0000",
     "user" : {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "protected" : false,
       "id_str" : "2351283432",
@@ -3493,7 +3493,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "jaboukie",
       "protected" : false,
       "id_str" : "319769408",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002334495117336582\/C5Eb05Ev_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005203146312900608\/JfFIgMJw_normal.jpg",
       "id" : 319769408,
       "verified" : false
     }
@@ -4806,7 +4806,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -6597,181 +6597,6 @@ Grailbird.data.tweets_2017_01 =
   },
   "id" : 822834842131894273,
   "created_at" : "2017-01-21 15:54:48 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "chauncey",
-      "screen_name" : "chauncey_murphy",
-      "indices" : [ 3, 19 ],
-      "id_str" : "275237035",
-      "id" : 275237035
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/chauncey_murphy\/status\/822470274759041025\/photo\/1",
-      "indices" : [ 61, 84 ],
-      "url" : "https:\/\/t.co\/wADXYZfKrh",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C2oAWYkUAAAN0A-.jpg",
-      "id_str" : "822470266500415488",
-      "id" : 822470266500415488,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C2oAWYkUAAAN0A-.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 382,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 1334
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 1334
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 1200
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/wADXYZfKrh"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/chauncey_murphy\/status\/822470274759041025\/photo\/1",
-      "indices" : [ 61, 84 ],
-      "url" : "https:\/\/t.co\/wADXYZfKrh",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C2oAWYmUoAABGVx.jpg",
-      "id_str" : "822470266508845056",
-      "id" : 822470266508845056,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C2oAWYmUoAABGVx.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 382,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 1334
-      }, {
-        "h" : 750,
-        "resize" : "fit",
-        "w" : 1334
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/wADXYZfKrh"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "822609468311609347",
-  "text" : "RT @chauncey_murphy: Melania giving Michelle her speech back https:\/\/t.co\/wADXYZfKrh",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dashboard.twitter.com\" rel=\"nofollow\"\u003ETwitter Dashboard for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/chauncey_murphy\/status\/822470274759041025\/photo\/1",
-        "indices" : [ 40, 63 ],
-        "url" : "https:\/\/t.co\/wADXYZfKrh",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C2oAWYkUAAAN0A-.jpg",
-        "id_str" : "822470266500415488",
-        "id" : 822470266500415488,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C2oAWYkUAAAN0A-.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 382,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 750,
-          "resize" : "fit",
-          "w" : 1334
-        }, {
-          "h" : 750,
-          "resize" : "fit",
-          "w" : 1334
-        }, {
-          "h" : 675,
-          "resize" : "fit",
-          "w" : 1200
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/wADXYZfKrh"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/chauncey_murphy\/status\/822470274759041025\/photo\/1",
-        "indices" : [ 40, 63 ],
-        "url" : "https:\/\/t.co\/wADXYZfKrh",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C2oAWYmUoAABGVx.jpg",
-        "id_str" : "822470266508845056",
-        "id" : 822470266508845056,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C2oAWYmUoAABGVx.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 382,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 675,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 750,
-          "resize" : "fit",
-          "w" : 1334
-        }, {
-          "h" : 750,
-          "resize" : "fit",
-          "w" : 1334
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/wADXYZfKrh"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "822470274759041025",
-    "text" : "Melania giving Michelle her speech back https:\/\/t.co\/wADXYZfKrh",
-    "id" : 822470274759041025,
-    "created_at" : "2017-01-20 15:46:08 +0000",
-    "user" : {
-      "name" : "chauncey",
-      "screen_name" : "chauncey_murphy",
-      "protected" : false,
-      "id_str" : "275237035",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003076269695643648\/P6CmugOz_normal.jpg",
-      "id" : 275237035,
-      "verified" : false
-    }
-  },
-  "id" : 822609468311609347,
-  "created_at" : "2017-01-21 00:59:15 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -9797,7 +9622,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "drake\u2019s sigh",
+      "name" : "normie adjacent",
       "screen_name" : "kish_lal",
       "indices" : [ 3, 12 ],
       "id_str" : "97696930",
@@ -9824,7 +9649,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 821695806860238849,
     "created_at" : "2017-01-18 12:28:41 +0000",
     "user" : {
-      "name" : "drake\u2019s sigh",
+      "name" : "normie adjacent",
       "screen_name" : "kish_lal",
       "protected" : false,
       "id_str" : "97696930",
@@ -10420,7 +10245,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "ngmayana",
       "protected" : false,
       "id_str" : "3788119752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003143425959456768\/jhzM0mPX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006259982776524800\/NoJDgl1t_normal.jpg",
       "id" : 3788119752,
       "verified" : false
     }
@@ -10868,7 +10693,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac And Cheese",
+      "name" : "MacsInSpace",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -13618,7 +13443,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 819783818206855168,
     "created_at" : "2017-01-13 05:51:07 +0000",
     "user" : {
-      "name" : "Jackson Ryan \uD83D\uDE4F",
+      "name" : "\uD83D\uDE4F Jackson Ryan",
       "screen_name" : "dctrjack",
       "protected" : false,
       "id_str" : "29400464",
@@ -14043,6 +13868,119 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "indices" : [ 3, 16 ],
+      "id_str" : "503708278",
+      "id" : 503708278
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/819618257149820930\/photo\/1",
+      "indices" : [ 62, 85 ],
+      "url" : "https:\/\/t.co\/s7sEc3LZUy",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C1_ecDKXUAEE0Ez.jpg",
+      "id_str" : "819618230671200257",
+      "id" : 819618230671200257,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C1_ecDKXUAEE0Ez.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 510
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
+      }, {
+        "h" : 960,
+        "resize" : "fit",
+        "w" : 720
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/s7sEc3LZUy"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "819681778562580480",
+  "text" : "RT @Tomleewalker: this bus shelter about to lose 50 followers https:\/\/t.co\/s7sEc3LZUy",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Tomleewalker\/status\/819618257149820930\/photo\/1",
+        "indices" : [ 44, 67 ],
+        "url" : "https:\/\/t.co\/s7sEc3LZUy",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C1_ecDKXUAEE0Ez.jpg",
+        "id_str" : "819618230671200257",
+        "id" : 819618230671200257,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C1_ecDKXUAEE0Ez.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 510
+        }, {
+          "h" : 960,
+          "resize" : "fit",
+          "w" : 720
+        }, {
+          "h" : 960,
+          "resize" : "fit",
+          "w" : 720
+        }, {
+          "h" : 960,
+          "resize" : "fit",
+          "w" : 720
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/s7sEc3LZUy"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "819618257149820930",
+    "text" : "this bus shelter about to lose 50 followers https:\/\/t.co\/s7sEc3LZUy",
+    "id" : 819618257149820930,
+    "created_at" : "2017-01-12 18:53:14 +0000",
+    "user" : {
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "protected" : false,
+      "id_str" : "503708278",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004847541576495105\/gjHRID6H_normal.jpg",
+      "id" : 503708278,
+      "verified" : false
+    }
+  },
+  "id" : 819681778562580480,
+  "created_at" : "2017-01-12 23:05:39 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "Tyno Mite",
       "screen_name" : "TynoMitey",
       "indices" : [ 0, 10 ],
@@ -14357,7 +14295,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "magixwhip",
       "protected" : false,
       "id_str" : "760625092359491584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002197803613990912\/mm5vWwly_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006476091786227712\/ojWA86iu_normal.jpg",
       "id" : 760625092359491584,
       "verified" : false
     }
@@ -15815,7 +15753,58 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vicky",
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "indices" : [ 3, 16 ],
+      "id_str" : "503708278",
+      "id" : 503708278
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "818982110258040832",
+  "text" : "RT @Tomleewalker: meat eaters are upset that vegans label their substitutes as meat and milk, meanwhile they label living beings as 241 and\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "818932857360023552",
+    "text" : "meat eaters are upset that vegans label their substitutes as meat and milk, meanwhile they label living beings as 241 and 367",
+    "id" : 818932857360023552,
+    "created_at" : "2017-01-10 21:29:42 +0000",
+    "user" : {
+      "name" : "Tom Lee Walker \u24CB",
+      "screen_name" : "Tomleewalker",
+      "protected" : false,
+      "id_str" : "503708278",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004847541576495105\/gjHRID6H_normal.jpg",
+      "id" : 503708278,
+      "verified" : false
+    }
+  },
+  "id" : 818982110258040832,
+  "created_at" : "2017-01-11 00:45:25 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "victoria of vengerberg",
       "screen_name" : "THEBLACKWlDOW",
       "indices" : [ 3, 17 ],
       "id_str" : "119454465",
@@ -15904,7 +15893,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 818944129547849731,
     "created_at" : "2017-01-10 22:14:30 +0000",
     "user" : {
-      "name" : "vicky",
+      "name" : "victoria of vengerberg",
       "screen_name" : "THEBLACKWlDOW",
       "protected" : false,
       "id_str" : "119454465",
@@ -15953,7 +15942,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "actuallysnamber",
       "protected" : false,
       "id_str" : "620946648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994799891221286912\/pj_oVyWe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004940722854940672\/camikbBk_normal.jpg",
       "id" : 620946648,
       "verified" : false
     }
@@ -17986,7 +17975,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "lmlyskova",
       "protected" : false,
       "id_str" : "741087819314036736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000837988643942407\/cpq3bgGw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004562682278744064\/AWXKXPWw_normal.jpg",
       "id" : 741087819314036736,
       "verified" : false
     }
@@ -19392,7 +19381,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac And Cheese",
+      "name" : "MacsInSpace",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -19447,7 +19436,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "marbs",
+      "name" : "eat the booty like ratatouille",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -19554,6 +19543,57 @@ Grailbird.data.tweets_2017_01 =
   "text" : "#WinonaForever https:\/\/t.co\/984LYalBsr",
   "id" : 816904828756500486,
   "created_at" : "2017-01-05 07:11:03 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "drinkos",
+      "screen_name" : "blushpup",
+      "indices" : [ 3, 12 ],
+      "id_str" : "391909931",
+      "id" : 391909931
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "816904432868691968",
+  "text" : "RT @blushpup: dogs deserve to live a hundred years",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "816854968770494464",
+    "text" : "dogs deserve to live a hundred years",
+    "id" : 816854968770494464,
+    "created_at" : "2017-01-05 03:52:55 +0000",
+    "user" : {
+      "name" : "drinkos",
+      "screen_name" : "blushpup",
+      "protected" : false,
+      "id_str" : "391909931",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945362242408554497\/t4oxIjMJ_normal.jpg",
+      "id" : 391909931,
+      "verified" : false
+    }
+  },
+  "id" : 816904432868691968,
+  "created_at" : "2017-01-05 07:09:28 +0000",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -19803,7 +19843,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
+      "name" : "Sarahtonin \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
       "screen_name" : "sarahs_mindtank",
       "indices" : [ 0, 16 ],
       "id_str" : "20317271",
@@ -21267,7 +21307,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hayley",
+      "name" : "Hayley | 58",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",

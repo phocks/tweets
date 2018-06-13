@@ -2929,7 +2929,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vroenis \u007B * \u007D",
+      "name" : "Vroenis \u007B * \u007D \uD83D\uDC96\uD83D\uDC9C\uD83D\uDC99",
       "screen_name" : "Vroenis",
       "indices" : [ 0, 8 ],
       "id_str" : "139668058",
@@ -7511,7 +7511,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "artywah",
       "protected" : false,
       "id_str" : "6727372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818230263574470656\/m7McygRw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003908651466145793\/tHwxRwcg_normal.jpg",
       "id" : 6727372,
       "verified" : false
     }

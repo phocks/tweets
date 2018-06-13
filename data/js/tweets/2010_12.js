@@ -3371,27 +3371,16 @@ Grailbird.data.tweets_2010_12 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17024356882325505",
   "geo" : { },
   "id_str" : "17049836381544448",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom aww, thanks elize *smiley face*",
   "id" : 17049836381544448,
-  "in_reply_to_status_id" : 17024356882325505,
   "created_at" : "2010-12-21 02:52:52 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

@@ -885,7 +885,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@mariamisshort @ccake @biancamartin101 @thejayeless @missamyll @memily @annaspargoryan @sirtessa @marchofclouds thanks for the support!",
   "id" : 140843615718092800,
   "created_at" : "2011-11-27 17:25:09 +0000",
-  "in_reply_to_screen_name" : "mariammmustafa",
+  "in_reply_to_screen_name" : "mariamjakub",
   "in_reply_to_user_id_str" : "383040461",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -942,7 +942,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 140827127514808321,
   "in_reply_to_status_id" : 140825245870338048,
   "created_at" : "2011-11-27 16:19:38 +0000",
-  "in_reply_to_screen_name" : "mariammmustafa",
+  "in_reply_to_screen_name" : "mariamjakub",
   "in_reply_to_user_id_str" : "383040461",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -3467,7 +3467,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 138405702136893441,
   "in_reply_to_status_id" : 138285327298203648,
   "created_at" : "2011-11-20 23:57:45 +0000",
-  "in_reply_to_screen_name" : "mariammmustafa",
+  "in_reply_to_screen_name" : "mariamjakub",
   "in_reply_to_user_id_str" : "383040461",
   "user" : {
     "name" : "Josh \uD83D\uDC26",

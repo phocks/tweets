@@ -516,7 +516,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thicctreebel",
+      "name" : "Dealt a good rim",
       "screen_name" : "dylanjakemorris",
       "indices" : [ 16, 32 ],
       "id_str" : "2910620690",
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thicctreebel",
+      "name" : "Dealt a good rim",
       "screen_name" : "dylanjakemorris",
       "indices" : [ 3, 19 ],
       "id_str" : "2910620690",
@@ -669,7 +669,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Thicctreebel",
+      "name" : "Dealt a good rim",
       "screen_name" : "dylanjakemorris",
       "protected" : false,
       "id_str" : "2910620690",
@@ -5896,7 +5896,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/977583097167339521\/WaTS7eCg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006389602771394560\/_iDv_nwi_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -6243,7 +6243,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u22C6\u2735tiny star fields\u2735\u22C6",
+      "name" : "\u22C6",
       "screen_name" : "tiny_star_field",
       "indices" : [ 3, 19 ],
       "id_str" : "2607163646",
@@ -6270,7 +6270,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 646103874684612608,
     "created_at" : "2015-09-21 23:29:02 +0000",
     "user" : {
-      "name" : "\u22C6\u2735tiny star fields\u2735\u22C6",
+      "name" : "\u22C6",
       "screen_name" : "tiny_star_field",
       "protected" : false,
       "id_str" : "2607163646",
@@ -10202,7 +10202,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -12725,7 +12725,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -12763,7 +12763,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -13361,7 +13361,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u22C6\u2735tiny star fields\u2735\u22C6",
+      "name" : "\u22C6",
       "screen_name" : "tiny_star_field",
       "indices" : [ 3, 19 ],
       "id_str" : "2607163646",
@@ -13388,7 +13388,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 641347531767615488,
     "created_at" : "2015-09-08 20:29:01 +0000",
     "user" : {
-      "name" : "\u22C6\u2735tiny star fields\u2735\u22C6",
+      "name" : "\u22C6",
       "screen_name" : "tiny_star_field",
       "protected" : false,
       "id_str" : "2607163646",
@@ -15314,7 +15314,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Baron of Protons",
+      "name" : "ZERO PROBLEM COMEDY",
       "screen_name" : "lukemckinney",
       "indices" : [ 3, 16 ],
       "id_str" : "8704752",
@@ -15341,7 +15341,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 639797117247205376,
     "created_at" : "2015-09-04 13:48:14 +0000",
     "user" : {
-      "name" : "Baron of Protons",
+      "name" : "ZERO PROBLEM COMEDY",
       "screen_name" : "lukemckinney",
       "protected" : false,
       "id_str" : "8704752",
@@ -16789,7 +16789,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "XXXX_G0LD",
       "protected" : false,
       "id_str" : "24145539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990871446887874560\/UO855MX8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005242589589704704\/eUU2920X_normal.jpg",
       "id" : 24145539,
       "verified" : false
     }

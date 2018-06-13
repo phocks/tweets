@@ -1025,74 +1025,6 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 3, 16 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    }, {
-      "name" : "Josh \uD83D\uDC26",
-      "screen_name" : "phocks",
-      "indices" : [ 18, 25 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "40935156080574464",
-  "text" : "RT @elizestrydom: @phocks Get behind me, Satan!",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Josh \uD83D\uDC26",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "40931467391533057",
-    "geo" : { },
-    "id_str" : "40932273981362176",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks Get behind me, Satan!",
-    "id" : 40932273981362176,
-    "in_reply_to_status_id" : 40931467391533057,
-    "created_at" : "2011-02-25 00:33:09 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "protected" : false,
-      "id_str" : "22588734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/735007023754940416\/pvEx3u36_normal.jpg",
-      "id" : 22588734,
-      "verified" : false
-    }
-  },
-  "id" : 40935156080574464,
-  "created_at" : "2011-02-25 00:44:36 +0000",
-  "user" : {
-    "name" : "Josh \uD83D\uDC26",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
-    "id" : 5703342,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7064,7 +6996,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Farmer dba \"Cocaine Mitch\"",
+      "name" : "Mike Farmer BANDCAMP is UP!",
       "screen_name" : "kentuckyprophet",
       "indices" : [ 0, 16 ],
       "id_str" : "12392312",

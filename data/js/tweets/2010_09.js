@@ -8924,27 +8924,16 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "22853866394",
   "geo" : { },
   "id_str" : "22856448792",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom all gone, sorry ;)",
   "id" : 22856448792,
-  "in_reply_to_status_id" : 22853866394,
   "created_at" : "2010-09-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

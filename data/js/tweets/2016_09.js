@@ -1791,7 +1791,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@McFunkypants",
+      "name" : "Christer Kaitila",
       "screen_name" : "McFunkypants",
       "indices" : [ 3, 16 ],
       "id_str" : "192969516",
@@ -1823,7 +1823,7 @@ Grailbird.data.tweets_2016_09 =
     "id" : 780458589643169792,
     "created_at" : "2016-09-26 17:26:42 +0000",
     "user" : {
-      "name" : "@McFunkypants",
+      "name" : "Christer Kaitila",
       "screen_name" : "McFunkypants",
       "protected" : false,
       "id_str" : "192969516",
@@ -3013,7 +3013,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WesOps",
+      "name" : "Wes@VelocityConf",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -4539,7 +4539,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
+      "name" : "Sarahtonin \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
       "screen_name" : "sarahs_mindtank",
       "indices" : [ 0, 16 ],
       "id_str" : "20317271",
@@ -7951,7 +7951,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac And Cheese",
+      "name" : "MacsInSpace",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -8040,7 +8040,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac And Cheese",
+      "name" : "MacsInSpace",
       "screen_name" : "MacsInSpace",
       "indices" : [ 1, 13 ],
       "id_str" : "412855781",
@@ -10392,11 +10392,11 @@ Grailbird.data.tweets_2016_09 =
     "id" : 774675075467448320,
     "created_at" : "2016-09-10 18:25:05 +0000",
     "user" : {
-      "name" : "grimes and elon musk hate account",
+      "name" : "gothic gay",
       "screen_name" : "nohoneyforme",
       "protected" : false,
       "id_str" : "258073400",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002079641505542145\/qR8Iq48r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004888090710892544\/lOwziR3K_normal.jpg",
       "id" : 258073400,
       "verified" : false
     }
@@ -15074,7 +15074,7 @@ Grailbird.data.tweets_2016_09 =
       "id_str" : "253005223",
       "id" : 253005223
     }, {
-      "name" : "YE \uD83D\uDC10",
+      "name" : "Yemoji \uD83D\uDC10",
       "screen_name" : "ErikVeland",
       "indices" : [ 17, 28 ],
       "id_str" : "15080202",
@@ -15832,7 +15832,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "whyyougagging",
       "protected" : false,
       "id_str" : "1090761583",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003290205791686658\/AYKdzICo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004853032985726977\/y5ha_zyc_normal.jpg",
       "id" : 1090761583,
       "verified" : false
     }
@@ -19215,6 +19215,119 @@ Grailbird.data.tweets_2016_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "na'ama \uD83D\uDC3E \u05E0\u05E2\u05DE\u05D4",
+      "screen_name" : "derridalicious",
+      "indices" : [ 3, 18 ],
+      "id_str" : "981728328",
+      "id" : 981728328
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/derridalicious\/status\/772289642288730113\/photo\/1",
+      "indices" : [ 100, 123 ],
+      "url" : "https:\/\/t.co\/9X1LKG87uo",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cre5U2AUIAAx_9Y.jpg",
+      "id_str" : "772289628862685184",
+      "id" : 772289628862685184,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cre5U2AUIAAx_9Y.jpg",
+      "sizes" : [ {
+        "h" : 379,
+        "resize" : "fit",
+        "w" : 637
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 379,
+        "resize" : "fit",
+        "w" : 637
+      }, {
+        "h" : 379,
+        "resize" : "fit",
+        "w" : 637
+      }, {
+        "h" : 379,
+        "resize" : "fit",
+        "w" : 637
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/9X1LKG87uo"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "772618819286077440",
+  "text" : "RT @derridalicious: There's something about the Trump  juniors I just can't put my finger on it \uD83E\uDD14\uD83E\uDD14\uD83E\uDD14 https:\/\/t.co\/9X1LKG87uo",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/derridalicious\/status\/772289642288730113\/photo\/1",
+        "indices" : [ 80, 103 ],
+        "url" : "https:\/\/t.co\/9X1LKG87uo",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cre5U2AUIAAx_9Y.jpg",
+        "id_str" : "772289628862685184",
+        "id" : 772289628862685184,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cre5U2AUIAAx_9Y.jpg",
+        "sizes" : [ {
+          "h" : 379,
+          "resize" : "fit",
+          "w" : 637
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 379,
+          "resize" : "fit",
+          "w" : 637
+        }, {
+          "h" : 379,
+          "resize" : "fit",
+          "w" : 637
+        }, {
+          "h" : 379,
+          "resize" : "fit",
+          "w" : 637
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/9X1LKG87uo"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "772289642288730113",
+    "text" : "There's something about the Trump  juniors I just can't put my finger on it \uD83E\uDD14\uD83E\uDD14\uD83E\uDD14 https:\/\/t.co\/9X1LKG87uo",
+    "id" : 772289642288730113,
+    "created_at" : "2016-09-04 04:26:13 +0000",
+    "user" : {
+      "name" : "na'ama \uD83D\uDC3E \u05E0\u05E2\u05DE\u05D4",
+      "screen_name" : "derridalicious",
+      "protected" : false,
+      "id_str" : "981728328",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005953905937616896\/FefJKIJm_normal.jpg",
+      "id" : 981728328,
+      "verified" : false
+    }
+  },
+  "id" : 772618819286077440,
+  "created_at" : "2016-09-05 02:14:15 +0000",
+  "user" : {
+    "name" : "Josh \uD83D\uDC26",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923071076023779328\/Zj_YaPHD_normal.jpg",
+    "id" : 5703342,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/772618565513908224\/photo\/1",
@@ -21552,7 +21665,7 @@ Grailbird.data.tweets_2016_09 =
       "screen_name" : "xxMERE",
       "protected" : false,
       "id_str" : "313683743",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003468980387045380\/Mngau8Jc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006759091472076800\/TAz9ytFl_normal.jpg",
       "id" : 313683743,
       "verified" : false
     }
@@ -21816,7 +21929,7 @@ Grailbird.data.tweets_2016_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WesOps",
+      "name" : "Wes@VelocityConf",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -22645,10 +22758,10 @@ Grailbird.data.tweets_2016_09 =
     "created_at" : "2016-09-01 03:10:48 +0000",
     "user" : {
       "name" : "Allyson Elizabeth",
-      "screen_name" : "earthangel___",
+      "screen_name" : "earthangel_co",
       "protected" : false,
       "id_str" : "711723080444469248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000395347133251584\/eo1nLI2W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004935593137143808\/iEUB7Yh0_normal.jpg",
       "id" : 711723080444469248,
       "verified" : false
     }

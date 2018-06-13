@@ -4261,12 +4261,6 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "1389340981",
       "id" : 1389340981
     }, {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 73, 86 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    }, {
       "name" : "Whitney Eglington",
       "screen_name" : "heroinepretend",
       "indices" : [ 97, 112 ],
@@ -8930,27 +8924,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "76368726060056576",
   "geo" : { },
   "id_str" : "76370766979014656",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom oh that's right, miss morning radio starlett, i don't envy you.. oh who'm i kidding, yes i do. have a great morning!",
   "id" : 76370766979014656,
-  "in_reply_to_status_id" : 76368726060056576,
   "created_at" : "2011-06-02 19:33:04 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -8963,27 +8946,16 @@ Grailbird.data.tweets_2011_06 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "76365215683461120",
   "geo" : { },
   "id_str" : "76367891716509696",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom w o r k  f l i g h t  t o  t a s m a n i a .  i  c o u l d  v e r y  w e l l  a s k  y o u  t h e  s a m e . . .  : )",
   "id" : 76367891716509696,
-  "in_reply_to_status_id" : 76365215683461120,
   "created_at" : "2011-06-02 19:21:38 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

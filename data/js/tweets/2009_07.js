@@ -2811,7 +2811,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "rebecca renton",
+      "name" : "BeccaRenton",
       "screen_name" : "rebeccarenton",
       "indices" : [ 0, 14 ],
       "id_str" : "2274672864",
@@ -3236,27 +3236,16 @@ Grailbird.data.tweets_2009_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "2627444261",
   "geo" : { },
   "id_str" : "2628223066",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom name's josh, i do nothing & everything at the same time. i see you're at the ABC, was thinking of applying there",
   "id" : 2628223066,
-  "in_reply_to_status_id" : 2627444261,
   "created_at" : "2009-07-14 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

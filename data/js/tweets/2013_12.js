@@ -2315,7 +2315,7 @@ Grailbird.data.tweets_2013_12 =
   "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Timehop",
+      "name" : "timehob",
       "screen_name" : "timehop",
       "indices" : [ 32, 40 ],
       "id_str" : "436143123",

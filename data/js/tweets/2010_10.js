@@ -8046,27 +8046,16 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "26146531505",
   "geo" : { },
   "id_str" : "26362281692",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom weather's been resembling cooler months of brisbane lately down here. i'm missing the tropics somewhat though, and friends",
   "id" : 26362281692,
-  "in_reply_to_status_id" : 26146531505,
   "created_at" : "2010-10-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
