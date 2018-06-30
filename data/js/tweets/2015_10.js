@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "ingenue_meg",
       "protected" : true,
       "id_str" : "278775452",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004924304654360576\/L_1mubB1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011598609958277120\/SEkteFlC_normal.jpg",
       "id" : 278775452,
       "verified" : false
     }
@@ -1597,7 +1597,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2580\u2580\u2580\u2580\u2580\u2580",
+      "name" : "\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4",
       "screen_name" : "immolations",
       "indices" : [ 3, 15 ],
       "id_str" : "21212342",
@@ -1872,11 +1872,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 659368893027323904,
     "created_at" : "2015-10-28 13:59:29 +0000",
     "user" : {
-      "name" : "\u2580\u2580\u2580\u2580\u2580\u2580",
+      "name" : "\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDE8\uD83C\uDDF4",
       "screen_name" : "immolations",
       "protected" : false,
       "id_str" : "21212342",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/972223138997198851\/vyLkV0ux_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013017770085187586\/KEjTPjbB_normal.jpg",
       "id" : 21212342,
       "verified" : false
     }
@@ -3720,7 +3720,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "MAREPHACE",
       "protected" : false,
       "id_str" : "2813901710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004526213640138752\/ujtPtF1w_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007788868995878913\/88ZoKmZ4_normal.jpg",
       "id" : 2813901710,
       "verified" : false
     }
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2015_10 =
   "id_str" : "657137895103270912",
   "text" : "RT @Piclogy: The Northern Lights over Lofoten, Norway | Photography by \u00A9Stian Klo http:\/\/t.co\/L0AZf8eS0m",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6708,7 +6708,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curious",
+      "name" : "Joseph looking for a manger",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -6885,7 +6885,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Curious",
+      "name" : "Joseph looking for a manger",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -7438,7 +7438,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anna s-r",
+      "name" : "anna spargo-ryan",
       "screen_name" : "annaspargoryan",
       "indices" : [ 0, 15 ],
       "id_str" : "20012387",
@@ -7962,7 +7962,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/KittenFlower",
+      "name" : "WeAreBne \/ Hayley \uD83E\uDDDA\uD83C\uDFFB\u200D\u2640\uFE0F",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -8604,7 +8604,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "23312141",
       "id" : 23312141
     }, {
-      "name" : "WeAreBne \/KittenFlower",
+      "name" : "WeAreBne \/ Hayley \uD83E\uDDDA\uD83C\uDFFB\u200D\u2640\uFE0F",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 15, 29 ],
       "id_str" : "2444895445",
@@ -8745,7 +8745,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeAreBne \/KittenFlower",
+        "name" : "WeAreBne \/ Hayley \uD83E\uDDDA\uD83C\uDFFB\u200D\u2640\uFE0F",
         "screen_name" : "WeAreBrisbane",
         "indices" : [ 0, 14 ],
         "id_str" : "2444895445",
@@ -9100,7 +9100,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "doncandon",
       "protected" : false,
       "id_str" : "1413861",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/732840637280714752\/GM6wqv9s_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008146693173342208\/jYezqBdi_normal.jpg",
       "id" : 1413861,
       "verified" : false
     }
@@ -11093,7 +11093,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "JamesMelville",
       "protected" : false,
       "id_str" : "20675681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002228897746997248\/62VlizoX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007535156511625216\/JK1rz0g5_normal.jpg",
       "id" : 20675681,
       "verified" : false
     }
@@ -13107,7 +13107,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eat the booty like ratatouille",
+      "name" : "st marben's fingerbone",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -15593,7 +15593,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "The Hoaxie Report",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -15727,7 +15727,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "The Hoaxie Report",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -20821,7 +20821,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "tropicalmelanin",
       "protected" : false,
       "id_str" : "3118515184",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006110454828052480\/1MlQfRyl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012694283160190976\/Mp7wF0PZ_normal.jpg",
       "id" : 3118515184,
       "verified" : false
     }

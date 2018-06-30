@@ -2437,7 +2437,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "625093856778784768",
   "text" : "RT @oldpicsarchive: Delivering a dinosaur to the Museum of Science (1984) http:\/\/t.co\/6qbQrk8xmU",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5927,7 +5927,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/992293875795410944\/qH_KB_12_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012512248474923008\/koZTdV-D_normal.jpg",
       "id" : 15829574,
       "verified" : true
     }

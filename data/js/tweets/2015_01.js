@@ -2700,7 +2700,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dan de lionfluff",
+      "name" : "queer theory vigilante",
       "screen_name" : "onekind",
       "indices" : [ 0, 8 ],
       "id_str" : "1654174358",
@@ -3226,7 +3226,7 @@ Grailbird.data.tweets_2015_01 =
     "user" : {
       "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "326518931",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926607293612879872\/Gu-YrYB-_normal.jpg",
       "id" : 326518931,
@@ -3248,7 +3248,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/timehop.com\/\" rel=\"nofollow\"\u003ETimehop\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "timehob",
+      "name" : "Timehop",
       "screen_name" : "timehop",
       "indices" : [ 32, 40 ],
       "id_str" : "436143123",
@@ -4242,7 +4242,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "mspattyabalos",
       "protected" : false,
       "id_str" : "397888102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006143213441183749\/-0FEiqo2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012710522184060928\/eD4RH39x_normal.jpg",
       "id" : 397888102,
       "verified" : false
     }
@@ -6424,7 +6424,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "trains",
+      "name" : "CFC BAN TRUTHER",
       "screen_name" : "LakeMistake",
       "indices" : [ 1, 13 ],
       "id_str" : "1564544414",
@@ -6462,7 +6462,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "trains",
+      "name" : "CFC BAN TRUTHER",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",
@@ -7730,7 +7730,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "The Hoaxie Report",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

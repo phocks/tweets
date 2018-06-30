@@ -3559,7 +3559,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark @ #bordercon2018 \uD83C\uDFAC\uD83C\uDFAE",
+      "name" : "mark_harris.mp4 \uD83C\uDFAC\uD83C\uDFAE",
       "screen_name" : "markh110",
       "indices" : [ 0, 9 ],
       "id_str" : "19019765",

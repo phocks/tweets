@@ -113,7 +113,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "grrruth\uD83D\uDC08",
+      "name" : "foreveryoungalphaville",
       "screen_name" : "grrruth",
       "indices" : [ 0, 8 ],
       "id_str" : "449531482",

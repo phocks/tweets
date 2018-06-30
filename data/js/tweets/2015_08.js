@@ -321,7 +321,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "Helaspourmoi",
       "protected" : true,
       "id_str" : "42531983",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837145485144027137\/gV--brtK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007835546582843392\/p6zRMOjG_normal.jpg",
       "id" : 42531983,
       "verified" : false
     }
@@ -373,10 +373,10 @@ Grailbird.data.tweets_2015_08 =
       "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
       "indices" : [ 28, 50 ],
       "url" : "http:\/\/t.co\/AnkaZrnDK2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "id_str" : "638151830216675328",
       "id" : 638151830216675328,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -418,10 +418,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
         "indices" : [ 9, 31 ],
         "url" : "http:\/\/t.co\/AnkaZrnDK2",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "id_str" : "638151830216675328",
         "id" : 638151830216675328,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -460,9 +460,9 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19573120",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936384506067525632\/9AgUyVy__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008267216146452481\/1or-9S8N_normal.jpg",
       "id" : 19573120,
       "verified" : false
     }
@@ -2538,7 +2538,7 @@ Grailbird.data.tweets_2015_08 =
   "id_str" : "635707953622847488",
   "text" : "RT @HistoryInPics: 90's problems. http:\/\/t.co\/zkydnVfvQc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5927,7 +5927,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "The Hoaxie Report",
       "screen_name" : "hoaxie",
       "indices" : [ 1, 8 ],
       "id_str" : "801634435",
@@ -8631,7 +8631,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chelsea Hotel #1833",
+      "name" : "1833",
       "screen_name" : "its1833",
       "indices" : [ 3, 11 ],
       "id_str" : "1201488590",
@@ -8658,7 +8658,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 628369535821852672,
     "created_at" : "2015-08-04 00:59:06 +0000",
     "user" : {
-      "name" : "Chelsea Hotel #1833",
+      "name" : "1833",
       "screen_name" : "its1833",
       "protected" : false,
       "id_str" : "1201488590",
