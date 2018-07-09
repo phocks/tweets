@@ -1492,7 +1492,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 82, 93 ],
       "id_str" : "18328488",
@@ -5293,7 +5293,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "LucyXIV",
       "protected" : false,
       "id_str" : "35407832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973177741976616960\/8V57yvLg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014402828750581761\/uan3QUmE_normal.jpg",
       "id" : 35407832,
       "verified" : true
     }
@@ -5652,7 +5652,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "Hans, the Lighting Guy",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

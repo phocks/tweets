@@ -736,7 +736,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -780,7 +780,7 @@ Grailbird.data.tweets_2014_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -1075,7 +1075,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1498,7 +1498,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1531,7 +1531,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1672,7 +1672,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 34, 45 ],
       "id_str" : "18328488",
@@ -2231,12 +2231,6 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "david",
-      "screen_name" : "ghettoslap",
-      "indices" : [ 0, 11 ],
-      "id_str" : "528182307",
-      "id" : 528182307
-    }, {
       "name" : "Jeremy Neale",
       "screen_name" : "SegaDreamboat",
       "indices" : [ 12, 26 ],
@@ -2255,7 +2249,7 @@ Grailbird.data.tweets_2014_08 =
   "id" : 502842939639201792,
   "in_reply_to_status_id" : 502842699326562304,
   "created_at" : "2014-08-22 15:41:13 +0000",
-  "in_reply_to_screen_name" : "ghettoslap",
+  "in_reply_to_screen_name" : "david_mindfreak",
   "in_reply_to_user_id_str" : "528182307",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
@@ -4842,7 +4836,7 @@ Grailbird.data.tweets_2014_08 =
   "id_str" : "501257281703395328",
   "text" : "RT @tonedeaf_music: Want a colourful track for track breakdown of the new @VelociraptorAU album from Jeremy Neale (@SegaDreamboat)? Boom: h\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Velociraptor",
@@ -5479,7 +5473,7 @@ Grailbird.data.tweets_2014_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/timehop.com\/\" rel=\"nofollow\"\u003ETimehop\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased1386461.com\" rel=\"nofollow\"\u003Eerased1386461\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
@@ -5644,7 +5638,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -5687,7 +5681,7 @@ Grailbird.data.tweets_2014_08 =
     "id" : 499911372386619392,
     "created_at" : "2014-08-14 13:32:13 +0000",
     "user" : {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -7709,7 +7703,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/997044073008513026\/k7u6c196_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012969812140519424\/yUu-Ooqj_normal.jpg",
       "id" : 40785142,
       "verified" : false
     }

@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1974,7 +1974,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2249,7 +2249,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0272a\u0273o\u027E\u0251pto\u027E",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
@@ -2763,7 +2763,7 @@ Grailbird.data.tweets_2012_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3720,7 +3720,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u210D\uD835\uDD52\uD835\uDD54\uD835\uDD5C\uD835\uDD5D\uD835\uDD60\uD835\uDD54\uD835\uDD5C-\uD835\uDD55\uD835\uDD56\uD835\uDD5D\uD835\uDD56\uD835\uDD65\uD835\uDD5A\uD835\uDD5F\uD835\uDD58 \uD835\uDD52\uD835\uDD5D\uD835\uDD5D \uD835\uDD52\uD835\uDD5F\uD835\uDD5A\uD835\uDD5E\uD835\uDD56",
+      "name" : "\u210D\uD835\uDD52\uD835\uDD54\uD835\uDD5C\uD835\uDD5D\uD835\uDD60\uD835\uDD54\uD835\uDD5C- \uD835\uDD53\uD835\uDD5A\uD835\uDD58 \uD835\uDD55\uD835\uDD5A\uD835\uDD54\uD835\uDD5C \uD835\uDD56\uD835\uDD5F\uD835\uDD56\uD835\uDD5E\uD835\uDD6A",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -4264,7 +4264,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0272a\u0273o\u027E\u0251pto\u027E",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
@@ -7916,7 +7916,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0272a\u0273o\u027E\u0251pto\u027E",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",

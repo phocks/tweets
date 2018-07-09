@@ -828,7 +828,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "spencerchen",
       "protected" : false,
       "id_str" : "14213734",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/978047297362698241\/NMXpErpR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014594627645497345\/pWEv5Eof_normal.jpg",
       "id" : 14213734,
       "verified" : false
     }
@@ -1827,7 +1827,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarahtonin \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
+      "name" : "Sarah \uD83C\uDFA8\uD83C\uDFC3\u200D\u2640\uFE0F\uD83D\uDD49\uFE0F\uD83D\uDCAF",
       "screen_name" : "sarahs_mindtank",
       "indices" : [ 0, 16 ],
       "id_str" : "20317271",
@@ -2339,7 +2339,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0272a\u0273o\u027E\u0251pto\u027E",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
@@ -2460,7 +2460,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/KittenFlower",
+      "name" : "WeAreBne \/ Dan \uD83E\uDD16",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -5516,7 +5516,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -5549,7 +5549,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -5832,7 +5832,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan",
+      "name" : "Dan (or DC)",
       "screen_name" : "dan_or_dc",
       "indices" : [ 0, 10 ],
       "id_str" : "821191819526475777",
@@ -6239,7 +6239,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "721958544166113280",
   "text" : "RT @trrvisXX: Donald Trump rally vs. Bernie Sander rally https:\/\/t.co\/ekBkTA3whJ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7576,16 +7576,11 @@ Grailbird.data.tweets_2016_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "721504338804219904",
   "geo" : { },
   "id_str" : "721518199083151360",
-  "in_reply_to_user_id" : 3325231080,
   "text" : "@RagingMango_ I do stuff with computers mostly to pay the bills, but also do music and writing and acting etc etc stuff on the side :)",
   "id" : 721518199083151360,
-  "in_reply_to_status_id" : 721504338804219904,
   "created_at" : "2016-04-17 01:58:38 +0000",
-  "in_reply_to_screen_name" : "ReigningMango",
-  "in_reply_to_user_id_str" : "3325231080",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -7665,7 +7660,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7698,7 +7693,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "diana.",
+      "name" : "diana\uD83C\uDDED\uD83C\uDDF7",
       "screen_name" : "DIANAATURNBULL",
       "indices" : [ 0, 15 ],
       "id_str" : "58991377",
@@ -7731,7 +7726,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "diana.",
+      "name" : "diana\uD83C\uDDED\uD83C\uDDF7",
       "screen_name" : "DIANAATURNBULL",
       "indices" : [ 0, 15 ],
       "id_str" : "58991377",
@@ -7929,16 +7924,11 @@ Grailbird.data.tweets_2016_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "721428650235539456",
   "geo" : { },
   "id_str" : "721482641657036800",
-  "in_reply_to_user_id" : 3325231080,
   "text" : "@RagingMango_ it was the through an agency just for an government ad, sounded fun though. Oh well, next time!",
   "id" : 721482641657036800,
-  "in_reply_to_status_id" : 721428650235539456,
   "created_at" : "2016-04-16 23:37:20 +0000",
-  "in_reply_to_screen_name" : "ReigningMango",
-  "in_reply_to_user_id_str" : "3325231080",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -8190,7 +8180,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "721196852742258688",
   "text" : "RT @GillianA: Isn't it bliss? Me here at last on the ground. You in mid-air. #tbt https:\/\/t.co\/NhjIrV5cmh",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -8457,7 +8447,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan",
+      "name" : "Dan (or DC)",
       "screen_name" : "dan_or_dc",
       "indices" : [ 0, 10 ],
       "id_str" : "821191819526475777",
@@ -8490,7 +8480,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan",
+      "name" : "Dan (or DC)",
       "screen_name" : "dan_or_dc",
       "indices" : [ 0, 10 ],
       "id_str" : "821191819526475777",
@@ -8789,7 +8779,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan",
+      "name" : "Dan (or DC)",
       "screen_name" : "dan_or_dc",
       "indices" : [ 0, 10 ],
       "id_str" : "821191819526475777",
@@ -8904,7 +8894,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eat the booty like ratatouille",
+      "name" : "st marben's fingerbone",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -10497,7 +10487,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kirstie Alltrash",
+      "name" : "Abolish ICE T",
       "screen_name" : "therealcarew",
       "indices" : [ 3, 16 ],
       "id_str" : "21481164",
@@ -10555,7 +10545,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 719801794617024513,
     "created_at" : "2016-04-12 08:18:15 +0000",
     "user" : {
-      "name" : "Kirstie Alltrash",
+      "name" : "Abolish ICE T",
       "screen_name" : "therealcarew",
       "protected" : false,
       "id_str" : "21481164",
@@ -11015,7 +11005,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eat the booty like ratatouille",
+      "name" : "st marben's fingerbone",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -11165,7 +11155,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "LucyXIV",
       "protected" : false,
       "id_str" : "35407832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973177741976616960\/8V57yvLg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014402828750581761\/uan3QUmE_normal.jpg",
       "id" : 35407832,
       "verified" : true
     }
@@ -12888,7 +12878,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vichy Thought Leader",
+      "name" : "How do i get the rose in my name",
       "screen_name" : "i_zzzzzz",
       "indices" : [ 3, 12 ],
       "id_str" : "10448062",
@@ -12925,7 +12915,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 717606937832108032,
     "created_at" : "2016-04-06 06:56:41 +0000",
     "user" : {
-      "name" : "Vichy Thought Leader",
+      "name" : "How do i get the rose in my name",
       "screen_name" : "i_zzzzzz",
       "protected" : false,
       "id_str" : "10448062",
@@ -14790,7 +14780,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "cacodaemonia",
       "protected" : false,
       "id_str" : "16669932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930477675021467649\/E3LJTV5B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013437483260866560\/0dFQZXR3_normal.jpg",
       "id" : 16669932,
       "verified" : false
     }
@@ -15457,7 +15447,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "em_martiin",
       "protected" : false,
       "id_str" : "959924125",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984627979971002368\/9WF3K6Ic_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014344543871721472\/Q91ScYaR_normal.jpg",
       "id" : 959924125,
       "verified" : false
     }
@@ -15477,7 +15467,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan",
+      "name" : "Dan (or DC)",
       "screen_name" : "dan_or_dc",
       "indices" : [ 0, 10 ],
       "id_str" : "821191819526475777",
@@ -15674,7 +15664,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vichy Thought Leader",
+      "name" : "How do i get the rose in my name",
       "screen_name" : "i_zzzzzz",
       "indices" : [ 3, 12 ],
       "id_str" : "10448062",
@@ -15701,7 +15691,7 @@ Grailbird.data.tweets_2016_04 =
     "id" : 717217473829974016,
     "created_at" : "2016-04-05 05:09:05 +0000",
     "user" : {
-      "name" : "Vichy Thought Leader",
+      "name" : "How do i get the rose in my name",
       "screen_name" : "i_zzzzzz",
       "protected" : false,
       "id_str" : "10448062",
@@ -15934,7 +15924,7 @@ Grailbird.data.tweets_2016_04 =
   "id_str" : "717236276215218177",
   "text" : "RT @mkonnikova: Um this is amazing. HT @maggiekb1 https:\/\/t.co\/qvrBCPmMSr",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Maggie Koerth-Baker",
@@ -16189,7 +16179,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ycinar",
       "protected" : false,
       "id_str" : "87819956",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991759077586939904\/HQDBl_Zo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008493223541661698\/Ti819XZ7_normal.jpg",
       "id" : 87819956,
       "verified" : false
     }
@@ -16877,16 +16867,11 @@ Grailbird.data.tweets_2016_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "717123558392987648",
   "geo" : { },
   "id_str" : "717128407478247424",
-  "in_reply_to_user_id" : 3325231080,
   "text" : "@RagingMango_ haha perfect, leaving cow tits for the baby cows \uD83D\uDC9E",
   "id" : 717128407478247424,
-  "in_reply_to_status_id" : 717123558392987648,
   "created_at" : "2016-04-04 23:15:10 +0000",
-  "in_reply_to_screen_name" : "ReigningMango",
-  "in_reply_to_user_id_str" : "3325231080",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -17567,7 +17552,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "gexrgeyouel",
       "protected" : false,
       "id_str" : "335462887",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1000355488494694401\/LMOnrtrS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013128849750745089\/zhH-II9x_normal.jpg",
       "id" : 335462887,
       "verified" : false
     }
@@ -18096,7 +18081,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA",
+      "name" : "PETA \uD83D\uDC3E",
       "screen_name" : "peta",
       "indices" : [ 3, 8 ],
       "id_str" : "9890492",
@@ -18164,11 +18149,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 715981314772508674,
     "created_at" : "2016-04-01 19:17:02 +0000",
     "user" : {
-      "name" : "PETA",
+      "name" : "PETA \uD83D\uDC3E",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002636440226926593\/_1kx77pj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013788344608804865\/VVT3SEYH_normal.jpg",
       "id" : 9890492,
       "verified" : true
     }
@@ -21314,16 +21299,11 @@ Grailbird.data.tweets_2016_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "716050408217530368",
   "geo" : { },
   "id_str" : "716050770232147968",
-  "in_reply_to_user_id" : 3325231080,
   "text" : "@RagingMango_ I know, what a major step forward that would be!",
   "id" : 716050770232147968,
-  "in_reply_to_status_id" : 716050408217530368,
   "created_at" : "2016-04-01 23:53:01 +0000",
-  "in_reply_to_screen_name" : "ReigningMango",
-  "in_reply_to_user_id_str" : "3325231080",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",
@@ -21337,7 +21317,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "emotional support boyfriend",
+      "name" : "saint benj",
       "screen_name" : "beirchearts",
       "indices" : [ 3, 15 ],
       "id_str" : "77202410",
@@ -21426,11 +21406,11 @@ Grailbird.data.tweets_2016_04 =
     "id" : 715602244662534145,
     "created_at" : "2016-03-31 18:10:45 +0000",
     "user" : {
-      "name" : "emotional support boyfriend",
+      "name" : "saint benj",
       "screen_name" : "beirchearts",
       "protected" : false,
       "id_str" : "77202410",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982643173230088192\/cAPztCvV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013377032850468865\/U3qbLpzy_normal.jpg",
       "id" : 77202410,
       "verified" : false
     }
@@ -21755,7 +21735,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "tookwancottage",
       "protected" : false,
       "id_str" : "20311509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834985791658995712\/Gn9b_D5l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1007798301951848448\/WPhLsSZT_normal.jpg",
       "id" : 20311509,
       "verified" : false
     }

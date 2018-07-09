@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2234,7 +2234,7 @@ Grailbird.data.tweets_2014_12 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -2488,9 +2488,9 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878816363598323712\/WsYJSuMd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
       "verified" : false
     }
@@ -2600,7 +2600,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2633,7 +2633,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 539143444132659200,
     "created_at" : "2014-11-30 19:46:28 +0000",
     "user" : {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",

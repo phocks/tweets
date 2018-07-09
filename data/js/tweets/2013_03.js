@@ -654,27 +654,16 @@ Grailbird.data.tweets_2013_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Grumplestiltskin",
-      "screen_name" : "2FBS",
-      "indices" : [ 0, 5 ],
-      "id_str" : "16753116",
-      "id" : 16753116
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "317048350119710720",
   "geo" : { },
   "id_str" : "317051092682813441",
-  "in_reply_to_user_id" : 16753116,
   "text" : "@2FBS spoiler alert, just started watching it! guess i asked for it though didn't i. haha",
   "id" : 317051092682813441,
-  "in_reply_to_status_id" : 317048350119710720,
   "created_at" : "2013-03-27 23:10:45 +0000",
-  "in_reply_to_screen_name" : "2FBS",
-  "in_reply_to_user_id_str" : "16753116",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

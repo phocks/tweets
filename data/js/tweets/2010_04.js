@@ -1945,7 +1945,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "Twitter",
       "protected" : false,
       "id_str" : "783214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006242731750981633\/VQ3ZWDQ1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013798240683266048\/zRim1x6M_normal.jpg",
       "id" : 783214,
       "verified" : true
     }

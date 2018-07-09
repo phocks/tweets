@@ -515,13 +515,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dealt a good rim",
-      "screen_name" : "dylanjakemorris",
-      "indices" : [ 16, 32 ],
-      "id_str" : "2910620690",
-      "id" : 2910620690
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/649082457015214084\/photo\/1",
       "indices" : [ 33, 55 ],
@@ -579,13 +573,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dealt a good rim",
-      "screen_name" : "dylanjakemorris",
-      "indices" : [ 3, 19 ],
-      "id_str" : "2910620690",
-      "id" : 2910620690
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/dylanjakemorris\/status\/649074852519809024\/photo\/1",
       "indices" : [ 76, 98 ],
@@ -669,8 +657,8 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Dealt a good rim",
-      "screen_name" : "dylanjakemorris",
+      "name" : "queen thicctoria",
+      "screen_name" : "villainmorris",
       "protected" : false,
       "id_str" : "2910620690",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/995996308371468289\/Afd0sjKj_normal.jpg",
@@ -3898,7 +3886,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "brownypaul",
       "protected" : false,
       "id_str" : "26205184",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945777769878712320\/Eo9NsthD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012847044350828546\/M4_YCpmi_normal.jpg",
       "id" : 26205184,
       "verified" : true
     }
@@ -5896,7 +5884,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006389602771394560\/_iDv_nwi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015133821069557760\/D3d1oqER_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -5990,7 +5978,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "646136338480173056",
   "text" : "RT @peterjblack: \"Men proclaim their support for abortion rights on Twitter\" http:\/\/t.co\/GcyUREiAVu",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -6014,7 +6002,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "754714",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/876006629455519745\/-bCceRA3_normal.jpg",
       "id" : 754714,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 646136338480173056,
@@ -6100,7 +6088,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7207,9 +7195,9 @@ Grailbird.data.tweets_2015_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878816363598323712\/WsYJSuMd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
       "verified" : false
     }
@@ -7908,7 +7896,7 @@ Grailbird.data.tweets_2015_09 =
   "id_str" : "645451944006258688",
   "text" : "RT @grescoe: \"Motorized vehicles create remoteness which they alone can shrink.\"\n\u2014Ivan Illich, 1973. http:\/\/t.co\/wwrLJL7qPR",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -10568,7 +10556,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13732,7 +13720,7 @@ Grailbird.data.tweets_2015_09 =
     "user" : {
       "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "326518931",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926607293612879872\/Gu-YrYB-_normal.jpg",
       "id" : 326518931,
@@ -15225,7 +15213,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "ambahtaynton",
       "protected" : false,
       "id_str" : "41950932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002811757532868608\/PLUnvNUf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015495650966794240\/i_IUqfS__normal.jpg",
       "id" : 41950932,
       "verified" : false
     }
@@ -16789,7 +16777,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "XXXX_G0LD",
       "protected" : false,
       "id_str" : "24145539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1005242589589704704\/eUU2920X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009963772469866498\/qISCpubH_normal.jpg",
       "id" : 24145539,
       "verified" : false
     }

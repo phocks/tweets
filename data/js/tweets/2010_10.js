@@ -670,7 +670,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "29147841609",
   "text" : "RT @notsomadboy: I wanna go to Byron Bay",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -687,7 +687,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "notsomadboy",
       "protected" : false,
       "id_str" : "19700412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512734234306297857\/vypyfkel_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008670032790867970\/px8SPTnm_normal.jpg",
       "id" : 19700412,
       "verified" : false
     }
@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2673,7 +2673,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4973,7 +4973,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0272a\u0273o\u027E\u0251pto\u027E",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
@@ -7140,7 +7140,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8330,7 +8330,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8667,7 +8667,7 @@ Grailbird.data.tweets_2010_10 =
     "user" : {
       "name" : "carnagefairy",
       "screen_name" : "carnagefairy",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "14211650",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988943914512957440\/ROBmzWJ5_normal.jpg",
       "id" : 14211650,
@@ -8911,7 +8911,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

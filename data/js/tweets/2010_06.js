@@ -5059,7 +5059,7 @@ Grailbird.data.tweets_2010_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash Oldfield",
+      "name" : "Ash Oldfield - On hiatus-",
       "screen_name" : "AshOldfield",
       "indices" : [ 0, 12 ],
       "id_str" : "91291625",
@@ -5812,7 +5812,7 @@ Grailbird.data.tweets_2010_06 =
   "id_str" : "15315478834",
   "text" : "RT @mtats: I can haz fish burger? #masterchef",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],

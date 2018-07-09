@@ -1566,7 +1566,7 @@ Grailbird.data.tweets_2008_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hammond",
+      "name" : "Hammy to the \uD83D\uDC1D",
       "screen_name" : "Hamface",
       "indices" : [ 0, 8 ],
       "id_str" : "12002172",

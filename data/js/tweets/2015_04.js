@@ -1097,7 +1097,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/KittenFlower",
+      "name" : "WeAreBne \/ Dan \uD83E\uDD16",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -2432,7 +2432,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "7517382",
       "id" : 7517382
     }, {
-      "name" : "Josh \uD83D\uDC26",
+      "name" : "Hillary was right",
       "screen_name" : "phocks",
       "indices" : [ 20, 27 ],
       "id_str" : "5703342",
@@ -2452,7 +2452,7 @@ Grailbird.data.tweets_2015_04 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Josh \uD83D\uDC26",
+        "name" : "Hillary was right",
         "screen_name" : "phocks",
         "indices" : [ 0, 7 ],
         "id_str" : "5703342",
@@ -2888,9 +2888,9 @@ Grailbird.data.tweets_2015_04 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/878816363598323712\/WsYJSuMd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
       "verified" : false
     }
@@ -3167,7 +3167,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "International Huck of Bees",
+      "name" : "Ant-Huck and a Bee",
       "screen_name" : "TylerHuckabee",
       "indices" : [ 3, 17 ],
       "id_str" : "39321718",
@@ -3225,7 +3225,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 591365206028095488,
     "created_at" : "2015-04-23 22:17:06 +0000",
     "user" : {
-      "name" : "International Huck of Bees",
+      "name" : "Ant-Huck and a Bee",
       "screen_name" : "TylerHuckabee",
       "protected" : false,
       "id_str" : "39321718",
@@ -3480,7 +3480,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "mashable",
       "protected" : false,
       "id_str" : "972651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002562532966531072\/9_Ps4xUI_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013772445243895808\/jk7SUWdn_normal.jpg",
       "id" : 972651,
       "verified" : true
     }
@@ -4010,7 +4010,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hey you in the bush",
+      "name" : "(\uFF61\u2022\u0301\uFE3F\u2022\u0300\uFF61)",
       "screen_name" : "50_Billion_ppl",
       "indices" : [ 3, 18 ],
       "id_str" : "1669954190",
@@ -4029,7 +4029,7 @@ Grailbird.data.tweets_2015_04 =
   "id_str" : "590684714543009794",
   "text" : "RT @50_billion_ppl: Photo: vonnabeee: PPPPPPPP http:\/\/t.co\/QDtXhz8pTP",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -4047,11 +4047,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590681172776202240,
     "created_at" : "2015-04-22 00:59:00 +0000",
     "user" : {
-      "name" : "hey you in the bush",
+      "name" : "(\uFF61\u2022\u0301\uFE3F\u2022\u0300\uFF61)",
       "screen_name" : "50_Billion_ppl",
       "protected" : false,
       "id_str" : "1669954190",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002535663927824385\/0qz_mwAS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011791717391990784\/QkN2e_PS_normal.jpg",
       "id" : 1669954190,
       "verified" : false
     }
@@ -4366,7 +4366,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "InfinityTimesMe",
       "protected" : false,
       "id_str" : "1021190509",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994790505992130560\/5ahd9Uhm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009772588770324480\/ff2YLU_m_normal.jpg",
       "id" : 1021190509,
       "verified" : false
     }
@@ -5799,7 +5799,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sunny winter day",
+      "name" : "\u26BD\uFE0FChris O\u2019Regan\uD83C\uDDE8\uD83C\uDDF4\uD83C\uDDEB\uD83C\uDDF7",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",
@@ -6385,7 +6385,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "timehob",
+      "name" : "Timehop",
       "screen_name" : "timehop",
       "indices" : [ 81, 89 ],
       "id_str" : "436143123",
@@ -6532,7 +6532,7 @@ Grailbird.data.tweets_2015_04 =
   "id_str" : "588512557205364736",
   "text" : "RT @StormHour: Map reveals over 70 years of UFO sightings around the world http:\/\/t.co\/GUT4xBYQhW http:\/\/t.co\/5EoKHXX2Dc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6971,7 +6971,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/KittenFlower",
+      "name" : "WeAreBne \/ Dan \uD83E\uDD16",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -7065,7 +7065,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "trains",
+      "name" : "CFC BAN TRUTHER",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",
@@ -8996,7 +8996,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998741424781733888\/O8Wc-nYb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013788999436197889\/ZArvtEGQ_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -9417,7 +9417,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "X-Files Quotes",
+      "name" : "X-Files Quotes \uD83D\uDEF8",
       "screen_name" : "XFQuotes",
       "indices" : [ 3, 12 ],
       "id_str" : "80051030",
@@ -9506,11 +9506,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 586284335126421505,
     "created_at" : "2015-04-09 21:47:32 +0000",
     "user" : {
-      "name" : "X-Files Quotes",
+      "name" : "X-Files Quotes \uD83D\uDEF8",
       "screen_name" : "XFQuotes",
       "protected" : false,
       "id_str" : "80051030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969544601106202626\/lbrOaYQw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011653598168731648\/5RyOaKiH_normal.jpg",
       "id" : 80051030,
       "verified" : false
     }
@@ -9990,7 +9990,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "sunny winter day",
+      "name" : "Chris O\u2019Regan\u26BD\uFE0F\uD83C\uDDEB\uD83C\uDDF7",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",

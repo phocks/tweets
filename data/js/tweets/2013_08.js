@@ -716,27 +716,16 @@ Grailbird.data.tweets_2013_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Grumplestiltskin",
-      "screen_name" : "2FBS",
-      "indices" : [ 0, 5 ],
-      "id_str" : "16753116",
-      "id" : 16753116
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "372546468478857216",
   "geo" : { },
   "id_str" : "372669836801089536",
-  "in_reply_to_user_id" : 16753116,
   "text" : "@2FBS Spelter! I laughed at first, but that's actually not too bad :)",
   "id" : 372669836801089536,
-  "in_reply_to_status_id" : 372546468478857216,
   "created_at" : "2013-08-28 10:39:47 +0000",
-  "in_reply_to_screen_name" : "2FBS",
-  "in_reply_to_user_id_str" : "16753116",
   "user" : {
     "name" : "Josh \uD83D\uDC26",
     "screen_name" : "phocks",

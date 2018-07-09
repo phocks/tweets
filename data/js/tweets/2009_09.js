@@ -2048,7 +2048,7 @@ Grailbird.data.tweets_2009_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

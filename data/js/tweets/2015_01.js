@@ -2165,7 +2165,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2209,7 +2209,7 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -2700,7 +2700,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dan de lionfluff",
+      "name" : "queer theory vigilante",
       "screen_name" : "onekind",
       "indices" : [ 0, 8 ],
       "id_str" : "1654174358",
@@ -3226,7 +3226,7 @@ Grailbird.data.tweets_2015_01 =
     "user" : {
       "name" : "Australia\u2019s worst Asian",
       "screen_name" : "irrellievant",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "326518931",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926607293612879872\/Gu-YrYB-_normal.jpg",
       "id" : 326518931,
@@ -3245,10 +3245,10 @@ Grailbird.data.tweets_2015_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/timehop.com\/\" rel=\"nofollow\"\u003ETimehop\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/erased1386461.com\" rel=\"nofollow\"\u003Eerased1386461\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "timehob",
+      "name" : "Timehop",
       "screen_name" : "timehop",
       "indices" : [ 32, 40 ],
       "id_str" : "436143123",
@@ -3989,7 +3989,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4022,7 +4022,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4242,7 +4242,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "mspattyabalos",
       "protected" : false,
       "id_str" : "397888102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006143213441183749\/-0FEiqo2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1015904196351045634\/PzQrUwT9_normal.jpg",
       "id" : 397888102,
       "verified" : false
     }
@@ -6424,7 +6424,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "trains",
+      "name" : "not doing the cfc bit",
       "screen_name" : "LakeMistake",
       "indices" : [ 1, 13 ],
       "id_str" : "1564544414",
@@ -6462,7 +6462,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "trains",
+      "name" : "CFC BAN TRUTHER",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",
@@ -7414,7 +7414,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7480,7 +7480,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7513,7 +7513,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDCBB",
+      "name" : "Georgie Luhur Cooke \u2022 currently in \uD83C\uDDFA\uD83C\uDDF8",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7730,7 +7730,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "steven",
+      "name" : "The Hoaxie Report",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

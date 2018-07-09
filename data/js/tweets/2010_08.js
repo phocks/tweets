@@ -2267,7 +2267,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "21798949455",
   "text" : "RT @onepotchef: Australia has spoken. We said \"meh\" #ausvotes",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
