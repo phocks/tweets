@@ -13,7 +13,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29233930025,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -35,7 +35,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29234772557,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -62,7 +62,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29236273524,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -90,7 +90,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29238436993,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -123,7 +123,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "marchofclouds",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -145,7 +145,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29243943103,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -167,7 +167,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29244550849,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -195,7 +195,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29246799667,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -217,7 +217,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29250570593,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -242,7 +242,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29250687498,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29254168123,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -286,7 +286,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29266218519,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -308,7 +308,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29266862526,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -333,7 +333,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29270464175,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -355,7 +355,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29273709335,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "monopolyship",
   "in_reply_to_user_id_str" : "84145765",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -410,7 +410,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29274394901,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -443,7 +443,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "urchincreature",
   "in_reply_to_user_id_str" : "5739132",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -476,7 +476,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Scarlettjen",
   "in_reply_to_user_id_str" : "17398187",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -509,7 +509,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Ysabeluna",
   "in_reply_to_user_id_str" : "70423521",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -531,7 +531,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29285258487,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -553,7 +553,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29288376026,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29292249063,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -600,7 +600,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29315261772,
   "created_at" : "2010-10-31 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -622,7 +622,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29136215966,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -644,7 +644,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29146287333,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2010_10 =
   "id_str" : "29147841609",
   "text" : "RT @notsomadboy: I wanna go to Byron Bay",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterrific.com\" rel=\"nofollow\"\u003ETwitterrific\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -687,7 +687,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "notsomadboy",
       "protected" : false,
       "id_str" : "19700412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/512734234306297857\/vypyfkel_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008670032790867970\/px8SPTnm_normal.jpg",
       "id" : 19700412,
       "verified" : false
     }
@@ -695,7 +695,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29147841609,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -717,7 +717,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29149405477,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -739,7 +739,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29158246793,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -772,7 +772,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -794,7 +794,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29174983829,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -827,7 +827,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -849,7 +849,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29178867470,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -871,7 +871,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29180464448,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -893,7 +893,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29181345137,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -918,7 +918,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29186953079,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29189228523,
   "created_at" : "2010-10-30 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -962,7 +962,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29041766881,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -984,7 +984,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29052183695,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1006,7 +1006,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29060350684,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1034,7 +1034,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29064102280,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1056,7 +1056,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29065822877,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1068,7 +1068,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kerrie.",
+      "name" : "kez.",
       "screen_name" : "Kezarah",
       "indices" : [ 0, 8 ],
       "id_str" : "18936495",
@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Kezarah",
   "in_reply_to_user_id_str" : "18936495",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1111,7 +1111,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29077436371,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1133,7 +1133,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29082038325,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29092415623,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1177,7 +1177,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29095276554,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1199,7 +1199,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29041119572,
   "created_at" : "2010-10-29 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1232,7 +1232,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "monopolyship",
   "in_reply_to_user_id_str" : "84145765",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1254,7 +1254,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28939895591,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1272,7 +1272,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14719760",
       "id" : 14719760
     }, {
-      "name" : "i have been on this garbage website for ten years",
+      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
       "screen_name" : "pressdarling",
       "indices" : [ 7, 20 ],
       "id_str" : "14709131",
@@ -1293,7 +1293,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "aamjp",
   "in_reply_to_user_id_str" : "14719760",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28948061219,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1349,7 +1349,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28952456959,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1371,7 +1371,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28965546230,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1393,7 +1393,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28970890482,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1415,7 +1415,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28971925723,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1437,7 +1437,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28987679826,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28990410458,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1481,7 +1481,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28995700743,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29027979660,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1512,7 +1512,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1525,7 +1525,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29030923702,
   "created_at" : "2010-10-28 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1558,7 +1558,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "helveticade",
   "in_reply_to_user_id_str" : "14111299",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1580,7 +1580,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28839979707,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28849187636,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1624,7 +1624,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28856192017,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28871272321,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1668,7 +1668,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28884048338,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1680,7 +1680,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "i have been on this garbage website for ten years",
+      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
       "screen_name" : "pressdarling",
       "indices" : [ 0, 13 ],
       "id_str" : "14709131",
@@ -1701,7 +1701,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "pressdarling",
   "in_reply_to_user_id_str" : "14709131",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1726,7 +1726,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28893850352,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1748,7 +1748,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28925296837,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1770,7 +1770,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28928419244,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1792,7 +1792,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28937116323,
   "created_at" : "2010-10-27 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1814,7 +1814,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28740265371,
   "created_at" : "2010-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1847,7 +1847,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "thomaldo",
   "in_reply_to_user_id_str" : "6493442",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1869,7 +1869,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28757737380,
   "created_at" : "2010-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1891,7 +1891,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28778886545,
   "created_at" : "2010-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1940,7 +1940,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "nicolejensen",
       "protected" : false,
       "id_str" : "17459950",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950269780946182144\/7ULyTrwD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019360692271341568\/7JzkUtf8_normal.jpg",
       "id" : 17459950,
       "verified" : false
     }
@@ -1948,7 +1948,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28785964842,
   "created_at" : "2010-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1970,7 +1970,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28792363350,
   "created_at" : "2010-10-26 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -1992,7 +1992,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28643473966,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2017,7 +2017,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28657647191,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2039,7 +2039,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28673339678,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2061,7 +2061,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28696888965,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28697564739,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2105,7 +2105,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28729610181,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2127,7 +2127,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28730643216,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2149,7 +2149,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28734697520,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2171,7 +2171,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28737821469,
   "created_at" : "2010-10-25 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2193,7 +2193,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28561573295,
   "created_at" : "2010-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28575505023,
   "created_at" : "2010-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2237,7 +2237,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28585398398,
   "created_at" : "2010-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2259,7 +2259,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28588991820,
   "created_at" : "2010-10-24 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "My Aural Fixation",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -2292,7 +2292,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2314,7 +2314,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28464389698,
   "created_at" : "2010-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2336,7 +2336,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28469320980,
   "created_at" : "2010-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2358,7 +2358,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28488387000,
   "created_at" : "2010-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2383,7 +2383,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28498269807,
   "created_at" : "2010-10-23 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2405,7 +2405,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28448159835,
   "created_at" : "2010-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2427,7 +2427,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28383724991,
   "created_at" : "2010-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2460,7 +2460,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "KateEdwards",
   "in_reply_to_user_id_str" : "5730592",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2482,7 +2482,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28386675970,
   "created_at" : "2010-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2504,7 +2504,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28413976443,
   "created_at" : "2010-10-22 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2516,12 +2516,6 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Florence Igoe",
-      "screen_name" : "SleepyDumpling",
-      "indices" : [ 0, 15 ],
-      "id_str" : "903895406446354432",
-      "id" : 903895406446354432
-    }, {
       "name" : "Lara",
       "screen_name" : "lalalian",
       "indices" : [ 16, 25 ],
@@ -2538,7 +2532,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28010658340,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2571,7 +2565,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2601,10 +2595,10 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28011670751,
   "in_reply_to_status_id" : 28002223809,
   "created_at" : "2010-10-21 00:00:00 +0000",
-  "in_reply_to_screen_name" : "Larapantsonfire",
+  "in_reply_to_screen_name" : "downton_flabbey",
   "in_reply_to_user_id_str" : "23908134",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2626,7 +2620,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28025096774,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2648,7 +2642,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28065005317,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2670,7 +2664,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28066227396,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2679,7 +2673,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2692,7 +2686,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28073133849,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2717,7 +2711,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28073901560,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2739,7 +2733,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28356038231,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2761,7 +2755,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28358122764,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2783,7 +2777,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28362413386,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2805,7 +2799,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28362599330,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2827,7 +2821,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28364531111,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2849,7 +2843,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28368803964,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2871,7 +2865,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28369140404,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2893,7 +2887,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28378190374,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2915,7 +2909,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28379911158,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2966,7 +2960,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28380514556,
   "created_at" : "2010-10-21 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -2988,7 +2982,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27894256902,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3010,7 +3004,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27897284544,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3043,7 +3037,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Elle_Mac",
   "in_reply_to_user_id_str" : "21271047",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3076,7 +3070,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3098,7 +3092,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27899701818,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3120,7 +3114,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27902499859,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3142,7 +3136,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27918592264,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3164,7 +3158,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27929291039,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3197,7 +3191,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "monopolyship",
   "in_reply_to_user_id_str" : "84145765",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3219,7 +3213,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27974896174,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3241,7 +3235,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27982333217,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3263,7 +3257,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27983699052,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3285,7 +3279,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27989857815,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3307,7 +3301,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28001734339,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3340,7 +3334,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "veemonster",
   "in_reply_to_user_id_str" : "7750032",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3362,7 +3356,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 28008452079,
   "created_at" : "2010-10-20 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3384,7 +3378,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27794896171,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3412,7 +3406,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27795758349,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3437,7 +3431,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27805313398,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3462,7 +3456,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27810367755,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3487,7 +3481,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27822557616,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3512,7 +3506,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27835070725,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3537,7 +3531,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27869668813,
   "created_at" : "2010-10-19 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3570,7 +3564,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "marchofclouds",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3598,7 +3592,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27714677413,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3620,7 +3614,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27767408986,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3645,7 +3639,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27774128201,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3676,7 +3670,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27775049966,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3698,7 +3692,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27687433160,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3720,7 +3714,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27708095682,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3745,7 +3739,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27712117631,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3767,7 +3761,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27714490349,
   "created_at" : "2010-10-18 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3792,7 +3786,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27590345186,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3817,7 +3811,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27595379822,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3842,7 +3836,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27597615822,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3864,7 +3858,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27611118222,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3876,7 +3870,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "My Aural Fixation",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -3897,7 +3891,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3922,7 +3916,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27619605405,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3947,7 +3941,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27640289712,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3972,7 +3966,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27675705248,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -3997,7 +3991,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27676520997,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4022,7 +4016,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27679015250,
   "created_at" : "2010-10-17 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4044,7 +4038,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27515998554,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4066,7 +4060,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27518742948,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4088,7 +4082,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27521357660,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4121,7 +4115,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4143,7 +4137,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27525634364,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4165,7 +4159,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27525811481,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4190,7 +4184,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27528065820,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4215,7 +4209,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27532134117,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4251,7 +4245,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "cailray",
   "in_reply_to_user_id_str" : "14104962",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4276,7 +4270,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27549688780,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4298,7 +4292,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27584049936,
   "created_at" : "2010-10-16 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4320,7 +4314,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27397513993,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4351,7 +4345,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27398353267,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4369,7 +4363,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "22483027",
       "id" : 22483027
     }, {
-      "name" : "i have been on this garbage website for ten years",
+      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
       "screen_name" : "pressdarling",
       "indices" : [ 14, 27 ],
       "id_str" : "14709131",
@@ -4390,7 +4384,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4412,7 +4406,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27401807521,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4434,7 +4428,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27412878490,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4456,7 +4450,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27416472887,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4483,7 +4477,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "megabichi",
   "in_reply_to_user_id_str" : "38154086",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4505,7 +4499,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27437750292,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4527,7 +4521,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27486738941,
   "created_at" : "2010-10-15 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4549,7 +4543,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27289268342,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4571,7 +4565,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27295152186,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4593,7 +4587,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27298627878,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4615,7 +4609,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27316034100,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4637,7 +4631,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27321495030,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4659,7 +4653,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27322230456,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4681,7 +4675,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27331140185,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4703,7 +4697,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27337584105,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4730,7 +4724,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "megabichi",
   "in_reply_to_user_id_str" : "38154086",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4764,7 +4758,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27339062158,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4795,7 +4789,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27388700236,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4817,7 +4811,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27389186607,
   "created_at" : "2010-10-14 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4839,7 +4833,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27280033550,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4872,7 +4866,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Geztalt",
   "in_reply_to_user_id_str" : "17884552",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4915,7 +4909,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "Scarlettjen",
       "protected" : false,
       "id_str" : "17398187",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892976237060038656\/Bxdz68v9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/956999864524595200\/PFZlkhOo_normal.jpg",
       "id" : 17398187,
       "verified" : false
     }
@@ -4923,7 +4917,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27281096522,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4945,7 +4939,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27282275124,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4967,7 +4961,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27189360693,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -4979,7 +4973,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nanoraptor",
+      "name" : "Dana Sibera",
       "screen_name" : "NanoRaptor",
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
@@ -5001,7 +4995,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27197782054,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5034,7 +5028,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "01000101",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5056,7 +5050,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27216489384,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5078,7 +5072,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27218593846,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5100,7 +5094,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27220500815,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5122,7 +5116,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27222600773,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5144,7 +5138,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27223443049,
   "created_at" : "2010-10-13 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5175,7 +5169,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "larksie",
   "in_reply_to_user_id_str" : "17503201",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5197,7 +5191,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27092765281,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5219,7 +5213,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27103588163,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5241,7 +5235,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27106692609,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5263,7 +5257,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27114894068,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5291,7 +5285,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27115995109,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5313,7 +5307,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27116527887,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5364,7 +5358,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27118169915,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5386,7 +5380,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27119793730,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5419,7 +5413,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5441,7 +5435,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27126359104,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5463,7 +5457,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27129506904,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5485,7 +5479,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27131205149,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5507,7 +5501,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27177498033,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5529,7 +5523,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27177785254,
   "created_at" : "2010-10-12 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5551,7 +5545,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26983567448,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5576,7 +5570,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26998173485,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5627,7 +5621,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26998683904,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5654,7 +5648,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "megabichi",
   "in_reply_to_user_id_str" : "38154086",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5676,7 +5670,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27012951006,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5701,7 +5695,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27028078063,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5726,7 +5720,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27034277934,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5751,7 +5745,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27057652789,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5781,7 +5775,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "megabichi",
   "in_reply_to_user_id_str" : "38154086",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5806,7 +5800,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27062407343,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5831,7 +5825,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27064036880,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5853,7 +5847,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27071345132,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5878,7 +5872,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27073593900,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5903,7 +5897,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27075840342,
   "created_at" : "2010-10-11 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5925,7 +5919,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26887599680,
   "created_at" : "2010-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5952,7 +5946,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "LEI5A",
   "in_reply_to_user_id_str" : "26631222",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -5974,7 +5968,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26891446262,
   "created_at" : "2010-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6013,7 +6007,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "nicolejensen",
   "in_reply_to_user_id_str" : "17459950",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6038,7 +6032,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26904219567,
   "created_at" : "2010-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6063,7 +6057,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26913349824,
   "created_at" : "2010-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6099,7 +6093,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6124,7 +6118,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26975797083,
   "created_at" : "2010-10-10 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6158,7 +6152,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "marchofclouds",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6183,7 +6177,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26844938169,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6219,7 +6213,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6241,7 +6235,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26885694010,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6274,7 +6268,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "urchincreature",
   "in_reply_to_user_id_str" : "5739132",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6296,7 +6290,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26800795394,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6318,7 +6312,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26803309562,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6343,7 +6337,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26827861859,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6368,7 +6362,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26828640782,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6393,7 +6387,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26831456747,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6418,7 +6412,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26836425950,
   "created_at" : "2010-10-09 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6440,7 +6434,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26698519972,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6462,7 +6456,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26699166493,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6489,7 +6483,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "shanjumplater",
   "in_reply_to_user_id_str" : "112577100",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6520,7 +6514,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26703221640,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6547,7 +6541,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26704333617,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6569,7 +6563,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26710313680,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6591,7 +6585,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26713378876,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6613,7 +6607,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26716903485,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6638,7 +6632,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26718062171,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6663,7 +6657,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26725079488,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6688,7 +6682,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26727740959,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6713,7 +6707,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26736127589,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6738,7 +6732,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26745566273,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6760,7 +6754,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26758448488,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6796,7 +6790,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Scarlettjen",
   "in_reply_to_user_id_str" : "17398187",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6821,7 +6815,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26761387834,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6843,7 +6837,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26791681068,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6865,7 +6859,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26794431442,
   "created_at" : "2010-10-08 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6887,7 +6881,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26605985719,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6905,7 +6899,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14111299",
       "id" : 14111299
     }, {
-      "name" : "Byorgen Druffeldroff",
+      "name" : "Sheepie",
       "screen_name" : "bastardsheep",
       "indices" : [ 111, 124 ],
       "id_str" : "16278101",
@@ -6927,7 +6921,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26607265881,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6949,7 +6943,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26607574216,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6971,7 +6965,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26608270602,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -6993,7 +6987,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26621003065,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7018,7 +7012,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26625251694,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7043,7 +7037,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26626648047,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7065,7 +7059,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26628141375,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7090,7 +7084,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26631982682,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7115,7 +7109,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26635967288,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7137,7 +7131,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26643833156,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7146,7 +7140,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -7159,7 +7153,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26689450326,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7181,7 +7175,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26691128133,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7203,7 +7197,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26696643209,
   "created_at" : "2010-10-07 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7231,7 +7225,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26515180965,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7253,7 +7247,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26518913911,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7289,7 +7283,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "monopolyship",
   "in_reply_to_user_id_str" : "84145765",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7311,7 +7305,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26533685212,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7336,7 +7330,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26534506513,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7361,7 +7355,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26552955659,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7386,7 +7380,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26588974189,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7411,7 +7405,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26589588625,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7433,7 +7427,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26597171670,
   "created_at" : "2010-10-06 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7461,7 +7455,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26459360175,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7486,7 +7480,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26495363166,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7508,7 +7502,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26498525641,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7544,7 +7538,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "KateEdwards",
   "in_reply_to_user_id_str" : "5730592",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7569,7 +7563,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26436668731,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7594,7 +7588,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26438538962,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7619,7 +7613,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26440007078,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7644,7 +7638,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26444405473,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7680,7 +7674,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Neila4",
   "in_reply_to_user_id_str" : "68694007",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7716,7 +7710,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "monopolyship",
   "in_reply_to_user_id_str" : "84145765",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7741,7 +7735,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26446035897,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7763,7 +7757,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26453405630,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7785,7 +7779,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26457280029,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7837,7 +7831,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26457923326,
   "created_at" : "2010-10-05 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7859,7 +7853,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26327309431,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7881,7 +7875,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26335894872,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7903,7 +7897,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26336874549,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7925,7 +7919,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26351882953,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7958,7 +7952,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Kat_La",
   "in_reply_to_user_id_str" : "21745838",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -7970,7 +7964,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "My Aural Fixation",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -7991,7 +7985,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8013,7 +8007,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26359915253,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8041,7 +8035,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26362084026,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8052,29 +8046,18 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Elize Strydom",
-      "screen_name" : "elizestrydom",
-      "indices" : [ 0, 13 ],
-      "id_str" : "22588734",
-      "id" : 22588734
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "26146531505",
   "geo" : { },
   "id_str" : "26362281692",
-  "in_reply_to_user_id" : 22588734,
   "text" : "@elizestrydom weather's been resembling cooler months of brisbane lately down here. i'm missing the tropics somewhat though, and friends",
   "id" : 26362281692,
-  "in_reply_to_status_id" : 26146531505,
   "created_at" : "2010-10-04 00:00:00 +0000",
-  "in_reply_to_screen_name" : "elizestrydom",
-  "in_reply_to_user_id_str" : "22588734",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8096,7 +8079,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26387435756,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8121,7 +8104,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26389392642,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8146,7 +8129,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26391394688,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8168,7 +8151,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26392761236,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8190,7 +8173,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26394662665,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8215,7 +8198,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26400980123,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8251,7 +8234,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "peterjblack",
   "in_reply_to_user_id_str" : "754714",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8276,7 +8259,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26404785324,
   "created_at" : "2010-10-04 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8294,7 +8277,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14712601",
       "id" : 14712601
     }, {
-      "name" : "Josh \uD83D\uDC26",
+      "name" : "Josh \uD83D\uDD4A",
       "screen_name" : "phocks",
       "indices" : [ 19, 26 ],
       "id_str" : "5703342",
@@ -8313,7 +8296,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26222792718,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8338,7 +8321,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26223342415,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8347,7 +8330,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8360,7 +8343,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26230450511,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8385,7 +8368,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26235440284,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8410,7 +8393,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26238632608,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8432,7 +8415,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26244080996,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8454,7 +8437,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26244883376,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8487,7 +8470,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "KateEdwards",
   "in_reply_to_user_id_str" : "5730592",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8512,7 +8495,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26251200887,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8543,7 +8526,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26258341684,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8565,7 +8548,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26268089998,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8587,7 +8570,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26268588463,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8618,7 +8601,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26304123133,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8643,7 +8626,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26304504168,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8686,7 +8669,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "carnagefairy",
       "protected" : false,
       "id_str" : "14211650",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/829602094055186433\/LOTSZXDN_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988943914512957440\/ROBmzWJ5_normal.jpg",
       "id" : 14211650,
       "verified" : false
     }
@@ -8694,7 +8677,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26304856720,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8716,7 +8699,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26306775553,
   "created_at" : "2010-10-03 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8749,7 +8732,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "vejs",
   "in_reply_to_user_id_str" : "197222689",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8774,7 +8757,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26185965779,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8799,7 +8782,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26191619256,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8824,7 +8807,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26193101128,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8858,7 +8841,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "Neila4",
   "in_reply_to_user_id_str" : "68694007",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8894,7 +8877,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "misswhitemoth",
   "in_reply_to_user_id_str" : "14690376",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8919,7 +8902,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26134346119,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8928,7 +8911,7 @@ Grailbird.data.tweets_2010_10 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -8941,7 +8924,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26136817318,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8963,7 +8946,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26136858492,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -8991,7 +8974,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26137147948,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9016,7 +8999,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26142479745,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9041,7 +9024,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26146349327,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9066,7 +9049,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26147399004,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9097,7 +9080,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "laurakirkham",
   "in_reply_to_user_id_str" : "22483027",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9119,7 +9102,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26157121021,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9141,7 +9124,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26157197589,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9153,7 +9136,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "My Aural Fixation",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -9177,7 +9160,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "myauralfixation",
   "in_reply_to_user_id_str" : "19749614",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9199,7 +9182,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26159613670,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9224,7 +9207,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26161150125,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9249,7 +9232,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26161389856,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9274,7 +9257,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26176048473,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9299,7 +9282,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26178776576,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9324,7 +9307,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26182486079,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9349,7 +9332,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26184971970,
   "created_at" : "2010-10-02 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9371,7 +9354,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26031990616,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9405,7 +9388,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26033871335,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9430,7 +9413,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26036336045,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9464,7 +9447,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "susanorlean",
   "in_reply_to_user_id_str" : "11447852",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9489,7 +9472,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26046620245,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9514,7 +9497,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26048050653,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9547,7 +9530,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "helveticade",
   "in_reply_to_user_id_str" : "14111299",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9569,7 +9552,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26055680551,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9605,7 +9588,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "helveticade",
   "in_reply_to_user_id_str" : "14111299",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9627,7 +9610,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26059562955,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9649,7 +9632,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26060517387,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9691,7 +9674,7 @@ Grailbird.data.tweets_2010_10 =
   "in_reply_to_screen_name" : "01000101",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9713,7 +9696,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26064203752,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9738,7 +9721,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26065480338,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9763,7 +9746,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26072050665,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
@@ -9788,7 +9771,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26088823257,
   "created_at" : "2010-10-01 00:00:00 +0000",
   "user" : {
-    "name" : "Josh \uD83D\uDC26",
+    "name" : "Josh \uD83D\uDD4A",
     "screen_name" : "phocks",
     "protected" : false,
     "id_str" : "5703342",
