@@ -604,11 +604,11 @@ Grailbird.data.tweets_2017_02 =
     "id" : 836332761342345216,
     "created_at" : "2017-02-27 21:50:43 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Sarah",
+      "name" : "WeAreBne \/ Hedrick",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033832441281036289\/kUllS7QV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036378191445745666\/KYdYlDh8_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Sarah",
+      "name" : "WeAreBne \/ Hedrick",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -1654,7 +1654,7 @@ Grailbird.data.tweets_2017_02 =
     "id" : 835983621462712321,
     "created_at" : "2017-02-26 22:43:21 +0000",
     "user" : {
-      "name" : "ja$",
+      "name" : "Jas",
       "screen_name" : "morenojaaas",
       "protected" : false,
       "id_str" : "4051759339",
@@ -2596,7 +2596,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -5521,7 +5521,7 @@ Grailbird.data.tweets_2017_02 =
       "screen_name" : "holyh00ker",
       "protected" : false,
       "id_str" : "357679590",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032081787382648832\/bleihnf0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035404953429454853\/RrZtSORw_normal.jpg",
       "id" : 357679590,
       "verified" : false
     }
@@ -5848,7 +5848,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -7095,7 +7095,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "soft hell crab",
+      "name" : "ahhh my lunch",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -7869,175 +7869,6 @@ Grailbird.data.tweets_2017_02 =
   "text" : "I still find it extremely weird that we are Bunnings literally buying dirt",
   "id" : 833144596515348480,
   "created_at" : "2017-02-19 02:42:05 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/coldfriedrice\/status\/832717389485658115\/photo\/1",
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/fZ92lUfHVC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C45oDJPUYAEy_Yh.jpg",
-      "id_str" : "832717384339185665",
-      "id" : 832717384339185665,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C45oDJPUYAEy_Yh.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 540,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 540,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 490,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 540,
-        "resize" : "fit",
-        "w" : 750
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fZ92lUfHVC"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/coldfriedrice\/status\/832717389485658115\/photo\/1",
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/fZ92lUfHVC",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C45oDKiUkAAn1aR.jpg",
-      "id_str" : "832717384687325184",
-      "id" : 832717384687325184,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C45oDKiUkAAn1aR.jpg",
-      "sizes" : [ {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 537
-      }, {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 750
-      }, {
-        "h" : 950,
-        "resize" : "fit",
-        "w" : 750
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fZ92lUfHVC"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "833082112286748672",
-  "text" : "RT @coldfriedrice: the white boys' reaction during this rihanna concert is forever priceless https:\/\/t.co\/fZ92lUfHVC",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/coldfriedrice\/status\/832717389485658115\/photo\/1",
-        "indices" : [ 74, 97 ],
-        "url" : "https:\/\/t.co\/fZ92lUfHVC",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C45oDJPUYAEy_Yh.jpg",
-        "id_str" : "832717384339185665",
-        "id" : 832717384339185665,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C45oDJPUYAEy_Yh.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 540,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 540,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 490,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 540,
-          "resize" : "fit",
-          "w" : 750
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/fZ92lUfHVC"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/coldfriedrice\/status\/832717389485658115\/photo\/1",
-        "indices" : [ 74, 97 ],
-        "url" : "https:\/\/t.co\/fZ92lUfHVC",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C45oDKiUkAAn1aR.jpg",
-        "id_str" : "832717384687325184",
-        "id" : 832717384687325184,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C45oDKiUkAAn1aR.jpg",
-        "sizes" : [ {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 537
-        }, {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 750
-        }, {
-          "h" : 950,
-          "resize" : "fit",
-          "w" : 750
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/fZ92lUfHVC"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "832717389485658115",
-    "text" : "the white boys' reaction during this rihanna concert is forever priceless https:\/\/t.co\/fZ92lUfHVC",
-    "id" : 832717389485658115,
-    "created_at" : "2017-02-17 22:24:31 +0000",
-    "user" : {
-      "name" : "kendra \uD83D\uDC1D",
-      "screen_name" : "Kendrayonce",
-      "protected" : false,
-      "id_str" : "722820550662316032",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/855912012345262081\/T87XcG9H_normal.jpg",
-      "id" : 722820550662316032,
-      "verified" : false
-    }
-  },
-  "id" : 833082112286748672,
-  "created_at" : "2017-02-18 22:33:48 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -9675,7 +9506,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -12755,7 +12586,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 42, 47 ],
       "id_str" : "9890492",
@@ -12951,7 +12782,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13085,7 +12916,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13118,7 +12949,7 @@ Grailbird.data.tweets_2017_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",

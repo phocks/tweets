@@ -1822,7 +1822,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3968,7 +3968,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "bortofdarkness",
       "protected" : false,
       "id_str" : "2907731137",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020408214473490432\/cTrQOaoy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037279722797858817\/in2DemXp_normal.jpg",
       "id" : 2907731137,
       "verified" : false
     }
@@ -4844,7 +4844,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -5115,74 +5115,6 @@ Grailbird.data.tweets_2015_10 =
   "text" : "new work, old words, and only just finding out this is actually misattributed\n\nhttps:\/\/t.co\/SIuzPbJGpY https:\/\/t.co\/fOoAT3hmxz",
   "id" : 657121865811386368,
   "created_at" : "2015-10-22 09:10:36 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
-      "screen_name" : "pressdarling",
-      "indices" : [ 3, 16 ],
-      "id_str" : "14709131",
-      "id" : 14709131
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 18, 25 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "657116333297958912",
-  "text" : "RT @pressdarling: @phocks when did this \uD83D\uDCBF\nbecome sexier than this \uD83D\uDCBE",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "657093029887537153",
-    "geo" : { },
-    "id_str" : "657095402424918017",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks when did this \uD83D\uDCBF\nbecome sexier than this \uD83D\uDCBE",
-    "id" : 657095402424918017,
-    "in_reply_to_status_id" : 657093029887537153,
-    "created_at" : "2015-10-22 07:25:26 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
-      "screen_name" : "pressdarling",
-      "protected" : true,
-      "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943798706431713280\/5wk3k_Y0_normal.jpg",
-      "id" : 14709131,
-      "verified" : false
-    }
-  },
-  "id" : 657116333297958912,
-  "created_at" : "2015-10-22 08:48:37 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7888,7 +7820,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Sarah",
+      "name" : "WeAreBne \/ Hedrick",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -8530,7 +8462,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "23312141",
       "id" : 23312141
     }, {
-      "name" : "WeAreBne \/ Ash",
+      "name" : "WeAreBne \/ Hedrick",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 15, 29 ],
       "id_str" : "2444895445",
@@ -8671,7 +8603,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "WeAreBne \/ Ash",
+        "name" : "WeAreBne \/ Hedrick",
         "screen_name" : "WeAreBrisbane",
         "indices" : [ 0, 14 ],
         "id_str" : "2444895445",
@@ -11019,7 +10951,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "JamesMelville",
       "protected" : false,
       "id_str" : "20675681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027195149590380544\/_i0MZ5u1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035913539993649154\/eFGE7TWa_normal.jpg",
       "id" : 20675681,
       "verified" : false
     }
@@ -11247,7 +11179,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elven Tusks",
+      "name" : "The FItzhywel!",
       "screen_name" : "Pantmonger",
       "indices" : [ 0, 11 ],
       "id_str" : "154826066",
@@ -12999,7 +12931,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -19210,7 +19142,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 651223954305105920,
   "in_reply_to_status_id" : 651206603849396226,
   "created_at" : "2015-10-06 02:34:24 +0000",
-  "in_reply_to_screen_name" : "itsbuterauhl",
+  "in_reply_to_screen_name" : "BREATHlNMNDS",
   "in_reply_to_user_id_str" : "261636899",
   "user" : {
     "name" : "Joshua Byrd",
@@ -19237,7 +19169,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 651200289345638400,
   "in_reply_to_status_id" : 651057660133949440,
   "created_at" : "2015-10-06 01:00:22 +0000",
-  "in_reply_to_screen_name" : "itsbuterauhl",
+  "in_reply_to_screen_name" : "BREATHlNMNDS",
   "in_reply_to_user_id_str" : "261636899",
   "user" : {
     "name" : "Joshua Byrd",
@@ -19356,7 +19288,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -20680,7 +20612,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "tropicalmelanin",
       "protected" : false,
       "id_str" : "3118515184",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033669045130690560\/VjrMhI5P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037146978935701505\/sLkct95W_normal.jpg",
       "id" : 3118515184,
       "verified" : false
     }
@@ -21111,119 +21043,6 @@ Grailbird.data.tweets_2015_10 =
   },
   "id" : 650478168617299968,
   "created_at" : "2015-10-04 01:10:55 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ena Music",
-      "screen_name" : "e__music",
-      "indices" : [ 3, 12 ],
-      "id_str" : "2563374703",
-      "id" : 2563374703
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/e__music\/status\/650440248376229888\/photo\/1",
-      "indices" : [ 117, 139 ],
-      "url" : "http:\/\/t.co\/OZsLHA9TuK",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CQbT8y7UYAAFXv-.jpg",
-      "id_str" : "650440237617799168",
-      "id" : 650440237617799168,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQbT8y7UYAAFXv-.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 626
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 626
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 416
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 626
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/OZsLHA9TuK"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "650478024874323969",
-  "text" : "RT @e__music: America. Where guns are perfectly legal and simple to access, but abortions are illegal or restricted. http:\/\/t.co\/OZsLHA9TuK",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/e__music\/status\/650440248376229888\/photo\/1",
-        "indices" : [ 103, 125 ],
-        "url" : "http:\/\/t.co\/OZsLHA9TuK",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CQbT8y7UYAAFXv-.jpg",
-        "id_str" : "650440237617799168",
-        "id" : 650440237617799168,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CQbT8y7UYAAFXv-.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 626
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 626
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 416
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 626
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/OZsLHA9TuK"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "650440248376229888",
-    "text" : "America. Where guns are perfectly legal and simple to access, but abortions are illegal or restricted. http:\/\/t.co\/OZsLHA9TuK",
-    "id" : 650440248376229888,
-    "created_at" : "2015-10-03 22:40:14 +0000",
-    "user" : {
-      "name" : "Ena Music",
-      "screen_name" : "e__music",
-      "protected" : false,
-      "id_str" : "2563374703",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477075516386574336\/joQdB_b3_normal.png",
-      "id" : 2563374703,
-      "verified" : false
-    }
-  },
-  "id" : 650478024874323969,
-  "created_at" : "2015-10-04 01:10:21 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -23968,16 +23787,27 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Josh Tregenza",
+      "screen_name" : "JoshTregenza",
+      "indices" : [ 0, 13 ],
+      "id_str" : "808613348",
+      "id" : 808613348
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "649492787994345473",
   "geo" : { },
   "id_str" : "649493495833473024",
+  "in_reply_to_user_id" : 808613348,
   "text" : "@JoshTregenza I'm guessing there's a lot or changes under the surface, but yeah pretty bland upgrade this time",
   "id" : 649493495833473024,
+  "in_reply_to_status_id" : 649492787994345473,
   "created_at" : "2015-10-01 07:58:11 +0000",
+  "in_reply_to_screen_name" : "JoshTregenza",
+  "in_reply_to_user_id_str" : "808613348",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

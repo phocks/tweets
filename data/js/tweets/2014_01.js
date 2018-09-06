@@ -3947,7 +3947,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "14656514",
       "id" : 14656514
     }, {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 18, 29 ],
       "id_str" : "18328488",

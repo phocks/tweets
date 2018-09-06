@@ -204,7 +204,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -502,7 +502,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 3, 8 ],
       "id_str" : "9890492",
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 803569214187442176,
     "created_at" : "2016-11-29 12:00:04 +0000",
     "user" : {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",
@@ -1740,7 +1740,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 3, 17 ],
       "id_str" : "19573120",
@@ -1777,7 +1777,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 803184265403854848,
     "created_at" : "2016-11-28 10:30:25 +0000",
     "user" : {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "protected" : false,
       "id_str" : "19573120",
@@ -1834,7 +1834,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -2613,7 +2613,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4160,7 +4160,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "f***",
+      "name" : "f*** it",
       "screen_name" : "sosaysHill",
       "indices" : [ 3, 14 ],
       "id_str" : "340677674",
@@ -4187,7 +4187,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 802311968812048385,
     "created_at" : "2016-11-26 00:44:14 +0000",
     "user" : {
-      "name" : "f***",
+      "name" : "f*** it",
       "screen_name" : "sosaysHill",
       "protected" : false,
       "id_str" : "340677674",
@@ -4644,7 +4644,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 801965358244503552,
     "created_at" : "2016-11-25 01:46:55 +0000",
     "user" : {
-      "name" : "xavier sunshine",
+      "name" : "racer x",
       "screen_name" : "XavierRN",
       "protected" : false,
       "id_str" : "17484262",
@@ -16011,7 +16011,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -17764,7 +17764,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "970618m",
       "protected" : false,
       "id_str" : "238339174",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025940101640142848\/VKS00hxK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037315858631024641\/6c_c0Uou_normal.jpg",
       "id" : 238339174,
       "verified" : false
     }
@@ -18403,7 +18403,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -18504,7 +18504,7 @@ Grailbird.data.tweets_2016_11 =
     "id" : 795954744485236736,
     "created_at" : "2016-11-08 11:42:53 +0000",
     "user" : {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -19600,7 +19600,7 @@ Grailbird.data.tweets_2016_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -22834,6 +22834,299 @@ Grailbird.data.tweets_2016_11 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/nPHkIt8YFL",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d5XgAIVk4u.jpg",
+      "id_str" : "793243685496520706",
+      "id" : 793243685496520706,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d5XgAIVk4u.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 677,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1236,
+        "resize" : "fit",
+        "w" : 1241
+      }, {
+        "h" : 1195,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1236,
+        "resize" : "fit",
+        "w" : 1241
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/nPHkIt8YFL",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d2WAAEgNXf.jpg",
+      "id_str" : "793243685483839489",
+      "id" : 793243685483839489,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d2WAAEgNXf.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1235,
+        "resize" : "fit",
+        "w" : 1240
+      }, {
+        "h" : 1235,
+        "resize" : "fit",
+        "w" : 1240
+      }, {
+        "h" : 677,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1195,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/nPHkIt8YFL",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d9WAAAayeo.jpg",
+      "id_str" : "793243685513199616",
+      "id" : 793243685513199616,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d9WAAAayeo.jpg",
+      "sizes" : [ {
+        "h" : 670,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1182,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1222,
+        "resize" : "fit",
+        "w" : 1241
+      }, {
+        "h" : 1222,
+        "resize" : "fit",
+        "w" : 1241
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/nPHkIt8YFL",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d7WgAAp_D9.jpg",
+      "id_str" : "793243685504843776",
+      "id" : 793243685504843776,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d7WgAAp_D9.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1230,
+        "resize" : "fit",
+        "w" : 1241
+      }, {
+        "h" : 1189,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1230,
+        "resize" : "fit",
+        "w" : 1241
+      }, {
+        "h" : 674,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "793775329017860096",
+  "text" : "RT @melgabored: Tell me about how the new Ghostbusters film ruined your childhood again? https:\/\/t.co\/nPHkIt8YFL",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/nPHkIt8YFL",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d5XgAIVk4u.jpg",
+        "id_str" : "793243685496520706",
+        "id" : 793243685496520706,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d5XgAIVk4u.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 677,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1236,
+          "resize" : "fit",
+          "w" : 1241
+        }, {
+          "h" : 1195,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1236,
+          "resize" : "fit",
+          "w" : 1241
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/nPHkIt8YFL",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d2WAAEgNXf.jpg",
+        "id_str" : "793243685483839489",
+        "id" : 793243685483839489,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d2WAAEgNXf.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1235,
+          "resize" : "fit",
+          "w" : 1240
+        }, {
+          "h" : 1235,
+          "resize" : "fit",
+          "w" : 1240
+        }, {
+          "h" : 677,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 1195,
+          "resize" : "fit",
+          "w" : 1200
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/nPHkIt8YFL",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d9WAAAayeo.jpg",
+        "id_str" : "793243685513199616",
+        "id" : 793243685513199616,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d9WAAAayeo.jpg",
+        "sizes" : [ {
+          "h" : 670,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1182,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1222,
+          "resize" : "fit",
+          "w" : 1241
+        }, {
+          "h" : 1222,
+          "resize" : "fit",
+          "w" : 1241
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/melgabored\/status\/793243702181388288\/photo\/1",
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/nPHkIt8YFL",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CwIq7d7WgAAp_D9.jpg",
+        "id_str" : "793243685504843776",
+        "id" : 793243685504843776,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CwIq7d7WgAAp_D9.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1230,
+          "resize" : "fit",
+          "w" : 1241
+        }, {
+          "h" : 1189,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 1230,
+          "resize" : "fit",
+          "w" : 1241
+        }, {
+          "h" : 674,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/nPHkIt8YFL"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "793243702181388288",
+    "text" : "Tell me about how the new Ghostbusters film ruined your childhood again? https:\/\/t.co\/nPHkIt8YFL",
+    "id" : 793243702181388288,
+    "created_at" : "2016-11-01 00:10:11 +0000",
+    "user" : {
+      "name" : "Melanie Gabor",
+      "screen_name" : "GaborMelanie",
+      "protected" : false,
+      "id_str" : "165632706",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023727888233914368\/c289XOyi_normal.jpg",
+      "id" : 165632706,
+      "verified" : false
+    }
+  },
+  "id" : 793775329017860096,
+  "created_at" : "2016-11-02 11:22:40 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/793766761585741829\/photo\/1",
       "indices" : [ 46, 69 ],
       "url" : "https:\/\/t.co\/1lnVybUHis",
@@ -23236,7 +23529,7 @@ Grailbird.data.tweets_2016_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031088222993100800\/OgdUdTz8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037445152174944258\/SYFcShN4_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }

@@ -310,7 +310,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "759841",
       "id" : 759841
     }, {
-      "name" : "Nick Perkins",
+      "name" : "nicholosophy@mastodon.social",
       "screen_name" : "Nicholosophy",
       "indices" : [ 16, 29 ],
       "id_str" : "14721310",
@@ -3729,7 +3729,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chey",
+      "name" : "Chey\uD83D\uDC8B",
       "screen_name" : "miss_newby",
       "indices" : [ 0, 11 ],
       "id_str" : "977537880",
@@ -6038,7 +6038,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Perkins",
+      "name" : "nicholosophy@mastodon.social",
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",

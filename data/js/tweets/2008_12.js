@@ -5766,7 +5766,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@paulkidd@anticapitalist.party",
+      "name" : "Paul Kidd",
       "screen_name" : "paulkidd",
       "indices" : [ 0, 9 ],
       "id_str" : "14071129",

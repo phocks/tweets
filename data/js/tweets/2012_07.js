@@ -2953,69 +2953,6 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
-      "screen_name" : "pressdarling",
-      "indices" : [ 3, 16 ],
-      "id_str" : "14709131",
-      "id" : 14709131
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 107, 114 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "224858406211694592",
-  "text" : "RT @pressdarling: Tonight I went to my first ever rally and then had Thai with Brisbane\u2019s favourite Moses, @phocks. It\u2019s been a good night.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 89, 96 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "224855157253480452",
-    "text" : "Tonight I went to my first ever rally and then had Thai with Brisbane\u2019s favourite Moses, @phocks. It\u2019s been a good night.",
-    "id" : 224855157253480452,
-    "created_at" : "2012-07-16 13:17:01 +0000",
-    "user" : {
-      "name" : "\u0295\u0295\u0294\u0295\u0295\u0294\u0294\u0295\u0294\u0294",
-      "screen_name" : "pressdarling",
-      "protected" : true,
-      "id_str" : "14709131",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943798706431713280\/5wk3k_Y0_normal.jpg",
-      "id" : 14709131,
-      "verified" : false
-    }
-  },
-  "id" : 224858406211694592,
-  "created_at" : "2012-07-16 13:29:56 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5200,7 +5137,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "2542730658",
       "id" : 2542730658
     }, {
-      "name" : "MarcusAddressThis",
+      "name" : "MarcusPlsJustAddressThat",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 8, 23 ],
       "id_str" : "154535572",

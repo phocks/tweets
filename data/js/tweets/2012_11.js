@@ -3938,7 +3938,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "cheshninety",
       "protected" : false,
       "id_str" : "213936729",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/734876396514775040\/2b7Gv7RF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037141482459680768\/WjsP6jhT_normal.jpg",
       "id" : 213936729,
       "verified" : false
     }

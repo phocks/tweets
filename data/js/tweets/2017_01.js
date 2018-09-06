@@ -636,7 +636,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "meliissasanchez",
       "protected" : false,
       "id_str" : "2222505013",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034168515618529280\/nAbpp2P2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037429529008959488\/Qu9tKcph_normal.jpg",
       "id" : 2222505013,
       "verified" : false
     }
@@ -1485,7 +1485,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "IcecreamGenius",
       "protected" : false,
       "id_str" : "86554436",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003418676790484992\/WPg1rUqQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037083242086653952\/2NeJqW1o_normal.jpg",
       "id" : 86554436,
       "verified" : false
     }
@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WerrestedDevOps",
+      "name" : "WesleyMQ",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -3338,181 +3338,6 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jaboukie young-white",
-      "screen_name" : "jaboukie",
-      "indices" : [ 3, 12 ],
-      "id_str" : "319769408",
-      "id" : 319769408
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
-      "indices" : [ 92, 115 ],
-      "url" : "https:\/\/t.co\/BzQ7M1bn9O",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
-      "id_str" : "824421724997427201",
-      "id" : 824421724997427201,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 498,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 498,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 498,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 498,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
-      "indices" : [ 92, 115 ],
-      "url" : "https:\/\/t.co\/BzQ7M1bn9O",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
-      "id_str" : "824421724984934401",
-      "id" : 824421724984934401,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
-      "sizes" : [ {
-        "h" : 590,
-        "resize" : "fit",
-        "w" : 1098
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 590,
-        "resize" : "fit",
-        "w" : 1098
-      }, {
-        "h" : 590,
-        "resize" : "fit",
-        "w" : 1098
-      }, {
-        "h" : 365,
-        "resize" : "fit",
-        "w" : 680
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "824826045303959554",
-  "text" : "RT @jaboukie: when you ask a pro-lifer how they plan to support a fetus once it's born poor https:\/\/t.co\/BzQ7M1bn9O",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
-        "indices" : [ 78, 101 ],
-        "url" : "https:\/\/t.co\/BzQ7M1bn9O",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
-        "id_str" : "824421724997427201",
-        "id" : 824421724997427201,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 498,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 498,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 498,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 498,
-          "resize" : "fit",
-          "w" : 500
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
-        "indices" : [ 78, 101 ],
-        "url" : "https:\/\/t.co\/BzQ7M1bn9O",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
-        "id_str" : "824421724984934401",
-        "id" : 824421724984934401,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
-        "sizes" : [ {
-          "h" : 590,
-          "resize" : "fit",
-          "w" : 1098
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 590,
-          "resize" : "fit",
-          "w" : 1098
-        }, {
-          "h" : 590,
-          "resize" : "fit",
-          "w" : 1098
-        }, {
-          "h" : 365,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "824421732727582721",
-    "text" : "when you ask a pro-lifer how they plan to support a fetus once it's born poor https:\/\/t.co\/BzQ7M1bn9O",
-    "id" : 824421732727582721,
-    "created_at" : "2017-01-26 01:00:32 +0000",
-    "user" : {
-      "name" : "jaboukie young-white",
-      "screen_name" : "jaboukie",
-      "protected" : false,
-      "id_str" : "319769408",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024745713769492480\/eiDn4Bya_normal.jpg",
-      "id" : 319769408,
-      "verified" : false
-    }
-  },
-  "id" : 824826045303959554,
-  "created_at" : "2017-01-27 03:47:08 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Jesse Gary",
       "screen_name" : "JesseKTVU",
       "indices" : [ 3, 13 ],
@@ -3896,7 +3721,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PoorHub",
+      "name" : "PalangiHub",
       "screen_name" : "comradewest",
       "indices" : [ 0, 12 ],
       "id_str" : "88270008",
@@ -6590,7 +6415,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "castlehes",
       "protected" : false,
       "id_str" : "307385894",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034050496456216579\/qYOLHQW-_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036556686943809537\/kMXlcYPX_normal.jpg",
       "id" : 307385894,
       "verified" : false
     }
@@ -7082,7 +6907,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -9431,7 +9256,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 3, 8 ],
       "id_str" : "9890492",
@@ -9520,7 +9345,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 821764437132607490,
     "created_at" : "2017-01-18 17:01:24 +0000",
     "user" : {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",
@@ -9598,7 +9423,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 821695806860238849,
     "created_at" : "2017-01-18 12:28:41 +0000",
     "user" : {
-      "name" : "fugly",
+      "name" : "unkultured",
       "screen_name" : "kish_lal",
       "protected" : false,
       "id_str" : "97696930",
@@ -15086,7 +14911,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 819320714377338881,
     "created_at" : "2017-01-11 23:10:55 +0000",
     "user" : {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",
@@ -15672,11 +15497,11 @@ Grailbird.data.tweets_2017_01 =
     "id" : 818944129547849731,
     "created_at" : "2017-01-10 22:14:30 +0000",
     "user" : {
-      "name" : "\uD835\uDD33\uD835\uDD26\uD835\uDD20\uD835\uDD31\uD835\uDD2C\uD835\uDD2F\uD835\uDD26\uD835\uDD1E \uD835\uDD2C\uD835\uDD23 \uD835\uDD33\uD835\uDD22\uD835\uDD2B\uD835\uDD24\uD835\uDD22\uD835\uDD2F\uD835\uDD1F\uD835\uDD22\uD835\uDD2F\uD835\uDD24",
+      "name" : "vicky",
       "screen_name" : "THEBLACKWlDOW",
       "protected" : false,
       "id_str" : "119454465",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030432523015385088\/Rd1XbQ8Q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034865239962136576\/ErOlX1DF_normal.jpg",
       "id" : 119454465,
       "verified" : false
     }
@@ -16809,7 +16634,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -19545,7 +19370,7 @@ Grailbird.data.tweets_2017_01 =
     "id" : 816812960043716608,
     "created_at" : "2017-01-05 01:05:59 +0000",
     "user" : {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",

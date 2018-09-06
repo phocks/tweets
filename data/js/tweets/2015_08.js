@@ -363,7 +363,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 3, 17 ],
       "id_str" : "19573120",
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 638151861976059905,
     "created_at" : "2015-08-31 00:50:34 +0000",
     "user" : {
-      "name" : "Fen",
+      "name" : "@fenstardeluxe@mastodon.social",
       "screen_name" : "FenstarDeLuxe",
       "protected" : false,
       "id_str" : "19573120",
@@ -1366,7 +1366,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "BAKKOOONN",
       "protected" : false,
       "id_str" : "1263540390",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/815434356646879232\/EUXZx754_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035765712696922114\/sco7vOAX_normal.jpg",
       "id" : 1263540390,
       "verified" : false
     }
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -3836,7 +3836,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -6254,7 +6254,7 @@ Grailbird.data.tweets_2015_08 =
     "id" : 631705972335996928,
     "created_at" : "2015-08-13 05:56:54 +0000",
     "user" : {
-      "name" : "@paulkidd@anticapitalist.party",
+      "name" : "Paul Kidd",
       "screen_name" : "paulkidd",
       "protected" : false,
       "id_str" : "14071129",

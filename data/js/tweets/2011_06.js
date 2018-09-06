@@ -4249,7 +4249,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "28301477",
       "id" : 28301477
     }, {
-      "name" : "Chey",
+      "name" : "Chey\uD83D\uDC8B",
       "screen_name" : "miss_newby",
       "indices" : [ 34, 45 ],
       "id_str" : "977537880",

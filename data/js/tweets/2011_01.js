@@ -6010,7 +6010,7 @@ Grailbird.data.tweets_2011_01 =
     "user" : {
       "name" : "mizminh",
       "screen_name" : "mizminh",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "9510792",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/91483087\/hidden__Small__normal.jpg",
       "id" : 9510792,
@@ -8256,7 +8256,7 @@ Grailbird.data.tweets_2011_01 =
     "user" : {
       "name" : "mizminh",
       "screen_name" : "mizminh",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "9510792",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/91483087\/hidden__Small__normal.jpg",
       "id" : 9510792,

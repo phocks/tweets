@@ -478,13 +478,7 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Francis Kneebone",
-      "screen_name" : "FrancisKneebone",
-      "indices" : [ 0, 16 ],
-      "id_str" : "149041424",
-      "id" : 149041424
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -497,7 +491,7 @@ Grailbird.data.tweets_2016_02 =
   "id" : 704095923245158400,
   "in_reply_to_status_id" : 704092826083020800,
   "created_at" : "2016-02-29 00:08:44 +0000",
-  "in_reply_to_screen_name" : "FrancisKneebone",
+  "in_reply_to_screen_name" : "Frank_Kneebone",
   "in_reply_to_user_id_str" : "149041424",
   "user" : {
     "name" : "Joshua Byrd",
@@ -1537,11 +1531,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 703739748217692161,
     "created_at" : "2016-02-28 00:33:25 +0000",
     "user" : {
-      "name" : "Dean Mc Kinney-Kennedy\u2618\uFE0F",
+      "name" : "Dean Mc Kinney-Kennedy",
       "screen_name" : "DeanMcKinney3",
       "protected" : false,
       "id_str" : "594506985",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034451227269050369\/1IKphXmS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037159401994498049\/liOrLxqn_normal.jpg",
       "id" : 594506985,
       "verified" : false
     }
@@ -1922,7 +1916,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "stfwlkr",
       "protected" : false,
       "id_str" : "1935741811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032321922229395456\/MY_s50O9_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036447233019760641\/6RXigW9s_normal.jpg",
       "id" : 1935741811,
       "verified" : false
     }
@@ -2463,7 +2457,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4376,16 +4370,27 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "nobody",
+      "screen_name" : "aidanzzzzz",
+      "indices" : [ 0, 11 ],
+      "id_str" : "2607458852",
+      "id" : 2607458852
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "702624397757194241",
   "geo" : { },
   "id_str" : "702644825493889025",
+  "in_reply_to_user_id" : 2607458852,
   "text" : "@aidanzzzzz the only way to success!",
   "id" : 702644825493889025,
+  "in_reply_to_status_id" : 702624397757194241,
   "created_at" : "2016-02-25 00:02:35 +0000",
+  "in_reply_to_screen_name" : "aidanzzzzz",
+  "in_reply_to_user_id_str" : "2607458852",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5779,7 +5784,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "soft hell crab",
+      "name" : "ahhh my lunch",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -6672,7 +6677,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "MichalaSouris",
       "protected" : false,
       "id_str" : "3393885953",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031258859581722625\/myC01PuB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036598771084406784\/YBm1l3uP_normal.jpg",
       "id" : 3393885953,
       "verified" : false
     }
@@ -7614,7 +7619,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 701180284012658688,
     "created_at" : "2016-02-20 23:03:01 +0000",
     "user" : {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "protected" : false,
       "id_str" : "9890492",
@@ -8337,7 +8342,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "WAProgressive",
       "protected" : false,
       "id_str" : "469921287",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931405221799936000\/NfSSWmWR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035698700868145152\/iJYlKPHj_normal.jpg",
       "id" : 469921287,
       "verified" : false
     }
@@ -13618,7 +13623,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "blueforthought",
       "protected" : false,
       "id_str" : "358312727",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034605261678424064\/VgSARLg2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037439256254443522\/cmocyQtf_normal.jpg",
       "id" : 358312727,
       "verified" : false
     }
@@ -14540,7 +14545,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -15017,7 +15022,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -15192,7 +15197,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -15476,7 +15481,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "3233358626",
       "id" : 3233358626
     }, {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 9, 14 ],
       "id_str" : "9890492",

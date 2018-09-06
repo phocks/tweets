@@ -2493,7 +2493,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "AdamBandt",
       "protected" : false,
       "id_str" : "25960714",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034618541079552000\/yp6EPDjA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035037345588731909\/i-QmXEp3_normal.jpg",
       "id" : 25960714,
       "verified" : true
     }

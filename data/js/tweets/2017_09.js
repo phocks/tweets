@@ -6961,7 +6961,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke @ XOXO",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -10203,13 +10203,7 @@ Grailbird.data.tweets_2017_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Francis Kneebone",
-      "screen_name" : "FrancisKneebone",
-      "indices" : [ 0, 16 ],
-      "id_str" : "149041424",
-      "id" : 149041424
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10222,7 +10216,7 @@ Grailbird.data.tweets_2017_09 =
   "id" : 909258164738056197,
   "in_reply_to_status_id" : 909257817927725056,
   "created_at" : "2017-09-17 03:30:14 +0000",
-  "in_reply_to_screen_name" : "FrancisKneebone",
+  "in_reply_to_screen_name" : "Frank_Kneebone",
   "in_reply_to_user_id_str" : "149041424",
   "user" : {
     "name" : "Joshua Byrd",
@@ -10985,7 +10979,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "taylorndean",
       "protected" : false,
       "id_str" : "855106531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031084465135800320\/qkjDIs5b_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036641169512513537\/j5bhY66D_normal.jpg",
       "id" : 855106531,
       "verified" : true
     }
@@ -15548,7 +15542,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "814185504581111808",
       "id" : 814185504581111808
     }, {
-      "name" : "f thot fitzgerald",
+      "name" : "\u00B0.\u2727 jade \u2727.\u00B0",
       "screen_name" : "genialgardener",
       "indices" : [ 12, 27 ],
       "id_str" : "894028319615791104",
@@ -15583,7 +15577,7 @@ Grailbird.data.tweets_2017_09 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "f thot fitzgerald",
+        "name" : "\u00B0.\u2727 jade \u2727.\u00B0",
         "screen_name" : "genialgardener",
         "indices" : [ 0, 15 ],
         "id_str" : "894028319615791104",
@@ -21504,16 +21498,27 @@ Grailbird.data.tweets_2017_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "ally's \u2600",
+      "screen_name" : "allisonmchenryy",
+      "indices" : [ 0, 16 ],
+      "id_str" : "2448250596",
+      "id" : 2448250596
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "904166430442172416",
   "geo" : { },
   "id_str" : "904167526434611201",
+  "in_reply_to_user_id" : 2448250596,
   "text" : "@allisonmchenryy Yeah they just started bringing the vegan ones out here in Australia",
   "id" : 904167526434611201,
+  "in_reply_to_status_id" : 904166430442172416,
   "created_at" : "2017-09-03 02:21:51 +0000",
+  "in_reply_to_screen_name" : "allisonmchenryy",
+  "in_reply_to_user_id_str" : "2448250596",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
