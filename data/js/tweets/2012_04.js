@@ -5374,30 +5374,19 @@ Grailbird.data.tweets_2012_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "187942036140339200",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -28.58342831, 153.55403853 ]
   },
   "id_str" : "187946570891800578",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant somewhat of a cocktail actually, ignite pills & various miscellaneous. fun times. sleep surely will come soon.. goodnight",
   "id" : 187946570891800578,
-  "in_reply_to_status_id" : 187942036140339200,
   "created_at" : "2012-04-05 16:55:29 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

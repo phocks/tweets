@@ -960,7 +960,7 @@ Grailbird.data.tweets_2014_03 =
       "screen_name" : "neednomelody",
       "protected" : false,
       "id_str" : "1141108783",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/770214353333256192\/RjZ-U3Mr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037988755175428096\/kqxl6j6k_normal.jpg",
       "id" : 1141108783,
       "verified" : false
     }

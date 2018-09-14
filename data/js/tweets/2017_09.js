@@ -3122,27 +3122,16 @@ Grailbird.data.tweets_2017_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "912598741621678080",
   "geo" : { },
   "id_str" : "912611788495060992",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant Thank you Ellie!!!",
   "id" : 912611788495060992,
-  "in_reply_to_status_id" : 912598741621678080,
   "created_at" : "2017-09-26 09:36:20 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6961,7 +6950,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -8086,7 +8075,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -9205,7 +9194,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "SARKISIANCHER",
       "protected" : false,
       "id_str" : "757402380254208000",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032153138160185344\/6I99OB1x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038206122207916033\/8PjKgbip_normal.jpg",
       "id" : 757402380254208000,
       "verified" : false
     }
@@ -12182,7 +12171,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "biancaxunise",
       "protected" : false,
       "id_str" : "158026337",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011806964576407552\/aZmCqSfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040386326531657730\/OKun1GEN_normal.jpg",
       "id" : 158026337,
       "verified" : false
     }
@@ -15749,7 +15738,13 @@ Grailbird.data.tweets_2017_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "ally's \u2600",
+      "screen_name" : "allisonmchenryy",
+      "indices" : [ 0, 16 ],
+      "id_str" : "2448250596",
+      "id" : 2448250596
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -15759,11 +15754,16 @@ Grailbird.data.tweets_2017_09 =
       "display_url" : "twitter.com\/phocks\/status\/\u2026"
     } ]
   },
+  "in_reply_to_status_id_str" : "906884350905602048",
   "geo" : { },
   "id_str" : "906994094399922176",
+  "in_reply_to_user_id" : 2448250596,
   "text" : "@allisonmchenryy I will do some more research. The soy thing is purely a myth as far as I can tell. I love soy! Also this https:\/\/t.co\/5ZvEY1qscB",
   "id" : 906994094399922176,
+  "in_reply_to_status_id" : 906884350905602048,
   "created_at" : "2017-09-10 21:33:37 +0000",
+  "in_reply_to_screen_name" : "allisonmchenryy",
+  "in_reply_to_user_id_str" : "2448250596",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -17271,7 +17271,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "20967389",
       "id" : 20967389
     }, {
-      "name" : "WeAreBne \/ Sarah",
+      "name" : "WeAreBne \/ Naomi",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 11, 25 ],
       "id_str" : "2444895445",
@@ -17499,12 +17499,6 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "People",
       "screen_name" : "people",
       "indices" : [ 14, 21 ],
@@ -17515,16 +17509,11 @@ Grailbird.data.tweets_2017_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "905765986959163392",
   "geo" : { },
   "id_str" : "905767429992660993",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant @people Poor little ones I wanna go over and help save them. I am just thankful there are people over there who didn't forget about them \uD83D\uDE2D",
   "id" : 905767429992660993,
-  "in_reply_to_status_id" : 905765986959163392,
   "created_at" : "2017-09-07 12:19:18 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -18698,7 +18687,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Sarah",
+      "name" : "WeAreBne \/ Naomi",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",

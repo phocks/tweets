@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WesleyMQ",
+      "name" : "WesleyStack",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -3325,6 +3325,181 @@ Grailbird.data.tweets_2017_01 =
   "text" : "We may be stuck in some weird mountain town because someone robbed a bank but at least there are amazing vegan burritos https:\/\/t.co\/KuD9MqypAM",
   "id" : 824832898565959680,
   "created_at" : "2017-01-27 04:14:22 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "jaboukie young-white",
+      "screen_name" : "jaboukie",
+      "indices" : [ 3, 12 ],
+      "id_str" : "319769408",
+      "id" : 319769408
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
+      "indices" : [ 92, 115 ],
+      "url" : "https:\/\/t.co\/BzQ7M1bn9O",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
+      "id_str" : "824421724997427201",
+      "id" : 824421724997427201,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 498,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 498,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 498,
+        "resize" : "fit",
+        "w" : 500
+      }, {
+        "h" : 498,
+        "resize" : "fit",
+        "w" : 500
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
+      "indices" : [ 92, 115 ],
+      "url" : "https:\/\/t.co\/BzQ7M1bn9O",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
+      "id_str" : "824421724984934401",
+      "id" : 824421724984934401,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
+      "sizes" : [ {
+        "h" : 590,
+        "resize" : "fit",
+        "w" : 1098
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 590,
+        "resize" : "fit",
+        "w" : 1098
+      }, {
+        "h" : 590,
+        "resize" : "fit",
+        "w" : 1098
+      }, {
+        "h" : 365,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "824826045303959554",
+  "text" : "RT @jaboukie: when you ask a pro-lifer how they plan to support a fetus once it's born poor https:\/\/t.co\/BzQ7M1bn9O",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
+        "indices" : [ 78, 101 ],
+        "url" : "https:\/\/t.co\/BzQ7M1bn9O",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
+        "id_str" : "824421724997427201",
+        "id" : 824421724997427201,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN-WIAE_E94.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 498,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 498,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 498,
+          "resize" : "fit",
+          "w" : 500
+        }, {
+          "h" : 498,
+          "resize" : "fit",
+          "w" : 500
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
+      }, {
+        "expanded_url" : "https:\/\/twitter.com\/jaboukie\/status\/824421732727582721\/photo\/1",
+        "indices" : [ 78, 101 ],
+        "url" : "https:\/\/t.co\/BzQ7M1bn9O",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
+        "id_str" : "824421724984934401",
+        "id" : 824421724984934401,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/C3DvMN7XgAErvFx.jpg",
+        "sizes" : [ {
+          "h" : 590,
+          "resize" : "fit",
+          "w" : 1098
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 590,
+          "resize" : "fit",
+          "w" : 1098
+        }, {
+          "h" : 590,
+          "resize" : "fit",
+          "w" : 1098
+        }, {
+          "h" : 365,
+          "resize" : "fit",
+          "w" : 680
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/BzQ7M1bn9O"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "824421732727582721",
+    "text" : "when you ask a pro-lifer how they plan to support a fetus once it's born poor https:\/\/t.co\/BzQ7M1bn9O",
+    "id" : 824421732727582721,
+    "created_at" : "2017-01-26 01:00:32 +0000",
+    "user" : {
+      "name" : "jaboukie young-white",
+      "screen_name" : "jaboukie",
+      "protected" : false,
+      "id_str" : "319769408",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024745713769492480\/eiDn4Bya_normal.jpg",
+      "id" : 319769408,
+      "verified" : true
+    }
+  },
+  "id" : 824826045303959554,
+  "created_at" : "2017-01-27 03:47:08 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6907,7 +7082,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -9396,7 +9571,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "fugly",
+      "name" : "unkultured",
       "screen_name" : "kish_lal",
       "indices" : [ 3, 12 ],
       "id_str" : "97696930",
@@ -9427,7 +9602,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "kish_lal",
       "protected" : false,
       "id_str" : "97696930",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030766412883607554\/gjW7jPBT_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040169942904004608\/l7Y9b1fs_normal.jpg",
       "id" : 97696930,
       "verified" : true
     }
@@ -10013,7 +10188,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "supersadming",
       "protected" : false,
       "id_str" : "3788119752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034147798764072960\/46oB4SI__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039215227332509696\/tXuCLuSI_normal.jpg",
       "id" : 3788119752,
       "verified" : false
     }
@@ -10461,7 +10636,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac",
+      "name" : "\uD83C\uDF4F.MacsInSpace.\uD83D\uDE80",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -11874,27 +12049,16 @@ Grailbird.data.tweets_2017_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "820536622433189889",
   "geo" : { },
   "id_str" : "820566400032833536",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant he was adorable!",
   "id" : 820566400032833536,
-  "in_reply_to_status_id" : 820536622433189889,
   "created_at" : "2017-01-15 09:40:49 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -13950,7 +14114,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "magixwhip",
       "protected" : false,
       "id_str" : "760625092359491584",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033686094414589954\/K9TezRtd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039831624823828481\/plvhkIxO_normal.jpg",
       "id" : 760625092359491584,
       "verified" : false
     }
@@ -15501,7 +15665,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "THEBLACKWlDOW",
       "protected" : false,
       "id_str" : "119454465",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034865239962136576\/ErOlX1DF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038946654278311936\/RSPkbgkQ_normal.jpg",
       "id" : 119454465,
       "verified" : false
     }
@@ -15546,7 +15710,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "actuallysnamber",
       "protected" : false,
       "id_str" : "620946648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032699339372732419\/jeI4WH_G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040282778707877888\/8KHXEDgs_normal.jpg",
       "id" : 620946648,
       "verified" : false
     }
@@ -16634,7 +16798,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -17579,7 +17743,7 @@ Grailbird.data.tweets_2017_01 =
       "screen_name" : "lmlyskova",
       "protected" : false,
       "id_str" : "741087819314036736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034601903617978368\/8qR-UR-l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039706992896557058\/bB1jdtAM_normal.jpg",
       "id" : 741087819314036736,
       "verified" : false
     }
@@ -19159,57 +19323,6 @@ Grailbird.data.tweets_2017_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "drinkos",
-      "screen_name" : "blushpup",
-      "indices" : [ 3, 12 ],
-      "id_str" : "391909931",
-      "id" : 391909931
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "816904432868691968",
-  "text" : "RT @blushpup: dogs deserve to live a hundred years",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "816854968770494464",
-    "text" : "dogs deserve to live a hundred years",
-    "id" : 816854968770494464,
-    "created_at" : "2017-01-05 03:52:55 +0000",
-    "user" : {
-      "name" : "drinkos",
-      "screen_name" : "blushpup",
-      "protected" : false,
-      "id_str" : "391909931",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945362242408554497\/t4oxIjMJ_normal.jpg",
-      "id" : 391909931,
-      "verified" : false
-    }
-  },
-  "id" : 816904432868691968,
-  "created_at" : "2017-01-05 07:09:28 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -19343,7 +19456,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 3, 8 ],
       "id_str" : "9890492",

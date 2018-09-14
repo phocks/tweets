@@ -3847,7 +3847,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nordic by Nature \u5F41",
+      "name" : "Lodestar \u2605",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -6369,7 +6369,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "melbournegirl",
       "protected" : false,
       "id_str" : "21745890",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003986715319472129\/viCMg5wb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039058384706723841\/xwCOr3qO_normal.jpg",
       "id" : 21745890,
       "verified" : true
     }

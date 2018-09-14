@@ -8671,7 +8671,7 @@ Grailbird.data.tweets_2010_10 =
     "id" : 26302464045,
     "created_at" : "2010-10-03 21:30:26 +0000",
     "user" : {
-      "name" : "carnagefairy! at the disco",
+      "name" : "carnagefairy",
       "screen_name" : "carnagefairy",
       "protected" : false,
       "id_str" : "14211650",

@@ -1964,27 +1964,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "205115401238097924",
   "geo" : { },
   "id_str" : "205120393936240640",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant well done! i'm constantly paranoid of losing my phone when i'm near water. i need a waterproof one!",
   "id" : 205120393936240640,
-  "in_reply_to_status_id" : 205115401238097924,
   "created_at" : "2012-05-23 02:18:07 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4279,12 +4268,6 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Daniel wynne",
       "screen_name" : "WynneDaniel",
       "indices" : [ 14, 26 ],
@@ -4295,16 +4278,11 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "201841781611040768",
   "geo" : { },
   "id_str" : "201846109163880448",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant @WynneDaniel yes indeed! fun times :)",
   "id" : 201846109163880448,
-  "in_reply_to_status_id" : 201841781611040768,
   "created_at" : "2012-05-14 01:27:17 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5474,27 +5452,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "199730400992559105",
   "geo" : { },
   "id_str" : "199737726151573504",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant actually i'm playing sound engineer today, recording vocals of one of the actresses for a song in the show :)",
   "id" : 199737726151573504,
-  "in_reply_to_status_id" : 199730400992559105,
   "created_at" : "2012-05-08 05:49:19 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6061,27 +6028,16 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "198403882240573441",
   "geo" : { },
   "id_str" : "198758154111160320",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant your tweet must have slipped by me! yes they took my photo at the door, darn paparazzi! ;)",
   "id" : 198758154111160320,
-  "in_reply_to_status_id" : 198403882240573441,
   "created_at" : "2012-05-05 12:56:51 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

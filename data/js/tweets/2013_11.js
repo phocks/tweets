@@ -2901,13 +2901,7 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ashton Rigg",
-      "screen_name" : "AshtonRigg",
-      "indices" : [ 0, 11 ],
-      "id_str" : "26959095",
-      "id" : 26959095
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2920,7 +2914,7 @@ Grailbird.data.tweets_2013_11 =
   "id" : 400949506646474752,
   "in_reply_to_status_id" : 400947662981050369,
   "created_at" : "2013-11-14 11:33:06 +0000",
-  "in_reply_to_screen_name" : "AshtonRigg",
+  "in_reply_to_screen_name" : "ashtuckerman",
   "in_reply_to_user_id_str" : "26959095",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2934,13 +2928,7 @@ Grailbird.data.tweets_2013_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ashton Rigg",
-      "screen_name" : "AshtonRigg",
-      "indices" : [ 0, 11 ],
-      "id_str" : "26959095",
-      "id" : 26959095
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2953,7 +2941,7 @@ Grailbird.data.tweets_2013_11 =
   "id" : 400949471078780928,
   "in_reply_to_status_id" : 400947662981050369,
   "created_at" : "2013-11-14 11:32:57 +0000",
-  "in_reply_to_screen_name" : "AshtonRigg",
+  "in_reply_to_screen_name" : "ashtuckerman",
   "in_reply_to_user_id_str" : "26959095",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4498,7 +4486,7 @@ Grailbird.data.tweets_2013_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",

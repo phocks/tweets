@@ -4688,7 +4688,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac",
+      "name" : "\uD83C\uDF4F.MacsInSpace.\uD83D\uDE80",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -5782,6 +5782,57 @@ Grailbird.data.tweets_2016_01 =
   "text" : "@AndrewDavies86 Hmmmm, yes a definite possibility!",
   "id" : 689634723337875456,
   "created_at" : "2016-01-20 02:25:05 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "arzE gineoK",
+      "screen_name" : "antiarzE",
+      "indices" : [ 3, 12 ],
+      "id_str" : "2546234540",
+      "id" : 2546234540
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "689632646725394432",
+  "text" : "RT @antiarzE: - do u like green eggs &amp; ham?\n- i do not like them, sam i am\n- but why?\n- animal agriculture leads to global warming sam read\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "689595009537069056",
+    "text" : "- do u like green eggs &amp; ham?\n- i do not like them, sam i am\n- but why?\n- animal agriculture leads to global warming sam read a goddamn book",
+    "id" : 689595009537069056,
+    "created_at" : "2016-01-19 23:47:16 +0000",
+    "user" : {
+      "name" : "arzE gineoK",
+      "screen_name" : "antiarzE",
+      "protected" : false,
+      "id_str" : "2546234540",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039340153020538880\/WTjulVox_normal.jpg",
+      "id" : 2546234540,
+      "verified" : false
+    }
+  },
+  "id" : 689632646725394432,
+  "created_at" : "2016-01-20 02:16:50 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8101,7 +8152,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "YungHarami",
       "protected" : false,
       "id_str" : "540260336",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036730851415998467\/NKLEJ4oY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040287525833768961\/udyDPgUt_normal.jpg",
       "id" : 540260336,
       "verified" : false
     }
@@ -13890,7 +13941,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meg \uD83C\uDF1D",
+      "name" : "meg \uD83C\uDF38",
       "screen_name" : "meganwinfieldyo",
       "indices" : [ 3, 19 ],
       "id_str" : "71920712",
@@ -13917,7 +13968,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 686690368495206404,
     "created_at" : "2016-01-11 23:25:16 +0000",
     "user" : {
-      "name" : "meg \uD83C\uDF1D",
+      "name" : "meg \uD83C\uDF38",
       "screen_name" : "meganwinfieldyo",
       "protected" : false,
       "id_str" : "71920712",
@@ -15221,7 +15272,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC33\uD83D\uDC2C",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 53, 58 ],
       "id_str" : "9890492",
@@ -17786,7 +17837,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -20205,7 +20256,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Paxmee",
       "protected" : false,
       "id_str" : "22907785",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998183757520633856\/CmEFfz3V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040426207748079616\/Bbgs77Ho_normal.jpg",
       "id" : 22907785,
       "verified" : false
     }
@@ -21608,7 +21659,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -22574,12 +22625,6 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lucie Robson",
-      "screen_name" : "lucierobson",
-      "indices" : [ 0, 12 ],
-      "id_str" : "26681493",
-      "id" : 26681493
-    }, {
       "name" : "The Telegraph",
       "screen_name" : "Telegraph",
       "indices" : [ 13, 23 ],
@@ -22590,16 +22635,11 @@ Grailbird.data.tweets_2016_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "683586598911385600",
   "geo" : { },
   "id_str" : "683587161912770560",
-  "in_reply_to_user_id" : 26681493,
   "text" : "@lucierobson @Telegraph \u263A\uFE0F",
   "id" : 683587161912770560,
-  "in_reply_to_status_id" : 683586598911385600,
   "created_at" : "2016-01-03 09:54:14 +0000",
-  "in_reply_to_screen_name" : "lucierobson",
-  "in_reply_to_user_id_str" : "26681493",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

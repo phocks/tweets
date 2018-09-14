@@ -3612,12 +3612,6 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 1, 14 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 16, 23 ],
@@ -3628,16 +3622,11 @@ Grailbird.data.tweets_2013_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "299733414381223937",
   "geo" : { },
   "id_str" : "299734278508511232",
-  "in_reply_to_user_id" : 326518931,
   "text" : "\u201C@irrellievant: @phocks Put a Byrd on it\u201D and call it art!",
   "id" : 299734278508511232,
-  "in_reply_to_status_id" : 299733414381223937,
   "created_at" : "2013-02-08 04:19:55 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

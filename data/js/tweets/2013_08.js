@@ -1050,12 +1050,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Booth Reviews",
       "screen_name" : "boothreviews",
       "indices" : [ 30, 43 ],
@@ -1066,16 +1060,11 @@ Grailbird.data.tweets_2013_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "371944273987395584",
   "geo" : { },
   "id_str" : "371955318672338944",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant hadn't heard of @boothreviews but thanks, I might just do that! :)",
   "id" : 371955318672338944,
-  "in_reply_to_status_id" : 371944273987395584,
   "created_at" : "2013-08-26 11:20:33 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2434,12 +2423,6 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 1, 14 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 16, 23 ],
@@ -2450,16 +2433,11 @@ Grailbird.data.tweets_2013_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "367442056311869441",
   "geo" : { },
   "id_str" : "367579986209013760",
-  "in_reply_to_user_id" : 326518931,
   "text" : "\u201C@irrellievant: @phocks Someone from the Aviation and Aerospace Industry has viewed my LinkedIn profile, eh? *giggle*\u201D",
   "id" : 367579986209013760,
-  "in_reply_to_status_id" : 367442056311869441,
   "created_at" : "2013-08-14 09:34:32 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -7952,12 +7952,6 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 0, 12 ],
       "id_str" : "17018153",
       "id" : 17018153
-    }, {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 13, 26 ],
-      "id_str" : "326518931",
-      "id" : 326518931
     } ],
     "media" : [ ],
     "hashtags" : [ ],

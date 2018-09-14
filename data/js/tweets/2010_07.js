@@ -5830,13 +5830,7 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ashton Rigg",
-      "screen_name" : "AshtonRigg",
-      "indices" : [ 0, 11 ],
-      "id_str" : "26959095",
-      "id" : 26959095
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5849,7 +5843,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 18424950446,
   "in_reply_to_status_id" : 18416800899,
   "created_at" : "2010-07-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AshtonRigg",
+  "in_reply_to_screen_name" : "ashtuckerman",
   "in_reply_to_user_id_str" : "26959095",
   "user" : {
     "name" : "Joshua Byrd",

@@ -1508,7 +1508,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WerrestedDevOps",
+      "name" : "WesleyStack",
       "screen_name" : "WesleyTech",
       "indices" : [ 0, 11 ],
       "id_str" : "16102378",
@@ -2949,7 +2949,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3567,7 +3567,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "PETA \uD83D\uDC3E",
+      "name" : "PETA",
       "screen_name" : "peta",
       "indices" : [ 3, 8 ],
       "id_str" : "9890492",
@@ -4601,7 +4601,7 @@ Grailbird.data.tweets_2016_03 =
     "in_reply_to_screen_name" : "mountain_ghosts",
     "in_reply_to_user_id_str" : "13861042",
     "user" : {
-      "name" : "\u00FCs\u00E9\u00EArTw\u00F6\u00F8N\u00E5\u00E4m\u00E9\u00EAEl\u00E9\u00EAm\u00E9\u00EAnt",
+      "name" : "graph theorist",
       "screen_name" : "mountain_ghosts",
       "protected" : false,
       "id_str" : "13861042",
@@ -6211,27 +6211,16 @@ Grailbird.data.tweets_2016_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "711737677565943808",
   "geo" : { },
   "id_str" : "711738111969988608",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant good move what a douche",
   "id" : 711738111969988608,
-  "in_reply_to_status_id" : 711737677565943808,
   "created_at" : "2016-03-21 02:16:04 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -11176,7 +11165,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "lexi4prez",
       "protected" : false,
       "id_str" : "443529647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037335355110957058\/Hveub0d6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038934588251357186\/GbLurWbs_normal.jpg",
       "id" : 443529647,
       "verified" : true
     }
@@ -14928,7 +14917,7 @@ Grailbird.data.tweets_2016_03 =
   "id" : 709530812291485696,
   "in_reply_to_status_id" : 709524818102771712,
   "created_at" : "2016-03-15 00:05:02 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -17066,7 +17055,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nice Jeans Hathaway",
+      "name" : "Talia F\u2019en Right",
       "screen_name" : "talzir",
       "indices" : [ 0, 7 ],
       "id_str" : "20576890",
@@ -17739,7 +17728,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "bergs____",
       "protected" : false,
       "id_str" : "19763467",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033141178038775808\/2k8qCqRM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038998476384694272\/O4RijxSG_normal.jpg",
       "id" : 19763467,
       "verified" : false
     }
@@ -18151,7 +18140,7 @@ Grailbird.data.tweets_2016_03 =
   "id" : 708438519941767168,
   "in_reply_to_status_id" : 708433971160457217,
   "created_at" : "2016-03-11 23:44:39 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -18553,7 +18542,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -18586,7 +18575,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -18794,7 +18783,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -19297,7 +19286,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonny telling lies",
+      "name" : "salsa jar used as wine glass",
       "screen_name" : "jonny_is_good",
       "indices" : [ 3, 17 ],
       "id_str" : "18709482",
@@ -19386,11 +19375,11 @@ Grailbird.data.tweets_2016_03 =
     "id" : 707763758911922176,
     "created_at" : "2016-03-10 03:03:24 +0000",
     "user" : {
-      "name" : "Jonny telling lies",
+      "name" : "salsa jar used as wine glass",
       "screen_name" : "jonny_is_good",
       "protected" : false,
       "id_str" : "18709482",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004949648212221952\/Xn8tLIlP_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040306255619862533\/onDVloIs_normal.jpg",
       "id" : 18709482,
       "verified" : false
     }
@@ -22135,7 +22124,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "japalanw",
       "protected" : false,
       "id_str" : "3110815269",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1022917731245408256\/gJMgwKvr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040673326870364160\/9vgE-dyb_normal.jpg",
       "id" : 3110815269,
       "verified" : false
     }
@@ -22308,7 +22297,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "bIueberrry",
       "protected" : false,
       "id_str" : "2411664649",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037162042967371777\/Ra-CqkY3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040135264700702720\/hH-4bNSz_normal.jpg",
       "id" : 2411664649,
       "verified" : false
     }
@@ -23313,7 +23302,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac",
+      "name" : "\uD83C\uDF4F.MacsInSpace.\uD83D\uDE80",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -24351,6 +24340,119 @@ Grailbird.data.tweets_2016_03 =
     "verified" : true
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "emmaP",
+      "screen_name" : "emmypatch",
+      "indices" : [ 3, 13 ],
+      "id_str" : "2876591707",
+      "id" : 2876591707
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/emmypatch\/status\/703958186714394625\/video\/1",
+      "indices" : [ 46, 69 ],
+      "url" : "https:\/\/t.co\/SObIRb39Wl",
+      "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/703957811324125184\/pu\/img\/roLPvCD8qZs1gkvE.jpg",
+      "id_str" : "703957811324125184",
+      "id" : 703957811324125184,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/703957811324125184\/pu\/img\/roLPvCD8qZs1gkvE.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 426,
+        "resize" : "fit",
+        "w" : 240
+      }, {
+        "h" : 426,
+        "resize" : "fit",
+        "w" : 240
+      }, {
+        "h" : 426,
+        "resize" : "fit",
+        "w" : 240
+      }, {
+        "h" : 426,
+        "resize" : "fit",
+        "w" : 240
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/SObIRb39Wl"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "705963407514607621",
+  "text" : "RT @emmypatch: what did we do to deserve dogs https:\/\/t.co\/SObIRb39Wl",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/emmypatch\/status\/703958186714394625\/video\/1",
+        "indices" : [ 31, 54 ],
+        "url" : "https:\/\/t.co\/SObIRb39Wl",
+        "media_url" : "http:\/\/pbs.twimg.com\/ext_tw_video_thumb\/703957811324125184\/pu\/img\/roLPvCD8qZs1gkvE.jpg",
+        "id_str" : "703957811324125184",
+        "id" : 703957811324125184,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/703957811324125184\/pu\/img\/roLPvCD8qZs1gkvE.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 426,
+          "resize" : "fit",
+          "w" : 240
+        }, {
+          "h" : 426,
+          "resize" : "fit",
+          "w" : 240
+        }, {
+          "h" : 426,
+          "resize" : "fit",
+          "w" : 240
+        }, {
+          "h" : 426,
+          "resize" : "fit",
+          "w" : 240
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/SObIRb39Wl"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "703958186714394625",
+    "text" : "what did we do to deserve dogs https:\/\/t.co\/SObIRb39Wl",
+    "id" : 703958186714394625,
+    "created_at" : "2016-02-28 15:01:25 +0000",
+    "user" : {
+      "name" : "emmaP",
+      "screen_name" : "emmypatch",
+      "protected" : false,
+      "id_str" : "2876591707",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034486043427463170\/zgxua8NP_normal.jpg",
+      "id" : 2876591707,
+      "verified" : false
+    }
+  },
+  "id" : 705963407514607621,
+  "created_at" : "2016-03-05 03:49:27 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -24624,7 +24726,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "soft hell crab",
+      "name" : "Baby Dab Avatar (PS4) $0.99",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -24657,7 +24759,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -28399,7 +28501,7 @@ Grailbird.data.tweets_2016_03 =
   "id" : 704482029304463360,
   "in_reply_to_status_id" : 704459804958466048,
   "created_at" : "2016-03-01 01:42:59 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",

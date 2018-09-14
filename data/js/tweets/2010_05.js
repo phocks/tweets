@@ -5971,13 +5971,7 @@ Grailbird.data.tweets_2010_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ashton Rigg",
-      "screen_name" : "AshtonRigg",
-      "indices" : [ 0, 11 ],
-      "id_str" : "26959095",
-      "id" : 26959095
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5990,7 +5984,7 @@ Grailbird.data.tweets_2010_05 =
   "id" : 13453424235,
   "in_reply_to_status_id" : 13452016832,
   "created_at" : "2010-05-05 00:00:00 +0000",
-  "in_reply_to_screen_name" : "AshtonRigg",
+  "in_reply_to_screen_name" : "ashtuckerman",
   "in_reply_to_user_id_str" : "26959095",
   "user" : {
     "name" : "Joshua Byrd",
@@ -6772,7 +6766,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nordic by Nature \u5F41",
+      "name" : "Lodestar \u2605",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

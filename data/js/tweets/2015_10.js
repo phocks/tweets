@@ -824,57 +824,6 @@ Grailbird.data.tweets_2015_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83D\uDC00 Becky Lucas \uD83D\uDC00",
-      "screen_name" : "Becky_Lucas89",
-      "indices" : [ 3, 17 ],
-      "id_str" : "543954345",
-      "id" : 543954345
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "659957721400082432",
-  "text" : "RT @Becky_Lucas89: We only use 10% of our pussies, incredible to think what the human pussy could achieve.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "659575323512537088",
-    "text" : "We only use 10% of our pussies, incredible to think what the human pussy could achieve.",
-    "id" : 659575323512537088,
-    "created_at" : "2015-10-29 03:39:46 +0000",
-    "user" : {
-      "name" : "\uD83D\uDC00 Becky Lucas \uD83D\uDC00",
-      "screen_name" : "Becky_Lucas89",
-      "protected" : false,
-      "id_str" : "543954345",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949156907268194304\/zYUSIEKL_normal.jpg",
-      "id" : 543954345,
-      "verified" : false
-    }
-  },
-  "id" : 659957721400082432,
-  "created_at" : "2015-10-30 04:59:16 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3547,7 +3496,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u0433\u043E\u0442.",
+      "name" : "\u0433\u043E\u0442",
       "screen_name" : "MAREPHACE",
       "indices" : [ 3, 13 ],
       "id_str" : "2813901710",
@@ -3642,11 +3591,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 657487560957173760,
     "created_at" : "2015-10-23 09:23:44 +0000",
     "user" : {
-      "name" : "\u0433\u043E\u0442.",
+      "name" : "\u0433\u043E\u0442",
       "screen_name" : "MAREPHACE",
       "protected" : false,
       "id_str" : "2813901710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031700068519358465\/E1dlNCFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039202534869688322\/fsOxRHXs_normal.jpg",
       "id" : 2813901710,
       "verified" : false
     }
@@ -4844,7 +4793,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -5313,7 +5262,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "mattheworbit",
       "protected" : false,
       "id_str" : "129615667",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988342956741550080\/cZyKmDdR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038866868008673280\/aCaSYQJ4_normal.jpg",
       "id" : 129615667,
       "verified" : false
     }
@@ -10631,7 +10580,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "Scottludlam",
       "protected" : false,
       "id_str" : "25298569",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033230378838814720\/GFYylsSJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038873266058756096\/fXl9YI8V_normal.jpg",
       "id" : 25298569,
       "verified" : true
     }
@@ -10696,7 +10645,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 655182356291055616,
   "in_reply_to_status_id" : 655025084181032960,
   "created_at" : "2015-10-17 00:43:41 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -10951,7 +10900,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "JamesMelville",
       "protected" : false,
       "id_str" : "20675681",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035913539993649154\/eFGE7TWa_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039527740356132865\/IGI4GgQ8_normal.jpg",
       "id" : 20675681,
       "verified" : false
     }
@@ -11179,6 +11128,62 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "bookmobile bad girl",
+      "screen_name" : "rubybrunton",
+      "indices" : [ 3, 15 ],
+      "id_str" : "330311639",
+      "id" : 330311639
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "654935767358177280",
+  "text" : "RT @rubybrunton: i like the idea of platonic nude sharing coz it allows people to enjoy &amp; celebrate their bodies w others they can trust",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "654498186988494848",
+    "geo" : { },
+    "id_str" : "654743724442816512",
+    "in_reply_to_user_id" : 330311639,
+    "text" : "i like the idea of platonic nude sharing coz it allows people to enjoy &amp; celebrate their bodies w others they can trust",
+    "id" : 654743724442816512,
+    "in_reply_to_status_id" : 654498186988494848,
+    "created_at" : "2015-10-15 19:40:43 +0000",
+    "in_reply_to_screen_name" : "rubybrunton",
+    "in_reply_to_user_id_str" : "330311639",
+    "user" : {
+      "name" : "bookmobile bad girl",
+      "screen_name" : "rubybrunton",
+      "protected" : false,
+      "id_str" : "330311639",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988825627838107651\/aDCVccTQ_normal.jpg",
+      "id" : 330311639,
+      "verified" : false
+    }
+  },
+  "id" : 654935767358177280,
+  "created_at" : "2015-10-16 08:23:49 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
       "name" : "The FItzhywel!",
       "screen_name" : "Pantmonger",
       "indices" : [ 0, 11 ],
@@ -11251,7 +11256,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elven Tusks",
+      "name" : "The FItzhywel!",
       "screen_name" : "Pantmonger",
       "indices" : [ 0, 11 ],
       "id_str" : "154826066",
@@ -12898,7 +12903,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "soft hell crab",
+      "name" : "Baby Dab Avatar (PS4) $0.99",
       "screen_name" : "bonerman_inc",
       "indices" : [ 0, 13 ],
       "id_str" : "45323315",
@@ -12931,7 +12936,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13123,7 +13128,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 653724828197720066,
   "in_reply_to_status_id" : 653721759187730432,
   "created_at" : "2015-10-13 00:11:59 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -19115,7 +19120,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 651246486705995776,
   "in_reply_to_status_id" : 651231992269246465,
   "created_at" : "2015-10-06 04:03:56 +0000",
-  "in_reply_to_screen_name" : "itsbuterauhl",
+  "in_reply_to_screen_name" : "BREATHlNMNDS",
   "in_reply_to_user_id_str" : "261636899",
   "user" : {
     "name" : "Joshua Byrd",
@@ -19288,7 +19293,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -20026,7 +20031,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 650704890998620160,
   "in_reply_to_status_id" : 650704467436814336,
   "created_at" : "2015-10-04 16:11:50 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -20078,7 +20083,7 @@ Grailbird.data.tweets_2015_10 =
   "id" : 650702585846853632,
   "in_reply_to_status_id" : 650701127604793344,
   "created_at" : "2015-10-04 16:02:40 +0000",
-  "in_reply_to_screen_name" : "JetRTimmerman",
+  "in_reply_to_screen_name" : "jettonline",
   "in_reply_to_user_id_str" : "1698257785",
   "user" : {
     "name" : "Joshua Byrd",
@@ -20608,11 +20613,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 618127753632739329,
     "created_at" : "2015-07-06 18:41:55 +0000",
     "user" : {
-      "name" : "\u2601\uFE0F",
+      "name" : "fenty",
       "screen_name" : "tropicalmelanin",
       "protected" : false,
       "id_str" : "3118515184",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037146978935701505\/sLkct95W_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040577508704313345\/CYU9RoSr_normal.jpg",
       "id" : 3118515184,
       "verified" : false
     }

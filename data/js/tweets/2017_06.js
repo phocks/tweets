@@ -1163,7 +1163,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "actuallysnamber",
       "protected" : false,
       "id_str" : "620946648",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032699339372732419\/jeI4WH_G_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040282778707877888\/8KHXEDgs_normal.jpg",
       "id" : 620946648,
       "verified" : false
     }
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -2526,7 +2526,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "shan",
+      "name" : "tech noir",
       "screen_name" : "soybeanbby",
       "indices" : [ 3, 14 ],
       "id_str" : "374091908",
@@ -2677,7 +2677,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 879676941422526464,
     "created_at" : "2017-06-27 12:25:01 +0000",
     "user" : {
-      "name" : "oogie boogie",
+      "name" : "tech noir",
       "screen_name" : "soybeanbby",
       "protected" : false,
       "id_str" : "374091908",
@@ -3686,7 +3686,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "bananabillll",
       "protected" : false,
       "id_str" : "2494636442",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035224990495457280\/ecR5JTMl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037569198602510336\/o_N-hXO-_normal.jpg",
       "id" : 2494636442,
       "verified" : false
     }
@@ -4650,7 +4650,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Really not a bot",
+      "name" : "\uD83C\uDF4F.MacsInSpace.\uD83D\uDE80",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -5963,27 +5963,16 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "879180955306434561",
   "geo" : { },
   "id_str" : "879184239987535873",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant Don't stop believing. It will happen haha",
   "id" : 879184239987535873,
-  "in_reply_to_status_id" : 879180955306434561,
   "created_at" : "2017-06-26 03:47:11 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8327,7 +8316,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -9872,7 +9861,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 877742511480950784,
     "created_at" : "2017-06-22 04:18:17 +0000",
     "user" : {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -11239,7 +11228,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -12380,7 +12369,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13393,7 +13382,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -13914,7 +13903,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "lmlyskova",
       "protected" : false,
       "id_str" : "741087819314036736",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034601903617978368\/8qR-UR-l_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039706992896557058\/bB1jdtAM_normal.jpg",
       "id" : 741087819314036736,
       "verified" : false
     }
@@ -13965,7 +13954,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "lastbigtree",
       "protected" : false,
       "id_str" : "3145330991",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1026518607985926144\/04zCi_yS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038755299480367104\/q_bFK0_x_normal.jpg",
       "id" : 3145330991,
       "verified" : false
     }
@@ -15270,7 +15259,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Hedrick",
+      "name" : "WeAreBne \/ Naomi",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -19348,7 +19337,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -21989,6 +21978,93 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "marlena",
+      "screen_name" : "crom_faeyr",
+      "indices" : [ 3, 14 ],
+      "id_str" : "206327053",
+      "id" : 206327053
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "874374535964798976",
+  "text" : "RT @crom_faeyr: @kevinescent  https:\/\/t.co\/KQTfRBPueh",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/crom_faeyr\/status\/874132129667575808\/photo\/1",
+        "indices" : [ 14, 37 ],
+        "url" : "https:\/\/t.co\/KQTfRBPueh",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/DCGKiI_XYAArurt.jpg",
+        "id_str" : "874132121820028928",
+        "id" : 874132121820028928,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DCGKiI_XYAArurt.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 393,
+          "resize" : "fit",
+          "w" : 583
+        }, {
+          "h" : 393,
+          "resize" : "fit",
+          "w" : 583
+        }, {
+          "h" : 393,
+          "resize" : "fit",
+          "w" : 583
+        }, {
+          "h" : 393,
+          "resize" : "fit",
+          "w" : 583
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/KQTfRBPueh"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "874129647646064640",
+    "geo" : { },
+    "id_str" : "874132129667575808",
+    "in_reply_to_user_id" : 260448810,
+    "text" : "@kevinescent  https:\/\/t.co\/KQTfRBPueh",
+    "id" : 874132129667575808,
+    "in_reply_to_status_id" : 874129647646064640,
+    "created_at" : "2017-06-12 05:11:54 +0000",
+    "in_reply_to_screen_name" : "kevinquaere",
+    "in_reply_to_user_id_str" : "260448810",
+    "user" : {
+      "name" : "marlena",
+      "screen_name" : "crom_faeyr",
+      "protected" : false,
+      "id_str" : "206327053",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975473755089719296\/1Y51TMK9_normal.jpg",
+      "id" : 206327053,
+      "verified" : false
+    }
+  },
+  "id" : 874374535964798976,
+  "created_at" : "2017-06-12 21:15:09 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -22683,62 +22759,6 @@ Grailbird.data.tweets_2017_06 =
   "created_at" : "2017-06-11 12:19:53 +0000",
   "in_reply_to_screen_name" : "solameamy",
   "in_reply_to_user_id_str" : "725892726",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\u24CBCompassionateBeing",
-      "screen_name" : "LetAllBeJust",
-      "indices" : [ 3, 16 ],
-      "id_str" : "705609570593411072",
-      "id" : 705609570593411072
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "873876234245033985",
-  "text" : "RT @LetAllBeJust: Cows that provide?You mean cows you take from?\nBritish &amp; Irish milk?You mean milk of the baby cows you kill?\n\nDoesn't sou\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 145, 168 ],
-        "url" : "https:\/\/t.co\/r6kLVE0Owt",
-        "expanded_url" : "https:\/\/twitter.com\/cadburyuk\/status\/873132582577123328",
-        "display_url" : "twitter.com\/cadburyuk\/stat\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "873855886409814016",
-    "text" : "Cows that provide?You mean cows you take from?\nBritish &amp; Irish milk?You mean milk of the baby cows you kill?\n\nDoesn't sound as good does it? https:\/\/t.co\/r6kLVE0Owt",
-    "id" : 873855886409814016,
-    "created_at" : "2017-06-11 10:54:13 +0000",
-    "user" : {
-      "name" : "\u24CBCompassionateBeing",
-      "screen_name" : "LetAllBeJust",
-      "protected" : false,
-      "id_str" : "705609570593411072",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904792140957573120\/Pop-9uTh_normal.jpg",
-      "id" : 705609570593411072,
-      "verified" : false
-    }
-  },
-  "id" : 873876234245033985,
-  "created_at" : "2017-06-11 12:15:04 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -24082,27 +24102,16 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "873392731363590144",
   "geo" : { },
   "id_str" : "873429721714905089",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant Amy calls the hairs little \"Gandalf\"s hahaha I think we are still young, at heart at least :)",
   "id" : 873429721714905089,
-  "in_reply_to_status_id" : 873392731363590144,
   "created_at" : "2017-06-10 06:40:47 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -24328,27 +24337,16 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "873390710925402112",
   "geo" : { },
   "id_str" : "873391577732792320",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant I started noticing a few greys a couple of years ago. It is a scary moment when you recognise your mortality lol",
   "id" : 873391577732792320,
-  "in_reply_to_status_id" : 873390710925402112,
   "created_at" : "2017-06-10 04:09:13 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -26033,7 +26031,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -27133,181 +27131,6 @@ Grailbird.data.tweets_2017_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Reggie",
-      "screen_name" : "RingleaderReg",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3775496122",
-      "id" : 3775496122
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/RingleaderReg\/status\/872121935769083905\/photo\/1",
-      "indices" : [ 87, 110 ],
-      "url" : "https:\/\/t.co\/MfMws2uPft",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBpmRD0XsAEVvb6.jpg",
-      "id_str" : "872121921118384129",
-      "id" : 872121921118384129,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBpmRD0XsAEVvb6.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 883,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 883,
-        "resize" : "fit",
-        "w" : 620
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 477
-      }, {
-        "h" : 883,
-        "resize" : "fit",
-        "w" : 620
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/MfMws2uPft"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/RingleaderReg\/status\/872121935769083905\/photo\/1",
-      "indices" : [ 87, 110 ],
-      "url" : "https:\/\/t.co\/MfMws2uPft",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DBpmRDzXYAAg1nV.jpg",
-      "id_str" : "872121921114169344",
-      "id" : 872121921114169344,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBpmRDzXYAAg1nV.jpg",
-      "sizes" : [ {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 510
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/MfMws2uPft"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "872570872883630080",
-  "text" : "RT @RingleaderReg: Please vote for Jeremy Corbyn and his adopted shelter cat \"El Gato\" https:\/\/t.co\/MfMws2uPft",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/RingleaderReg\/status\/872121935769083905\/photo\/1",
-        "indices" : [ 68, 91 ],
-        "url" : "https:\/\/t.co\/MfMws2uPft",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DBpmRD0XsAEVvb6.jpg",
-        "id_str" : "872121921118384129",
-        "id" : 872121921118384129,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBpmRD0XsAEVvb6.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 883,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 883,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 477
-        }, {
-          "h" : 883,
-          "resize" : "fit",
-          "w" : 620
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/MfMws2uPft"
-      }, {
-        "expanded_url" : "https:\/\/twitter.com\/RingleaderReg\/status\/872121935769083905\/photo\/1",
-        "indices" : [ 68, 91 ],
-        "url" : "https:\/\/t.co\/MfMws2uPft",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DBpmRDzXYAAg1nV.jpg",
-        "id_str" : "872121921114169344",
-        "id" : 872121921114169344,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DBpmRDzXYAAg1nV.jpg",
-        "sizes" : [ {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 800,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 510
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/MfMws2uPft"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "872121935769083905",
-    "text" : "Please vote for Jeremy Corbyn and his adopted shelter cat \"El Gato\" https:\/\/t.co\/MfMws2uPft",
-    "id" : 872121935769083905,
-    "created_at" : "2017-06-06 16:04:07 +0000",
-    "user" : {
-      "name" : "Reggie",
-      "screen_name" : "RingleaderReg",
-      "protected" : false,
-      "id_str" : "3775496122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030156548117393408\/k03yLNIF_normal.jpg",
-      "id" : 3775496122,
-      "verified" : false
-    }
-  },
-  "id" : 872570872883630080,
-  "created_at" : "2017-06-07 21:48:02 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -28084,57 +27907,6 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Brandon Watson",
-      "screen_name" : "BrandonWWW",
-      "indices" : [ 3, 14 ],
-      "id_str" : "65030122",
-      "id" : 65030122
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "872077319761911808",
-  "text" : "RT @BrandonWWW: The Leftovers asks how u can love again in a world where all's lost but I wanna know how I can watch TV again in a world w\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "872075977974796289",
-    "text" : "The Leftovers asks how u can love again in a world where all's lost but I wanna know how I can watch TV again in a world w\/out The Leftovers",
-    "id" : 872075977974796289,
-    "created_at" : "2017-06-06 13:01:30 +0000",
-    "user" : {
-      "name" : "Brandon Watson",
-      "screen_name" : "BrandonWWW",
-      "protected" : false,
-      "id_str" : "65030122",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/985504217912651778\/qYAlg-Bc_normal.jpg",
-      "id" : 65030122,
-      "verified" : false
-    }
-  },
-  "id" : 872077319761911808,
-  "created_at" : "2017-06-06 13:06:50 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Colin Gourlay",
       "screen_name" : "collypops",
       "indices" : [ 0, 10 ],
@@ -28308,7 +28080,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -28877,7 +28649,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -28961,7 +28733,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -29016,7 +28788,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "oogie boogie",
+      "name" : "tech noir",
       "screen_name" : "soybeanbby",
       "indices" : [ 3, 14 ],
       "id_str" : "374091908",
@@ -29074,7 +28846,7 @@ Grailbird.data.tweets_2017_06 =
     "id" : 871711998584791041,
     "created_at" : "2017-06-05 12:55:10 +0000",
     "user" : {
-      "name" : "oogie boogie",
+      "name" : "tech noir",
       "screen_name" : "soybeanbby",
       "protected" : false,
       "id_str" : "374091908",
@@ -30613,7 +30385,7 @@ Grailbird.data.tweets_2017_06 =
       "screen_name" : "mind_fuzz",
       "protected" : false,
       "id_str" : "2669102523",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008450368341270529\/15b0B5qV_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038827591283748865\/huTMzL8f_normal.jpg",
       "id" : 2669102523,
       "verified" : false
     }
@@ -32254,7 +32026,7 @@ Grailbird.data.tweets_2017_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mac",
+      "name" : "\uD83C\uDF4F.MacsInSpace.\uD83D\uDE80",
       "screen_name" : "MacsInSpace",
       "indices" : [ 0, 12 ],
       "id_str" : "412855781",
@@ -32442,7 +32214,7 @@ Grailbird.data.tweets_2017_06 =
       "id_str" : "3094712439",
       "id" : 3094712439
     }, {
-      "name" : "Chris Thursten",
+      "name" : "Chris Thursten \uD83D\uDD1C EGX",
       "screen_name" : "CThursten",
       "indices" : [ 8, 18 ],
       "id_str" : "6284432",

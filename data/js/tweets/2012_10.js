@@ -689,27 +689,16 @@ Grailbird.data.tweets_2012_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "262812587866071040",
   "geo" : { },
   "id_str" : "262815218709721091",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant Haha, yeah that old article has been pretty popular. Not sure if all the links are correct now though, but still a good read.",
   "id" : 262815218709721091,
-  "in_reply_to_status_id" : 262812587866071040,
   "created_at" : "2012-10-29 07:16:45 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

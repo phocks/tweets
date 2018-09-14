@@ -1973,7 +1973,13 @@ Grailbird.data.tweets_2008_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Barry Saunders",
+      "screen_name" : "BarrySaunders",
+      "indices" : [ 27, 41 ],
+      "id_str" : "1039893980115333123",
+      "id" : 1039893980115333123
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

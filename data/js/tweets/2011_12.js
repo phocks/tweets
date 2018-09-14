@@ -946,30 +946,19 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 77, 90 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "150450194650116096",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.46067963, 153.03224441 ]
   },
   "id_str" : "150460344047902720",
-  "in_reply_to_user_id" : 326518931,
   "text" : "escaping the city christmas chaos, walking to the valley, hopefully to catch @irrellievant at rics for a bit",
   "id" : 150460344047902720,
-  "in_reply_to_status_id" : 150450194650116096,
   "created_at" : "2011-12-24 06:18:36 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1032,30 +1021,19 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "150393136575823872",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.483994, 153.03095275 ]
   },
   "id_str" : "150437653521772545",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant i will be in the valley thisarv. what time will you be there?",
   "id" : 150437653521772545,
-  "in_reply_to_status_id" : 150393136575823872,
   "created_at" : "2011-12-24 04:48:26 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

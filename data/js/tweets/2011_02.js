@@ -6996,7 +6996,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kentucky Prophet on Bandcamp",
+      "name" : "The Dignity Of Twerk",
       "screen_name" : "kentuckyprophet",
       "indices" : [ 0, 16 ],
       "id_str" : "12392312",

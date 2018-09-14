@@ -5794,63 +5794,6 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "A Sensible Dad",
-      "screen_name" : "mtats",
-      "indices" : [ 3, 9 ],
-      "id_str" : "16778161",
-      "id" : 16778161
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "masterchef",
-      "indices" : [ 34, 45 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "15315478834",
-  "text" : "RT @mtats: I can haz fish burger? #masterchef",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/twitterrific.com\/ios\" rel=\"nofollow\"\u003ETwitterrific for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "masterchef",
-        "indices" : [ 23, 34 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "15315401392",
-    "text" : "I can haz fish burger? #masterchef",
-    "id" : 15315401392,
-    "created_at" : "2010-06-03 10:06:45 +0000",
-    "user" : {
-      "name" : "A Sensible Dad",
-      "screen_name" : "mtats",
-      "protected" : false,
-      "id_str" : "16778161",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/774894031125917696\/RYFhhEGI_normal.jpg",
-      "id" : 16778161,
-      "verified" : false
-    }
-  },
-  "id" : 15315478834,
-  "created_at" : "2010-06-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {

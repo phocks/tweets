@@ -3024,30 +3024,19 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "170827730793930753",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.4611609, 153.0385624 ]
   },
   "id_str" : "170828515812454400",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant i'm coming!",
   "id" : 170828515812454400,
-  "in_reply_to_status_id" : 170827730793930753,
   "created_at" : "2012-02-18 11:14:26 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3160,13 +3149,7 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 17, 30 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4153,7 +4136,7 @@ Grailbird.data.tweets_2012_02 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "Chey",
+      "name" : "Chey\uD83D\uDC8B",
       "screen_name" : "miss_newby",
       "indices" : [ 13, 24 ],
       "id_str" : "977537880",
@@ -8379,30 +8362,19 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "164864846087716864",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -37.76764182, 144.9802176 ]
   },
   "id_str" : "164874200648122368",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant riding the open melbourne bikeways, looking for adventure!",
   "id" : 164874200648122368,
-  "in_reply_to_status_id" : 164864846087716864,
   "created_at" : "2012-02-02 00:54:07 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8656,7 +8628,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
