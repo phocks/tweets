@@ -4425,13 +4425,7 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "notthattheresanythingwrongwiththat",
@@ -4439,16 +4433,11 @@ Grailbird.data.tweets_2014_02 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "431561711955349504",
   "geo" : { },
   "id_str" : "431566972300845056",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 that guy talked funny, and loved a dude like lots #notthattheresanythingwrongwiththat",
   "id" : 431566972300845056,
-  "in_reply_to_status_id" : 431561711955349504,
   "created_at" : "2014-02-06 23:15:58 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

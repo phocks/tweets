@@ -813,16 +813,11 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "515360670871605248",
   "geo" : { },
   "id_str" : "515361582138679296",
-  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant @EllieCK DM me your email addresses :)",
   "id" : 515361582138679296,
-  "in_reply_to_status_id" : 515360670871605248,
   "created_at" : "2014-09-26 04:45:50 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
-  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1010,16 +1005,11 @@ Grailbird.data.tweets_2014_09 =
       "display_url" : "apple.stackexchange.com\/questions\/1468\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "515083238876794880",
   "geo" : { },
   "id_str" : "515088254693937152",
-  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant pretty scary. I'm still investigating. You might be able to find some info here: http:\/\/t.co\/LBtxzmsP2v",
   "id" : 515088254693937152,
-  "in_reply_to_status_id" : 515083238876794880,
   "created_at" : "2014-09-25 10:39:44 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
-  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1183,16 +1173,11 @@ Grailbird.data.tweets_2014_09 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "514996642198462464",
   "geo" : { },
   "id_str" : "514997371634061313",
-  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant I wholeheartedly agree, especially with the whole \"won't kill you\" part! :)",
   "id" : 514997371634061313,
-  "in_reply_to_status_id" : 514996642198462464,
   "created_at" : "2014-09-25 04:38:36 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
-  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1552,7 +1537,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1755,7 +1740,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -1788,7 +1773,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3176,7 +3161,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3321,27 +3306,16 @@ Grailbird.data.tweets_2014_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "512592663233572864",
   "geo" : { },
   "id_str" : "512776327527534592",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 gets me every time",
   "id" : 512776327527534592,
-  "in_reply_to_status_id" : 512592663233572864,
   "created_at" : "2014-09-19 01:32:58 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4095,7 +4069,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -4550,7 +4524,7 @@ Grailbird.data.tweets_2014_09 =
       "id_str" : "40785142",
       "id" : 40785142
     }, {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 15, 26 ],
       "id_str" : "18328488",
@@ -4691,7 +4665,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1039128501788393472\/FcouCQxE_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045669088356233216\/hoAJHOKK_normal.jpg",
       "id" : 40785142,
       "verified" : false
     }
@@ -5220,10 +5194,10 @@ Grailbird.data.tweets_2014_09 =
       "expanded_url" : "https:\/\/twitter.com\/roseysoho\/status\/511697916608512000\/photo\/1",
       "indices" : [ 51, 73 ],
       "url" : "http:\/\/t.co\/OslLUTe9NW",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAQKF_.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
       "id_str" : "511697914331004928",
       "id" : 511697914331004928,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAQKF_.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -5268,10 +5242,10 @@ Grailbird.data.tweets_2014_09 =
         "expanded_url" : "https:\/\/twitter.com\/roseysoho\/status\/511697916608512000\/photo\/1",
         "indices" : [ 36, 58 ],
         "url" : "http:\/\/t.co\/OslLUTe9NW",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAQKF_.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
         "id_str" : "511697914331004928",
         "id" : 511697914331004928,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAQKF_.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -5312,7 +5286,7 @@ Grailbird.data.tweets_2014_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -6033,7 +6007,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -6212,7 +6186,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -6545,7 +6519,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@fenstardeluxe@mastodon.social",
+      "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
       "indices" : [ 0, 14 ],
       "id_str" : "19573120",
@@ -6800,7 +6774,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -6844,7 +6818,7 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -7659,7 +7633,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -8900,7 +8874,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -9926,7 +9900,7 @@ Grailbird.data.tweets_2014_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,

@@ -1055,7 +1055,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 3, 16 ],
       "id_str" : "5788332",
@@ -1132,7 +1132,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -1635,7 +1635,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -1673,7 +1673,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -2038,10 +2038,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/goldensteph_\/status\/636348479896358912\/photo\/1",
         "indices" : [ 114, 136 ],
         "url" : "http:\/\/t.co\/riB9k6lXPa",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNTDjADUsAA3ppV.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNTDjADUsAA86fR.jpg",
         "id_str" : "636348453442859008",
         "id" : 636348453442859008,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNTDjADUsAA3ppV.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNTDjADUsAA86fR.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -2080,7 +2080,7 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Stephanie",
       "screen_name" : "goldensteph_",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "69231656",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788160562676928512\/Q3I68JtN_normal.jpg",
       "id" : 69231656,
@@ -3181,27 +3181,16 @@ Grailbird.data.tweets_2015_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "635015940803956736",
   "geo" : { },
   "id_str" : "635017090273902592",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 I'm not there. I'm gone. (Well not really. We are on our way, just getting food!)",
   "id" : 635017090273902592,
-  "in_reply_to_status_id" : 635015940803956736,
   "created_at" : "2015-08-22 09:14:07 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3681,7 +3670,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -3794,7 +3783,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke @ XOXO",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -3836,7 +3825,7 @@ Grailbird.data.tweets_2015_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -3859,27 +3848,16 @@ Grailbird.data.tweets_2015_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "634349969273544704",
   "geo" : { },
   "id_str" : "634501240559411201",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 I think u missed probably the greatest karaoke night ever. Maybe next week we can pull it off again!",
   "id" : 634501240559411201,
-  "in_reply_to_status_id" : 634349969273544704,
   "created_at" : "2015-08-20 23:04:18 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5435,13 +5413,7 @@ Grailbird.data.tweets_2015_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/632880642364076032\/photo\/1",
       "indices" : [ 75, 97 ],
@@ -5477,16 +5449,11 @@ Grailbird.data.tweets_2015_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "632845748741115904",
   "geo" : { },
   "id_str" : "632880642364076032",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 can't come to bed honey, something is wrong on the INTERNET http:\/\/t.co\/RDxZjoh99n",
   "id" : 632880642364076032,
-  "in_reply_to_status_id" : 632845748741115904,
   "created_at" : "2015-08-16 11:44:38 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6811,7 +6778,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -7176,27 +7143,16 @@ Grailbird.data.tweets_2015_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "630038131148894208",
   "geo" : { },
   "id_str" : "630153317755162624",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 yeah we missed it, but got to drink a few beers!",
   "id" : 630153317755162624,
-  "in_reply_to_status_id" : 630038131148894208,
   "created_at" : "2015-08-08 23:07:13 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7298,7 +7254,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -7699,119 +7655,6 @@ Grailbird.data.tweets_2015_08 =
   "created_at" : "2015-08-06 15:25:20 +0000",
   "in_reply_to_screen_name" : "Ilya_invisible",
   "in_reply_to_user_id_str" : "1353733784",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 3, 17 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/YuriKalzone69\/status\/629297682687733760\/photo\/1",
-      "indices" : [ 103, 125 ],
-      "url" : "http:\/\/t.co\/SXYQ2uhxuW",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CLu2484UAAE03_V.jpg",
-      "id_str" : "629297662479564801",
-      "id" : 629297662479564801,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CLu2484UAAE03_V.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 510
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      }, {
-        "h" : 1024,
-        "resize" : "fit",
-        "w" : 768
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/SXYQ2uhxuW"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "629297799666864128",
-  "text" : "RT @YuriKalzone69: Karaoke-master at the Brunno is sour as fuck. Sullying the vibe. No excuse for that http:\/\/t.co\/SXYQ2uhxuW",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/YuriKalzone69\/status\/629297682687733760\/photo\/1",
-        "indices" : [ 84, 106 ],
-        "url" : "http:\/\/t.co\/SXYQ2uhxuW",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CLu2484UAAE03_V.jpg",
-        "id_str" : "629297662479564801",
-        "id" : 629297662479564801,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CLu2484UAAE03_V.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 510
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        }, {
-          "h" : 1024,
-          "resize" : "fit",
-          "w" : 768
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/SXYQ2uhxuW"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "629297682687733760",
-    "text" : "Karaoke-master at the Brunno is sour as fuck. Sullying the vibe. No excuse for that http:\/\/t.co\/SXYQ2uhxuW",
-    "id" : 629297682687733760,
-    "created_at" : "2015-08-06 14:27:13 +0000",
-    "user" : {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "protected" : false,
-      "id_str" : "359846371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986285480424755200\/QsIzVr5P_normal.jpg",
-      "id" : 359846371,
-      "verified" : false
-    }
-  },
-  "id" : 629297799666864128,
-  "created_at" : "2015-08-06 14:27:41 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8533,16 +8376,11 @@ Grailbird.data.tweets_2015_08 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "628400313381298176",
   "geo" : { },
   "id_str" : "628402702704246784",
-  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant #FuckYeahScience!",
   "id" : 628402702704246784,
-  "in_reply_to_status_id" : 628400313381298176,
   "created_at" : "2015-08-04 03:10:54 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
-  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

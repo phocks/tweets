@@ -3649,7 +3649,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 0, 11 ],
       "id_str" : "18328488",
@@ -3916,27 +3916,16 @@ Grailbird.data.tweets_2015_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "576670156786647040",
   "geo" : { },
   "id_str" : "577044627238207489",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 Y-pac-tastic!",
   "id" : 577044627238207489,
-  "in_reply_to_status_id" : 576670156786647040,
   "created_at" : "2015-03-15 09:52:14 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4221,7 +4210,7 @@ Grailbird.data.tweets_2015_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -4265,7 +4254,7 @@ Grailbird.data.tweets_2015_03 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -4276,74 +4265,6 @@ Grailbird.data.tweets_2015_03 =
   },
   "id" : 576734389280747520,
   "created_at" : "2015-03-14 13:19:28 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 3, 17 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 19, 26 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "576732779603345409",
-  "text" : "RT @YuriKalzone69: @phocks how did the Y-Dog hologram look?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "576669045434417153",
-    "geo" : { },
-    "id_str" : "576670156786647040",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks how did the Y-Dog hologram look?",
-    "id" : 576670156786647040,
-    "in_reply_to_status_id" : 576669045434417153,
-    "created_at" : "2015-03-14 09:04:14 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "protected" : false,
-      "id_str" : "359846371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986285480424755200\/QsIzVr5P_normal.jpg",
-      "id" : 359846371,
-      "verified" : false
-    }
-  },
-  "id" : 576732779603345409,
-  "created_at" : "2015-03-14 13:13:04 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4583,7 +4504,7 @@ Grailbird.data.tweets_2015_03 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -7388,86 +7309,6 @@ Grailbird.data.tweets_2015_03 =
   "text" : "bus, walk, train, walk, work",
   "id" : 572158249408995329,
   "created_at" : "2015-03-01 22:15:31 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 3, 17 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    }, {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 19, 27 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 28, 35 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "571958032352989184",
-  "text" : "RT @YuriKalzone69: @dabadaf @phocks this is what happens when cool weed dogs go hell hard",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Daniel sjzjx piss",
-        "screen_name" : "dabadaf",
-        "indices" : [ 0, 8 ],
-        "id_str" : "998320280",
-        "id" : 998320280
-      }, {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 9, 16 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "571957760948117504",
-    "geo" : { },
-    "id_str" : "571957972584165376",
-    "in_reply_to_user_id" : 998320280,
-    "text" : "@dabadaf @phocks this is what happens when cool weed dogs go hell hard",
-    "id" : 571957972584165376,
-    "in_reply_to_status_id" : 571957760948117504,
-    "created_at" : "2015-03-01 08:59:41 +0000",
-    "in_reply_to_screen_name" : "dabadaf",
-    "in_reply_to_user_id_str" : "998320280",
-    "user" : {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "protected" : false,
-      "id_str" : "359846371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986285480424755200\/QsIzVr5P_normal.jpg",
-      "id" : 359846371,
-      "verified" : false
-    }
-  },
-  "id" : 571958032352989184,
-  "created_at" : "2015-03-01 08:59:56 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

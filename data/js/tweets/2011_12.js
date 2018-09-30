@@ -2468,30 +2468,19 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "147995769587249152",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -37.803975, 144.9492479 ]
   },
   "id_str" : "148003379191365632",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant will say hi for you.",
   "id" : 148003379191365632,
-  "in_reply_to_status_id" : 147995769587249152,
   "created_at" : "2011-12-17 11:35:30 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

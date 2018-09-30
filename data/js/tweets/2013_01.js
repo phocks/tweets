@@ -533,16 +533,11 @@ Grailbird.data.tweets_2013_01 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "295837747485229057",
   "geo" : { },
   "id_str" : "295901359813828610",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@PrivateCircus Can't shoot 'em! #amirite #lol",
   "id" : 295901359813828610,
-  "in_reply_to_status_id" : 295837747485229057,
   "created_at" : "2013-01-28 14:29:16 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -1004,27 +1004,16 @@ Grailbird.data.tweets_2009_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "emmatenile",
-      "screen_name" : "emmatenile",
-      "indices" : [ 0, 11 ],
-      "id_str" : "15438857",
-      "id" : 15438857
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "2305337872",
   "geo" : { },
   "id_str" : "2339569248",
-  "in_reply_to_user_id" : 15438857,
   "text" : "@emmatenile i'm blaming the interdimensional carpet wormholes",
   "id" : 2339569248,
-  "in_reply_to_status_id" : 2305337872,
   "created_at" : "2009-06-26 00:00:00 +0000",
-  "in_reply_to_screen_name" : "emmatenile",
-  "in_reply_to_user_id_str" : "15438857",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2452,7 +2441,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "354221886",
       "id" : 354221886
     }, {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 54, 66 ],
       "id_str" : "2366841",

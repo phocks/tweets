@@ -5134,12 +5134,6 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 1, 15 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 17, 24 ],
@@ -5155,19 +5149,14 @@ Grailbird.data.tweets_2014_03 =
       "display_url" : "tvfanatic.com\/quotes\/kramer-\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "443374121049550848",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 55.9453541102, -3.2007925187 ]
   },
   "id_str" : "443388840385183744",
-  "in_reply_to_user_id" : 359846371,
   "text" : "\u201C@YuriKalzone69: @phocks nonsense. Your life is a fantasy camp and should remain that way.\u201D http:\/\/t.co\/dve1RNfx9U",
   "id" : 443388840385183744,
-  "in_reply_to_status_id" : 443374121049550848,
   "created_at" : "2014-03-11 14:11:51 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

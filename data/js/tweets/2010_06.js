@@ -3431,7 +3431,7 @@ Grailbird.data.tweets_2010_06 =
       "id_str" : "8598102",
       "id" : 8598102
     }, {
-      "name" : "Laura Impey",
+      "name" : "Laura",
       "screen_name" : "impxox",
       "indices" : [ 15, 22 ],
       "id_str" : "724898169235103745",

@@ -1416,7 +1416,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Perkins",
+      "name" : "nicholosophy@mastodon.social",
       "screen_name" : "Nicholosophy",
       "indices" : [ 0, 13 ],
       "id_str" : "14721310",

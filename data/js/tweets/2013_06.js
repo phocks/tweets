@@ -484,13 +484,7 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "nietzshe",
@@ -504,16 +498,11 @@ Grailbird.data.tweets_2013_06 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "350506879614582786",
   "geo" : { },
   "id_str" : "350517193395535872",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 when you gaze long into an abyss the abyss also gazes into you. #nietzshe #gahy #godisdead",
   "id" : 350517193395535872,
-  "in_reply_to_status_id" : 350506879614582786,
   "created_at" : "2013-06-28 07:33:05 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1897,7 +1886,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",
@@ -3863,30 +3852,19 @@ Grailbird.data.tweets_2013_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "343677602990534656",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 40.4175886171, -3.6973647755 ]
   },
   "id_str" : "343692850623557632",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 Qui.",
   "id" : 343692850623557632,
-  "in_reply_to_status_id" : 343677602990534656,
   "created_at" : "2013-06-09 11:35:35 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

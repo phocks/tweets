@@ -1826,27 +1826,16 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "183356966100402176",
   "geo" : { },
   "id_str" : "183359741983080448",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant oh no, yea it was pretty late at that stage. fun times! see you soon though",
   "id" : 183359741983080448,
-  "in_reply_to_status_id" : 183356966100402176,
   "created_at" : "2012-03-24 01:09:03 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -5244,7 +5244,7 @@ Grailbird.data.tweets_2012_08 =
   "id" : 231302728826093568,
   "in_reply_to_status_id" : 231294041038413824,
   "created_at" : "2012-08-03 08:17:22 +0000",
-  "in_reply_to_screen_name" : "skidoo23skidoo",
+  "in_reply_to_screen_name" : "23skidoox",
   "in_reply_to_user_id_str" : "22747347",
   "user" : {
     "name" : "Joshua Byrd",

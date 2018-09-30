@@ -5461,16 +5461,27 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Upulie Divisekera",
+      "screen_name" : "upulie",
+      "indices" : [ 0, 7 ],
+      "id_str" : "187518287",
+      "id" : 187518287
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "36305232359071744",
   "geo" : { },
   "id_str" : "36312863438012416",
+  "in_reply_to_user_id" : 187518287,
   "text" : "@upulie the sharp elitist etchings; could be a good band name, hah!",
   "id" : 36312863438012416,
+  "in_reply_to_status_id" : 36305232359071744,
   "created_at" : "2011-02-12 06:37:15 +0000",
+  "in_reply_to_screen_name" : "upulie",
+  "in_reply_to_user_id_str" : "187518287",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6694,7 +6705,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 48, 60 ],
       "id_str" : "2366841",
@@ -6874,7 +6885,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Laura Impey",
+      "name" : "Laura",
       "screen_name" : "impxox",
       "indices" : [ 0, 7 ],
       "id_str" : "724898169235103745",

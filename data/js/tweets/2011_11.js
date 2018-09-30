@@ -2578,12 +2578,6 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Wednesday Addams",
       "screen_name" : "Jazzy_Lexia",
       "indices" : [ 14, 26 ],
@@ -2599,16 +2593,11 @@ Grailbird.data.tweets_2011_11 =
       "display_url" : "youtube.com\/watch?v=SZD3gz\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "139186099384893440",
   "geo" : { },
   "id_str" : "139196581198036992",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant @Jazzy_Lexia You just got Inception'd! http:\/\/t.co\/sUQnOlqu",
   "id" : 139196581198036992,
-  "in_reply_to_status_id" : 139186099384893440,
   "created_at" : "2011-11-23 04:20:25 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8829,7 +8818,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MarcusPlsJustAddressThat",
+      "name" : "ServiceTheCommunity",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -9365,7 +9354,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MarcusPlsJustAddressThat",
+      "name" : "ServiceTheCommunity",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

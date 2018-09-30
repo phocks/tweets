@@ -687,7 +687,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "notsomadboy",
       "protected" : false,
       "id_str" : "19700412",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028845801122873344\/_D8KopC7_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044842577877438464\/7EOWjaN__normal.jpg",
       "id" : 19700412,
       "verified" : false
     }
@@ -8588,7 +8588,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Laura Impey",
+      "name" : "Laura",
       "screen_name" : "impxox",
       "indices" : [ 0, 7 ],
       "id_str" : "724898169235103745",
@@ -8644,7 +8644,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "carnagefairy! at the disco",
+      "name" : "carnagefairy",
       "screen_name" : "carnagefairy",
       "indices" : [ 3, 16 ],
       "id_str" : "14211650",

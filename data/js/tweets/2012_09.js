@@ -967,7 +967,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "14422754",
       "id" : 14422754
     }, {
-      "name" : "Lodestar \u2605",
+      "name" : "Devil\u2019s Triangle Player",
       "screen_name" : "ErikVeland",
       "indices" : [ 10, 21 ],
       "id_str" : "15080202",
@@ -5032,7 +5032,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "907835672",
       "id" : 907835672
     }, {
-      "name" : "Lodestar \u2605",
+      "name" : "Devil\u2019s Triangle Player",
       "screen_name" : "ErikVeland",
       "indices" : [ 21, 32 ],
       "id_str" : "15080202",
@@ -5065,7 +5065,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lodestar \u2605",
+      "name" : "Devil\u2019s Triangle Player",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

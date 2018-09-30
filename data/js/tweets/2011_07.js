@@ -791,7 +791,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "flowershoes",
       "protected" : false,
       "id_str" : "20673300",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/849411451278286848\/E-wyeRaL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1042213231434055681\/0RzZ8VC6_normal.jpg",
       "id" : 20673300,
       "verified" : false
     }
@@ -1595,27 +1595,16 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "95383396359999488",
   "geo" : { },
   "id_str" : "95383776930185216",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant haha, oh dear. not again! :P",
   "id" : 95383776930185216,
-  "in_reply_to_status_id" : 95383396359999488,
   "created_at" : "2011-07-25 06:43:59 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

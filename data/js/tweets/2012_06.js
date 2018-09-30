@@ -4062,16 +4062,11 @@ Grailbird.data.tweets_2012_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "213550011802320896",
   "geo" : { },
   "id_str" : "213568017035046912",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@PrivateCircus hi yuri!",
   "id" : 213568017035046912,
-  "in_reply_to_status_id" : 213550011802320896,
   "created_at" : "2012-06-15 09:45:57 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7001,27 +6996,16 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "209485740562857986",
   "geo" : { },
   "id_str" : "209493521441361922",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant shut it Ellie! ;)",
   "id" : 209493521441361922,
-  "in_reply_to_status_id" : 209485740562857986,
   "created_at" : "2012-06-04 03:55:22 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

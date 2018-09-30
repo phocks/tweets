@@ -279,7 +279,7 @@ Grailbird.data.tweets_2009_08 =
   "id" : 3654234594,
   "in_reply_to_status_id" : 3641778342,
   "created_at" : "2009-08-30 00:00:00 +0000",
-  "in_reply_to_screen_name" : "skidoo23skidoo",
+  "in_reply_to_screen_name" : "23skidoox",
   "in_reply_to_user_id_str" : "22747347",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2352,7 +2352,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nordic by Nature \u5F41",
+      "name" : "Devil\u2019s Triangle Player",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

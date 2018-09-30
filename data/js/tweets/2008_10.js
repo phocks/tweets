@@ -356,6 +356,12 @@ Grailbird.data.tweets_2008_10 =
       "id_str" : "6989",
       "id" : 6989
     }, {
+      "name" : "Barry Saunders",
+      "screen_name" : "BarrySaunders",
+      "indices" : [ 12, 26 ],
+      "id_str" : "1039893980115333123",
+      "id" : 1039893980115333123
+    }, {
       "name" : "Myra Blacksmith",
       "screen_name" : "mhblacksmith",
       "indices" : [ 60, 73 ],

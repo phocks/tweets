@@ -2186,7 +2186,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "b i l l i e",
+      "name" : "\uD835\uDD09\uD835\uDD22\uD835\uDD2A\uD835\uDD2A\uD835\uDD22 \uD835\uDD09\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD22",
       "screen_name" : "treasurecunt",
       "indices" : [ 0, 13 ],
       "id_str" : "2221563814",

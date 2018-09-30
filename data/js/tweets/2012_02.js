@@ -404,12 +404,6 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    }, {
       "name" : "Jon",
       "screen_name" : "Kissability",
       "indices" : [ 14, 26 ],
@@ -420,16 +414,11 @@ Grailbird.data.tweets_2012_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "174333612848709632",
   "geo" : { },
   "id_str" : "174387932923297792",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant @kissability i don't think it's been lately up to its full psychedelic splendour, but i'll try harder. haha!",
   "id" : 174387932923297792,
-  "in_reply_to_status_id" : 174333612848709632,
   "created_at" : "2012-02-28 06:58:17 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6215,7 +6204,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bree \u2018Lisa Needs Braces\u2019 Mateljan",
+      "name" : "@breemateljan",
       "screen_name" : "BreeMateljan",
       "indices" : [ 0, 13 ],
       "id_str" : "5788332",

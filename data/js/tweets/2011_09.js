@@ -2105,30 +2105,19 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uC774\uB860 \uBA38\uC2A4\uD06C",
-      "screen_name" : "irrellievant",
-      "indices" : [ 0, 13 ],
-      "id_str" : "326518931",
-      "id" : 326518931
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "117660379986923520",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -33.8956332207, 151.1818957329 ]
   },
   "id_str" : "117784376158322688",
-  "in_reply_to_user_id" : 326518931,
   "text" : "@irrellievant oh nothing really, sydney just seems to always get me down. blah",
   "id" : 117784376158322688,
-  "in_reply_to_status_id" : 117660379986923520,
   "created_at" : "2011-09-25 02:15:58 +0000",
-  "in_reply_to_screen_name" : "irrellievant",
-  "in_reply_to_user_id_str" : "326518931",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -615,13 +615,7 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "dead",
@@ -629,16 +623,11 @@ Grailbird.data.tweets_2014_01 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "427469900781588481",
   "geo" : { },
   "id_str" : "427470714749607936",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 cooooooold! lol, imagine that, after what they'........ #dead",
   "id" : 427470714749607936,
-  "in_reply_to_status_id" : 427469900781588481,
   "created_at" : "2014-01-26 15:58:55 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3419,27 +3408,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 0, 14 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "421661415317860352",
   "geo" : { },
   "id_str" : "421663215438024704",
-  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 I know right. They should be giving away free books to everyone. After what they've done!",
   "id" : 421663215438024704,
-  "in_reply_to_status_id" : 421661415317860352,
   "created_at" : "2014-01-10 15:21:59 +0000",
-  "in_reply_to_screen_name" : "YuriKalzone69",
-  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3947,7 +3925,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "14656514",
       "id" : 14656514
     }, {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 18, 29 ],
       "id_str" : "18328488",

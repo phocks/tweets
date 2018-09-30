@@ -146,16 +146,11 @@ Grailbird.data.tweets_2014_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "550097925733228544",
   "geo" : { },
   "id_str" : "550112044586762242",
-  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant *reevaluates entire life*",
   "id" : 550112044586762242,
-  "in_reply_to_status_id" : 550097925733228544,
   "created_at" : "2014-12-31 02:11:46 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
-  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -421,97 +416,11 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 3, 17 ],
-      "id_str" : "359846371",
-      "id" : 359846371
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 19, 26 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    }, {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 27, 35 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "549818471307939840",
-  "text" : "RT @YuriKalzone69: @phocks @dabadaf @TeddyLandy dog me once, shame on you. Dog me twice, shame on me",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      }, {
-        "name" : "Daniel sjzjx piss",
-        "screen_name" : "dabadaf",
-        "indices" : [ 8, 16 ],
-        "id_str" : "998320280",
-        "id" : 998320280
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "549817941978402816",
-    "geo" : { },
-    "id_str" : "549818141266546688",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks @dabadaf @TeddyLandy dog me once, shame on you. Dog me twice, shame on me",
-    "id" : 549818141266546688,
-    "in_reply_to_status_id" : 549817941978402816,
-    "created_at" : "2014-12-30 06:43:54 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "protected" : false,
-      "id_str" : "359846371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/986285480424755200\/QsIzVr5P_normal.jpg",
-      "id" : 359846371,
-      "verified" : false
-    }
-  },
-  "id" : 549818471307939840,
-  "created_at" : "2014-12-30 06:45:13 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Daniel sjzjx piss",
       "screen_name" : "dabadaf",
       "indices" : [ 39, 47 ],
       "id_str" : "998320280",
       "id" : 998320280
-    }, {
-      "name" : "Lil Y THE BASEDDOG",
-      "screen_name" : "YuriKalzone69",
-      "indices" : [ 81, 95 ],
-      "id_str" : "359846371",
-      "id" : 359846371
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1347,7 +1256,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u265B Emilia",
+      "name" : "Milly.",
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -1476,7 +1385,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony Lee \uD83C\uDDEC\uD83C\uDDE7\uD83C\uDDE6\uD83C\uDDFA\uD83D\uDC4D",
+      "name" : "Anthony Lee \uD83D\uDDFF\uD83D\uDDFF\uD83D\uDDFF",
       "screen_name" : "AnthonyLee59",
       "indices" : [ 1, 14 ],
       "id_str" : "352338496",
@@ -1680,7 +1589,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u265B Emilia",
+      "name" : "Milly.",
       "screen_name" : "EmiliaMontague",
       "indices" : [ 0, 15 ],
       "id_str" : "380179637",
@@ -2190,7 +2099,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2234,7 +2143,7 @@ Grailbird.data.tweets_2014_12 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
@@ -2488,7 +2397,7 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -2600,7 +2509,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 3, 14 ],
       "id_str" : "18328488",
@@ -2633,7 +2542,7 @@ Grailbird.data.tweets_2014_12 =
     "id" : 539143444132659200,
     "created_at" : "2014-11-30 19:46:28 +0000",
     "user" : {
-      "name" : "Georgie Luhur Cooke \u2022 misses xoxo \uD83D\uDDA4",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",

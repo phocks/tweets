@@ -4350,7 +4350,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "12764572",
       "id" : 12764572
     }, {
-      "name" : "Laura Impey",
+      "name" : "Laura",
       "screen_name" : "impxox",
       "indices" : [ 40, 47 ],
       "id_str" : "724898169235103745",
@@ -4451,7 +4451,7 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "719594351177900032",
       "id" : 719594351177900032
     }, {
-      "name" : "David Jackmanson",
+      "name" : "David Jack O'Lantern",
       "screen_name" : "djackmanson",
       "indices" : [ 39, 51 ],
       "id_str" : "2366841",
@@ -6766,7 +6766,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lodestar \u2605",
+      "name" : "Devil\u2019s Triangle Player",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
