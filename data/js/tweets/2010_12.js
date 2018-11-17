@@ -112,7 +112,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -744,7 +744,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -1167,7 +1167,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -2019,7 +2019,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -4624,7 +4624,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -4651,7 +4651,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 15660554651701248,
     "created_at" : "2010-12-17 06:52:21 +0000",
     "user" : {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -5032,7 +5032,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jean Burgess",
+      "name" : "Jean Burgess \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83D\uDC36",
       "screen_name" : "jeanburgess",
       "indices" : [ 0, 12 ],
       "id_str" : "18202677",
@@ -6797,7 +6797,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -7596,7 +7596,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "KateEdwards",
       "protected" : false,
       "id_str" : "5730592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533113044331528192\/MIPyg4wj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061492999140499461\/K0Grg3ka_normal.jpg",
       "id" : 5730592,
       "verified" : false
     }
@@ -7914,7 +7914,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "18619722",
       "id" : 18619722
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 14, 30 ],
       "id_str" : "19749614",
@@ -8049,7 +8049,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Trouble",
+      "name" : "That Emma Girl",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -8540,7 +8540,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eating sugar and telling lies",
+      "name" : "jillian",
       "screen_name" : "jilliancyork",
       "indices" : [ 3, 16 ],
       "id_str" : "14048901",
@@ -8573,7 +8573,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 12166207591424000,
     "created_at" : "2010-12-07 15:27:04 +0000",
     "user" : {
-      "name" : "eating sugar and telling lies",
+      "name" : "jillian",
       "screen_name" : "jilliancyork",
       "protected" : false,
       "id_str" : "14048901",

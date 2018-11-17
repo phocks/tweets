@@ -840,12 +840,6 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 0, 8 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    }, {
       "name" : "Harriette",
       "screen_name" : "harriettemp",
       "indices" : [ 9, 21 ],
@@ -856,16 +850,11 @@ Grailbird.data.tweets_2015_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "560044989724368896",
   "geo" : { },
   "id_str" : "560362847847211009",
-  "in_reply_to_user_id" : 998320280,
   "text" : "@dabadaf @harriettemp howdy neighbourinos",
   "id" : 560362847847211009,
-  "in_reply_to_status_id" : 560044989724368896,
   "created_at" : "2015-01-28 09:04:48 +0000",
-  "in_reply_to_screen_name" : "dabadaf",
-  "in_reply_to_user_id_str" : "998320280",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -950,12 +939,6 @@ Grailbird.data.tweets_2015_01 =
       "indices" : [ 0, 12 ],
       "id_str" : "251527060",
       "id" : 251527060
-    }, {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 13, 21 ],
-      "id_str" : "998320280",
-      "id" : 998320280
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1682,6 +1665,74 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lil Y THE BASEDDOG",
+      "screen_name" : "YuriKalzone69",
+      "indices" : [ 3, 17 ],
+      "id_str" : "359846371",
+      "id" : 359846371
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 19, 26 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "558864044715569152",
+  "text" : "RT @YuriKalzone69: @phocks get back to work",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "558863390848741377",
+    "geo" : { },
+    "id_str" : "558863801831800832",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks get back to work",
+    "id" : 558863801831800832,
+    "in_reply_to_status_id" : 558863390848741377,
+    "created_at" : "2015-01-24 05:48:08 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Lil Y THE BASEDDOG",
+      "screen_name" : "YuriKalzone69",
+      "protected" : false,
+      "id_str" : "359846371",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057775301596372992\/F3ie9uFU_normal.jpg",
+      "id" : 359846371,
+      "verified" : false
+    }
+  },
+  "id" : 558864044715569152,
+  "created_at" : "2015-01-24 05:49:06 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2145,7 +2196,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993810397881761792\/O6cTnDsf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055773455872737280\/c2tbK0JD_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -3497,11 +3548,11 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "young papaya",
-      "screen_name" : "restlesss_jimin",
+      "name" : "-viking fr princess",
+      "screen_name" : "young_papaya",
       "protected" : false,
       "id_str" : "2787638119",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950008352767066113\/G6i1n000_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059029514758500352\/kFTs3oji_normal.jpg",
       "id" : 2787638119,
       "verified" : false
     }
@@ -3539,7 +3590,7 @@ Grailbird.data.tweets_2015_01 =
   "id" : 555725933420625923,
   "in_reply_to_status_id" : 555659453307961345,
   "created_at" : "2015-01-15 13:59:22 +0000",
-  "in_reply_to_screen_name" : "restlesss_jimin",
+  "in_reply_to_screen_name" : "young_papaya",
   "in_reply_to_user_id_str" : "2787638119",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4051,11 +4102,11 @@ Grailbird.data.tweets_2015_01 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Tayla Ashley",
+      "name" : "tayla ashley",
       "screen_name" : "lush__puppie",
       "protected" : false,
       "id_str" : "51028212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036975671539449856\/EyQdJ-dJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053943313097621504\/EpUnkpcu_normal.jpg",
       "id" : 51028212,
       "verified" : false
     }
@@ -4123,7 +4174,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "mspattyabalos",
       "protected" : false,
       "id_str" : "397888102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040420509945458688\/quetnwZk_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061926375647375361\/QrD8tvgW_normal.jpg",
       "id" : 397888102,
       "verified" : false
     }
@@ -4165,7 +4216,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blossom, or Cassie, but not \"Cass\".",
+      "name" : "Blossom",
       "screen_name" : "KittenFlower",
       "indices" : [ 0, 13 ],
       "id_str" : "40785142",
@@ -4456,81 +4507,6 @@ Grailbird.data.tweets_2015_01 =
   "created_at" : "2015-01-13 20:20:39 +0000",
   "in_reply_to_screen_name" : "chrisjoregan",
   "in_reply_to_user_id_str" : "15390381",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chuck",
-      "screen_name" : "moshpitson",
-      "indices" : [ 3, 14 ],
-      "id_str" : "166475082",
-      "id" : 166475082
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 17, 24 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    }, {
-      "name" : "Optus",
-      "screen_name" : "Optus",
-      "indices" : [ 35, 41 ],
-      "id_str" : "48201591",
-      "id" : 48201591
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "555096187519246336",
-  "text" : "RT @moshpitson: \"@phocks: damn you @optus!\" I think they owe us all a coffee now",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 1, 8 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      }, {
-        "name" : "Optus",
-        "screen_name" : "Optus",
-        "indices" : [ 19, 25 ],
-        "id_str" : "48201591",
-        "id" : 48201591
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "555095914138726400",
-    "text" : "\"@phocks: damn you @optus!\" I think they owe us all a coffee now",
-    "id" : 555095914138726400,
-    "created_at" : "2015-01-13 20:15:53 +0000",
-    "user" : {
-      "name" : "Chuck",
-      "screen_name" : "moshpitson",
-      "protected" : true,
-      "id_str" : "166475082",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/821949948816027649\/qOSxH2TD_normal.jpg",
-      "id" : 166475082,
-      "verified" : false
-    }
-  },
-  "id" : 555096187519246336,
-  "created_at" : "2015-01-13 20:16:58 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5656,11 +5632,16 @@ Grailbird.data.tweets_2015_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "553115502457802752",
   "geo" : { },
   "id_str" : "553342500585213954",
+  "in_reply_to_user_id" : 412855781,
   "text" : "@MacDeviant no real plan as of yet, just curious as well :)",
   "id" : 553342500585213954,
+  "in_reply_to_status_id" : 553115502457802752,
   "created_at" : "2015-01-09 00:08:27 +0000",
+  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6300,7 +6281,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "king of the nice time world [LDog]",
+      "name" : "anatomically modern",
       "screen_name" : "LakeMistake",
       "indices" : [ 1, 13 ],
       "id_str" : "1564544414",
@@ -6338,7 +6319,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "king of the nice time world [LDog]",
+      "name" : "anatomically modern",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",
@@ -6773,7 +6754,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "maykingtea \u66FE\u7F8E\u74CA #MarketEdLive",
+      "name" : "maykingtea \u66FE\u7F8E\u74CA",
       "screen_name" : "MayKingTea",
       "indices" : [ 128, 139 ],
       "id_str" : "17832146",
@@ -7166,6 +7147,74 @@ Grailbird.data.tweets_2015_01 =
     "verified" : true
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lil Y THE BASEDDOG",
+      "screen_name" : "YuriKalzone69",
+      "indices" : [ 3, 17 ],
+      "id_str" : "359846371",
+      "id" : 359846371
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 19, 26 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "551964929788366849",
+  "text" : "RT @YuriKalzone69: @phocks I know heroin when I see it",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "551961307897815040",
+    "geo" : { },
+    "id_str" : "551963616761487360",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks I know heroin when I see it",
+    "id" : 551963616761487360,
+    "in_reply_to_status_id" : 551961307897815040,
+    "created_at" : "2015-01-05 04:49:15 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Lil Y THE BASEDDOG",
+      "screen_name" : "YuriKalzone69",
+      "protected" : false,
+      "id_str" : "359846371",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1057775301596372992\/F3ie9uFU_normal.jpg",
+      "id" : 359846371,
+      "verified" : false
+    }
+  },
+  "id" : 551964929788366849,
+  "created_at" : "2015-01-05 04:54:28 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -7538,7 +7587,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Warcus Wariota",
+      "name" : "ragwater, bitters, and blue ruin",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -7930,7 +7979,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "4zzzradio",
       "protected" : false,
       "id_str" : "18035845",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038305204754472960\/Uv02876V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062205279394091008\/uXC-DrbM_normal.jpg",
       "id" : 18035845,
       "verified" : false
     }

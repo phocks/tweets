@@ -179,7 +179,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jack O'Lantern",
+      "name" : "David Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 0, 12 ],
       "id_str" : "2366841",
@@ -4069,7 +4069,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "indices" : [ 13, 25 ],
       "id_str" : "11791522",

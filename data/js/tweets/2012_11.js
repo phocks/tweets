@@ -121,7 +121,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE0A\uD835\uDE29\uD835\uDE33\uD835\uDE2As",
+      "name" : "Chris",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -179,7 +179,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -784,7 +784,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "14690376",
       "id" : 14690376
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 40, 56 ],
       "id_str" : "19749614",
@@ -1734,7 +1734,13 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "irrellievant",
+      "screen_name" : "irrellievant",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1059680029234257920",
+      "id" : 1059680029234257920
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3056,7 +3062,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "34611468",
       "id" : 34611468
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 16, 32 ],
       "id_str" : "19749614",
@@ -3821,12 +3827,6 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cat Wall",
-      "screen_name" : "cheshninety",
-      "indices" : [ 3, 15 ],
-      "id_str" : "213936729",
-      "id" : 213936729
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 97, 104 ],
@@ -3861,7 +3861,7 @@ Grailbird.data.tweets_2012_11 =
     "created_at" : "2012-11-11 06:04:34 +0000",
     "user" : {
       "name" : "Cat Wall",
-      "screen_name" : "cheshninety",
+      "screen_name" : "cat_wall_",
       "protected" : false,
       "id_str" : "213936729",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037141482459680768\/WjsP6jhT_normal.jpg",
@@ -4767,75 +4767,6 @@ Grailbird.data.tweets_2012_11 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Disgracetopher",
-      "screen_name" : "teknetia",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14422754",
-      "id" : 14422754
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 24, 31 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "pouts",
-      "indices" : [ 116, 122 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "265868721011179520",
-  "text" : "RT @teknetia: Wow, that @phocks fellow is super sweet!! I feel nice now :) Why are the nice dudes never into dudes? #pouts",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 10, 17 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "pouts",
-        "indices" : [ 102, 108 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "265841926643798016",
-    "text" : "Wow, that @phocks fellow is super sweet!! I feel nice now :) Why are the nice dudes never into dudes? #pouts",
-    "id" : 265841926643798016,
-    "created_at" : "2012-11-06 15:43:49 +0000",
-    "user" : {
-      "name" : "Disgracetopher",
-      "screen_name" : "teknetia",
-      "protected" : false,
-      "id_str" : "14422754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975160415742189571\/dzJmshj2_normal.jpg",
-      "id" : 14422754,
-      "verified" : false
-    }
-  },
-  "id" : 265868721011179520,
-  "created_at" : "2012-11-06 17:30:17 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5217,7 +5148,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Trouble",
+      "name" : "That Emma Girl",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -5481,7 +5412,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Trouble",
+      "name" : "That Emma Girl",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

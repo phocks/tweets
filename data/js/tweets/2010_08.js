@@ -887,69 +887,6 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anna",
-      "screen_name" : "annarchy",
-      "indices" : [ 3, 12 ],
-      "id_str" : "13238382",
-      "id" : 13238382
-    }, {
-      "name" : "Gorker Gallery",
-      "screen_name" : "GorkerGallery",
-      "indices" : [ 59, 73 ],
-      "id_str" : "68287053",
-      "id" : 68287053
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22476858724",
-  "text" : "RT @annarchy: Melbournites take note: This Thursday at the @GorkerGallery (6-9pm) is an opening for Jae Copp's amazing new work: http:\/\/ ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Gorker Gallery",
-        "screen_name" : "GorkerGallery",
-        "indices" : [ 45, 59 ],
-        "id_str" : "68287053",
-        "id" : 68287053
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "22476593438",
-    "text" : "Melbournites take note: This Thursday at the @GorkerGallery (6-9pm) is an opening for Jae Copp's amazing new work: http:\/\/bit.ly\/8YVl45",
-    "id" : 22476593438,
-    "created_at" : "2010-08-29 23:31:32 +0000",
-    "user" : {
-      "name" : "Anna",
-      "screen_name" : "annarchy",
-      "protected" : true,
-      "id_str" : "13238382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1777611858\/Screen_shot_2012-01-24_at_8.53.44_PM_normal.png",
-      "id" : 13238382,
-      "verified" : false
-    }
-  },
-  "id" : 22476858724,
-  "created_at" : "2010-08-29 00:00:00 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Aaron",
       "screen_name" : "ozmusiq",
       "indices" : [ 0, 8 ],
@@ -2618,7 +2555,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -3847,7 +3784,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Devil\u2019s Triangle Player",
+      "name" : "Renewable Dick Energy",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

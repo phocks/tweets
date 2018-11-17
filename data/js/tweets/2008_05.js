@@ -3931,13 +3931,7 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Winifred N.J.",
-      "screen_name" : "a_lil_spaz",
-      "indices" : [ 0, 11 ],
-      "id_str" : "12057482",
-      "id" : 12057482
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3950,7 +3944,7 @@ Grailbird.data.tweets_2008_05 =
   "id" : 806168965,
   "in_reply_to_status_id" : 806167980,
   "created_at" : "2008-05-08 00:00:00 +0000",
-  "in_reply_to_screen_name" : "a_lil_spaz",
+  "in_reply_to_screen_name" : "nikkiarrrghjay",
   "in_reply_to_user_id_str" : "12057482",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4212,12 +4206,6 @@ Grailbird.data.tweets_2008_05 =
       "indices" : [ 0, 7 ],
       "id_str" : "819004",
       "id" : 819004
-    }, {
-      "name" : "Winifred N.J.",
-      "screen_name" : "a_lil_spaz",
-      "indices" : [ 8, 19 ],
-      "id_str" : "12057482",
-      "id" : 12057482
     } ],
     "media" : [ ],
     "hashtags" : [ ],

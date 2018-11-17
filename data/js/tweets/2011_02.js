@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2011_02 =
     "user" : {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "38154086",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
@@ -3532,11 +3532,11 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Oxley",
+      "name" : "Tim Oxley (new: @timkevinoxley)",
       "screen_name" : "secoif",
       "indices" : [ 0, 7 ],
-      "id_str" : "17609423",
-      "id" : 17609423
+      "id_str" : "1050328477486919680",
+      "id" : 1050328477486919680
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3550,7 +3550,7 @@ Grailbird.data.tweets_2011_02 =
   "id" : 38195741423972352,
   "in_reply_to_status_id" : 38126995749605376,
   "created_at" : "2011-02-17 11:19:09 +0000",
-  "in_reply_to_screen_name" : "secoif",
+  "in_reply_to_screen_name" : "timkevinoxley",
   "in_reply_to_user_id_str" : "17609423",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3657,57 +3657,6 @@ Grailbird.data.tweets_2011_02 =
   "text" : "that would be a GREAT feature! copy-paste cloud RT @annetreasure Just tried to copy-paste from one laptop to another",
   "id" : 38118062913896448,
   "created_at" : "2011-02-17 06:10:29 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Disgracetopher",
-      "screen_name" : "teknetia",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14422754",
-      "id" : 14422754
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "38113039421022209",
-  "text" : "RT @teknetia: \"Aus youth demand transparency, despise hypocrisy and have no use for the left-right divide\" http:\/\/bit.ly\/i9hSkV",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "38105177416413184",
-    "text" : "\"Aus youth demand transparency, despise hypocrisy and have no use for the left-right divide\" http:\/\/bit.ly\/i9hSkV",
-    "id" : 38105177416413184,
-    "created_at" : "2011-02-17 05:19:16 +0000",
-    "user" : {
-      "name" : "Disgracetopher",
-      "screen_name" : "teknetia",
-      "protected" : false,
-      "id_str" : "14422754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975160415742189571\/dzJmshj2_normal.jpg",
-      "id" : 14422754,
-      "verified" : false
-    }
-  },
-  "id" : 38113039421022209,
-  "created_at" : "2011-02-17 05:50:31 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4203,9 +4152,9 @@ Grailbird.data.tweets_2011_02 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750239588031959040\/fUfvpPVd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
       "verified" : false
     }
@@ -4896,7 +4845,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE0A\uD835\uDE29\uD835\uDE33\uD835\uDE2As",
+      "name" : "Chris",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -5462,7 +5411,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Upulie Divisekera",
+      "name" : "Jane Leopardis",
       "screen_name" : "upulie",
       "indices" : [ 0, 7 ],
       "id_str" : "187518287",
@@ -6705,7 +6654,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "David Jack O'Lantern",
+      "name" : "David Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 48, 60 ],
       "id_str" : "2366841",
@@ -7007,13 +6956,13 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Dignity Of Twerk",
+      "name" : "#NancyPelosiPussyPosse",
       "screen_name" : "kentuckyprophet",
       "indices" : [ 0, 16 ],
       "id_str" : "12392312",
       "id" : 12392312
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 17, 33 ],
       "id_str" : "19749614",
@@ -7323,7 +7272,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -9557,7 +9506,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "KateEdwards",
       "protected" : false,
       "id_str" : "5730592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533113044331528192\/MIPyg4wj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061492999140499461\/K0Grg3ka_normal.jpg",
       "id" : 5730592,
       "verified" : false
     }

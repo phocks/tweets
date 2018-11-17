@@ -1055,7 +1055,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "oddly enough, Trish",
+      "name" : "insert something witty here",
       "screen_name" : "TrishwaH",
       "indices" : [ 0, 9 ],
       "id_str" : "26123986",
@@ -6736,7 +6736,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "TheMonicaShow",
       "protected" : false,
       "id_str" : "93123286",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1020643791982800896\/-SLhdGHO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047527973161775104\/988zKbGF_normal.jpg",
       "id" : 93123286,
       "verified" : false
     }

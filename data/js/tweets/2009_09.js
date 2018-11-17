@@ -3087,7 +3087,13 @@ Grailbird.data.tweets_2009_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Oana gabriela",
+      "screen_name" : "OanaGabriela",
+      "indices" : [ 3, 16 ],
+      "id_str" : "1050408723968086017",
+      "id" : 1050408723968086017
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

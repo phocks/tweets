@@ -2140,6 +2140,12 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "irrellievant",
+      "screen_name" : "irrellievant",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1059680029234257920",
+      "id" : 1059680029234257920
+    }, {
       "name" : "SHIBA COMPUTER",
       "screen_name" : "helveticade",
       "indices" : [ 14, 26 ],
@@ -2410,10 +2416,10 @@ Grailbird.data.tweets_2014_05 =
       "expanded_url" : "https:\/\/twitter.com\/megabichi\/status\/468012333781229568\/photo\/1",
       "indices" : [ 23, 45 ],
       "url" : "http:\/\/t.co\/vtoskJIkeS",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAP6E2.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAeLPo.jpg",
       "id_str" : "468012332942393344",
       "id" : 468012332942393344,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAP6E2.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAeLPo.jpg",
       "sizes" : [ {
         "h" : 480,
         "resize" : "fit",
@@ -2458,10 +2464,10 @@ Grailbird.data.tweets_2014_05 =
         "expanded_url" : "https:\/\/twitter.com\/megabichi\/status\/468012333781229568\/photo\/1",
         "indices" : [ 8, 30 ],
         "url" : "http:\/\/t.co\/vtoskJIkeS",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAP6E2.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAeLPo.jpg",
         "id_str" : "468012332942393344",
         "id" : 468012332942393344,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAP6E2.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bn62vLeIgAAeLPo.jpg",
         "sizes" : [ {
           "h" : 480,
           "resize" : "fit",
@@ -2502,7 +2508,7 @@ Grailbird.data.tweets_2014_05 =
     "user" : {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "38154086",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
@@ -3044,13 +3050,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 0, 8 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -3060,16 +3060,11 @@ Grailbird.data.tweets_2014_05 =
       "display_url" : "smashbros.com\/en-au\/"
     } ]
   },
-  "in_reply_to_status_id_str" : "467127209837084672",
   "geo" : { },
   "id_str" : "467131572487856129",
-  "in_reply_to_user_id" : 998320280,
   "text" : "@dabadaf lol you can play as the wii fit trainer now wtf http:\/\/t.co\/zRY7HlNx0h",
   "id" : 467131572487856129,
-  "in_reply_to_status_id" : 467127209837084672,
   "created_at" : "2014-05-16 02:37:00 +0000",
-  "in_reply_to_screen_name" : "dabadaf",
-  "in_reply_to_user_id_str" : "998320280",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3082,13 +3077,7 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 43, 51 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3278,27 +3267,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 0, 8 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "466810701105750017",
   "geo" : { },
   "id_str" : "466882852496211968",
-  "in_reply_to_user_id" : 998320280,
   "text" : "@dabadaf i have some that should work a treat for you, fuck",
   "id" : 466882852496211968,
-  "in_reply_to_status_id" : 466810701105750017,
   "created_at" : "2014-05-15 10:08:40 +0000",
-  "in_reply_to_screen_name" : "dabadaf",
-  "in_reply_to_user_id_str" : "998320280",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3639,7 +3617,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 12, 28 ],
       "id_str" : "19749614",
@@ -3793,7 +3771,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -3891,27 +3869,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Daniel sjzjx piss",
-      "screen_name" : "dabadaf",
-      "indices" : [ 0, 8 ],
-      "id_str" : "998320280",
-      "id" : 998320280
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "465405427639799808",
   "geo" : { },
   "id_str" : "465405825297547265",
-  "in_reply_to_user_id" : 998320280,
   "text" : "@dabadaf what a cool guy \uD83D\uDE0E\uD83D\uDE0E\uD83D\uDE0E",
   "id" : 465405825297547265,
-  "in_reply_to_status_id" : 465405427639799808,
   "created_at" : "2014-05-11 08:19:30 +0000",
-  "in_reply_to_screen_name" : "dabadaf",
-  "in_reply_to_user_id_str" : "998320280",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4135,7 +4102,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -5660,16 +5627,27 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Lil Y THE BASEDDOG",
+      "screen_name" : "YuriKalzone69",
+      "indices" : [ 0, 14 ],
+      "id_str" : "359846371",
+      "id" : 359846371
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "462189848787288064",
   "geo" : { },
   "id_str" : "462198461396303872",
+  "in_reply_to_user_id" : 359846371,
   "text" : "@YuriKalzone69 Rohan's come!",
   "id" : 462198461396303872,
+  "in_reply_to_status_id" : 462189848787288064,
   "created_at" : "2014-05-02 11:54:35 +0000",
+  "in_reply_to_screen_name" : "YuriKalzone69",
+  "in_reply_to_user_id_str" : "359846371",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5868,7 +5846,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",

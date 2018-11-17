@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mel",
+      "name" : "\uD83C\uDD3C\uD83C\uDD34\uD83C\uDD3B",
       "screen_name" : "superhotmel",
       "indices" : [ 3, 15 ],
       "id_str" : "18152992",
@@ -168,11 +168,11 @@ Grailbird.data.tweets_2011_01 =
     "id" : 31696651835940865,
     "created_at" : "2011-01-30 12:54:05 +0000",
     "user" : {
-      "name" : "Mel",
+      "name" : "\uD83C\uDD3C\uD83C\uDD34\uD83C\uDD3B",
       "screen_name" : "superhotmel",
       "protected" : false,
       "id_str" : "18152992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845452926814334976\/KfVYsQmq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058100263376965633\/_lijbY7i_normal.jpg",
       "id" : 18152992,
       "verified" : false
     }
@@ -543,7 +543,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 125, 141 ],
       "id_str" : "19749614",
@@ -3191,7 +3191,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LILITHIA (Stef) \u2661",
+      "name" : "Lili\/Stef \u2661",
       "screen_name" : "lilithia",
       "indices" : [ 0, 9 ],
       "id_str" : "9126092",
@@ -3227,7 +3227,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LILITHIA (Stef) \u2661",
+      "name" : "Lili\/Stef \u2661",
       "screen_name" : "lilithia",
       "indices" : [ 0, 9 ],
       "id_str" : "9126092",
@@ -5960,77 +5960,6 @@ Grailbird.data.tweets_2011_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "mizminh",
-      "screen_name" : "mizminh",
-      "indices" : [ 3, 11 ],
-      "id_str" : "9510792",
-      "id" : 9510792
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 13, 20 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "25505243349389312",
-  "text" : "RT @mizminh: @phocks Highwater rising the shacks are sliding down\nFolks lose their possessions,the folks (are staying round) bob forgive ...",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "qldfloods",
-        "indices" : [ 128, 138 ]
-      } ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "25478273379082240",
-    "geo" : { },
-    "id_str" : "25484061875113984",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks Highwater rising the shacks are sliding down\nFolks lose their possessions,the folks (are staying round) bob forgive me  #qldfloods",
-    "id" : 25484061875113984,
-    "in_reply_to_status_id" : 25478273379082240,
-    "created_at" : "2011-01-13 09:27:28 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "mizminh",
-      "screen_name" : "mizminh",
-      "protected" : true,
-      "id_str" : "9510792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/91483087\/hidden__Small__normal.jpg",
-      "id" : 9510792,
-      "verified" : false
-    }
-  },
-  "id" : 25505243349389312,
-  "created_at" : "2011-01-13 10:51:38 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6686,7 +6615,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -7837,7 +7766,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "KateEdwards",
       "protected" : false,
       "id_str" : "5730592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533113044331528192\/MIPyg4wj_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061492999140499461\/K0Grg3ka_normal.jpg",
       "id" : 5730592,
       "verified" : false
     }
@@ -8197,74 +8126,6 @@ Grailbird.data.tweets_2011_01 =
   "text" : "housecleaning, top to toe",
   "id" : 22950360821796864,
   "created_at" : "2011-01-06 09:39:27 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "mizminh",
-      "screen_name" : "mizminh",
-      "indices" : [ 3, 11 ],
-      "id_str" : "9510792",
-      "id" : 9510792
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 13, 20 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "22911196428500992",
-  "text" : "RT @mizminh: @phocks off with their heads I say - DECAPITATE 'EM",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "22908820871184384",
-    "geo" : { },
-    "id_str" : "22909647916634112",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks off with their heads I say - DECAPITATE 'EM",
-    "id" : 22909647916634112,
-    "in_reply_to_status_id" : 22908820871184384,
-    "created_at" : "2011-01-06 06:57:40 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "mizminh",
-      "screen_name" : "mizminh",
-      "protected" : true,
-      "id_str" : "9510792",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/91483087\/hidden__Small__normal.jpg",
-      "id" : 9510792,
-      "verified" : false
-    }
-  },
-  "id" : 22911196428500992,
-  "created_at" : "2011-01-06 07:03:49 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8870,7 +8731,7 @@ Grailbird.data.tweets_2011_01 =
       "id_str" : "5780202",
       "id" : 5780202
     }, {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "indices" : [ 8, 20 ],
       "id_str" : "11791522",

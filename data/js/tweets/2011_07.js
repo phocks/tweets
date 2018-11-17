@@ -1595,7 +1595,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "irrellievant",
+      "screen_name" : "irrellievant",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1059680029234257920",
+      "id" : 1059680029234257920
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4170,9 +4176,9 @@ Grailbird.data.tweets_2011_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750239588031959040\/fUfvpPVd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
       "verified" : false
     }
@@ -4795,7 +4801,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE0A\uD835\uDE29\uD835\uDE33\uD835\uDE2As",
+      "name" : "Chris",
       "screen_name" : "crk5",
       "indices" : [ 0, 5 ],
       "id_str" : "214783050",
@@ -7404,9 +7410,9 @@ Grailbird.data.tweets_2011_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750239588031959040\/fUfvpPVd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
       "verified" : false
     }

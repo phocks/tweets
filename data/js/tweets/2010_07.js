@@ -4422,7 +4422,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "Trouble",
+      "name" : "That Emma Girl",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",
@@ -5538,9 +5538,9 @@ Grailbird.data.tweets_2010_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750239588031959040\/fUfvpPVd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
       "verified" : false
     }

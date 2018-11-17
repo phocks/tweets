@@ -804,7 +804,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Saved by the Quota",
+      "name" : "Nott Ken",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -3473,9 +3473,9 @@ Grailbird.data.tweets_2011_05 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/750239588031959040\/fUfvpPVd_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
       "verified" : false
     }
@@ -3794,7 +3794,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "indices" : [ 3, 15 ],
       "id_str" : "11791522",
@@ -3821,7 +3821,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 71816697287409664,
     "created_at" : "2011-05-21 05:56:49 +0000",
     "user" : {
-      "name" : "Natalie",
+      "name" : "\uD835\uDD26\uD835\uDD29\uD835\uDD29\uD835\uDD32\uD835\uDD2A\uD835\uDD26\uD835\uDD2B\uD835\uDD1E\uD835\uDD31\uD835\uDD1E\uD835\uDD29\uD835\uDD26\uD835\uDD22",
       "screen_name" : "definatalie",
       "protected" : false,
       "id_str" : "11791522",
@@ -4230,7 +4230,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Devil\u2019s Triangle Player",
+      "name" : "Renewable Dick Energy",
       "screen_name" : "ErikVeland",
       "indices" : [ 3, 14 ],
       "id_str" : "15080202",
@@ -4274,7 +4274,7 @@ Grailbird.data.tweets_2011_05 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Devil\u2019s Triangle Player",
+      "name" : "Renewable Dick Energy",
       "screen_name" : "ErikVeland",
       "protected" : false,
       "id_str" : "15080202",
@@ -4858,6 +4858,12 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 58, 69 ],
       "id_str" : "69825016",
       "id" : 69825016
+    }, {
+      "name" : "Oana gabriela",
+      "screen_name" : "OanaGabriela",
+      "indices" : [ 70, 83 ],
+      "id_str" : "1050408723968086017",
+      "id" : 1050408723968086017
     }, {
       "name" : "Amanda",
       "screen_name" : "manda__x",
@@ -9584,7 +9590,13 @@ Grailbird.data.tweets_2011_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : ".",
+      "screen_name" : "the_diamondd",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1000150485016379392",
+      "id" : 1000150485016379392
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10713,7 +10725,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Devil\u2019s Triangle Player",
+      "name" : "Renewable Dick Energy",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

@@ -2441,7 +2441,7 @@ Grailbird.data.tweets_2009_06 =
       "id_str" : "354221886",
       "id" : 354221886
     }, {
-      "name" : "David Jack O'Lantern",
+      "name" : "David Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 54, 66 ],
       "id_str" : "2366841",

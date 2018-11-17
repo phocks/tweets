@@ -4411,7 +4411,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "evil queen \u2694",
+      "name" : "bitch rising \uD83E\uDD2E",
       "screen_name" : "vomiting",
       "indices" : [ 0, 9 ],
       "id_str" : "719594351177900032",
@@ -4445,13 +4445,13 @@ Grailbird.data.tweets_2010_05 =
       "id_str" : "2787251",
       "id" : 2787251
     }, {
-      "name" : "evil queen \u2694",
+      "name" : "bitch rising \uD83E\uDD2E",
       "screen_name" : "vomiting",
       "indices" : [ 29, 38 ],
       "id_str" : "719594351177900032",
       "id" : 719594351177900032
     }, {
-      "name" : "David Jack O'Lantern",
+      "name" : "David Jackmanson",
       "screen_name" : "djackmanson",
       "indices" : [ 39, 51 ],
       "id_str" : "2366841",
@@ -6766,7 +6766,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Devil\u2019s Triangle Player",
+      "name" : "Renewable Dick Energy",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -6953,11 +6953,11 @@ Grailbird.data.tweets_2010_05 =
   "source" : "\u003Ca href=\"http:\/\/posterous.com\" rel=\"nofollow\"\u003EPosterous\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tim Oxley",
+      "name" : "Tim Oxley (new: @timkevinoxley)",
       "screen_name" : "secoif",
       "indices" : [ 0, 7 ],
-      "id_str" : "17609423",
-      "id" : 17609423
+      "id_str" : "1050328477486919680",
+      "id" : 1050328477486919680
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6969,7 +6969,7 @@ Grailbird.data.tweets_2010_05 =
   "text" : "@secoif or maybe it's more like the catacombs.. http:\/\/post.ly\/eMiz",
   "id" : 13185043165,
   "created_at" : "2010-05-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "secoif",
+  "in_reply_to_screen_name" : "timkevinoxley",
   "in_reply_to_user_id_str" : "17609423",
   "user" : {
     "name" : "Joshua Byrd",

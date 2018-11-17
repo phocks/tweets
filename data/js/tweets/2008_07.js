@@ -3284,7 +3284,7 @@ Grailbird.data.tweets_2008_07 =
       "id_str" : "12059032",
       "id" : 12059032
     }, {
-      "name" : "Victoria Bansey",
+      "name" : "Borogirl",
       "screen_name" : "borogirl",
       "indices" : [ 60, 69 ],
       "id_str" : "11713532",
@@ -6269,27 +6269,16 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "jamesmcc",
-      "screen_name" : "jamesmcc",
-      "indices" : [ 0, 9 ],
-      "id_str" : "14261503",
-      "id" : 14261503
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "849046230",
   "geo" : { },
   "id_str" : "849047476",
-  "in_reply_to_user_id" : 14261503,
   "text" : "@jamesmcc a guy at work almost fell for a paypal scam thismorning, but was warned by firefox anti-scam screen and called me in",
   "id" : 849047476,
-  "in_reply_to_status_id" : 849046230,
   "created_at" : "2008-07-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "jamesmcc",
-  "in_reply_to_user_id_str" : "14261503",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
