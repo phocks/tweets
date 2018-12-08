@@ -2540,7 +2540,7 @@ Grailbird.data.tweets_2007_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amanda Dell",
+      "name" : "\uD83C\uDF84Silver Dells\uD83C\uDF84",
       "screen_name" : "dellvink",
       "indices" : [ 7, 16 ],
       "id_str" : "6537142",

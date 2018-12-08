@@ -6674,7 +6674,13 @@ Grailbird.data.tweets_2011_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amos",
+      "screen_name" : "Melburnian",
+      "indices" : [ 0, 11 ],
+      "id_str" : "20625289",
+      "id" : 20625289
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

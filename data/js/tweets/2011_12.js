@@ -2324,7 +2324,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "hello_nacho",
       "protected" : false,
       "id_str" : "17018153",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3409331375\/f2b8c05e4774176e9db6ecae03f2c3ba_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065413008430530560\/pL9R-lmr_normal.jpg",
       "id" : 17018153,
       "verified" : false
     }
@@ -5009,7 +5009,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock",
+      "name" : "DOCTOR Hacklock BITCHCRAFT",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",

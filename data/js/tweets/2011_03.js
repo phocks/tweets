@@ -5885,7 +5885,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "905550696799502336",
       "id" : 905550696799502336
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 122, 138 ],
       "id_str" : "19749614",
@@ -6100,7 +6100,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "PoshLopez",
       "protected" : false,
       "id_str" : "24825958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/998521660419465216\/UQeq2-PX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065399679817400321\/48rVqe31_normal.jpg",
       "id" : 24825958,
       "verified" : false
     }
@@ -7183,7 +7183,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7 \uD83D\uDE49",
+      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",

@@ -851,7 +851,7 @@ Grailbird.data.tweets_2011_11 =
       "id_str" : "254846221",
       "id" : 254846221
     }, {
-      "name" : "meemrs 3.4",
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
       "screen_name" : "memily",
       "indices" : [ 63, 70 ],
       "id_str" : "5949072",
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.4",
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -1470,7 +1470,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.4",
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -6062,7 +6062,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "KateEdwards",
       "protected" : false,
       "id_str" : "5730592",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1061492999140499461\/K0Grg3ka_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071017607946334208\/NfKira7R_normal.jpg",
       "id" : 5730592,
       "verified" : false
     }

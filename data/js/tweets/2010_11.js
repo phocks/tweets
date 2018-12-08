@@ -3472,7 +3472,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lara",
+      "name" : "Fah la la la la lalalian \uD83C\uDF84",
       "screen_name" : "lalalian",
       "indices" : [ 0, 9 ],
       "id_str" : "12430022",

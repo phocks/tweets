@@ -196,7 +196,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "meemrs 3.4",
+      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
       "screen_name" : "memily",
       "indices" : [ 0, 7 ],
       "id_str" : "5949072",
@@ -4596,16 +4596,25 @@ Grailbird.data.tweets_2009_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Wil 'this account mocks fascists' Wheaton",
+      "screen_name" : "wilw",
+      "indices" : [ 0, 5 ],
+      "id_str" : "1183041",
+      "id" : 1183041
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "1194583494",
+  "in_reply_to_user_id" : 1183041,
   "text" : "@wilw her majesty's a pretty nice girl, but she changes from day to day",
   "id" : 1194583494,
   "created_at" : "2009-02-10 00:00:00 +0000",
+  "in_reply_to_screen_name" : "wilw",
+  "in_reply_to_user_id_str" : "1183041",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
