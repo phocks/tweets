@@ -154,7 +154,7 @@ Grailbird.data.tweets_2014_12 =
   "id" : 550112044586762242,
   "in_reply_to_status_id" : 550097925733228544,
   "created_at" : "2014-12-31 02:11:46 +0000",
-  "in_reply_to_screen_name" : "MacsInSpace",
+  "in_reply_to_screen_name" : "MacsinSpace",
   "in_reply_to_user_id_str" : "412855781",
   "user" : {
     "name" : "Joshua Byrd",
@@ -762,7 +762,7 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "K A T E",
       "screen_name" : "rougevelvet",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "29694396",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551654213193723904\/6hkxMMxc_normal.jpeg",
       "id" : 29694396,
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "My Aural Fixation",
       "screen_name" : "myauralfixation",
       "indices" : [ 1, 17 ],
       "id_str" : "19749614",
@@ -1379,7 +1379,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony Lee official",
+      "name" : "Anthony Lee Official",
       "screen_name" : "AnthonyLee59",
       "indices" : [ 1, 14 ],
       "id_str" : "352338496",
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Merry Kit-mas! \uD83C\uDF85\uD83C\uDF84\uD83C\uDF81\uD83E\uDD36",
+      "name" : "Blossom \uD83C\uDF38",
       "screen_name" : "KittenFlower",
       "indices" : [ 12, 25 ],
       "id_str" : "40785142",
@@ -2459,7 +2459,7 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "K A T E",
       "screen_name" : "rougevelvet",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "29694396",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551654213193723904\/6hkxMMxc_normal.jpeg",
       "id" : 29694396,

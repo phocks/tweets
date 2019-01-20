@@ -113,19 +113,7 @@ Grailbird.data.tweets_2015_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fox Hero",
-      "screen_name" : "asillyfox",
-      "indices" : [ 30, 40 ],
-      "id_str" : "20738406",
-      "id" : 20738406
-    }, {
-      "name" : "Fox Hero",
-      "screen_name" : "asillyfox",
-      "indices" : [ 51, 61 ],
-      "id_str" : "20738406",
-      "id" : 20738406
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -371,7 +359,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Renewable Dick Energy",
+      "name" : "And now this",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -591,13 +579,7 @@ Grailbird.data.tweets_2015_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fox Hero",
-      "screen_name" : "asillyfox",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20738406",
-      "id" : 20738406
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -610,7 +592,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 570903902050127873,
   "in_reply_to_status_id" : 569724114052579328,
   "created_at" : "2015-02-26 11:11:11 +0000",
-  "in_reply_to_screen_name" : "asillyfox",
+  "in_reply_to_screen_name" : "heroic_quest",
   "in_reply_to_user_id_str" : "20738406",
   "user" : {
     "name" : "Joshua Byrd",
@@ -671,7 +653,7 @@ Grailbird.data.tweets_2015_02 =
     "user" : {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "38154086",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
@@ -764,10 +746,10 @@ Grailbird.data.tweets_2015_02 =
       "expanded_url" : "https:\/\/twitter.com\/megabichi\/status\/570625985755815937\/photo\/1",
       "indices" : [ 23, 45 ],
       "url" : "http:\/\/t.co\/pQZnrNCrYA",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B-tFTzXWoAARRuo.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/B-tFTzXWoAAqfd6.jpg",
       "id_str" : "570625984300490752",
       "id" : 570625984300490752,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-tFTzXWoAARRuo.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-tFTzXWoAAqfd6.jpg",
       "sizes" : [ {
         "h" : 480,
         "resize" : "fit",
@@ -812,10 +794,10 @@ Grailbird.data.tweets_2015_02 =
         "expanded_url" : "https:\/\/twitter.com\/megabichi\/status\/570625985755815937\/photo\/1",
         "indices" : [ 8, 30 ],
         "url" : "http:\/\/t.co\/pQZnrNCrYA",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/B-tFTzXWoAARRuo.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/B-tFTzXWoAAqfd6.jpg",
         "id_str" : "570625984300490752",
         "id" : 570625984300490752,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-tFTzXWoAARRuo.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B-tFTzXWoAAqfd6.jpg",
         "sizes" : [ {
           "h" : 480,
           "resize" : "fit",
@@ -856,7 +838,7 @@ Grailbird.data.tweets_2015_02 =
     "user" : {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "38154086",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/939872713841225729\/pr5VOVh5_normal.jpg",
       "id" : 38154086,
@@ -1703,7 +1685,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
+      "name" : "meemrs 3.5",
       "screen_name" : "memily",
       "indices" : [ 3, 10 ],
       "id_str" : "5949072",
@@ -1747,7 +1729,7 @@ Grailbird.data.tweets_2015_02 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\uD83D\uDECE\uD83D\uDD14 Memily on hiiiiigh",
+      "name" : "meemrs 3.5",
       "screen_name" : "memily",
       "protected" : false,
       "id_str" : "5949072",
@@ -2325,13 +2307,7 @@ Grailbird.data.tweets_2015_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Fox Hero",
-      "screen_name" : "asillyfox",
-      "indices" : [ 0, 10 ],
-      "id_str" : "20738406",
-      "id" : 20738406
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2344,7 +2320,7 @@ Grailbird.data.tweets_2015_02 =
   "id" : 569722326066941952,
   "in_reply_to_status_id" : 569720521941590016,
   "created_at" : "2015-02-23 04:56:02 +0000",
-  "in_reply_to_screen_name" : "asillyfox",
+  "in_reply_to_screen_name" : "heroic_quest",
   "in_reply_to_user_id_str" : "20738406",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4162,7 +4138,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "My Aural Fixation",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -4694,7 +4670,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Grinchmore.",
+      "name" : "Dan, person.",
       "screen_name" : "2inchesofwater",
       "indices" : [ 0, 15 ],
       "id_str" : "17501584",
@@ -6970,6 +6946,57 @@ Grailbird.data.tweets_2015_02 =
   "text" : "Also thanks @CBJapan1 for letting everyone who tweets about Unbroken know it is USA propaganda. All American films are US propaganda! #lol",
   "id" : 563463849307684864,
   "created_at" : "2015-02-05 22:27:04 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Southgate - \uC870\uC288\uC544",
+      "screen_name" : "Southgated",
+      "indices" : [ 3, 14 ],
+      "id_str" : "15929872",
+      "id" : 15929872
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "563462411181510656",
+  "text" : "RT @Southgated: If you had a solid gold Joshua, it would be worth quite a bit I'd wager!",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "563456739622658048",
+    "text" : "If you had a solid gold Joshua, it would be worth quite a bit I'd wager!",
+    "id" : 563456739622658048,
+    "created_at" : "2015-02-05 21:58:49 +0000",
+    "user" : {
+      "name" : "Southgate - \uC870\uC288\uC544",
+      "screen_name" : "Southgated",
+      "protected" : false,
+      "id_str" : "15929872",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2572460849\/jaz589909dzzadzgk2h3_normal.png",
+      "id" : 15929872,
+      "verified" : false
+    }
+  },
+  "id" : 563462411181510656,
+  "created_at" : "2015-02-05 22:21:22 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -2758,7 +2758,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "522489813",
       "id" : 522489813
     }, {
-      "name" : "\u25C7\u5148\u751F\u306F\u75B2\u308C\u3066\u3044\u308B\u25C7",
+      "name" : "\u2664\u30E9\u30D3\u30C3\u30C8\u2664",
       "screen_name" : "zimiel",
       "indices" : [ 7, 14 ],
       "id_str" : "20963245",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Like Labor Voting on a National Security Issue",
+      "name" : "Hamberder and Covfefe",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",
@@ -5697,7 +5697,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "My Aural Fixation",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",

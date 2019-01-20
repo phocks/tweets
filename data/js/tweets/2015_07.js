@@ -818,7 +818,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "WindowsAU",
       "protected" : false,
       "id_str" : "78845641",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063260409149349888\/Sd53wLpL_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075911418115850240\/QbRFlYnZ_normal.jpg",
       "id" : 78845641,
       "verified" : true
     }
@@ -928,7 +928,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kerry Danielle",
+      "name" : "Kerry Ingram-Kelly",
       "screen_name" : "Kerry_Ingram",
       "indices" : [ 3, 16 ],
       "id_str" : "258308665",
@@ -1017,11 +1017,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 625041972647067648,
     "created_at" : "2015-07-25 20:36:33 +0000",
     "user" : {
-      "name" : "Kerry Danielle",
+      "name" : "Kerry Ingram-Kelly",
       "screen_name" : "Kerry_Ingram",
       "protected" : false,
       "id_str" : "258308665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1066412915580968961\/O4-5cv1x_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081256687909126144\/7YX2GvKe_normal.jpg",
       "id" : 258308665,
       "verified" : true
     }
@@ -2141,119 +2141,6 @@ Grailbird.data.tweets_2015_07 =
   "text" : "Planted some potatoes. http:\/\/t.co\/7XApzSIOYO http:\/\/t.co\/e1NqlhwUFw",
   "id" : 625111810379771904,
   "created_at" : "2015-07-26 01:14:04 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Old Pics Archive",
-      "screen_name" : "oldpicsarchive",
-      "indices" : [ 3, 18 ],
-      "id_str" : "2441831348",
-      "id" : 2441831348
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/oldpicsarchive\/status\/624898191893397504\/photo\/1",
-      "indices" : [ 74, 96 ],
-      "url" : "http:\/\/t.co\/6qbQrk8xmU",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CKwVmDdWcAAC3Hf.jpg",
-      "id_str" : "624898191805280256",
-      "id" : 624898191805280256,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CKwVmDdWcAAC3Hf.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 625,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 625,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 625,
-        "resize" : "fit",
-        "w" : 500
-      }, {
-        "h" : 625,
-        "resize" : "fit",
-        "w" : 500
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/6qbQrk8xmU"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "625093856778784768",
-  "text" : "RT @oldpicsarchive: Delivering a dinosaur to the Museum of Science (1984) http:\/\/t.co\/6qbQrk8xmU",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/oldpicsarchive\/status\/624898191893397504\/photo\/1",
-        "indices" : [ 54, 76 ],
-        "url" : "http:\/\/t.co\/6qbQrk8xmU",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CKwVmDdWcAAC3Hf.jpg",
-        "id_str" : "624898191805280256",
-        "id" : 624898191805280256,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CKwVmDdWcAAC3Hf.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 625,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 625,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 625,
-          "resize" : "fit",
-          "w" : 500
-        }, {
-          "h" : 625,
-          "resize" : "fit",
-          "w" : 500
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/6qbQrk8xmU"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "624898191893397504",
-    "text" : "Delivering a dinosaur to the Museum of Science (1984) http:\/\/t.co\/6qbQrk8xmU",
-    "id" : 624898191893397504,
-    "created_at" : "2015-07-25 11:05:13 +0000",
-    "user" : {
-      "name" : "Old Pics Archive",
-      "screen_name" : "oldpicsarchive",
-      "protected" : false,
-      "id_str" : "2441831348",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455361576178966528\/VZm0eh-e_normal.jpeg",
-      "id" : 2441831348,
-      "verified" : false
-    }
-  },
-  "id" : 625093856778784768,
-  "created_at" : "2015-07-26 00:02:43 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5630,7 +5517,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dormant Cyber Pathogen",
+      "name" : "Back to work",
       "screen_name" : "juhasaarinen",
       "indices" : [ 3, 16 ],
       "id_str" : "15829574",
@@ -5674,11 +5561,11 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Dormant Cyber Pathogen",
+      "name" : "Back to work",
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1058975837699993600\/Mak1FX8R_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080997665461039104\/M-fihaEf_normal.jpg",
       "id" : 15829574,
       "verified" : true
     }
@@ -6912,7 +6799,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Big Doggo Energy",
+      "name" : "Emma",
       "screen_name" : "Serendypyty",
       "indices" : [ 0, 12 ],
       "id_str" : "27167935",
@@ -7763,7 +7650,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "DZDEATHRAYS",
       "protected" : false,
       "id_str" : "53624671",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929920765020995584\/BgI4Jw5i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084983292372209664\/MMp-Efjn_normal.jpg",
       "id" : 53624671,
       "verified" : true
     }
