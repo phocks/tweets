@@ -120,7 +120,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 29242849218,
   "in_reply_to_status_id" : 29225858887,
   "created_at" : "2010-10-31 00:00:00 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2952,7 +2952,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "corney",
       "protected" : false,
       "id_str" : "14280650",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049831225899155456\/RZVG9uqK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089162286650937344\/S3I9Wgfh_normal.jpg",
       "id" : 14280650,
       "verified" : false
     }
@@ -3561,7 +3561,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27714638532,
   "in_reply_to_status_id" : 27713529350,
   "created_at" : "2010-10-18 00:00:00 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4978,12 +4978,6 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 0, 11 ],
       "id_str" : "2312854706",
       "id" : 2312854706
-    }, {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 94, 103 ],
-      "id_str" : "3638351",
-      "id" : 3638351
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5006,13 +5000,7 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 0, 9 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5025,7 +5013,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 27198500111,
   "in_reply_to_status_id" : 27197953377,
   "created_at" : "2010-10-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5319,7 +5307,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003EMobile Web\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Hoary Exuberance!",
+      "name" : "The Happy Hulk!",
       "screen_name" : "mariabamfoo",
       "indices" : [ 3, 15 ],
       "id_str" : "201419073",
@@ -5346,11 +5334,11 @@ Grailbird.data.tweets_2010_10 =
     "id" : 27067148105,
     "created_at" : "2010-10-11 20:40:56 +0000",
     "user" : {
-      "name" : "The Hoary Exuberance!",
+      "name" : "The Happy Hulk!",
       "screen_name" : "mariabamfoo",
       "protected" : false,
       "id_str" : "201419073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892832345493045249\/KNh0feU2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088954846672109568\/J7F2j6P2_normal.jpg",
       "id" : 201419073,
       "verified" : true
     }
@@ -6149,7 +6137,7 @@ Grailbird.data.tweets_2010_10 =
   "text" : "@hannahrochelle all this warm weather is making me homesick, but i know they're flooding up there. nice not being cold and wet though :)",
   "id" : 26979044602,
   "created_at" : "2010-10-10 00:00:00 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -9650,12 +9638,6 @@ Grailbird.data.tweets_2010_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 27, 36 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    }, {
       "name" : "Bichael W",
       "screen_name" : "UnearthlyMike",
       "indices" : [ 39, 53 ],
@@ -9677,7 +9659,7 @@ Grailbird.data.tweets_2010_10 =
   "id" : 26060959845,
   "in_reply_to_status_id" : 26060602247,
   "created_at" : "2010-10-01 00:00:00 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",

@@ -2765,7 +2765,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vroenis [Tiny synths rule] \u007B * \u007D",
+      "name" : "Vroenis [piano time] \u007B * \u007D",
       "screen_name" : "Vroenis",
       "indices" : [ 0, 8 ],
       "id_str" : "139668058",
@@ -3705,27 +3705,16 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "489087177922723841",
   "geo" : { },
   "id_str" : "489313482429321216",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd Brisbane's pretty much the same as always. Ps. Check your gmail. I have a late birthday present for you!",
   "id" : 489313482429321216,
-  "in_reply_to_status_id" : 489087177922723841,
   "created_at" : "2014-07-16 07:39:59 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4518,7 +4507,7 @@ Grailbird.data.tweets_2014_07 =
     "user" : {
       "name" : "K A T E",
       "screen_name" : "rougevelvet",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "29694396",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551654213193723904\/6hkxMMxc_normal.jpeg",
       "id" : 29694396,
@@ -5449,7 +5438,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Hucksters and Dreadful Prose",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

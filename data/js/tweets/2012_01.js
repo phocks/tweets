@@ -4835,12 +4835,6 @@ Grailbird.data.tweets_2012_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    }, {
       "name" : "Anna McGahan",
       "screen_name" : "AnnaMcGahan",
       "indices" : [ 56, 68 ],
@@ -4860,7 +4854,7 @@ Grailbird.data.tweets_2012_01 =
   "text" : "@marchofclouds oh nothing too bad, just would have left @AnnaMcGahan stranded at the airport, that's all :)",
   "id" : 157952439398580227,
   "created_at" : "2012-01-13 22:29:30 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",

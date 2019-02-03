@@ -762,7 +762,7 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "K A T E",
       "screen_name" : "rougevelvet",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "29694396",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551654213193723904\/6hkxMMxc_normal.jpeg",
       "id" : 29694396,
@@ -2342,74 +2342,6 @@ Grailbird.data.tweets_2014_12 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rosey",
-      "screen_name" : "roseysoho",
-      "indices" : [ 3, 13 ],
-      "id_str" : "15424441",
-      "id" : 15424441
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 15, 22 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "545424365417152512",
-  "text" : "RT @roseysoho: @phocks just as I was wondering where the heck you had gone, I see this. Hope all is well and you find what you're looking f\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "539210957839286273",
-    "geo" : { },
-    "id_str" : "542531595727429632",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks just as I was wondering where the heck you had gone, I see this. Hope all is well and you find what you're looking for.",
-    "id" : 542531595727429632,
-    "in_reply_to_status_id" : 539210957839286273,
-    "created_at" : "2014-12-10 04:09:46 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "Rosey",
-      "screen_name" : "roseysoho",
-      "protected" : false,
-      "id_str" : "15424441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
-      "id" : 15424441,
-      "verified" : false
-    }
-  },
-  "id" : 545424365417152512,
-  "created_at" : "2014-12-18 03:44:36 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
   "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -2459,7 +2391,7 @@ Grailbird.data.tweets_2014_12 =
     "user" : {
       "name" : "K A T E",
       "screen_name" : "rougevelvet",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "29694396",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/551654213193723904\/6hkxMMxc_normal.jpeg",
       "id" : 29694396,

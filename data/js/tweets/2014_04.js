@@ -1966,27 +1966,16 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "458864452939837440",
   "geo" : { },
   "id_str" : "458865391591116800",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd thought I was on top of it all, but I'm crashing pretty hard this arv, might take a nap to November Rain",
   "id" : 458865391591116800,
-  "in_reply_to_status_id" : 458864452939837440,
   "created_at" : "2014-04-23 07:10:09 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2038,13 +2027,7 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 52, 63 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3411,13 +3394,7 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3430,7 +3407,7 @@ Grailbird.data.tweets_2014_04 =
   "id" : 456694746589569025,
   "in_reply_to_status_id" : 456568330027954180,
   "created_at" : "2014-04-17 07:24:47 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3741,13 +3718,7 @@ Grailbird.data.tweets_2014_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -3757,16 +3728,11 @@ Grailbird.data.tweets_2014_04 =
       "display_url" : "malefuckingaficionado.com"
     } ]
   },
-  "in_reply_to_status_id_str" : "456446973093376000",
   "geo" : { },
   "id_str" : "456498950447460352",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd http:\/\/t.co\/s4XBp4YTU1 (ps. i'm gonna miss the fuck out of you. see ya soon bud)",
   "id" : 456498950447460352,
-  "in_reply_to_status_id" : 456446973093376000,
   "created_at" : "2014-04-16 18:26:45 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6556,12 +6522,6 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 54, 65 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
       "indices" : [ 72, 82 ],

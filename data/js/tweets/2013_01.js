@@ -412,27 +412,16 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "296131044262952960",
   "geo" : { },
   "id_str" : "296136410539376641",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd haha thanks! Yeah I think I'll be alright ;)",
   "id" : 296136410539376641,
-  "in_reply_to_status_id" : 296131044262952960,
   "created_at" : "2013-01-29 06:03:16 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -747,7 +736,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "My Aural Fixation",
       "screen_name" : "myauralfixation",
       "indices" : [ 0, 16 ],
       "id_str" : "19749614",
@@ -1892,12 +1881,6 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 0, 10 ],
       "id_str" : "953532236",
       "id" : 953532236
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 11, 22 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2654,27 +2637,16 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "291701392282898434",
   "geo" : { },
   "id_str" : "291707571050520576",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd old skool party-doggin'! catch you for an airport beer soon",
   "id" : 291707571050520576,
-  "in_reply_to_status_id" : 291701392282898434,
   "created_at" : "2013-01-17 00:44:39 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3323,13 +3295,7 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "pentagonal",
@@ -3337,16 +3303,11 @@ Grailbird.data.tweets_2013_01 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "290031449757851648",
   "geo" : { },
   "id_str" : "290040776237400064",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd #pentagonal ass butt!",
   "id" : 290040776237400064,
-  "in_reply_to_status_id" : 290031449757851648,
   "created_at" : "2013-01-12 10:21:24 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4021,13 +3982,7 @@ Grailbird.data.tweets_2013_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -4037,16 +3992,11 @@ Grailbird.data.tweets_2013_01 =
       "display_url" : "urbandictionary.com\/define.php?ter\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "288226290270613504",
   "geo" : { },
   "id_str" : "288283115682689024",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd tumblr n. the end of your social life. http:\/\/t.co\/c6xqjXHb",
   "id" : 288283115682689024,
-  "in_reply_to_status_id" : 288226290270613504,
   "created_at" : "2013-01-07 13:57:05 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

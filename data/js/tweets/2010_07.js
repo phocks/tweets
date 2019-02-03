@@ -1160,7 +1160,7 @@ Grailbird.data.tweets_2010_07 =
       "screen_name" : "Nico_Del_G",
       "protected" : false,
       "id_str" : "18538664",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/912227263676022784\/X3R8wYFK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088040400827400193\/ESvJtiaz_normal.jpg",
       "id" : 18538664,
       "verified" : false
     }
@@ -5538,7 +5538,7 @@ Grailbird.data.tweets_2010_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,

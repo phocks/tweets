@@ -10159,7 +10159,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "dacangela",
       "protected" : false,
       "id_str" : "3540738134",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1027119437063708672\/90zJrr2P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091239157366611970\/1BZOLKr4_normal.jpg",
       "id" : 3540738134,
       "verified" : false
     }
@@ -10874,7 +10874,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "blakelaliberte",
       "protected" : false,
       "id_str" : "1865588030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082096309698478080\/qhIcsfev_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090090893678469120\/0FBCaRE5_normal.jpg",
       "id" : 1865588030,
       "verified" : false
     }
@@ -11577,7 +11577,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 789095949700177920,
     "created_at" : "2016-10-20 13:28:29 +0000",
     "user" : {
-      "name" : "WasabiTCH \uD83C\uDF63",
+      "name" : "amber",
       "screen_name" : "actuallysnamber",
       "protected" : false,
       "id_str" : "620946648",
@@ -12075,11 +12075,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 788964542814359552,
     "created_at" : "2016-10-20 04:46:19 +0000",
     "user" : {
-      "name" : "P",
-      "screen_name" : "ubrokelikeglass",
+      "name" : "pedrito",
+      "screen_name" : "PXCARRILLO",
       "protected" : false,
       "id_str" : "1038231283",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1038674155946659841\/ECv2TcSA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088594892375220224\/hWAFWOY5_normal.jpg",
       "id" : 1038231283,
       "verified" : false
     }
@@ -13573,6 +13573,119 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "esyld",
+      "screen_name" : "factoryshowroom",
+      "indices" : [ 3, 19 ],
+      "id_str" : "4788589750",
+      "id" : 4788589750
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/factoryshowroom\/status\/788789516962234368\/photo\/1",
+      "indices" : [ 74, 97 ],
+      "url" : "https:\/\/t.co\/PlQ9D8W4Rj",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CvJX0JeWEAAJsyd.jpg",
+      "id_str" : "788789438151266304",
+      "id" : 788789438151266304,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvJX0JeWEAAJsyd.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 740,
+        "resize" : "fit",
+        "w" : 740
+      }, {
+        "h" : 740,
+        "resize" : "fit",
+        "w" : 740
+      }, {
+        "h" : 740,
+        "resize" : "fit",
+        "w" : 740
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/PlQ9D8W4Rj"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "788893717331529730",
+  "text" : "RT @factoryshowroom: shirt idea for male feminist. tell me what you think https:\/\/t.co\/PlQ9D8W4Rj",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/factoryshowroom\/status\/788789516962234368\/photo\/1",
+        "indices" : [ 53, 76 ],
+        "url" : "https:\/\/t.co\/PlQ9D8W4Rj",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CvJX0JeWEAAJsyd.jpg",
+        "id_str" : "788789438151266304",
+        "id" : 788789438151266304,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CvJX0JeWEAAJsyd.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 740,
+          "resize" : "fit",
+          "w" : 740
+        }, {
+          "h" : 740,
+          "resize" : "fit",
+          "w" : 740
+        }, {
+          "h" : 740,
+          "resize" : "fit",
+          "w" : 740
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/PlQ9D8W4Rj"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "788789516962234368",
+    "text" : "shirt idea for male feminist. tell me what you think https:\/\/t.co\/PlQ9D8W4Rj",
+    "id" : 788789516962234368,
+    "created_at" : "2016-10-19 17:10:50 +0000",
+    "user" : {
+      "name" : "esyld",
+      "screen_name" : "factoryshowroom",
+      "protected" : false,
+      "id_str" : "4788589750",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085636589861171201\/trHIyNwi_normal.jpg",
+      "id" : 4788589750,
+      "verified" : false
+    }
+  },
+  "id" : 788893717331529730,
+  "created_at" : "2016-10-20 00:04:53 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
@@ -14943,7 +15056,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "patrick doyle (very legal & very cool)",
+      "name" : "patrick doyle",
       "screen_name" : "pcxd13",
       "indices" : [ 3, 10 ],
       "id_str" : "20962013",
@@ -15032,7 +15145,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 787797195672068097,
     "created_at" : "2016-10-16 23:27:42 +0000",
     "user" : {
-      "name" : "patrick doyle (very legal & very cool)",
+      "name" : "patrick doyle",
       "screen_name" : "pcxd13",
       "protected" : false,
       "id_str" : "20962013",
@@ -19721,119 +19834,6 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "truck stop prison toilet",
-      "screen_name" : "errrnah",
-      "indices" : [ 3, 11 ],
-      "id_str" : "159369994",
-      "id" : 159369994
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/errrnah\/status\/785650473386725376\/photo\/1",
-      "indices" : [ 93, 116 ],
-      "url" : "https:\/\/t.co\/htRgzyuyJ4",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cucw7yVUsAA_xNz.jpg",
-      "id_str" : "785650463681064960",
-      "id" : 785650463681064960,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cucw7yVUsAA_xNz.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 1136,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/htRgzyuyJ4"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "785806770895663104",
-  "text" : "RT @errrnah: Hang on I take everything back, 2016 is spectacular and I couldn't love it more https:\/\/t.co\/htRgzyuyJ4",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/errrnah\/status\/785650473386725376\/photo\/1",
-        "indices" : [ 80, 103 ],
-        "url" : "https:\/\/t.co\/htRgzyuyJ4",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cucw7yVUsAA_xNz.jpg",
-        "id_str" : "785650463681064960",
-        "id" : 785650463681064960,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cucw7yVUsAA_xNz.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1136,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 1136,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 1136,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 383
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/htRgzyuyJ4"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "785650473386725376",
-    "text" : "Hang on I take everything back, 2016 is spectacular and I couldn't love it more https:\/\/t.co\/htRgzyuyJ4",
-    "id" : 785650473386725376,
-    "created_at" : "2016-10-11 01:17:24 +0000",
-    "user" : {
-      "name" : "truck stop prison toilet",
-      "screen_name" : "errrnah",
-      "protected" : false,
-      "id_str" : "159369994",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1030966042313408512\/tnRgNNTz_normal.jpg",
-      "id" : 159369994,
-      "verified" : false
-    }
-  },
-  "id" : 785806770895663104,
-  "created_at" : "2016-10-11 11:38:28 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -20705,7 +20705,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach Leatherman (Away from \u2328\uFE0F)",
+      "name" : "Zach Leatherman",
       "screen_name" : "zachleat",
       "indices" : [ 3, 12 ],
       "id_str" : "96383",
@@ -20732,7 +20732,7 @@ Grailbird.data.tweets_2016_10 =
     "id" : 785495065913274369,
     "created_at" : "2016-10-10 14:59:52 +0000",
     "user" : {
-      "name" : "Zach Leatherman (Away from \u2328\uFE0F)",
+      "name" : "Zach Leatherman",
       "screen_name" : "zachleat",
       "protected" : false,
       "id_str" : "96383",
@@ -21659,119 +21659,6 @@ Grailbird.data.tweets_2016_10 =
   },
   "id" : 785332487194980353,
   "created_at" : "2016-10-10 04:13:50 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD604\uCD98\uC774",
-      "screen_name" : "ughHugs",
-      "indices" : [ 3, 11 ],
-      "id_str" : "30663975",
-      "id" : 30663975
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ughHugs\/status\/785301585916198912\/photo\/1",
-      "indices" : [ 111, 134 ],
-      "url" : "https:\/\/t.co\/QACRSry4SG",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CuXzbxpXgAUoNk0.jpg",
-      "id_str" : "785301368554881029",
-      "id" : 785301368554881029,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CuXzbxpXgAUoNk0.jpg",
-      "sizes" : [ {
-        "h" : 704,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 399,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 704,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 704,
-        "resize" : "fit",
-        "w" : 1200
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/QACRSry4SG"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "785330357109260288",
-  "text" : "RT @ughHugs: HILLARY: i told you he'd fuck the chair\nTRUMP: *while fucking the chair* I never fucked the chair https:\/\/t.co\/QACRSry4SG",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ughHugs\/status\/785301585916198912\/photo\/1",
-        "indices" : [ 98, 121 ],
-        "url" : "https:\/\/t.co\/QACRSry4SG",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CuXzbxpXgAUoNk0.jpg",
-        "id_str" : "785301368554881029",
-        "id" : 785301368554881029,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CuXzbxpXgAUoNk0.jpg",
-        "sizes" : [ {
-          "h" : 704,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 399,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 704,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 704,
-          "resize" : "fit",
-          "w" : 1200
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/QACRSry4SG"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "785301585916198912",
-    "text" : "HILLARY: i told you he'd fuck the chair\nTRUMP: *while fucking the chair* I never fucked the chair https:\/\/t.co\/QACRSry4SG",
-    "id" : 785301585916198912,
-    "created_at" : "2016-10-10 02:11:02 +0000",
-    "user" : {
-      "name" : "\uD604\uCD98\uC774",
-      "screen_name" : "ughHugs",
-      "protected" : false,
-      "id_str" : "30663975",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079028778247094272\/JmVuqdap_normal.jpg",
-      "id" : 30663975,
-      "verified" : true
-    }
-  },
-  "id" : 785330357109260288,
-  "created_at" : "2016-10-10 04:05:22 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -22779,11 +22666,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 785013279190056960,
     "created_at" : "2016-10-09 07:05:25 +0000",
     "user" : {
-      "name" : "suz !!",
+      "name" : "lil suzie vert !!",
       "screen_name" : "snotkink",
       "protected" : false,
       "id_str" : "2905448752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071227434018721792\/EOvd0Bmv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089451354890948608\/L5UBXopw_normal.jpg",
       "id" : 2905448752,
       "verified" : false
     }
@@ -24670,13 +24557,7 @@ Grailbird.data.tweets_2016_10 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Groovy Trash",
-      "screen_name" : "AshleyCharbonne",
-      "indices" : [ 3, 19 ],
-      "id_str" : "323772890",
-      "id" : 323772890
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/AshleyCharbonne\/status\/782234033472229376\/photo\/1",
       "indices" : [ 92, 115 ],
@@ -24761,7 +24642,7 @@ Grailbird.data.tweets_2016_10 =
     "created_at" : "2016-10-01 15:01:41 +0000",
     "user" : {
       "name" : "Groovy Trash",
-      "screen_name" : "AshleyCharbonne",
+      "screen_name" : "Ghengis_Dong",
       "protected" : false,
       "id_str" : "323772890",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1078567727881547777\/IC4YLFyb_normal.jpg",
@@ -25104,7 +24985,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lorum ipsum",
+      "name" : "null",
       "screen_name" : "nigelicious",
       "indices" : [ 1, 13 ],
       "id_str" : "1335941233",
@@ -27414,7 +27295,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "ArianaGrande",
       "protected" : false,
       "id_str" : "34507480",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085040786385690624\/hd-our75_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090935294684102657\/m1JrCsCP_normal.jpg",
       "id" : 34507480,
       "verified" : true
     }
@@ -27461,7 +27342,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Hannah",
+      "name" : "WeAreBne \/ Friday",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 3, 17 ],
       "id_str" : "2444895445",
@@ -27488,11 +27369,11 @@ Grailbird.data.tweets_2016_10 =
     "id" : 783234314431410176,
     "created_at" : "2016-10-04 09:16:27 +0000",
     "user" : {
-      "name" : "WeAreBne \/ Hannah",
+      "name" : "WeAreBne \/ Friday",
       "screen_name" : "WeAreBrisbane",
       "protected" : false,
       "id_str" : "2444895445",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084578872526495744\/nMulGzHx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1089627643643744257\/bN78BPvh_normal.jpg",
       "id" : 2444895445,
       "verified" : false
     }

@@ -834,12 +834,6 @@ Grailbird.data.tweets_2013_09 =
       "indices" : [ 0, 10 ],
       "id_str" : "953532236",
       "id" : 953532236
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 11, 22 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1032,27 +1026,16 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "383353823001341952",
   "geo" : { },
   "id_str" : "383358144787001344",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd well you should stop being so sexy on the internet then!",
   "id" : 383358144787001344,
-  "in_reply_to_status_id" : 383353823001341952,
   "created_at" : "2013-09-26 22:31:18 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1126,27 +1109,16 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "383305225630937088",
   "geo" : { },
   "id_str" : "383308637206478848",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd There's no good fish &amp; chip spots near me! Might hit Wetherspoons tomorrow. They do alright, sometimes. (ps. hornygirly89 lol)",
   "id" : 383308637206478848,
-  "in_reply_to_status_id" : 383305225630937088,
   "created_at" : "2013-09-26 19:14:35 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3394,27 +3366,16 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "379694023600250880",
   "geo" : { },
   "id_str" : "379706362470887424",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd End of the month I'm a free agent again. We'll organise a string of ram raids through Europe!",
   "id" : 379706362470887424,
-  "in_reply_to_status_id" : 379694023600250880,
   "created_at" : "2013-09-16 20:40:26 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3471,27 +3432,16 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "379687599243530241",
   "geo" : { },
   "id_str" : "379689035620712448",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd ingenious! I'm down. Those suckers will buy anything online!\u2026. ie. me.. How's Paris ya lucky scoundrel?",
   "id" : 379689035620712448,
-  "in_reply_to_status_id" : 379687599243530241,
   "created_at" : "2013-09-16 19:31:35 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4645,12 +4595,6 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 27, 38 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
       "indices" : [ 45, 55 ],
@@ -5892,13 +5836,7 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 9, 20 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

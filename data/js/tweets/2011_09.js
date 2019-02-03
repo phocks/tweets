@@ -1499,13 +1499,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 112, 126 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2285,13 +2279,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2304,7 +2292,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 117527643787771904,
   "in_reply_to_status_id" : 117453785600770048,
   "created_at" : "2011-09-24 09:15:48 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2552,13 +2540,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3036,13 +3018,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3058,7 +3034,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 116725903584804864,
   "in_reply_to_status_id" : 116700445950484480,
   "created_at" : "2011-09-22 04:09:58 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4964,12 +4940,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 0, 9 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    }, {
       "name" : "Velociraptor",
       "screen_name" : "VelociraptorAU",
       "indices" : [ 23, 38 ],
@@ -4988,7 +4958,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 114556829845045248,
   "in_reply_to_status_id" : 114314163483975680,
   "created_at" : "2011-09-16 04:30:51 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5087,13 +5057,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 65, 79 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/114506206940372992\/photo\/1",
       "indices" : [ 102, 122 ],
@@ -5174,12 +5138,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 3, 17 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 19, 26 ],
@@ -5728,13 +5686,7 @@ Grailbird.data.tweets_2011_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5750,7 +5702,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 114104693298438144,
   "in_reply_to_status_id" : 114098903648960512,
   "created_at" : "2011-09-14 22:34:13 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -7190,6 +7142,12 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "buddyblanc",
+      "screen_name" : "buddyblanc",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1090160656496570369",
+      "id" : 1090160656496570369
+    }, {
       "name" : "Clem Bastow",
       "screen_name" : "clembastow",
       "indices" : [ 12, 23 ],
@@ -9238,7 +9196,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 109897728762445824,
   "in_reply_to_status_id" : 109864507748257792,
   "created_at" : "2011-09-03 07:57:14 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",

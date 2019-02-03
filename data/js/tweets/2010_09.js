@@ -345,13 +345,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 0, 9 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -367,7 +361,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 25924556274,
   "in_reply_to_status_id" : 25883134705,
   "created_at" : "2010-09-29 00:00:00 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3442,13 +3436,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 0, 9 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3464,7 +3452,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24997984957,
   "in_reply_to_status_id" : 24942778134,
   "created_at" : "2010-09-20 00:00:00 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",
@@ -6843,12 +6831,6 @@ Grailbird.data.tweets_2010_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 23, 32 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    }, {
       "name" : "Kris Judith White",
       "screen_name" : "misswhitemoth",
       "indices" : [ 35, 49 ],
@@ -7619,13 +7601,7 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 0, 9 ],
-      "id_str" : "3638351",
-      "id" : 3638351
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -7638,7 +7614,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 23236586338,
   "in_reply_to_status_id" : 23235723243,
   "created_at" : "2010-09-07 00:00:00 +0000",
-  "in_reply_to_screen_name" : "01000101",
+  "in_reply_to_screen_name" : "efisia",
   "in_reply_to_user_id_str" : "3638351",
   "user" : {
     "name" : "Joshua Byrd",
@@ -9457,7 +9433,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22711228653,
     "created_at" : "2010-09-01 14:22:15 +0000",
     "user" : {
-      "name" : "whalley",
+      "name" : "Tom Whalley, Don'cha Know",
       "screen_name" : "whalleyrulz",
       "protected" : false,
       "id_str" : "23409021",

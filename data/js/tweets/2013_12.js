@@ -464,12 +464,6 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
       "id" : 359846371
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 15, 26 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -497,13 +491,7 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 10, 21 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -668,27 +656,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "416723499332665345",
   "geo" : { },
   "id_str" : "416757124870709248",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd won't be in until like 9, but yes hopefully we can grab a beer!",
   "id" : 416757124870709248,
-  "in_reply_to_status_id" : 416723499332665345,
   "created_at" : "2013-12-28 02:26:56 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -861,27 +838,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "416492717984972800",
   "geo" : { },
   "id_str" : "416536973026004992",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd maybe newyears\u2026 we get in tomorrow night. how's berlin?",
   "id" : 416536973026004992,
-  "in_reply_to_status_id" : 416492717984972800,
   "created_at" : "2013-12-27 11:52:07 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2230,12 +2196,6 @@ Grailbird.data.tweets_2013_12 =
       "indices" : [ 3, 13 ],
       "id_str" : "316258023",
       "id" : 316258023
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 15, 26 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2247,27 +2207,16 @@ Grailbird.data.tweets_2013_12 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "James X. Boyd",
-        "screen_name" : "jamesxboyd",
-        "indices" : [ 0, 11 ],
-        "id_str" : "901476679",
-        "id" : 901476679
-      } ],
+      "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "in_reply_to_status_id_str" : "414336878033518592",
     "geo" : { },
     "id_str" : "414337113354940416",
-    "in_reply_to_user_id" : 901476679,
     "text" : "@jamesxboyd raucous.",
     "id" : 414337113354940416,
-    "in_reply_to_status_id" : 414336878033518592,
     "created_at" : "2013-12-21 10:10:40 +0000",
-    "in_reply_to_screen_name" : "jamesxboyd",
-    "in_reply_to_user_id_str" : "901476679",
     "user" : {
       "name" : "kirst",
       "screen_name" : "kirstyley",
@@ -2446,27 +2395,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "414080912708894720",
   "geo" : { },
   "id_str" : "414081251243732992",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd haha agreed! also the vege burger is like only 1\u20AC can't wait to see you guys after christmas!",
   "id" : 414081251243732992,
-  "in_reply_to_status_id" : 414080912708894720,
   "created_at" : "2013-12-20 17:13:58 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3374,27 +3312,16 @@ Grailbird.data.tweets_2013_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 1, 12 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "411404216390131712",
   "geo" : { },
   "id_str" : "411483949404549120",
-  "in_reply_to_user_id" : 901476679,
   "text" : "\u201C@jamesxboyd: the other day i met a guy called constantine\u201D me too! oh wait that was the same guy!",
   "id" : 411483949404549120,
-  "in_reply_to_status_id" : 411404216390131712,
   "created_at" : "2013-12-13 13:13:13 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

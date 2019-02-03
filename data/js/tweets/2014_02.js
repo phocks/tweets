@@ -527,27 +527,16 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "438370761120964608",
   "geo" : { },
   "id_str" : "438621144418377728",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd I just ate all your jam! Don't worry I'll get more today \uD83C\uDF53\uD83C\uDF53",
   "id" : 438621144418377728,
-  "in_reply_to_status_id" : 438370761120964608,
   "created_at" : "2014-02-26 10:26:44 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -640,12 +629,6 @@ Grailbird.data.tweets_2014_02 =
       "id_str" : "38154086",
       "id" : 38154086
     }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 11, 22 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
       "indices" : [ 23, 33 ],
@@ -685,12 +668,6 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 46, 57 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
       "indices" : [ 64, 74 ],
@@ -1048,27 +1025,16 @@ Grailbird.data.tweets_2014_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "438044832809123840",
   "geo" : { },
   "id_str" : "438048049936736256",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd saxomaphone. saxomaphone!",
   "id" : 438048049936736256,
-  "in_reply_to_status_id" : 438044832809123840,
   "created_at" : "2014-02-24 20:29:28 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2376,12 +2342,6 @@ Grailbird.data.tweets_2014_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 33, 44 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
       "indices" : [ 49, 59 ],

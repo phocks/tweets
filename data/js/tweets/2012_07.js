@@ -4568,7 +4568,13 @@ Grailbird.data.tweets_2012_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "buddyblanc",
+      "screen_name" : "buddyblanc",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1090160656496570369",
+      "id" : 1090160656496570369
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5137,7 +5143,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "2542730658",
       "id" : 2542730658
     }, {
-      "name" : "ServiceTheCommunity",
+      "name" : "ArethaFranklinHadABetter2018ThanMe",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 8, 23 ],
       "id_str" : "154535572",

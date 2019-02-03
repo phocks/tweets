@@ -531,7 +531,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "windowscentral",
       "protected" : false,
       "id_str" : "14208474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/525043798158495747\/1A6ONKMV_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088134871300694018\/U7gkY9f4_normal.jpg",
       "id" : 14208474,
       "verified" : false
     }
@@ -5517,7 +5517,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Back to work",
+      "name" : "Tappy the Robot",
       "screen_name" : "juhasaarinen",
       "indices" : [ 3, 16 ],
       "id_str" : "15829574",
@@ -5561,11 +5561,11 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Back to work",
+      "name" : "Tappy the Robot",
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1080997665461039104\/M-fihaEf_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087882736650473473\/ZJRDPvNw_normal.jpg",
       "id" : 15829574,
       "verified" : true
     }

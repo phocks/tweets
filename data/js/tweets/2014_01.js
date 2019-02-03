@@ -1939,27 +1939,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "425253318009823232",
   "geo" : { },
   "id_str" : "425255265936867329",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd not yet, icy footpaths, but no snow until later this week, but now I'm off to warmer Prague. Maybe snow's not meant for me...",
   "id" : 425255265936867329,
-  "in_reply_to_status_id" : 425253318009823232,
   "created_at" : "2014-01-20 13:15:30 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4980,27 +4969,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "419158459674656769",
   "geo" : { },
   "id_str" : "419416213010518016",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd cool panorama. Soz we didn't catch up before you left. Probs see you back up in Edinburgh sometime soon! Happy new year buddy",
   "id" : 419416213010518016,
-  "in_reply_to_status_id" : 419158459674656769,
   "created_at" : "2014-01-04 10:33:12 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5041,12 +5019,6 @@ Grailbird.data.tweets_2014_01 =
       "indices" : [ 74, 84 ],
       "id_str" : "953532236",
       "id" : 953532236
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 91, 102 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     } ],
     "media" : [ ],
     "hashtags" : [ ],

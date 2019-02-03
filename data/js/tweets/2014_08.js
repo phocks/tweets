@@ -2109,7 +2109,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "dogbunz",
       "protected" : false,
       "id_str" : "634568239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029936896611246082\/gE0lA9uw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088439900599345152\/sjWqyELV_normal.jpg",
       "id" : 634568239,
       "verified" : false
     }
@@ -2386,7 +2386,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "dogbunz",
       "protected" : false,
       "id_str" : "634568239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029936896611246082\/gE0lA9uw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088439900599345152\/sjWqyELV_normal.jpg",
       "id" : 634568239,
       "verified" : false
     }
@@ -4617,27 +4617,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "501139460504174592",
   "geo" : { },
   "id_str" : "501221494769201152",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd I am composing a new tweet.",
   "id" : 501221494769201152,
-  "in_reply_to_status_id" : 501139460504174592,
   "created_at" : "2014-08-18 04:18:11 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4956,7 +4945,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "myauralfixation",
       "protected" : false,
       "id_str" : "19749614",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084412647955517442\/EuP12Szc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091884539960414208\/39qyt8D1_normal.jpg",
       "id" : 19749614,
       "verified" : false
     }
@@ -5917,7 +5906,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "dogbunz",
       "protected" : false,
       "id_str" : "634568239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029936896611246082\/gE0lA9uw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1088439900599345152\/sjWqyELV_normal.jpg",
       "id" : 634568239,
       "verified" : false
     }
@@ -7035,27 +7024,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "497894961581654016",
   "geo" : { },
   "id_str" : "498010412994936832",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd it happened to me once, my bank called and asked if i was gambling in peru, i said no, so they refunded.. :\\",
   "id" : 498010412994936832,
-  "in_reply_to_status_id" : 497894961581654016,
   "created_at" : "2014-08-09 07:38:29 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7598,27 +7576,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 1, 12 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "497393594228297728",
   "geo" : { },
   "id_str" : "497538278342414336",
-  "in_reply_to_user_id" : 901476679,
   "text" : ".@jamesxboyd imagine if they cut them both together into one epic 300min CG superfest! \"Star Park: The Jurassic Wars\"",
   "id" : 497538278342414336,
-  "in_reply_to_status_id" : 497393594228297728,
   "created_at" : "2014-08-08 00:22:24 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8117,27 +8084,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "497172498149277696",
   "geo" : { },
   "id_str" : "497218118645604352",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd I DO!",
   "id" : 497218118645604352,
-  "in_reply_to_status_id" : 497172498149277696,
   "created_at" : "2014-08-07 03:10:12 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -9740,27 +9696,16 @@ Grailbird.data.tweets_2014_08 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "495116748157636608",
   "geo" : { },
   "id_str" : "495169806035722240",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd haha good advice, from the coffee king!",
   "id" : 495169806035722240,
-  "in_reply_to_status_id" : 495116748157636608,
   "created_at" : "2014-08-01 11:30:56 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

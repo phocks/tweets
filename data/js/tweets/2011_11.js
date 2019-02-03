@@ -868,12 +868,6 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 87, 96 ],
       "id_str" : "15254045",
       "id" : 15254045
-    }, {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 97, 111 ],
-      "id_str" : "14440742",
-      "id" : 14440742
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4484,13 +4478,7 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4503,7 +4491,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 136677013422481408,
   "in_reply_to_status_id" : 136411339517198336,
   "created_at" : "2011-11-16 05:28:33 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5133,13 +5121,7 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5152,7 +5134,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 135969148852379648,
   "in_reply_to_status_id" : 135968483136634882,
   "created_at" : "2011-11-14 06:35:45 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5600,12 +5582,6 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 0, 14 ],
-      "id_str" : "14440742",
-      "id" : 14440742
-    }, {
       "name" : "nez119",
       "screen_name" : "nez119",
       "indices" : [ 15, 22 ],
@@ -5624,7 +5600,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 135348313330421761,
   "in_reply_to_status_id" : 135335105915912192,
   "created_at" : "2011-11-12 13:28:47 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -8796,7 +8772,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServiceTheCommunity",
+      "name" : "ArethaFranklinHadABetter2018ThanMe",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -9332,7 +9308,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServiceTheCommunity",
+      "name" : "ArethaFranklinHadABetter2018ThanMe",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

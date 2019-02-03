@@ -1089,12 +1089,6 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 0, 14 ],
       "id_str" : "29664096",
       "id" : 29664096
-    }, {
-      "name" : "BAT-HAN",
-      "screen_name" : "marchofclouds",
-      "indices" : [ 79, 93 ],
-      "id_str" : "14440742",
-      "id" : 14440742
     } ],
     "media" : [ ],
     "hashtags" : [ ],

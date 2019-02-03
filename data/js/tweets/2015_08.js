@@ -300,10 +300,10 @@ Grailbird.data.tweets_2015_08 =
       "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
       "indices" : [ 28, 50 ],
       "url" : "http:\/\/t.co\/AnkaZrnDK2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "id_str" : "638151830216675328",
       "id" : 638151830216675328,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -345,10 +345,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
         "indices" : [ 9, 31 ],
         "url" : "http:\/\/t.co\/AnkaZrnDK2",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "id_str" : "638151830216675328",
         "id" : 638151830216675328,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -387,7 +387,7 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19573120",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008267216146452481\/1or-9S8N_normal.jpg",
       "id" : 19573120,
@@ -5837,7 +5837,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Hucksters and Dreadful Prose",
       "screen_name" : "hoaxie",
       "indices" : [ 1, 8 ],
       "id_str" : "801634435",

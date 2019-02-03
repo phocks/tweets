@@ -2154,30 +2154,19 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "302670698059554816",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ -27.3861260046, 153.0350491753 ]
   },
   "id_str" : "302946558922604545",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd B sharp: a key that sounds witty at first, but that seems less funny each time you hear it.",
   "id" : 302946558922604545,
-  "in_reply_to_status_id" : 302670698059554816,
   "created_at" : "2013-02-17 01:04:22 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4162,27 +4151,16 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "298555080171458562",
   "geo" : { },
   "id_str" : "298596933835030528",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd bring it on baby!",
   "id" : 298596933835030528,
-  "in_reply_to_status_id" : 298555080171458562,
   "created_at" : "2013-02-05 01:00:31 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

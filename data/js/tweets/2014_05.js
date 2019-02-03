@@ -2005,12 +2005,6 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    }, {
       "name" : "Tooth Megawitch",
       "screen_name" : "megabichi",
       "indices" : [ 12, 22 ],
@@ -2021,16 +2015,11 @@ Grailbird.data.tweets_2014_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "468706628448296960",
   "geo" : { },
   "id_str" : "468728335187456000",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd @megabichi easy days, sweet locale, i'm jealous! drink a beer for me",
   "id" : 468728335187456000,
-  "in_reply_to_status_id" : 468706628448296960,
   "created_at" : "2014-05-20 12:21:58 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -3677,27 +3666,16 @@ Grailbird.data.tweets_2014_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "465575556621541377",
   "geo" : { },
   "id_str" : "465683796617359363",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd it's not the pot, it's you!",
   "id" : 465683796617359363,
-  "in_reply_to_status_id" : 465575556621541377,
   "created_at" : "2014-05-12 02:44:03 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

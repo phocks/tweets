@@ -2369,7 +2369,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077834183316127745\/41yST6ca_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090153406801555456\/yll4dUv9_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -3454,13 +3454,7 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3603,13 +3597,7 @@ Grailbird.data.tweets_2014_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 45, 56 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/534213390768406529\/photo\/1",
       "indices" : [ 72, 94 ],
@@ -3837,7 +3825,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "ashtuckerman",
       "protected" : false,
       "id_str" : "26959095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010759141499916288\/Y-_dPddn_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087507354344538112\/e9mOvIoD_normal.jpg",
       "id" : 26959095,
       "verified" : false
     }
@@ -8984,7 +8972,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "myauralfixation",
       "protected" : false,
       "id_str" : "19749614",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084412647955517442\/EuP12Szc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091884539960414208\/39qyt8D1_normal.jpg",
       "id" : 19749614,
       "verified" : false
     }

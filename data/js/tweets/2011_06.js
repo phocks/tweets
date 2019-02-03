@@ -406,7 +406,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ServiceTheCommunity",
+      "name" : "ArethaFranklinHadABetter2018ThanMe",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -4414,7 +4414,7 @@ Grailbird.data.tweets_2011_06 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
@@ -4723,7 +4723,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 81021139270385664,
   "in_reply_to_status_id" : 81018917383970816,
   "created_at" : "2011-06-15 15:31:59 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5878,6 +5878,12 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 44, 57 ],
       "id_str" : "22483027",
       "id" : 22483027
+    }, {
+      "name" : "buddyblanc",
+      "screen_name" : "buddyblanc",
+      "indices" : [ 58, 69 ],
+      "id_str" : "1090160656496570369",
+      "id" : 1090160656496570369
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5941,7 +5947,7 @@ Grailbird.data.tweets_2011_06 =
   "id" : 79479544993677312,
   "in_reply_to_status_id" : 79478443598819328,
   "created_at" : "2011-06-11 09:26:14 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -7437,7 +7443,7 @@ Grailbird.data.tweets_2011_06 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,

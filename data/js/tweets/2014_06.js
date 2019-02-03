@@ -1016,7 +1016,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "emmsyish",
       "protected" : false,
       "id_str" : "16217140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065420025123631105\/RX8UlQWC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090070408227840001\/B-P2pjxu_normal.jpg",
       "id" : 16217140,
       "verified" : false
     }
@@ -2269,12 +2269,6 @@ Grailbird.data.tweets_2014_06 =
       "indices" : [ 0, 10 ],
       "id_str" : "38154086",
       "id" : 38154086
-    }, {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 22, 33 ],
-      "id_str" : "901476679",
-      "id" : 901476679
     }, {
       "name" : "hayjew",
       "screen_name" : "hayjewjew",
@@ -5797,27 +5791,16 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "476390680726872064",
   "geo" : { },
   "id_str" : "476393696351367169",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd I saw them in London too! Miss yas all. Don't worry I'm figuring out a plan of attack to come back!",
   "id" : 476393696351367169,
-  "in_reply_to_status_id" : 476390680726872064,
   "created_at" : "2014-06-10 16:01:22 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

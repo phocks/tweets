@@ -3463,7 +3463,7 @@ Grailbird.data.tweets_2011_03 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
@@ -8765,12 +8765,6 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 47, 60 ],
       "id_str" : "15695207",
       "id" : 15695207
-    }, {
-      "name" : "efisia",
-      "screen_name" : "01000101",
-      "indices" : [ 61, 70 ],
-      "id_str" : "3638351",
-      "id" : 3638351
     } ],
     "media" : [ ],
     "hashtags" : [ {

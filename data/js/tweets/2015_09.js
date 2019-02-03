@@ -657,7 +657,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Dookie St James",
+      "name" : "Blanche Deverussy",
       "screen_name" : "villainmorris",
       "protected" : false,
       "id_str" : "2910620690",
@@ -3204,7 +3204,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "indices" : [ 3, 17 ],
       "id_str" : "17983196",
@@ -3274,7 +3274,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 647267627199426560,
     "created_at" : "2015-09-25 04:33:22 +0000",
     "user" : {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "protected" : false,
       "id_str" : "17983196",
@@ -6578,7 +6578,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Wren, A Quiet Australian.",
+      "name" : "John Wren, Proud Militant Union Thug. .",
       "screen_name" : "JohnWren1950",
       "indices" : [ 3, 16 ],
       "id_str" : "2603192304",
@@ -6673,7 +6673,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645853735617433600,
     "created_at" : "2015-09-21 06:55:04 +0000",
     "user" : {
-      "name" : "John Wren, A Quiet Australian.",
+      "name" : "John Wren, Proud Militant Union Thug. .",
       "screen_name" : "JohnWren1950",
       "protected" : false,
       "id_str" : "2603192304",
@@ -7073,81 +7073,6 @@ Grailbird.data.tweets_2015_09 =
   },
   "id" : 645822085319667712,
   "created_at" : "2015-09-21 04:49:18 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Rosey",
-      "screen_name" : "roseysoho",
-      "indices" : [ 3, 13 ],
-      "id_str" : "15424441",
-      "id" : 15424441
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 22, 29 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    }, {
-      "name" : "Foursquare Swarm",
-      "screen_name" : "SwarmApp",
-      "indices" : [ 48, 57 ],
-      "id_str" : "240676055",
-      "id" : 240676055
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "645813241201823744",
-  "text" : "RT @roseysoho: Seeing @phocks 'never fly tiger' @swarmapp tip as I'm about to board a tiger flight... Classic.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 7, 14 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      }, {
-        "name" : "Foursquare Swarm",
-        "screen_name" : "SwarmApp",
-        "indices" : [ 33, 42 ],
-        "id_str" : "240676055",
-        "id" : 240676055
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "645808929381814272",
-    "text" : "Seeing @phocks 'never fly tiger' @swarmapp tip as I'm about to board a tiger flight... Classic.",
-    "id" : 645808929381814272,
-    "created_at" : "2015-09-21 03:57:01 +0000",
-    "user" : {
-      "name" : "Rosey",
-      "screen_name" : "roseysoho",
-      "protected" : false,
-      "id_str" : "15424441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
-      "id" : 15424441,
-      "verified" : false
-    }
-  },
-  "id" : 645813241201823744,
-  "created_at" : "2015-09-21 04:14:09 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7701,7 +7626,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "indices" : [ 3, 17 ],
       "id_str" : "17983196",
@@ -7771,7 +7696,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645393239441170432,
     "created_at" : "2015-09-20 00:25:13 +0000",
     "user" : {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "protected" : false,
       "id_str" : "17983196",
@@ -13484,7 +13409,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "indices" : [ 3, 17 ],
       "id_str" : "17983196",
@@ -13554,7 +13479,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 641130687253188609,
     "created_at" : "2015-09-08 06:07:22 +0000",
     "user" : {
-      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08",
+      "name" : "Spencer Howson \uD83C\uDF77\uD83D\uDC08\uD83D\uDCFB",
       "screen_name" : "SpencerHowson",
       "protected" : false,
       "id_str" : "17983196",
@@ -16541,7 +16466,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 638834675989934080,
     "created_at" : "2015-09-01 22:03:50 +0000",
     "user" : {
-      "name" : "Sheik from Merri Creek",
+      "name" : "FATTY WEP",
       "screen_name" : "XXXX_G0LD",
       "protected" : false,
       "id_str" : "24145539",

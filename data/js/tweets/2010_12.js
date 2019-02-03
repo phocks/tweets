@@ -3625,7 +3625,7 @@ Grailbird.data.tweets_2010_12 =
   "id" : 16842887962562560,
   "in_reply_to_status_id" : 16800917001076736,
   "created_at" : "2010-12-20 13:10:32 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -7926,7 +7926,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "18619722",
       "id" : 18619722
     }, {
-      "name" : "\u043C\u0443 \u03B1\u03C5\u044F\u03B1\u2113 \u0192\u03B9\u03C7\u03B1\u0442\u03B9\u03C3\u03B7",
+      "name" : "My Aural Fixation",
       "screen_name" : "myauralfixation",
       "indices" : [ 14, 30 ],
       "id_str" : "19749614",
