@@ -4422,7 +4422,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "Permanently Exhausted Pigeon",
+      "name" : "Emmageddon",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",

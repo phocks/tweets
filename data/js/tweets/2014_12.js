@@ -1379,7 +1379,7 @@ Grailbird.data.tweets_2014_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony Lee Official",
+      "name" : "Anthony Lee Official \uD83C\uDF0D",
       "screen_name" : "AnthonyLee59",
       "indices" : [ 1, 14 ],
       "id_str" : "352338496",
@@ -2141,7 +2141,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055773455872737280\/c2tbK0JD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092740571670634496\/a6xu1dlF_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -2298,7 +2298,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "thatgirlonline",
       "protected" : false,
       "id_str" : "7517382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969433992943435776\/XaT3k878_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098578014869250050\/Pu-OrJ8j_normal.jpg",
       "id" : 7517382,
       "verified" : true
     }
@@ -2332,6 +2332,74 @@ Grailbird.data.tweets_2014_12 =
   "text" : "@Anita_AMH I did indeed finish! Also for kicks I put the complete unedited manuscript up on Amazon Kindle store too http:\/\/t.co\/aqabOhEb4g",
   "id" : 547610324782690306,
   "created_at" : "2014-12-24 04:30:50 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 15, 22 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "545424365417152512",
+  "text" : "RT @roseysoho: @phocks just as I was wondering where the heck you had gone, I see this. Hope all is well and you find what you're looking f\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "539210957839286273",
+    "geo" : { },
+    "id_str" : "542531595727429632",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks just as I was wondering where the heck you had gone, I see this. Hope all is well and you find what you're looking for.",
+    "id" : 542531595727429632,
+    "in_reply_to_status_id" : 539210957839286273,
+    "created_at" : "2014-12-10 04:09:46 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 545424365417152512,
+  "created_at" : "2014-12-18 03:44:36 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -2472,7 +2540,7 @@ Grailbird.data.tweets_2014_12 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055773455872737280\/c2tbK0JD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092740571670634496\/a6xu1dlF_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }

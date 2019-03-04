@@ -172,7 +172,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "superhotmel",
       "protected" : false,
       "id_str" : "18152992",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1079562298769891328\/HPmTtYqH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100301526650613760\/OqpnuJHu_normal.jpg",
       "id" : 18152992,
       "verified" : false
     }

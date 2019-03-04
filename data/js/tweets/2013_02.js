@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2013_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock - New year still queer",
+      "name" : "Hacklock",
       "screen_name" : "hacklocked",
       "indices" : [ 115, 126 ],
       "id_str" : "262970056",
@@ -2822,7 +2822,13 @@ Grailbird.data.tweets_2013_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "thatgirlpatty",
+      "screen_name" : "thatgirlpatty",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1093207419516317696",
+      "id" : 1093207419516317696
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

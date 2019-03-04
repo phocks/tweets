@@ -5640,7 +5640,13 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "\uD83D\uDC8BPop Roxy\uD83D\uDC8B",
+      "screen_name" : "GinOnTheRox",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1681658078",
+      "id" : 1681658078
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -3680,7 +3680,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -5787,7 +5787,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 58081454722265090,
   "in_reply_to_status_id" : 58077125479108608,
   "created_at" : "2011-04-13 08:17:52 +0000",
-  "in_reply_to_screen_name" : "marchofclouds",
+  "in_reply_to_screen_name" : "AcidSummerrr",
   "in_reply_to_user_id_str" : "14440742",
   "user" : {
     "name" : "Joshua Byrd",
@@ -6092,57 +6092,6 @@ Grailbird.data.tweets_2011_04 =
   "text" : "My #toptuesday is out on @goscoville! \u2605 Top places this week \u2605 La Paloma, Tote Hotel, Wick Studios... http:\/\/t.co\/ziOGwCw",
   "id" : 57649974686654464,
   "created_at" : "2011-04-12 03:43:19 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Jacob Holman",
-      "screen_name" : "JacobLeigh",
-      "indices" : [ 3, 14 ],
-      "id_str" : "20220718",
-      "id" : 20220718
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "57642522851278848",
-  "text" : "RT @JacobLeigh: Pauline Hanson can't possibly have any more Horcruxes, can she?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "57640399015124992",
-    "text" : "Pauline Hanson can't possibly have any more Horcruxes, can she?",
-    "id" : 57640399015124992,
-    "created_at" : "2011-04-12 03:05:16 +0000",
-    "user" : {
-      "name" : "Jacob Holman",
-      "screen_name" : "JacobLeigh",
-      "protected" : false,
-      "id_str" : "20220718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091890294830714881\/N_t1lOuO_normal.jpg",
-      "id" : 20220718,
-      "verified" : false
-    }
-  },
-  "id" : 57642522851278848,
-  "created_at" : "2011-04-12 03:13:43 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

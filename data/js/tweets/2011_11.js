@@ -879,7 +879,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@mariamisshort @ccake @biancamartin101 @thejayeless @missamyll @memily @annaspargoryan @sirtessa @marchofclouds thanks for the support!",
   "id" : 140843615718092800,
   "created_at" : "2011-11-27 17:25:09 +0000",
-  "in_reply_to_screen_name" : "mariamjakub",
+  "in_reply_to_screen_name" : "fleetwoodsmack3",
   "in_reply_to_user_id_str" : "383040461",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2378,7 +2378,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.cloudhopper.com\/\" rel=\"nofollow\"\u003ECloudhopper\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "thatgirlpatty",
+      "screen_name" : "thatgirlpatty",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1093207419516317696",
+      "id" : 1093207419516317696
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4637,6 +4643,12 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 42, 51 ],
       "id_str" : "26123986",
       "id" : 26123986
+    }, {
+      "name" : "thatgirlpatty",
+      "screen_name" : "thatgirlpatty",
+      "indices" : [ 64, 78 ],
+      "id_str" : "1093207419516317696",
+      "id" : 1093207419516317696
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7871,7 +7883,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -7904,7 +7916,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -7937,7 +7949,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -9120,7 +9132,13 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "thatgirlpatty",
+      "screen_name" : "thatgirlpatty",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1093207419516317696",
+      "id" : 1093207419516317696
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

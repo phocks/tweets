@@ -860,7 +860,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jason \uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84",
+      "name" : "\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84\uD83E\uDD84",
       "screen_name" : "Jason",
       "indices" : [ 44, 50 ],
       "id_str" : "3840",
@@ -2183,6 +2183,74 @@ Grailbird.data.tweets_2015_02 =
   "text" : "watching the oscars, don't tell me, don't tell me",
   "id" : 569811459779080192,
   "created_at" : "2015-02-23 10:50:13 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 15, 22 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "569763926973423616",
+  "text" : "RT @roseysoho: @phocks classic Josh!",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "569760850497572864",
+    "geo" : { },
+    "id_str" : "569763673322860545",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks classic Josh!",
+    "id" : 569763673322860545,
+    "in_reply_to_status_id" : 569760850497572864,
+    "created_at" : "2015-02-23 07:40:20 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 569763926973423616,
+  "created_at" : "2015-02-23 07:41:20 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4158,7 +4226,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mostly Harmless   \uD83E\uDD16\uD83C\uDF0F",
+      "name" : "Stirring Beasty Kraken\uD83E\uDD16\uD83C\uDF0F",
       "screen_name" : "ERN_Malleyscrub",
       "indices" : [ 0, 16 ],
       "id_str" : "22607317",
@@ -4335,7 +4403,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hucksters and Dreadful Prose",
+      "name" : "Steven",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -4368,7 +4436,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hucksters and Dreadful Prose",
+      "name" : "Steven",
       "screen_name" : "hoaxie",
       "indices" : [ 1, 8 ],
       "id_str" : "801634435",
@@ -4602,7 +4670,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan, person.",
+      "name" : "Ghost inside.",
       "screen_name" : "2inchesofwater",
       "indices" : [ 0, 15 ],
       "id_str" : "17501584",
@@ -7916,6 +7984,74 @@ Grailbird.data.tweets_2015_02 =
   "created_at" : "2015-02-01 21:21:19 +0000",
   "in_reply_to_screen_name" : "tubilicious_",
   "in_reply_to_user_id_str" : "138216802",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 15, 22 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "561832245200429057",
+  "text" : "RT @roseysoho: @phocks if anyone ever says you aren't a man who makes things happen, they are a fool",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "561493006054731776",
+    "geo" : { },
+    "id_str" : "561497242201104385",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks if anyone ever says you aren't a man who makes things happen, they are a fool",
+    "id" : 561497242201104385,
+    "in_reply_to_status_id" : 561493006054731776,
+    "created_at" : "2015-01-31 12:12:29 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 561832245200429057,
+  "created_at" : "2015-02-01 10:23:40 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

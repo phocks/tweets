@@ -6788,7 +6788,7 @@ Grailbird.data.tweets_2014_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgia Lou",
+      "name" : "georgia lou",
       "screen_name" : "daisyhearted",
       "indices" : [ 0, 13 ],
       "id_str" : "15955237",

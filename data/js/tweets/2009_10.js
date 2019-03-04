@@ -2758,7 +2758,7 @@ Grailbird.data.tweets_2009_10 =
       "id_str" : "522489813",
       "id" : 522489813
     }, {
-      "name" : "\u2664\u30E9\u30D3\u30C3\u30C8\u2664",
+      "name" : "\uD83E\uDD42\uD83E\uDD42\uD83E\uDD42",
       "screen_name" : "zimiel",
       "indices" : [ 7, 14 ],
       "id_str" : "20963245",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "\u003Ca href=\"http:\/\/www.exacttarget.com\/social\" rel=\"nofollow\"\u003ESocialEngage\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chronic Town, Poster Torn",
+      "name" : "I Fold, You Fold, He Folds, We all Fold",
       "screen_name" : "franksting",
       "indices" : [ 0, 11 ],
       "id_str" : "13807132",

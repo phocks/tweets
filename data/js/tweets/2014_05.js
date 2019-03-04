@@ -342,7 +342,7 @@ Grailbird.data.tweets_2014_05 =
       "screen_name" : "sehchic",
       "protected" : false,
       "id_str" : "29955547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797791656934133760\/dZNMJXod_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1097756006006718464\/IpXJaNaU_normal.jpg",
       "id" : 29955547,
       "verified" : false
     }
@@ -2135,7 +2135,7 @@ Grailbird.data.tweets_2014_05 =
       "id_str" : "1059680029234257920",
       "id" : 1059680029234257920
     }, {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 14, 26 ],
       "id_str" : "14111299",
@@ -2196,7 +2196,7 @@ Grailbird.data.tweets_2014_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 1, 13 ],
       "id_str" : "14111299",

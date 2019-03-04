@@ -1967,7 +1967,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "14709131",
       "id" : 14709131
     }, {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 14, 26 ],
       "id_str" : "14111299",

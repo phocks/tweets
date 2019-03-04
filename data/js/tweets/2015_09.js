@@ -657,7 +657,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Blanche Deverussy",
+      "name" : "Carly Rae JanSport",
       "screen_name" : "villainmorris",
       "protected" : false,
       "id_str" : "2910620690",
@@ -1392,11 +1392,11 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045045203948646401\/6BJMrIrs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101014467502960640\/QtPq0WsR_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -2770,7 +2770,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991242709519171584\/N8Cb7M3M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102236515508330497\/-lDYgdfx_normal.png",
       "id" : 14083693,
       "verified" : true
     }
@@ -6578,7 +6578,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Wren, Proud Militant Union Thug. .",
+      "name" : "John Wren, Helloworld's LNP Account Manager",
       "screen_name" : "JohnWren1950",
       "indices" : [ 3, 16 ],
       "id_str" : "2603192304",
@@ -6673,7 +6673,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645853735617433600,
     "created_at" : "2015-09-21 06:55:04 +0000",
     "user" : {
-      "name" : "John Wren, Proud Militant Union Thug. .",
+      "name" : "John Wren, Rejected Candidate for ABC Chairman",
       "screen_name" : "JohnWren1950",
       "protected" : false,
       "id_str" : "2603192304",
@@ -7073,6 +7073,81 @@ Grailbird.data.tweets_2015_09 =
   },
   "id" : 645822085319667712,
   "created_at" : "2015-09-21 04:49:18 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 22, 29 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    }, {
+      "name" : "Foursquare Swarm",
+      "screen_name" : "SwarmApp",
+      "indices" : [ 48, 57 ],
+      "id_str" : "240676055",
+      "id" : 240676055
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "645813241201823744",
+  "text" : "RT @roseysoho: Seeing @phocks 'never fly tiger' @swarmapp tip as I'm about to board a tiger flight... Classic.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 7, 14 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      }, {
+        "name" : "Foursquare Swarm",
+        "screen_name" : "SwarmApp",
+        "indices" : [ 33, 42 ],
+        "id_str" : "240676055",
+        "id" : 240676055
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "645808929381814272",
+    "text" : "Seeing @phocks 'never fly tiger' @swarmapp tip as I'm about to board a tiger flight... Classic.",
+    "id" : 645808929381814272,
+    "created_at" : "2015-09-21 03:57:01 +0000",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 645813241201823744,
+  "created_at" : "2015-09-21 04:14:09 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8308,7 +8383,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -8743,7 +8818,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991242709519171584\/N8Cb7M3M_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102236515508330497\/-lDYgdfx_normal.png",
       "id" : 14083693,
       "verified" : true
     }
@@ -9043,7 +9118,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "indices" : [ 3, 16 ],
       "id_str" : "2585244434",
@@ -9087,11 +9162,11 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045045203948646401\/6BJMrIrs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101014467502960640\/QtPq0WsR_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -14064,7 +14139,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "26889548",
       "id" : 26889548
     }, {
-      "name" : "Rocketpilot",
+      "name" : "G E T   R A T I O E D",
       "screen_name" : "ABillionSuns",
       "indices" : [ 18, 31 ],
       "id_str" : "32317477",
@@ -14909,10 +14984,10 @@ Grailbird.data.tweets_2015_09 =
     "created_at" : "2015-09-05 05:56:52 +0000",
     "user" : {
       "name" : "AMBAH \uD83D\uDC11",
-      "screen_name" : "ambahtaynton",
+      "screen_name" : "ambah___",
       "protected" : false,
       "id_str" : "41950932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1084327462010466304\/z2yaVx7U_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101763934233616386\/lEBwlNiU_normal.jpg",
       "id" : 41950932,
       "verified" : false
     }
@@ -15411,7 +15486,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ghost of dickwashers past",
+      "name" : "dickwasher",
       "screen_name" : "tubapocalypse",
       "indices" : [ 0, 14 ],
       "id_str" : "610613263",
@@ -15567,7 +15642,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "353637975",
       "id" : 353637975
     }, {
-      "name" : "ghost of dickwashers past",
+      "name" : "dickwasher",
       "screen_name" : "tubapocalypse",
       "indices" : [ 11, 25 ],
       "id_str" : "610613263",
@@ -16466,7 +16541,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 638834675989934080,
     "created_at" : "2015-09-01 22:03:50 +0000",
     "user" : {
-      "name" : "FATTY WEP",
+      "name" : "KING DINGALING",
       "screen_name" : "XXXX_G0LD",
       "protected" : false,
       "id_str" : "24145539",

@@ -2765,7 +2765,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vroenis [piano time] \u007B * \u007D",
+      "name" : "Vroenis [clock sync] \u007B * \u007D",
       "screen_name" : "Vroenis",
       "indices" : [ 0, 8 ],
       "id_str" : "139668058",
@@ -3971,25 +3971,16 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "James X. Boyd",
-      "screen_name" : "jamesxboyd",
-      "indices" : [ 0, 11 ],
-      "id_str" : "901476679",
-      "id" : 901476679
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "488963232548147200",
-  "in_reply_to_user_id" : 901476679,
   "text" : "@jamesxboyd how's London life treating you JxB? Wish I was there right now drinking a big beer with you!",
   "id" : 488963232548147200,
   "created_at" : "2014-07-15 08:28:13 +0000",
-  "in_reply_to_screen_name" : "jamesxboyd",
-  "in_reply_to_user_id_str" : "901476679",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5438,7 +5429,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hucksters and Dreadful Prose",
+      "name" : "Steven",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -5973,7 +5964,7 @@ Grailbird.data.tweets_2014_07 =
     "id" : 486771420425244672,
     "created_at" : "2014-07-09 07:18:45 +0000",
     "user" : {
-      "name" : "definitely not a lizard person.",
+      "name" : "caitland.",
       "screen_name" : "caitlandmc",
       "protected" : false,
       "id_str" : "1376219534",

@@ -331,7 +331,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "indices" : [ 0, 13 ],
       "id_str" : "2585244434",
@@ -7266,7 +7266,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "indices" : [ 0, 13 ],
       "id_str" : "2585244434",
@@ -15581,7 +15581,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ally \u2744\uFE0F",
+      "name" : "ally \uD83C\uDF37",
       "screen_name" : "allisonmchenryy",
       "indices" : [ 0, 16 ],
       "id_str" : "2448250596",
@@ -17102,7 +17102,7 @@ Grailbird.data.tweets_2017_09 =
       "id_str" : "20967389",
       "id" : 20967389
     }, {
-      "name" : "WeAreBne \/ Friday",
+      "name" : "WeAreBne \/ Adam",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 11, 25 ],
       "id_str" : "2444895445",
@@ -17477,7 +17477,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thanks i hate it",
+      "name" : "na\u2019ama \u05E0\u05E2\u05DE\u05D4 \u0646\u0627\u0639\u0645\u0627",
       "screen_name" : "derridalicious",
       "indices" : [ 0, 15 ],
       "id_str" : "981728328",
@@ -17503,137 +17503,6 @@ Grailbird.data.tweets_2017_09 =
   "created_at" : "2017-09-07 10:30:09 +0000",
   "in_reply_to_screen_name" : "derridalicious",
   "in_reply_to_user_id_str" : "981728328",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Antonio Favata",
-      "screen_name" : "DroolingVegan",
-      "indices" : [ 3, 17 ],
-      "id_str" : "740464182076837888",
-      "id" : 740464182076837888
-    }, {
-      "name" : "KingCookDaily",
-      "screen_name" : "kingcookdaily",
-      "indices" : [ 19, 33 ],
-      "id_str" : "1272168848",
-      "id" : 1272168848
-    }, {
-      "name" : "Club Mexicana",
-      "screen_name" : "clubmexicana",
-      "indices" : [ 34, 47 ],
-      "id_str" : "2327051970",
-      "id" : 2327051970
-    }, {
-      "name" : "Temple of Seitan",
-      "screen_name" : "templeofseitan",
-      "indices" : [ 48, 63 ],
-      "id_str" : "732941503761416192",
-      "id" : 732941503761416192
-    }, {
-      "name" : "biffsjackshack",
-      "screen_name" : "biffsjackshack",
-      "indices" : [ 64, 79 ],
-      "id_str" : "851692177751257092",
-      "id" : 851692177751257092
-    }, {
-      "name" : "fat gay vegan",
-      "screen_name" : "FatGayVegan",
-      "indices" : [ 80, 92 ],
-      "id_str" : "228150912",
-      "id" : 228150912
-    }, {
-      "name" : "The Guardian",
-      "screen_name" : "guardian",
-      "indices" : [ 115, 124 ],
-      "id_str" : "87818409",
-      "id" : 87818409
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "905739463703257088",
-  "text" : "RT @DroolingVegan: @kingcookdaily @clubmexicana @templeofseitan @biffsjackshack @FatGayVegan all mentioned in this @guardian article: https\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "KingCookDaily",
-        "screen_name" : "kingcookdaily",
-        "indices" : [ 0, 14 ],
-        "id_str" : "1272168848",
-        "id" : 1272168848
-      }, {
-        "name" : "Club Mexicana",
-        "screen_name" : "clubmexicana",
-        "indices" : [ 15, 28 ],
-        "id_str" : "2327051970",
-        "id" : 2327051970
-      }, {
-        "name" : "Temple of Seitan",
-        "screen_name" : "templeofseitan",
-        "indices" : [ 29, 44 ],
-        "id_str" : "732941503761416192",
-        "id" : 732941503761416192
-      }, {
-        "name" : "biffsjackshack",
-        "screen_name" : "biffsjackshack",
-        "indices" : [ 45, 60 ],
-        "id_str" : "851692177751257092",
-        "id" : 851692177751257092
-      }, {
-        "name" : "fat gay vegan",
-        "screen_name" : "FatGayVegan",
-        "indices" : [ 61, 73 ],
-        "id_str" : "228150912",
-        "id" : 228150912
-      }, {
-        "name" : "The Guardian",
-        "screen_name" : "guardian",
-        "indices" : [ 96, 105 ],
-        "id_str" : "87818409",
-        "id" : 87818409
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 115, 138 ],
-        "url" : "https:\/\/t.co\/2aB9OKAAgk",
-        "expanded_url" : "https:\/\/www.theguardian.com\/lifeandstyle\/2017\/sep\/05\/hail-seitan-how-vegan-food-got-downndirty",
-        "display_url" : "theguardian.com\/lifeandstyle\/2\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "905411927970635776",
-    "in_reply_to_user_id" : 1272168848,
-    "text" : "@kingcookdaily @clubmexicana @templeofseitan @biffsjackshack @FatGayVegan all mentioned in this @guardian article: https:\/\/t.co\/2aB9OKAAgk",
-    "id" : 905411927970635776,
-    "created_at" : "2017-09-06 12:46:40 +0000",
-    "in_reply_to_screen_name" : "kingcookdaily",
-    "in_reply_to_user_id_str" : "1272168848",
-    "user" : {
-      "name" : "Antonio Favata",
-      "screen_name" : "DroolingVegan",
-      "protected" : false,
-      "id_str" : "740464182076837888",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942865123982675968\/b2xaw0YC_normal.jpg",
-      "id" : 740464182076837888,
-      "verified" : false
-    }
-  },
-  "id" : 905739463703257088,
-  "created_at" : "2017-09-07 10:28:10 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -18513,7 +18382,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Friday",
+      "name" : "WeAreBne \/ Adam",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -18719,7 +18588,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "cushbomb",
       "protected" : false,
       "id_str" : "21970248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082168127499235329\/_n6_4RLZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092653903278161925\/MojArofI_normal.jpg",
       "id" : 21970248,
       "verified" : false
     }
@@ -19472,7 +19341,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "AnnaGerber",
       "protected" : false,
       "id_str" : "88131739",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974922962850660352\/deC541qX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102012560889376768\/DpYIvkVT_normal.jpg",
       "id" : 88131739,
       "verified" : false
     }
@@ -19578,7 +19447,7 @@ Grailbird.data.tweets_2017_09 =
       "screen_name" : "AnnaGerber",
       "protected" : false,
       "id_str" : "88131739",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974922962850660352\/deC541qX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102012560889376768\/DpYIvkVT_normal.jpg",
       "id" : 88131739,
       "verified" : false
     }
@@ -19971,7 +19840,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "brennn",
+      "name" : "bren",
       "screen_name" : "paper_seas",
       "indices" : [ 0, 11 ],
       "id_str" : "46337538",
@@ -21314,7 +21183,7 @@ Grailbird.data.tweets_2017_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ally \u2744\uFE0F",
+      "name" : "ally \uD83C\uDF37",
       "screen_name" : "allisonmchenryy",
       "indices" : [ 0, 16 ],
       "id_str" : "2448250596",

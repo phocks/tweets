@@ -438,7 +438,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "thatgirlonline",
       "protected" : false,
       "id_str" : "7517382",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969433992943435776\/XaT3k878_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1098578014869250050\/Pu-OrJ8j_normal.jpg",
       "id" : 7517382,
       "verified" : true
     }
@@ -2196,7 +2196,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055773455872737280\/c2tbK0JD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092740571670634496\/a6xu1dlF_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -2683,7 +2683,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "dan de lionfluff",
+      "name" : "dan de lionflWHY DID GREEN BOOK EVEN WIN",
       "screen_name" : "onekind",
       "indices" : [ 0, 8 ],
       "id_str" : "1654174358",
@@ -4106,7 +4106,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "lush__puppie",
       "protected" : false,
       "id_str" : "51028212",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1053943313097621504\/EpUnkpcu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1095222845947314177\/3oxK9CIO_normal.jpg",
       "id" : 51028212,
       "verified" : false
     }
@@ -4174,7 +4174,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "mspattyabalos",
       "protected" : false,
       "id_str" : "397888102",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1082211204905369600\/TFIh5Ati_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1094650863539245056\/bCUjDZHi_normal.jpg",
       "id" : 397888102,
       "verified" : false
     }
@@ -6905,7 +6905,7 @@ Grailbird.data.tweets_2015_01 =
       "screen_name" : "heath3rc",
       "protected" : false,
       "id_str" : "245587850",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794395765254688768\/y0C-heFm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1093333349785989121\/PNfu7-bV_normal.jpg",
       "id" : 245587850,
       "verified" : false
     }
@@ -7642,7 +7642,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hucksters and Dreadful Prose",
+      "name" : "Steven",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",

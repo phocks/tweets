@@ -2724,6 +2724,74 @@ Grailbird.data.tweets_2014_09 =
     "verified" : true
   }
 }, {
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "katrina \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "screen_name" : "katreeeena",
+      "indices" : [ 3, 14 ],
+      "id_str" : "21218422",
+      "id" : 21218422
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 16, 23 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "513587296889630721",
+  "text" : "RT @katreeeena: @phocks I was so excited I dropped my phone on my face",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "513537403337056256",
+    "geo" : { },
+    "id_str" : "513539224805453825",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks I was so excited I dropped my phone on my face",
+    "id" : 513539224805453825,
+    "in_reply_to_status_id" : 513537403337056256,
+    "created_at" : "2014-09-21 04:04:26 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "katrina \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "screen_name" : "katreeeena",
+      "protected" : false,
+      "id_str" : "21218422",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/920944956000178176\/y9X-erhI_normal.jpg",
+      "id" : 21218422,
+      "verified" : false
+    }
+  },
+  "id" : 513587296889630721,
+  "created_at" : "2014-09-21 07:15:28 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
   "source" : "\u003Ca href=\"https:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -3203,7 +3271,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uFF33\uFF28\uFF29\uFF22\uFF21 \uFF23\uFF2F\uFF2D\uFF30\uFF35\uFF34\uFF25\uFF32",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -4574,7 +4642,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1083608242561835009\/_19ixzyQ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099635956175462401\/7VPc9Nj__normal.jpg",
       "id" : 40785142,
       "verified" : false
     }
@@ -4881,10 +4949,10 @@ Grailbird.data.tweets_2014_09 =
       "expanded_url" : "https:\/\/twitter.com\/beeeeonka\/status\/511699327362670592\/photo\/1",
       "indices" : [ 48, 70 ],
       "url" : "http:\/\/t.co\/ZM8qMAxGp4",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAth2y.png",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAeh-w.png",
       "id_str" : "511699327161352192",
       "id" : 511699327161352192,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAth2y.png",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAeh-w.png",
       "sizes" : [ {
         "h" : 960,
         "resize" : "fit",
@@ -4929,10 +4997,10 @@ Grailbird.data.tweets_2014_09 =
         "expanded_url" : "https:\/\/twitter.com\/beeeeonka\/status\/511699327362670592\/photo\/1",
         "indices" : [ 33, 55 ],
         "url" : "http:\/\/t.co\/ZM8qMAxGp4",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAth2y.png",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAeh-w.png",
         "id_str" : "511699327161352192",
         "id" : 511699327161352192,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAth2y.png",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bxnr07NCQAAeh-w.png",
         "sizes" : [ {
           "h" : 960,
           "resize" : "fit",
@@ -4973,7 +5041,7 @@ Grailbird.data.tweets_2014_09 =
     "user" : {
       "name" : "Bianca",
       "screen_name" : "beeeeonka",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "111783880",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085523879722774535\/xyLgwo3T_normal.jpg",
       "id" : 111783880,
@@ -5074,6 +5142,136 @@ Grailbird.data.tweets_2014_09 =
   "created_at" : "2014-09-16 02:10:22 +0000",
   "in_reply_to_screen_name" : "roseysoho",
   "in_reply_to_user_id_str" : "15424441",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 15, 22 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/roseysoho\/status\/511697916608512000\/photo\/1",
+      "indices" : [ 51, 73 ],
+      "url" : "http:\/\/t.co\/OslLUTe9NW",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
+      "id_str" : "511697914331004928",
+      "id" : 511697914331004928,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 576
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 576
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 576
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 383
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/OslLUTe9NW"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "511698094619373568",
+  "text" : "RT @roseysoho: @phocks -13... Defying twitter odds http:\/\/t.co\/OslLUTe9NW",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/roseysoho\/status\/511697916608512000\/photo\/1",
+        "indices" : [ 36, 58 ],
+        "url" : "http:\/\/t.co\/OslLUTe9NW",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
+        "id_str" : "511697914331004928",
+        "id" : 511697914331004928,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BxnqisACAAAAL4W.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 1024,
+          "resize" : "fit",
+          "w" : 576
+        }, {
+          "h" : 680,
+          "resize" : "fit",
+          "w" : 383
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/OslLUTe9NW"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "511697413661523968",
+    "geo" : { },
+    "id_str" : "511697916608512000",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks -13... Defying twitter odds http:\/\/t.co\/OslLUTe9NW",
+    "id" : 511697916608512000,
+    "in_reply_to_status_id" : 511697413661523968,
+    "created_at" : "2014-09-16 02:07:44 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 511698094619373568,
+  "created_at" : "2014-09-16 02:08:27 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -6539,7 +6737,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "georgiecel",
       "protected" : false,
       "id_str" : "18328488",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055773455872737280\/c2tbK0JD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092740571670634496\/a6xu1dlF_normal.jpg",
       "id" : 18328488,
       "verified" : false
     }
@@ -8927,7 +9125,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgia Lou",
+      "name" : "georgia lou",
       "screen_name" : "daisyhearted",
       "indices" : [ 3, 16 ],
       "id_str" : "15955237",
@@ -8971,11 +9169,11 @@ Grailbird.data.tweets_2014_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Georgia Lou",
+      "name" : "georgia lou",
       "screen_name" : "daisyhearted",
       "protected" : false,
       "id_str" : "15955237",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1060483386735648769\/I_wqLL6L_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1092372586900512769\/zctxmmm0_normal.jpg",
       "id" : 15955237,
       "verified" : false
     }
@@ -9448,6 +9646,110 @@ Grailbird.data.tweets_2014_09 =
   "text" : "Coming to terms with the fact that I probably won't be able to ride my bike up from Melbourne, so I may be in the market for a bicycle soon\u2026",
   "id" : 506707935506866177,
   "created_at" : "2014-09-02 07:39:20 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "indices" : [ 3, 13 ],
+      "id_str" : "15424441",
+      "id" : 15424441
+    }, {
+      "name" : "Joshua Byrd",
+      "screen_name" : "phocks",
+      "indices" : [ 15, 22 ],
+      "id_str" : "5703342",
+      "id" : 5703342
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "pissfit",
+      "indices" : [ 23, 31 ]
+    }, {
+      "text" : "pissfitspiration",
+      "indices" : [ 32, 49 ]
+    }, {
+      "text" : "uncleaneating",
+      "indices" : [ 50, 64 ]
+    }, {
+      "text" : "motivation",
+      "indices" : [ 65, 76 ]
+    }, {
+      "text" : "nogymjustbeers",
+      "indices" : [ 77, 92 ]
+    }, {
+      "text" : "doyouevendrink",
+      "indices" : [ 93, 108 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "506674287588040704",
+  "text" : "RT @roseysoho: @phocks #pissfit #pissfitspiration #uncleaneating #motivation #nogymjustbeers #doyouevendrink",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Joshua Byrd",
+        "screen_name" : "phocks",
+        "indices" : [ 0, 7 ],
+        "id_str" : "5703342",
+        "id" : 5703342
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "pissfit",
+        "indices" : [ 8, 16 ]
+      }, {
+        "text" : "pissfitspiration",
+        "indices" : [ 17, 34 ]
+      }, {
+        "text" : "uncleaneating",
+        "indices" : [ 35, 49 ]
+      }, {
+        "text" : "motivation",
+        "indices" : [ 50, 61 ]
+      }, {
+        "text" : "nogymjustbeers",
+        "indices" : [ 62, 77 ]
+      }, {
+        "text" : "doyouevendrink",
+        "indices" : [ 78, 93 ]
+      } ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "506670794315792384",
+    "geo" : { },
+    "id_str" : "506671793512280064",
+    "in_reply_to_user_id" : 5703342,
+    "text" : "@phocks #pissfit #pissfitspiration #uncleaneating #motivation #nogymjustbeers #doyouevendrink",
+    "id" : 506671793512280064,
+    "in_reply_to_status_id" : 506670794315792384,
+    "created_at" : "2014-09-02 05:15:43 +0000",
+    "in_reply_to_screen_name" : "phocks",
+    "in_reply_to_user_id_str" : "5703342",
+    "user" : {
+      "name" : "Rosey",
+      "screen_name" : "roseysoho",
+      "protected" : true,
+      "id_str" : "15424441",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
+      "id" : 15424441,
+      "verified" : false
+    }
+  },
+  "id" : 506674287588040704,
+  "created_at" : "2014-09-02 05:25:38 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
