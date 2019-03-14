@@ -1037,7 +1037,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059634589767880705\/PmTpMEjg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105471246748147712\/mRw2mI0E_normal.jpg",
       "id" : 5788332,
       "verified" : false
     }
@@ -2242,7 +2242,7 @@ Grailbird.data.tweets_2015_02 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -2828,7 +2828,7 @@ Grailbird.data.tweets_2015_02 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -4226,7 +4226,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stirring Beasty Kraken\uD83E\uDD16\uD83C\uDF0F",
+      "name" : "Arty Beasty Chatter\uD83E\uDD16\uD83C\uDF0F",
       "screen_name" : "ERN_Malleyscrub",
       "indices" : [ 0, 16 ],
       "id_str" : "22607317",
@@ -5637,7 +5637,7 @@ Grailbird.data.tweets_2015_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anatomically modern",
+      "name" : "23\/02\/20 dead @ hands of hapkido-proficient cowboy",
       "screen_name" : "LakeMistake",
       "indices" : [ 1, 13 ],
       "id_str" : "1564544414",
@@ -8043,7 +8043,7 @@ Grailbird.data.tweets_2015_02 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,

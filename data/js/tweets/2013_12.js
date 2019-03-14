@@ -1527,16 +1527,11 @@ Grailbird.data.tweets_2013_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "415460872958775296",
   "geo" : { },
   "id_str" : "415461377374183424",
-  "in_reply_to_user_id" : 16866896,
   "text" : "@oyveyhan oh yes! You too my lovely!",
   "id" : 415461377374183424,
-  "in_reply_to_status_id" : 415460872958775296,
   "created_at" : "2013-12-24 12:38:05 +0000",
-  "in_reply_to_screen_name" : "yrallflops",
-  "in_reply_to_user_id_str" : "16866896",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

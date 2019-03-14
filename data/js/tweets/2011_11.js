@@ -1220,16 +1220,27 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "140621831420915712",
   "geo" : { },
   "id_str" : "140622113986977792",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 right on! love them.",
   "id" : 140622113986977792,
+  "in_reply_to_status_id" : 140621831420915712,
   "created_at" : "2011-11-27 02:44:59 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7405,16 +7416,27 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "133735537172422656",
   "geo" : { },
   "id_str" : "133735866651770880",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 oh god, i hope so!",
   "id" : 133735866651770880,
+  "in_reply_to_status_id" : 133735537172422656,
   "created_at" : "2011-11-08 02:41:29 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -2682,13 +2682,7 @@ Grailbird.data.tweets_2015_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "dan de lionflWHY DID GREEN BOOK EVEN WIN",
-      "screen_name" : "onekind",
-      "indices" : [ 0, 8 ],
-      "id_str" : "1654174358",
-      "id" : 1654174358
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6356,7 +6350,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anatomically modern",
+      "name" : "23\/02\/20 dead @ hands of hapkido-proficient cowboy",
       "screen_name" : "LakeMistake",
       "indices" : [ 1, 13 ],
       "id_str" : "1564544414",
@@ -6394,7 +6388,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anatomically modern",
+      "name" : "23\/02\/20 dead @ hands of hapkido-proficient cowboy",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",
@@ -6829,7 +6823,7 @@ Grailbird.data.tweets_2015_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "maykingtea #ATOMICON19 SocialMediaCorrespondent",
+      "name" : "maykingtea \u66FE\u7F8E\u74CA #SMMW19 attendee",
       "screen_name" : "MayKingTea",
       "indices" : [ 128, 139 ],
       "id_str" : "17832146",

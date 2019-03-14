@@ -4241,7 +4241,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "8844972",
       "id" : 8844972
     }, {
-      "name" : "Hacklock",
+      "name" : "Hacklock or Miss",
       "screen_name" : "hacklocked",
       "indices" : [ 10, 21 ],
       "id_str" : "262970056",

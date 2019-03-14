@@ -8629,57 +8629,6 @@ Grailbird.data.tweets_2010_10 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "carnagefairy",
-      "screen_name" : "carnagefairy",
-      "indices" : [ 3, 16 ],
-      "id_str" : "14211650",
-      "id" : 14211650
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "26304856720",
-  "text" : "RT @carnagefairy: Monday. Do not want.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "26302464045",
-    "text" : "Monday. Do not want.",
-    "id" : 26302464045,
-    "created_at" : "2010-10-03 21:30:26 +0000",
-    "user" : {
-      "name" : "carnagefairy",
-      "screen_name" : "carnagefairy",
-      "protected" : false,
-      "id_str" : "14211650",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988943914512957440\/ROBmzWJ5_normal.jpg",
-      "id" : 14211650,
-      "verified" : false
-    }
-  },
-  "id" : 26304856720,
-  "created_at" : "2010-10-03 00:00:00 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],

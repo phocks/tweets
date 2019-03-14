@@ -106,16 +106,27 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "483436914150612992",
   "geo" : { },
   "id_str" : "483439799252951040",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 yes, butter is a must!",
   "id" : 483439799252951040,
+  "in_reply_to_status_id" : 483436914150612992,
   "created_at" : "2014-06-30 02:40:04 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8103,16 +8114,11 @@ Grailbird.data.tweets_2014_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "474038733252337664",
   "geo" : { },
   "id_str" : "474041063607267329",
-  "in_reply_to_user_id" : 16866896,
   "text" : "@oyveyhan good book!",
   "id" : 474041063607267329,
-  "in_reply_to_status_id" : 474038733252337664,
   "created_at" : "2014-06-04 04:12:51 +0000",
-  "in_reply_to_screen_name" : "yrallflops",
-  "in_reply_to_user_id_str" : "16866896",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

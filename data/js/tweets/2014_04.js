@@ -2076,16 +2076,11 @@ Grailbird.data.tweets_2014_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "458760263752482817",
   "geo" : { },
   "id_str" : "458762789717155840",
-  "in_reply_to_user_id" : 16866896,
   "text" : "@oyveyhan haha I know right, I'm glad you noticed first! You're the first one to comment on it :) I wonder who the artist is",
   "id" : 458762789717155840,
-  "in_reply_to_status_id" : 458760263752482817,
   "created_at" : "2014-04-23 00:22:27 +0000",
-  "in_reply_to_screen_name" : "yrallflops",
-  "in_reply_to_user_id_str" : "16866896",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

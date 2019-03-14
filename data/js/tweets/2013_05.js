@@ -4602,16 +4602,11 @@ Grailbird.data.tweets_2013_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "329797567514808321",
   "geo" : { },
   "id_str" : "329827323857760256",
-  "in_reply_to_user_id" : 16866896,
   "text" : "@hannvk an old joke, but I always think of it when I see Freddie :)",
   "id" : 329827323857760256,
-  "in_reply_to_status_id" : 329797567514808321,
   "created_at" : "2013-05-02 05:18:56 +0000",
-  "in_reply_to_screen_name" : "yrallflops",
-  "in_reply_to_user_id_str" : "16866896",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

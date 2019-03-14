@@ -1858,27 +1858,16 @@ Grailbird.data.tweets_2010_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natski",
-      "screen_name" : "nataliemoo",
-      "indices" : [ 0, 11 ],
-      "id_str" : "22097393",
-      "id" : 22097393
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "16923601405",
   "geo" : { },
   "id_str" : "16970498412",
-  "in_reply_to_user_id" : 22097393,
   "text" : "@nataliemoo i should have known it was jonathan, the eliminator",
   "id" : 16970498412,
-  "in_reply_to_status_id" : 16923601405,
   "created_at" : "2010-06-24 00:00:00 +0000",
-  "in_reply_to_screen_name" : "nataliemoo",
-  "in_reply_to_user_id_str" : "22097393",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

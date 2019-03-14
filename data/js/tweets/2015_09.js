@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u043C\u03C3\u2113",
+      "name" : "m",
       "screen_name" : "deadseraphim",
       "indices" : [ 3, 16 ],
       "id_str" : "2585244434",
@@ -1751,6 +1751,57 @@ Grailbird.data.tweets_2015_09 =
   "text" : "Sorting out this RTA mess up thingy. Why does everyone have to screw us around all the time lol",
   "id" : 648311529377427456,
   "created_at" : "2015-09-28 01:41:28 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jess Erickson",
+      "screen_name" : "Jessjerickson",
+      "indices" : [ 3, 17 ],
+      "id_str" : "33528381",
+      "id" : 33528381
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "648302836011261952",
+  "text" : "RT @Jessjerickson: \"Opinions are like nipples. Everybody has them, but men get to share theirs in public.\" via Isaac Wolkerstorfer",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "647655036827385856",
+    "text" : "\"Opinions are like nipples. Everybody has them, but men get to share theirs in public.\" via Isaac Wolkerstorfer",
+    "id" : 647655036827385856,
+    "created_at" : "2015-09-26 06:12:48 +0000",
+    "user" : {
+      "name" : "Jess Erickson",
+      "screen_name" : "Jessjerickson",
+      "protected" : false,
+      "id_str" : "33528381",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1067228243567099904\/-raI3a1V_normal.jpg",
+      "id" : 33528381,
+      "verified" : false
+    }
+  },
+  "id" : 648302836011261952,
+  "created_at" : "2015-09-28 01:06:55 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5828,7 +5879,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "shutupmikeginn",
       "protected" : false,
       "id_str" : "246394886",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1072265569984868352\/rPfKDwoD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103834002929070080\/ja9uBjYP_normal.jpg",
       "id" : 246394886,
       "verified" : true
     }
@@ -6578,7 +6629,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Wren, Helloworld's LNP Account Manager",
+      "name" : "John Wren, the Member for AUSPOL",
       "screen_name" : "JohnWren1950",
       "indices" : [ 3, 16 ],
       "id_str" : "2603192304",
@@ -6673,7 +6724,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 645853735617433600,
     "created_at" : "2015-09-21 06:55:04 +0000",
     "user" : {
-      "name" : "John Wren, Rejected Candidate for ABC Chairman",
+      "name" : "John Wren, the Member for AUSPOL",
       "screen_name" : "JohnWren1950",
       "protected" : false,
       "id_str" : "2603192304",
@@ -7066,7 +7117,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -7139,7 +7190,7 @@ Grailbird.data.tweets_2015_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -16084,7 +16135,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -16872,7 +16923,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059634589767880705\/PmTpMEjg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105471246748147712\/mRw2mI0E_normal.jpg",
       "id" : 5788332,
       "verified" : false
     }

@@ -1465,16 +1465,27 @@ Grailbird.data.tweets_2015_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Teresa Sargent",
+      "screen_name" : "liltistis",
+      "indices" : [ 0, 10 ],
+      "id_str" : "427673790",
+      "id" : 427673790
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "592639578554564608",
   "geo" : { },
   "id_str" : "592640255263571969",
+  "in_reply_to_user_id" : 427673790,
   "text" : "@liltistis heyyyyy",
   "id" : 592640255263571969,
+  "in_reply_to_status_id" : 592639578554564608,
   "created_at" : "2015-04-27 10:43:42 +0000",
+  "in_reply_to_screen_name" : "liltistis",
+  "in_reply_to_user_id_str" : "427673790",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -1603,7 +1614,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -2806,7 +2817,7 @@ Grailbird.data.tweets_2015_04 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -5549,7 +5560,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "I regen mold",
+      "name" : "Olden grime",
       "screen_name" : "NedGilmore",
       "indices" : [ 3, 14 ],
       "id_str" : "166001040",
@@ -5576,7 +5587,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 589044413046784000,
     "created_at" : "2015-04-17 12:35:06 +0000",
     "user" : {
-      "name" : "I regen mold",
+      "name" : "Olden grime",
       "screen_name" : "NedGilmore",
       "protected" : false,
       "id_str" : "166001040",
@@ -6822,7 +6833,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Adam",
+      "name" : "WeAreBne \/ Nicola",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",

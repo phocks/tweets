@@ -6100,7 +6100,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "PoshLopez",
       "protected" : false,
       "id_str" : "24825958",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1065399679817400321\/48rVqe31_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105352889420013568\/QOpkE-Ug_normal.jpg",
       "id" : 24825958,
       "verified" : false
     }

@@ -6104,6 +6104,57 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jacob Holman",
+      "screen_name" : "JacobLeigh",
+      "indices" : [ 3, 14 ],
+      "id_str" : "20220718",
+      "id" : 20220718
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "57642522851278848",
+  "text" : "RT @JacobLeigh: Pauline Hanson can't possibly have any more Horcruxes, can she?",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "57640399015124992",
+    "text" : "Pauline Hanson can't possibly have any more Horcruxes, can she?",
+    "id" : 57640399015124992,
+    "created_at" : "2011-04-12 03:05:16 +0000",
+    "user" : {
+      "name" : "Jacob Holman",
+      "screen_name" : "JacobLeigh",
+      "protected" : false,
+      "id_str" : "20220718",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103532618895613952\/Fq0rug_E_normal.jpg",
+      "id" : 20220718,
+      "verified" : false
+    }
+  },
+  "id" : 57642522851278848,
+  "created_at" : "2011-04-12 03:13:43 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8541,16 +8592,27 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "54671690235527168",
   "geo" : { },
   "id_str" : "54673070413193216",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 honey on one, rasberry jam on the other :)",
   "id" : 54673070413193216,
+  "in_reply_to_status_id" : 54671690235527168,
   "created_at" : "2011-04-03 22:34:10 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -300,10 +300,10 @@ Grailbird.data.tweets_2015_08 =
       "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
       "indices" : [ 28, 50 ],
       "url" : "http:\/\/t.co\/AnkaZrnDK2",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "id_str" : "638151830216675328",
       "id" : 638151830216675328,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
       "sizes" : [ {
         "h" : 150,
         "resize" : "crop",
@@ -345,10 +345,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/FenstarDeLuxe\/status\/638151861976059905\/photo\/1",
         "indices" : [ 9, 31 ],
         "url" : "http:\/\/t.co\/AnkaZrnDK2",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "id_str" : "638151830216675328",
         "id" : 638151830216675328,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAksNS.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNsrtWDUkAAkJAB.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -387,7 +387,7 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Fen",
       "screen_name" : "FenstarDeLuxe",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "19573120",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008267216146452481\/1or-9S8N_normal.jpg",
       "id" : 19573120,
@@ -1052,7 +1052,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "BreeMateljan",
       "protected" : false,
       "id_str" : "5788332",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1059634589767880705\/PmTpMEjg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105471246748147712\/mRw2mI0E_normal.jpg",
       "id" : 5788332,
       "verified" : false
     }
@@ -1954,10 +1954,10 @@ Grailbird.data.tweets_2015_08 =
         "expanded_url" : "https:\/\/twitter.com\/goldensteph_\/status\/636348479896358912\/photo\/1",
         "indices" : [ 114, 136 ],
         "url" : "http:\/\/t.co\/riB9k6lXPa",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNTDjADUsAA86fR.jpg",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CNTDjADUsAA3ppV.jpg",
         "id_str" : "636348453442859008",
         "id" : 636348453442859008,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNTDjADUsAA86fR.jpg",
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CNTDjADUsAA3ppV.jpg",
         "sizes" : [ {
           "h" : 150,
           "resize" : "crop",
@@ -1996,7 +1996,7 @@ Grailbird.data.tweets_2015_08 =
     "user" : {
       "name" : "Stephanie",
       "screen_name" : "goldensteph_",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "69231656",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/788160562676928512\/Q3I68JtN_normal.jpg",
       "id" : 69231656,
@@ -5088,7 +5088,7 @@ Grailbird.data.tweets_2015_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stacia Grooby",
+      "name" : "Stacia Grooby \uD83C\uDF08",
       "screen_name" : "GG_Domika",
       "indices" : [ 3, 13 ],
       "id_str" : "191640229",
@@ -6638,7 +6638,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -7961,7 +7961,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }
@@ -8155,7 +8155,7 @@ Grailbird.data.tweets_2015_08 =
       "screen_name" : "KarunaHospice",
       "protected" : false,
       "id_str" : "1363366826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/737475546347495424\/qjT-cZ2g_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105325509846609920\/E_T-Hz3F_normal.png",
       "id" : 1363366826,
       "verified" : false
     }

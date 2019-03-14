@@ -962,13 +962,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ben Pobjie",
-      "screen_name" : "benpobjie",
-      "indices" : [ 116, 126 ],
-      "id_str" : "22120918",
-      "id" : 22120918
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "vicvotes",

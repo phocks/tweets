@@ -3179,73 +3179,6 @@ Grailbird.data.tweets_2014_07 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "fus",
-      "screen_name" : "spofity",
-      "indices" : [ 3, 11 ],
-      "id_str" : "212212056",
-      "id" : 212212056
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "NowPlaying",
-      "indices" : [ 62, 73 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 39, 61 ],
-      "url" : "http:\/\/t.co\/1vJDapK9Oy",
-      "expanded_url" : "http:\/\/spoti.fi\/1sxlKDk",
-      "display_url" : "spoti.fi\/1sxlKDk"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "490163483544010752",
-  "text" : "RT @spofity: \u266B Sneakers \u2013 Velociraptor http:\/\/t.co\/1vJDapK9Oy #NowPlaying",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/spotify.com\" rel=\"nofollow\"\u003ESpotify\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "NowPlaying",
-        "indices" : [ 49, 60 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 26, 48 ],
-        "url" : "http:\/\/t.co\/1vJDapK9Oy",
-        "expanded_url" : "http:\/\/spoti.fi\/1sxlKDk",
-        "display_url" : "spoti.fi\/1sxlKDk"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "490123920885161984",
-    "text" : "\u266B Sneakers \u2013 Velociraptor http:\/\/t.co\/1vJDapK9Oy #NowPlaying",
-    "id" : 490123920885161984,
-    "created_at" : "2014-07-18 13:20:23 +0000",
-    "user" : {
-      "name" : "fus",
-      "screen_name" : "spofity",
-      "protected" : false,
-      "id_str" : "212212056",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/905098958552387584\/bnT7eXkv_normal.jpg",
-      "id" : 212212056,
-      "verified" : false
-    }
-  },
-  "id" : 490163483544010752,
-  "created_at" : "2014-07-18 15:57:35 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -3927,16 +3860,27 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "489000965178019840",
   "geo" : { },
   "id_str" : "489002977487622145",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 delicious!",
   "id" : 489002977487622145,
+  "in_reply_to_status_id" : 489000965178019840,
   "created_at" : "2014-07-15 11:06:09 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4944,16 +4888,27 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "487873406474256384",
   "geo" : { },
   "id_str" : "487887627949842432",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 me too ^_^",
   "id" : 487887627949842432,
+  "in_reply_to_status_id" : 487873406474256384,
   "created_at" : "2014-07-12 09:14:09 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
