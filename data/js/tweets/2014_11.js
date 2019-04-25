@@ -470,9 +470,9 @@ Grailbird.data.tweets_2014_11 =
     "user" : {
       "name" : "Bianca",
       "screen_name" : "beeeeonka",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "111783880",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1085523879722774535\/xyLgwo3T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1109350287628627968\/5Xbuec6s_normal.jpg",
       "id" : 111783880,
       "verified" : false
     }
@@ -2369,7 +2369,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102370814832377856\/3Dq_1yGr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117563415990501381\/x66LyNqg_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -3825,7 +3825,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "ashtuckerman",
       "protected" : false,
       "id_str" : "26959095",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087507354344538112\/e9mOvIoD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118120424150188032\/dwiIKItf_normal.jpg",
       "id" : 26959095,
       "verified" : false
     }
@@ -5179,7 +5179,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -5212,7 +5212,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -6129,74 +6129,6 @@ Grailbird.data.tweets_2014_11 =
   "created_at" : "2014-11-09 13:48:48 +0000",
   "in_reply_to_screen_name" : "caitlandmc",
   "in_reply_to_user_id_str" : "1376219534",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Meg",
-      "screen_name" : "moraggemma",
-      "indices" : [ 3, 14 ],
-      "id_str" : "391298479",
-      "id" : 391298479
-    }, {
-      "name" : "Joshua Byrd",
-      "screen_name" : "phocks",
-      "indices" : [ 16, 23 ],
-      "id_str" : "5703342",
-      "id" : 5703342
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "531427466623983617",
-  "text" : "RT @moraggemma: @phocks It is true that that that that that man used in that sentence is wrong.",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Joshua Byrd",
-        "screen_name" : "phocks",
-        "indices" : [ 0, 7 ],
-        "id_str" : "5703342",
-        "id" : 5703342
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "in_reply_to_status_id_str" : "531414389933342720",
-    "geo" : { },
-    "id_str" : "531427284045946880",
-    "in_reply_to_user_id" : 5703342,
-    "text" : "@phocks It is true that that that that that man used in that sentence is wrong.",
-    "id" : 531427284045946880,
-    "in_reply_to_status_id" : 531414389933342720,
-    "created_at" : "2014-11-09 12:45:12 +0000",
-    "in_reply_to_screen_name" : "phocks",
-    "in_reply_to_user_id_str" : "5703342",
-    "user" : {
-      "name" : "Meg",
-      "screen_name" : "moraggemma",
-      "protected" : false,
-      "id_str" : "391298479",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
-      "id" : 391298479,
-      "verified" : false
-    }
-  },
-  "id" : 531427466623983617,
-  "created_at" : "2014-11-09 12:45:56 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8027,7 +7959,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Cait Larcombe",
+      "name" : "Caitaclysmic",
       "screen_name" : "caitaclysmic",
       "indices" : [ 0, 13 ],
       "id_str" : "18283372",

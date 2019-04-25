@@ -4035,7 +4035,7 @@ Grailbird.data.tweets_2013_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "katrina \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "katrina \uD83D\uDD2E",
       "screen_name" : "katreeeena",
       "indices" : [ 0, 11 ],
       "id_str" : "21218422",
@@ -4679,7 +4679,7 @@ Grailbird.data.tweets_2013_07 =
   "id" : 352146556687884290,
   "in_reply_to_status_id" : 352074669744078852,
   "created_at" : "2013-07-02 19:27:36 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5018,7 +5018,7 @@ Grailbird.data.tweets_2013_07 =
       "id_str" : "145138705",
       "id" : 145138705
     }, {
-      "name" : "Roger the Shrubber.",
+      "name" : "Trainee Kwisatz Haderach.",
       "screen_name" : "ThePatrician",
       "indices" : [ 26, 39 ],
       "id_str" : "23424239",

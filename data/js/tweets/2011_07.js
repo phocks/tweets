@@ -1390,7 +1390,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ron Dalby",
+      "name" : "Ron Dalby \uD83C\uDF08\uD83C\uDDE6\uD83C\uDDFA",
       "screen_name" : "ronsondalby",
       "indices" : [ 0, 12 ],
       "id_str" : "266343724",
@@ -1722,7 +1722,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -1872,7 +1872,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -1908,7 +1908,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -2025,7 +2025,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "105733292",
       "id" : 105733292
     }, {
-      "name" : "Ron Dalby",
+      "name" : "\uD83D\uDCA7Ron Dalby \uD83C\uDDE6\uD83C\uDDFA \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ronsondalby",
       "indices" : [ 65, 77 ],
       "id_str" : "266343724",
@@ -4188,7 +4188,7 @@ Grailbird.data.tweets_2011_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
@@ -4813,6 +4813,12 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    }, {
       "name" : "paranorgia",
       "screen_name" : "paranorgia",
       "indices" : [ 19, 30 ],
@@ -4823,11 +4829,16 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "91752144255983616",
   "geo" : { },
   "id_str" : "91767382254698496",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 @fishnotworm @paranorgia ;)",
   "id" : 91767382254698496,
+  "in_reply_to_status_id" : 91752144255983616,
   "created_at" : "2011-07-15 07:13:43 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7423,7 +7434,7 @@ Grailbird.data.tweets_2011_07 =
     "user" : {
       "name" : "Laura Kirkham",
       "screen_name" : "laurakirkham",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "22483027",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1063610293618503680\/YQYItukz_normal.jpg",
       "id" : 22483027,
@@ -8475,12 +8486,6 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 87, 101 ],
       "id_str" : "19573120",
       "id" : 19573120
-    }, {
-      "name" : "Michael",
-      "screen_name" : "Mpluso",
-      "indices" : [ 102, 109 ],
-      "id_str" : "16693859",
-      "id" : 16693859
     }, {
       "name" : "Amanda",
       "screen_name" : "manda__x",

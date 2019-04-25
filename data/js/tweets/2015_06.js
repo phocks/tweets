@@ -1305,7 +1305,7 @@ Grailbird.data.tweets_2015_06 =
       "screen_name" : "SwiftOnSecurity",
       "protected" : false,
       "id_str" : "2436389418",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102370814832377856\/3Dq_1yGr_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117563415990501381\/x66LyNqg_normal.jpg",
       "id" : 2436389418,
       "verified" : false
     }
@@ -2198,13 +2198,7 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2217,7 +2211,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 613630086579761152,
   "in_reply_to_status_id" : 613629789258166272,
   "created_at" : "2015-06-24 08:49:47 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2945,7 +2939,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "katrina \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "katrina \uD83D\uDD2E",
       "screen_name" : "katreeeena",
       "indices" : [ 0, 11 ],
       "id_str" : "21218422",
@@ -3470,12 +3464,6 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 3, 15 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 17, 24 ],
@@ -3515,7 +3503,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
       "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
+      "screen_name" : "SusanneLRandall",
       "protected" : false,
       "id_str" : "2789849677",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077581736106614785\/FScpsEPT_normal.jpg",
@@ -3858,12 +3846,6 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 3, 15 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 17, 24 ],
@@ -3932,7 +3914,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
       "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
+      "screen_name" : "SusanneLRandall",
       "protected" : false,
       "id_str" : "2789849677",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1077581736106614785\/FScpsEPT_normal.jpg",
@@ -3955,7 +3937,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -4188,7 +4170,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris O\u2019Regan",
+      "name" : "Counterfeit Anzac bikkie eater",
       "screen_name" : "chrisjoregan",
       "indices" : [ 0, 13 ],
       "id_str" : "15390381",
@@ -4702,7 +4684,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Lake Baikal Facts",
       "screen_name" : "hoaxie",
       "indices" : [ 3, 10 ],
       "id_str" : "801634435",
@@ -4746,7 +4728,7 @@ Grailbird.data.tweets_2015_06 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Steven",
+      "name" : "Lake Baikal Facts",
       "screen_name" : "hoaxie",
       "protected" : false,
       "id_str" : "801634435",
@@ -5778,12 +5760,6 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    }, {
       "name" : "David Duchovny",
       "screen_name" : "davidduchovny",
       "indices" : [ 13, 27 ],
@@ -5802,7 +5778,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 610212691941048320,
   "in_reply_to_status_id" : 610095614198611968,
   "created_at" : "2015-06-14 22:30:17 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -6523,13 +6499,7 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6542,7 +6512,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 609603489363132416,
   "in_reply_to_status_id" : 609582335084773377,
   "created_at" : "2015-06-13 06:09:32 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -7282,13 +7252,7 @@ Grailbird.data.tweets_2015_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/608421108367372289\/photo\/1",
       "indices" : [ 31, 53 ],
@@ -7332,7 +7296,7 @@ Grailbird.data.tweets_2015_06 =
   "id" : 608421108367372289,
   "in_reply_to_status_id" : 608258448413696001,
   "created_at" : "2015-06-09 23:51:10 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -8169,7 +8133,7 @@ Grailbird.data.tweets_2015_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anatomically modern",
+      "name" : "future genius",
       "screen_name" : "LakeMistake",
       "indices" : [ 0, 12 ],
       "id_str" : "1564544414",

@@ -1450,7 +1450,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "AshKyd",
       "protected" : false,
       "id_str" : "5111011",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104478221632983043\/GuitsFtb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108085334124961792\/Ql3Cn1Xa_normal.png",
       "id" : 5111011,
       "verified" : false
     }
@@ -1503,7 +1503,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Murat BALCY",
+      "name" : "Murat BALCY \uD83C\uDDEB\uD83C\uDDF7 \uD83C\uDDE6\uD83C\uDDF2",
       "screen_name" : "MBalcy",
       "indices" : [ 0, 7 ],
       "id_str" : "368241387",
@@ -1888,7 +1888,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "KatePow3ll",
       "protected" : false,
       "id_str" : "544576633",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070318930152042496\/Cl1JBhBG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110300016311193601\/0uzbvlJR_normal.jpg",
       "id" : 544576633,
       "verified" : false
     }
@@ -2407,7 +2407,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hayley",
+      "name" : "hayley \uD83E\uDD8B",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -2579,7 +2579,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chi",
+      "name" : "\uC9C0\uC601",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -3163,7 +3163,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Nicola",
+      "name" : "WeAreBne \/ Nicnevin \uD83C\uDF08 [they\/them pronouns]",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",
@@ -4245,7 +4245,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Murat BALCY",
+      "name" : "Murat BALCY \uD83C\uDDEB\uD83C\uDDF7 \uD83C\uDDE6\uD83C\uDDF2",
       "screen_name" : "MBalcy",
       "indices" : [ 0, 7 ],
       "id_str" : "368241387",
@@ -4338,7 +4338,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "k. moran",
+      "name" : "kelly moran",
       "screen_name" : "kellymoran",
       "indices" : [ 3, 14 ],
       "id_str" : "17830855",
@@ -4489,11 +4489,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 900111902331858945,
     "created_at" : "2017-08-22 21:46:15 +0000",
     "user" : {
-      "name" : "k. moran",
+      "name" : "kelly moran",
       "screen_name" : "kellymoran",
       "protected" : false,
       "id_str" : "17830855",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1069823485910892544\/_xD882bX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1121129365671223296\/DvWkihQa_normal.jpg",
       "id" : 17830855,
       "verified" : false
     }
@@ -4970,7 +4970,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -5538,7 +5538,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "KatePow3ll",
       "protected" : false,
       "id_str" : "544576633",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1070318930152042496\/Cl1JBhBG_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110300016311193601\/0uzbvlJR_normal.jpg",
       "id" : 544576633,
       "verified" : false
     }
@@ -5624,7 +5624,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Murat BALCY",
+      "name" : "Murat BALCY \uD83C\uDDEB\uD83C\uDDF7 \uD83C\uDDE6\uD83C\uDDF2",
       "screen_name" : "MBalcy",
       "indices" : [ 0, 7 ],
       "id_str" : "368241387",
@@ -5723,7 +5723,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Murat BALCY",
+      "name" : "Murat BALCY \uD83C\uDDEB\uD83C\uDDF7 \uD83C\uDDE6\uD83C\uDDF2",
       "screen_name" : "MBalcy",
       "indices" : [ 0, 7 ],
       "id_str" : "368241387",
@@ -5891,7 +5891,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -6416,207 +6416,6 @@ Grailbird.data.tweets_2017_08 =
   },
   "id" : 899770695848083457,
   "created_at" : "2017-08-21 23:10:25 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Liddy \uD83D\uDCF1\uD83D\uDCAC",
-      "screen_name" : "mattliddy",
-      "indices" : [ 3, 13 ],
-      "id_str" : "20738885",
-      "id" : 20738885
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "SolarEclipse",
-      "indices" : [ 47, 60 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 109, 132 ],
-      "url" : "https:\/\/t.co\/S0MWjT2k8I",
-      "expanded_url" : "http:\/\/ab.co\/2wyeBdZ",
-      "display_url" : "ab.co\/2wyeBdZ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "899770079440654340",
-  "text" : "RT @mattliddy: If you don't want to wait for a #SolarEclipse Down Under, go eclipse chasing around the globe https:\/\/t.co\/S0MWjT2k8I https:\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/mattliddy\/status\/899746794569031681\/photo\/1",
-        "indices" : [ 118, 141 ],
-        "url" : "https:\/\/t.co\/kkOSuFZVYy",
-        "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DHyKWPtUwAAV89Z.jpg",
-        "id_str" : "899746140345647104",
-        "id" : 899746140345647104,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DHyKWPtUwAAV89Z.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 592,
-          "resize" : "fit",
-          "w" : 680
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/kkOSuFZVYy"
-      } ],
-      "hashtags" : [ {
-        "text" : "SolarEclipse",
-        "indices" : [ 32, 45 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 94, 117 ],
-        "url" : "https:\/\/t.co\/S0MWjT2k8I",
-        "expanded_url" : "http:\/\/ab.co\/2wyeBdZ",
-        "display_url" : "ab.co\/2wyeBdZ"
-      } ]
-    },
-    "in_reply_to_status_id_str" : "899745965929750528",
-    "geo" : { },
-    "id_str" : "899746794569031681",
-    "in_reply_to_user_id" : 20738885,
-    "text" : "If you don't want to wait for a #SolarEclipse Down Under, go eclipse chasing around the globe https:\/\/t.co\/S0MWjT2k8I https:\/\/t.co\/kkOSuFZVYy",
-    "id" : 899746794569031681,
-    "in_reply_to_status_id" : 899745965929750528,
-    "created_at" : "2017-08-21 21:35:26 +0000",
-    "in_reply_to_screen_name" : "mattliddy",
-    "in_reply_to_user_id_str" : "20738885",
-    "user" : {
-      "name" : "Matt Liddy \uD83D\uDCF1\uD83D\uDCAC",
-      "screen_name" : "mattliddy",
-      "protected" : false,
-      "id_str" : "20738885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/77806039\/avatar_normal.png",
-      "id" : 20738885,
-      "verified" : true
-    }
-  },
-  "id" : 899770079440654340,
-  "created_at" : "2017-08-21 23:07:58 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Matt Liddy \uD83D\uDCF1\uD83D\uDCAC",
-      "screen_name" : "mattliddy",
-      "indices" : [ 3, 13 ],
-      "id_str" : "20738885",
-      "id" : 20738885
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "SolarEclipse",
-      "indices" : [ 26, 39 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 101, 124 ],
-      "url" : "https:\/\/t.co\/S0MWjT2k8I",
-      "expanded_url" : "http:\/\/ab.co\/2wyeBdZ",
-      "display_url" : "ab.co\/2wyeBdZ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "899770059752521728",
-  "text" : "RT @mattliddy: If today's #SolarEclipse has you inspired, here's when you can catch one in Australia https:\/\/t.co\/S0MWjT2k8I https:\/\/t.co\/k\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/mattliddy\/status\/899745965929750528\/photo\/1",
-        "indices" : [ 110, 133 ],
-        "url" : "https:\/\/t.co\/kggrswgfN8",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/DHyJsANUQAA1Ip2.jpg",
-        "id_str" : "899745414630359040",
-        "id" : 899745414630359040,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DHyJsANUQAA1Ip2.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 414,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 731,
-          "resize" : "fit",
-          "w" : 1200
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/kggrswgfN8"
-      } ],
-      "hashtags" : [ {
-        "text" : "SolarEclipse",
-        "indices" : [ 11, 24 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 86, 109 ],
-        "url" : "https:\/\/t.co\/S0MWjT2k8I",
-        "expanded_url" : "http:\/\/ab.co\/2wyeBdZ",
-        "display_url" : "ab.co\/2wyeBdZ"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "899745965929750528",
-    "text" : "If today's #SolarEclipse has you inspired, here's when you can catch one in Australia https:\/\/t.co\/S0MWjT2k8I https:\/\/t.co\/kggrswgfN8",
-    "id" : 899745965929750528,
-    "created_at" : "2017-08-21 21:32:09 +0000",
-    "user" : {
-      "name" : "Matt Liddy \uD83D\uDCF1\uD83D\uDCAC",
-      "screen_name" : "mattliddy",
-      "protected" : false,
-      "id_str" : "20738885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/77806039\/avatar_normal.png",
-      "id" : 20738885,
-      "verified" : true
-    }
-  },
-  "id" : 899770059752521728,
-  "created_at" : "2017-08-21 23:07:53 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -7164,7 +6963,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "baileylopez_",
       "protected" : false,
       "id_str" : "2224157268",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090818934708858881\/d3z9YR4v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110747384731054080\/Yl9fjpGt_normal.jpg",
       "id" : 2224157268,
       "verified" : false
     }
@@ -7184,7 +6983,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Full Communism 2020",
+      "name" : "The HELLMOM",
       "screen_name" : "MissFruitypie",
       "indices" : [ 3, 17 ],
       "id_str" : "70520815",
@@ -7216,7 +7015,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 898762650896613377,
     "created_at" : "2017-08-19 04:24:48 +0000",
     "user" : {
-      "name" : "Full Communism 2020",
+      "name" : "The HELLMOM",
       "screen_name" : "MissFruitypie",
       "protected" : false,
       "id_str" : "70520815",
@@ -7460,7 +7259,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Laloofah \u24CB \uD83C\uDF32\uD83D\uDC9A\uD83C\uDF32",
+      "name" : "Laloofah \u24CB \uD83C\uDF3F\uD83C\uDF38\uD83D\uDC9A",
       "screen_name" : "Laloofah",
       "indices" : [ 0, 9 ],
       "id_str" : "1527877700",
@@ -8513,11 +8312,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 897757234075058176,
     "created_at" : "2017-08-16 09:49:38 +0000",
     "user" : {
-      "name" : "Simba \u03A9 \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83E\uDD84\uD83E\uDD81",
+      "name" : "Simba \u03A9 \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83E\uDD84\uD83E\uDD81\uD83D\uDEE1",
       "screen_name" : "AsapSimbaJ",
       "protected" : false,
       "id_str" : "360264947",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1091273496938729472\/41vS1p0v_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115098965886689280\/hrc3GaR__normal.jpg",
       "id" : 360264947,
       "verified" : false
     }
@@ -8626,7 +8425,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 897577208440606721,
     "created_at" : "2017-08-15 21:54:17 +0000",
     "user" : {
-      "name" : "f thot fitzgerald",
+      "name" : "\uD835\uDCD5. \uD835\uDCE3\uD835\uDCF1\uD835\uDCF8\uD835\uDCFD \uD835\uDCD5\uD835\uDCF2\uD835\uDCFD\uD835\uDD03\uD835\uDCF0\uD835\uDCEE\uD835\uDCFB\uD835\uDCEA\uD835\uDCF5\uD835\uDCED",
       "screen_name" : "dracomallfoys",
       "protected" : false,
       "id_str" : "322539565",
@@ -9098,7 +8897,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "chi",
+      "name" : "\uC9C0\uC601",
       "screen_name" : "VeganVamp27",
       "indices" : [ 0, 12 ],
       "id_str" : "22970177",
@@ -10062,7 +9861,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GoDaddy",
       "protected" : false,
       "id_str" : "14949454",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1104401359149940736\/74U28RzC_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1120355693733863424\/2oiV0W7U_normal.png",
       "id" : 14949454,
       "verified" : true
     }
@@ -10490,7 +10289,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ed",
+      "name" : "john wrenay ramsey",
       "screen_name" : "macaulaybalkan",
       "indices" : [ 3, 18 ],
       "id_str" : "27413507",
@@ -10548,7 +10347,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 897063782509195265,
     "created_at" : "2017-08-14 11:54:07 +0000",
     "user" : {
-      "name" : "Ed",
+      "name" : "john wrenay ramsey",
       "screen_name" : "macaulaybalkan",
       "protected" : false,
       "id_str" : "27413507",
@@ -13471,7 +13270,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kathy Reid, Canberra Edition",
+      "name" : "Kathy Reid in Canberra at #3AIFirstCohort",
       "screen_name" : "KathyReid",
       "indices" : [ 0, 10 ],
       "id_str" : "15413774",
@@ -13702,11 +13501,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 894758720906813441,
     "created_at" : "2017-08-08 03:14:37 +0000",
     "user" : {
-      "name" : "your heart is a muscle the size of your fist",
+      "name" : "\u2B50\uFE0F",
       "screen_name" : "edgycrybaby",
       "protected" : false,
       "id_str" : "1726592966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1100885693910331393\/bvfQbBab_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1116395909665972224\/JE4FMQ-T_normal.jpg",
       "id" : 1726592966,
       "verified" : false
     }
@@ -15475,7 +15274,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "INDIEWASHERE",
       "protected" : false,
       "id_str" : "415851343",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103464236662116354\/faUcg1Ai_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108132304751341568\/AQ5tf59c_normal.jpg",
       "id" : 415851343,
       "verified" : false
     }
@@ -15954,7 +15753,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "hayley",
+      "name" : "hayley \uD83E\uDD8B",
       "screen_name" : "edamemebeans",
       "indices" : [ 0, 13 ],
       "id_str" : "2351283432",
@@ -16810,7 +16609,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "thelizarddqueen",
       "protected" : false,
       "id_str" : "584298474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1096664535656792064\/ZvVjJ9sU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1120514131528908800\/LsFeeN9Y_normal.jpg",
       "id" : 584298474,
       "verified" : false
     }
@@ -17229,7 +17028,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WeAreBne \/ Dr Jos",
+      "name" : "WeAreBne \/ Nicnevin \uD83C\uDF08 [they\/them pronouns]",
       "screen_name" : "WeAreBrisbane",
       "indices" : [ 0, 14 ],
       "id_str" : "2444895445",

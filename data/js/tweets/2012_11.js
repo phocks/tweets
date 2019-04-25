@@ -120,16 +120,27 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "274019181547114497",
   "geo" : { },
   "id_str" : "274020821234757632",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 Yeah what a loon! There's also that theory that the FBI used that book and mind control triggers for assassination purposes! :)",
   "id" : 274020821234757632,
+  "in_reply_to_status_id" : 274019181547114497,
   "created_at" : "2012-11-29 05:23:49 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5087,7 +5098,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -5351,7 +5362,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -5979,7 +5990,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 263832588479762432,
   "in_reply_to_status_id" : 263663210811494402,
   "created_at" : "2012-11-01 02:39:25 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",

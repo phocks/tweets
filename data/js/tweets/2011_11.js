@@ -879,7 +879,7 @@ Grailbird.data.tweets_2011_11 =
   "text" : "@mariamisshort @ccake @biancamartin101 @thejayeless @missamyll @memily @annaspargoryan @sirtessa @marchofclouds thanks for the support!",
   "id" : 140843615718092800,
   "created_at" : "2011-11-27 17:25:09 +0000",
-  "in_reply_to_screen_name" : "fleetwoodsmack3",
+  "in_reply_to_screen_name" : "mariamjakub",
   "in_reply_to_user_id_str" : "383040461",
   "user" : {
     "name" : "Joshua Byrd",
@@ -7905,7 +7905,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -7938,7 +7938,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -7971,7 +7971,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -8138,7 +8138,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 132721345250340864,
   "in_reply_to_status_id" : 132718379898380288,
   "created_at" : "2011-11-05 07:30:09 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -8806,7 +8806,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ArethaFranklinHadABetter2018ThanMe",
+      "name" : "RestingBicycleFace",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -9333,7 +9333,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 131499995273768963,
   "in_reply_to_status_id" : 131498952481701888,
   "created_at" : "2011-11-01 22:36:56 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -9348,7 +9348,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ArethaFranklinHadABetter2018ThanMe",
+      "name" : "RestingBicycleFace",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

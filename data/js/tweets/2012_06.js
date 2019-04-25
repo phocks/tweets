@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/www.destroytwitter.com\" rel=\"nofollow\"\u003EDestroyTwitter\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Fitzsimon",
+      "name" : "\uD83D\uDCA7Mike Fitzsimon",
       "screen_name" : "MikeFitzAU",
       "indices" : [ 0, 11 ],
       "id_str" : "17023474",

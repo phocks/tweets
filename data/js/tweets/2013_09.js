@@ -525,7 +525,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "2543227753",
       "id" : 2543227753
     }, {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 128, 140 ],
       "id_str" : "14111299",

@@ -799,13 +799,7 @@ Grailbird.data.tweets_2014_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Meg",
-      "screen_name" : "moraggemma",
-      "indices" : [ 1, 12 ],
-      "id_str" : "391298479",
-      "id" : 391298479
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "kinginthenorth",
@@ -816,16 +810,11 @@ Grailbird.data.tweets_2014_03 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "448539014732083200",
   "geo" : { },
   "id_str" : "448945401727840257",
-  "in_reply_to_user_id" : 391298479,
   "text" : ".@moraggemma I'm only coming back if I can be #kinginthenorth #queensland!",
   "id" : 448945401727840257,
-  "in_reply_to_status_id" : 448539014732083200,
   "created_at" : "2014-03-26 22:11:39 +0000",
-  "in_reply_to_screen_name" : "moraggemma",
-  "in_reply_to_user_id_str" : "391298479",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

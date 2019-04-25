@@ -1163,11 +1163,11 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "REEBOK PUMP",
+      "name" : "R K O",
       "screen_name" : "RUMOKO",
       "indices" : [ 0, 7 ],
-      "id_str" : "1352881",
-      "id" : 1352881
+      "id_str" : "217018582",
+      "id" : 217018582
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1181,7 +1181,7 @@ Grailbird.data.tweets_2012_08 =
   "id" : 239226296889126912,
   "in_reply_to_status_id" : 239207073039138816,
   "created_at" : "2012-08-25 05:02:48 +0000",
-  "in_reply_to_screen_name" : "RUMOKO",
+  "in_reply_to_screen_name" : "RUN_AMOK_",
   "in_reply_to_user_id_str" : "1352881",
   "user" : {
     "name" : "Joshua Byrd",
@@ -1463,7 +1463,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "darxtorm",
+      "name" : "\uD83D\uDCA7darxtorm",
       "screen_name" : "darxtorm",
       "indices" : [ 0, 9 ],
       "id_str" : "169038548",

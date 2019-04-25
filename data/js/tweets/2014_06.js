@@ -140,7 +140,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -172,16 +172,27 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Chris",
+      "screen_name" : "crk5",
+      "indices" : [ 0, 5 ],
+      "id_str" : "214783050",
+      "id" : 214783050
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
+  "in_reply_to_status_id_str" : "483430733197766657",
   "geo" : { },
   "id_str" : "483435644685783041",
+  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 I usually stick with good old Vegemite! :)",
   "id" : 483435644685783041,
+  "in_reply_to_status_id" : 483430733197766657,
   "created_at" : "2014-06-30 02:23:34 +0000",
+  "in_reply_to_screen_name" : "crk5",
+  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -563,7 +574,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -979,7 +990,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 3, 12 ],
       "id_str" : "16217140",
@@ -1023,11 +1034,11 @@ Grailbird.data.tweets_2014_06 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "protected" : false,
       "id_str" : "16217140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1090070408227840001\/B-P2pjxu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119221351674310656\/4gDqSCf3_normal.jpg",
       "id" : 16217140,
       "verified" : false
     }
@@ -7627,12 +7638,6 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Meg",
-      "screen_name" : "moraggemma",
-      "indices" : [ 18, 29 ],
-      "id_str" : "391298479",
-      "id" : 391298479
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 31, 38 ],
@@ -7643,16 +7648,11 @@ Grailbird.data.tweets_2014_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "474436030523641856",
   "geo" : { },
   "id_str" : "474444192395952128",
-  "in_reply_to_user_id" : 391298479,
   "text" : "drats, too late! \u201C@moraggemma: @phocks wait till you get the notice of intent then open an account and they just charge the original toll\u201D",
   "id" : 474444192395952128,
-  "in_reply_to_status_id" : 474436030523641856,
   "created_at" : "2014-06-05 06:54:44 +0000",
-  "in_reply_to_screen_name" : "moraggemma",
-  "in_reply_to_user_id_str" : "391298479",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

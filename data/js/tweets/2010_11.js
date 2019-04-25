@@ -322,7 +322,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21481069",
       "id" : 21481069
     }, {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 39, 50 ],
       "id_str" : "15080202",
@@ -632,7 +632,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -962,7 +962,13 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Ben Pobjie",
+      "screen_name" : "benpobjie",
+      "indices" : [ 116, 126 ],
+      "id_str" : "22120918",
+      "id" : 22120918
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "vicvotes",
@@ -3834,7 +3840,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4138,7 +4144,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 93, 104 ],
       "id_str" : "15080202",
@@ -4233,57 +4239,6 @@ Grailbird.data.tweets_2010_11 =
   "text" : "disliking the facebookification of twitter and the twitterfication of facebook",
   "id" : 4735122133753856,
   "created_at" : "2010-11-17 03:18:35 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Natalia [BT-DIQ17-28\/29dic]",
-      "screen_name" : "doiha",
-      "indices" : [ 3, 9 ],
-      "id_str" : "18040565",
-      "id" : 18040565
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "4715672193994754",
-  "text" : "RT @doiha: Tumblr ...  Y U no open well!!!???",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "4715081048793088",
-    "text" : "Tumblr ...  Y U no open well!!!???",
-    "id" : 4715081048793088,
-    "created_at" : "2010-11-17 01:58:57 +0000",
-    "user" : {
-      "name" : "Natalia [BT-DIQ17-28\/29dic]",
-      "screen_name" : "doiha",
-      "protected" : false,
-      "id_str" : "18040565",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964969601015734274\/IK5Af6QG_normal.jpg",
-      "id" : 18040565,
-      "verified" : false
-    }
-  },
-  "id" : 4715672193994754,
-  "created_at" : "2010-11-17 02:01:18 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5792,7 +5747,7 @@ Grailbird.data.tweets_2010_11 =
     "id" : 2897927135567872,
     "created_at" : "2010-11-12 01:38:14 +0000",
     "user" : {
-      "name" : "Cait Larcombe",
+      "name" : "Caitaclysmic",
       "screen_name" : "caitaclysmic",
       "protected" : false,
       "id_str" : "18283372",
@@ -7775,11 +7730,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "REEBOK PUMP",
+      "name" : "R K O",
       "screen_name" : "RUMOKO",
       "indices" : [ 3, 10 ],
-      "id_str" : "1352881",
-      "id" : 1352881
+      "id_str" : "217018582",
+      "id" : 217018582
     }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
@@ -7820,7 +7775,7 @@ Grailbird.data.tweets_2010_11 =
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
       "name" : "REEBOK PUMP",
-      "screen_name" : "RUMOKO",
+      "screen_name" : "RUN_AMOK_",
       "protected" : false,
       "id_str" : "1352881",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959764596469874688\/oKg2SDBF_normal.jpg",
@@ -8625,7 +8580,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 29435742947,
   "in_reply_to_status_id" : 29428262554,
   "created_at" : "2010-11-02 00:00:00 +0000",
-  "in_reply_to_screen_name" : "amieteacake",
+  "in_reply_to_screen_name" : "AmieSabadin",
   "in_reply_to_user_id_str" : "16344179",
   "user" : {
     "name" : "Joshua Byrd",
@@ -9246,7 +9201,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

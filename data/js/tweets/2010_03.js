@@ -2270,7 +2270,7 @@ Grailbird.data.tweets_2010_03 =
     "user" : {
       "name" : "whitney",
       "screen_name" : "heroinepretend",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "6455402",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564657595672055809\/mvAEnlAF_normal.jpeg",
       "id" : 6455402,
@@ -5640,13 +5640,7 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "\uD83D\uDC8BPop Roxy\uD83D\uDC8B",
-      "screen_name" : "GinOnTheRox",
-      "indices" : [ 0, 12 ],
-      "id_str" : "1681658078",
-      "id" : 1681658078
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

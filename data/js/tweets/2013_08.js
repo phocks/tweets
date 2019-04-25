@@ -234,7 +234,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 373252316276617216,
   "in_reply_to_status_id" : 373246418003054592,
   "created_at" : "2013-08-30 01:14:21 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2747,7 +2747,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -2925,7 +2925,7 @@ Grailbird.data.tweets_2013_08 =
   "id" : 366208434145722369,
   "in_reply_to_status_id" : 366204580238864385,
   "created_at" : "2013-08-10 14:44:29 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4874,7 +4874,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD72\uD83C\uDD77\uD83C\uDD81\uD83C\uDD78\uD83C\uDD82\uD83C\uDD82\uD83C\uDD78\uD83C\uDD74",
+      "name" : "Chrissie \uD83D\uDCAC",
       "screen_name" : "ChrissieM",
       "indices" : [ 0, 10 ],
       "id_str" : "592662115",

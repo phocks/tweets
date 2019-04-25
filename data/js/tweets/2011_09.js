@@ -5545,10 +5545,10 @@ Grailbird.data.tweets_2011_09 =
       "expanded_url" : "https:\/\/twitter.com\/phocks\/status\/114135470224584706\/photo\/1",
       "indices" : [ 25, 45 ],
       "url" : "http:\/\/t.co\/3d3ogrHD",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/AZV9mv9CMAEWPdi.png",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/AZV9mv9CMAEWPdi.jpg",
       "id_str" : "114135470228779009",
       "id" : 114135470228779009,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AZV9mv9CMAEWPdi.png",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/AZV9mv9CMAEWPdi.jpg",
       "sizes" : [ {
         "h" : 839,
         "resize" : "fit",
@@ -5562,13 +5562,13 @@ Grailbird.data.tweets_2011_09 =
         "resize" : "fit",
         "w" : 587
       }, {
-        "h" : 839,
-        "resize" : "fit",
-        "w" : 587
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 839,
+        "resize" : "fit",
+        "w" : 587
       } ],
       "media_alt" : "",
       "display_url" : "pic.twitter.com\/3d3ogrHD"
@@ -9779,7 +9779,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",

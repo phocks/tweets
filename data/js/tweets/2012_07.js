@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 223068552243064834,
   "in_reply_to_status_id" : 223067959994757120,
   "created_at" : "2012-07-11 14:57:41 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4290,7 +4290,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 222531338056630272,
   "in_reply_to_status_id" : 222527084206104576,
   "created_at" : "2012-07-10 03:23:00 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5143,7 +5143,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "2542730658",
       "id" : 2542730658
     }, {
-      "name" : "ArethaFranklinHadABetter2018ThanMe",
+      "name" : "RestingBicycleFace",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 8, 23 ],
       "id_str" : "154535572",
@@ -5554,7 +5554,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "TheMusicComAu",
       "protected" : false,
       "id_str" : "237480239",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/639685374025973760\/KiQUxgdt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112571328010174464\/u-0mUmVI_normal.png",
       "id" : 237480239,
       "verified" : false
     }

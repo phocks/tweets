@@ -2184,11 +2184,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "REEBOK PUMP",
+      "name" : "R K O",
       "screen_name" : "RUMOKO",
       "indices" : [ 0, 7 ],
-      "id_str" : "1352881",
-      "id" : 1352881
+      "id_str" : "217018582",
+      "id" : 217018582
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2202,7 +2202,7 @@ Grailbird.data.tweets_2010_12 =
   "id" : 18107494781947904,
   "in_reply_to_status_id" : 18097264308264960,
   "created_at" : "2010-12-24 00:55:37 +0000",
-  "in_reply_to_screen_name" : "RUMOKO",
+  "in_reply_to_screen_name" : "RUN_AMOK_",
   "in_reply_to_user_id_str" : "1352881",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5038,7 +5038,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jean Burgess \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08\uD83D\uDC36",
+      "name" : "Jean Burgess",
       "screen_name" : "jeanburgess",
       "indices" : [ 0, 12 ],
       "id_str" : "18202677",
@@ -8061,7 +8061,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

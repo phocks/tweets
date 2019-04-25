@@ -1989,12 +1989,6 @@ Grailbird.data.tweets_2014_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Meg",
-      "screen_name" : "moraggemma",
-      "indices" : [ 1, 12 ],
-      "id_str" : "391298479",
-      "id" : 391298479
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 14, 21 ],
@@ -2005,16 +1999,11 @@ Grailbird.data.tweets_2014_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "458856113069228032",
   "geo" : { },
   "id_str" : "458859612473540608",
-  "in_reply_to_user_id" : 391298479,
   "text" : "\u201C@moraggemma: @phocks how long are you back for?\u201D Who really knows how long they'll stay anywhere.. a little while perhaps.",
   "id" : 458859612473540608,
-  "in_reply_to_status_id" : 458856113069228032,
   "created_at" : "2014-04-23 06:47:11 +0000",
-  "in_reply_to_screen_name" : "moraggemma",
-  "in_reply_to_user_id_str" : "391298479",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

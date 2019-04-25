@@ -729,7 +729,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 207124465421795328,
   "in_reply_to_status_id" : 207116468112998400,
   "created_at" : "2012-05-28 15:01:35 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2023,7 +2023,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 205111519250366465,
   "in_reply_to_status_id" : 205107423860637696,
   "created_at" : "2012-05-23 01:42:51 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3513,7 +3513,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 202767918537261056,
   "in_reply_to_status_id" : 202762802945990659,
   "created_at" : "2012-05-16 14:30:13 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3879,7 +3879,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "1090160656496570369",
       "id" : 1090160656496570369
     }, {
-      "name" : "Hapless Sort",
+      "name" : "No Context Scotto",
       "screen_name" : "scottowilliams",
       "indices" : [ 12, 27 ],
       "id_str" : "45299787",
@@ -4001,7 +4001,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 202063901674840065,
   "in_reply_to_status_id" : 202055045703938049,
   "created_at" : "2012-05-14 15:52:42 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4065,7 +4065,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock or Miss",
+      "name" : "Hacklock only uses real baseball bats",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -4332,7 +4332,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -5255,7 +5255,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -6888,7 +6888,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 197510749243969536,
   "in_reply_to_status_id" : 197496806064664576,
   "created_at" : "2012-05-02 02:20:06 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",

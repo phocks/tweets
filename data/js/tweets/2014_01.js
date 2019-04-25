@@ -758,7 +758,7 @@ Grailbird.data.tweets_2014_01 =
   "id" : 427096751028568064,
   "in_reply_to_status_id" : 427091091427303424,
   "created_at" : "2014-01-25 15:12:55 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4227,7 +4227,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDD72\uD83C\uDD77\uD83C\uDD81\uD83C\uDD78\uD83C\uDD82\uD83C\uDD82\uD83C\uDD78\uD83C\uDD74",
+      "name" : "Chrissie \uD83D\uDCAC",
       "screen_name" : "ChrissieM",
       "indices" : [ 0, 10 ],
       "id_str" : "592662115",

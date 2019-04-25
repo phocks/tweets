@@ -5009,7 +5009,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hacklock or Miss",
+      "name" : "Hacklock only uses real baseball bats",
       "screen_name" : "hacklocked",
       "indices" : [ 0, 11 ],
       "id_str" : "262970056",
@@ -5172,7 +5172,7 @@ Grailbird.data.tweets_2011_12 =
   "text" : "@mariecamin @cristinamarras @RedAppleCigar the bag. http:\/\/t.co\/b5dSZ9OK",
   "id" : 145288001524731904,
   "created_at" : "2011-12-09 23:45:33 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -6241,7 +6241,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 143314533010776064,
   "in_reply_to_status_id" : 143313260689637376,
   "created_at" : "2011-12-04 13:03:41 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",

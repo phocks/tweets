@@ -7358,7 +7358,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "KittenFlower",
       "protected" : false,
       "id_str" : "40785142",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099635956175462401\/7VPc9Nj__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1120179046464118784\/Ku_mhGmT_normal.jpg",
       "id" : 40785142,
       "verified" : false
     }
@@ -7885,7 +7885,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -8451,7 +8451,7 @@ Grailbird.data.tweets_2014_08 =
       "screen_name" : "teganvictoria",
       "protected" : false,
       "id_str" : "29664096",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949586225471528960\/N8vEeQRq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1118446678162329601\/ypteWKlI_normal.jpg",
       "id" : 29664096,
       "verified" : false
     }
@@ -9783,7 +9783,7 @@ Grailbird.data.tweets_2014_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Arty Beasty Chatter\uD83E\uDD16\uD83C\uDF0F",
+      "name" : "\uD83D\uDCA7Earnest Art Robot\uD83E\uDD16beep\uD83C\uDF0F",
       "screen_name" : "ERN_Malleyscrub",
       "indices" : [ 0, 16 ],
       "id_str" : "22607317",

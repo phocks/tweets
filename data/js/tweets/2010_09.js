@@ -9437,7 +9437,7 @@ Grailbird.data.tweets_2010_09 =
       "screen_name" : "whalleyrulz",
       "protected" : false,
       "id_str" : "23409021",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/943165865285087232\/y9RRLleb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105955093176832002\/L1m-8id-_normal.jpg",
       "id" : 23409021,
       "verified" : false
     }

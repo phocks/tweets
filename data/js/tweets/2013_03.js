@@ -500,7 +500,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jam Honey",
+      "name" : "Jam Fancy",
       "screen_name" : "FriskyLibrarian",
       "indices" : [ 0, 16 ],
       "id_str" : "213997436",
@@ -1561,12 +1561,6 @@ Grailbird.data.tweets_2013_03 =
       "indices" : [ 0, 9 ],
       "id_str" : "15254045",
       "id" : 15254045
-    }, {
-      "name" : "amie",
-      "screen_name" : "amieteacake",
-      "indices" : [ 10, 22 ],
-      "id_str" : "16344179",
-      "id" : 16344179
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1967,7 +1961,7 @@ Grailbird.data.tweets_2013_03 =
       "id_str" : "14709131",
       "id" : 14709131
     }, {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 14, 26 ],
       "id_str" : "14111299",
@@ -4396,7 +4390,7 @@ Grailbird.data.tweets_2013_03 =
   "id" : 309324511864569857,
   "in_reply_to_status_id" : 309198194850529280,
   "created_at" : "2013-03-06 15:28:05 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4902,7 +4896,7 @@ Grailbird.data.tweets_2013_03 =
   "id" : 308178223810871297,
   "in_reply_to_status_id" : 308116742998220800,
   "created_at" : "2013-03-03 11:33:08 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",

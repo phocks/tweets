@@ -3680,7 +3680,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -6136,7 +6136,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "JacobLeigh",
       "protected" : false,
       "id_str" : "20220718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103532618895613952\/Fq0rug_E_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115070578728132609\/ev9SN_FB_normal.jpg",
       "id" : 20220718,
       "verified" : false
     }
@@ -8313,7 +8313,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "977537880",
       "id" : 977537880
     }, {
-      "name" : "Disco Stu",
+      "name" : "The Stu That Was Promised",
       "screen_name" : "discostu",
       "indices" : [ 12, 21 ],
       "id_str" : "15029303",

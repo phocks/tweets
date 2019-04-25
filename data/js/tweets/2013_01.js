@@ -46,7 +46,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 296906961730023424,
   "in_reply_to_status_id" : 296904847909851137,
   "created_at" : "2013-01-31 09:05:10 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -1369,7 +1369,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 294102701313253376,
   "in_reply_to_status_id" : 294083499063902208,
   "created_at" : "2013-01-23 15:22:02 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3422,7 +3422,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 289893540551610369,
   "in_reply_to_status_id" : 289390315503243264,
   "created_at" : "2013-01-12 00:36:20 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4049,7 +4049,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -4502,7 +4502,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 287074574103887872,
   "in_reply_to_status_id" : 287015587790594048,
   "created_at" : "2013-01-04 05:54:46 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4614,7 +4614,7 @@ Grailbird.data.tweets_2013_01 =
       "id_str" : "10134092",
       "id" : 10134092
     }, {
-      "name" : "\uD83C\uDD72\uD83C\uDD77\uD83C\uDD81\uD83C\uDD78\uD83C\uDD82\uD83C\uDD82\uD83C\uDD78\uD83C\uDD74",
+      "name" : "Chrissie \uD83D\uDCAC",
       "screen_name" : "ChrissieM",
       "indices" : [ 10, 20 ],
       "id_str" : "592662115",

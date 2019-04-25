@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Kerry_Ingram",
       "protected" : false,
       "id_str" : "258308665",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1099192741282570240\/QXgngHzX_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1112883536393129985\/8ycfMgOM_normal.jpg",
       "id" : 258308665,
       "verified" : true
     }
@@ -5517,7 +5517,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Juha",
+      "name" : "Juh@",
       "screen_name" : "juhasaarinen",
       "indices" : [ 3, 16 ],
       "id_str" : "15829574",
@@ -5561,11 +5561,11 @@ Grailbird.data.tweets_2015_07 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "Juha",
+      "name" : "Juh@",
       "screen_name" : "juhasaarinen",
       "protected" : false,
       "id_str" : "15829574",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1097575601341325312\/QQkSKBrF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108184457234661377\/2XdDLxjw_normal.jpg",
       "id" : 15829574,
       "verified" : true
     }
@@ -6436,7 +6436,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Michaels",
+      "name" : "Nick Michaels \uD83C\uDFA7\uD83C\uDFA4\uD83C\uDFBC\uD83C\uDDE6\uD83C\uDDFA",
       "screen_name" : "nick3m",
       "indices" : [ 0, 7 ],
       "id_str" : "79938775",

@@ -2451,7 +2451,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jam Honey",
+      "name" : "Jam Fancy",
       "screen_name" : "FriskyLibrarian",
       "indices" : [ 0, 16 ],
       "id_str" : "213997436",
@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2011_08 =
     "user" : {
       "name" : "whitney",
       "screen_name" : "heroinepretend",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "6455402",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564657595672055809\/mvAEnlAF_normal.jpeg",
       "id" : 6455402,
@@ -4961,7 +4961,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ArethaFranklinHadABetter2018ThanMe",
+      "name" : "RestingBicycleFace",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -5094,12 +5094,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael",
-      "screen_name" : "Mpluso",
-      "indices" : [ 1, 8 ],
-      "id_str" : "16693859",
-      "id" : 16693859
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 109, 116 ],
@@ -9090,7 +9084,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 3, 15 ],
       "id_str" : "14111299",
@@ -9134,7 +9128,7 @@ Grailbird.data.tweets_2011_08 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "protected" : false,
       "id_str" : "14111299",

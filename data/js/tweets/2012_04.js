@@ -1478,7 +1478,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 195307093140582400,
   "in_reply_to_status_id" : 195131047543963648,
   "created_at" : "2012-04-26 00:23:34 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2892,7 +2892,7 @@ Grailbird.data.tweets_2012_04 =
   "id" : 192889210401853441,
   "in_reply_to_status_id" : 192657455887552512,
   "created_at" : "2012-04-19 08:15:46 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",

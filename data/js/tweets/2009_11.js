@@ -3763,7 +3763,7 @@ Grailbird.data.tweets_2009_11 =
     "user" : {
       "name" : "whitney",
       "screen_name" : "heroinepretend",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "6455402",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/564657595672055809\/mvAEnlAF_normal.jpeg",
       "id" : 6455402,

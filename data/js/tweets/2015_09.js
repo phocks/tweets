@@ -312,7 +312,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Ilya_invisible",
       "protected" : false,
       "id_str" : "1353733784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047637210181251072\/2H2ZVnua_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117663833005277185\/A5I9Nc54_normal.jpg",
       "id" : 1353733784,
       "verified" : false
     }
@@ -657,11 +657,11 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "Carly Rae JanSport",
+      "name" : "\uD835\uDE8C\uD835\uDE91\uD835\uDE98\uD835\uDE97\uD835\uDE94\uD835\uDEA2\uD835\uDE9D\uD835\uDE98\uD835\uDE97\uD835\uDE94",
       "screen_name" : "villainmorris",
       "protected" : false,
       "id_str" : "2910620690",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1075632874664091648\/ioVLoW0P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1120880762629152768\/BwGTYSMW_normal.jpg",
       "id" : 2910620690,
       "verified" : false
     }
@@ -2079,7 +2079,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Ilya_invisible",
       "protected" : false,
       "id_str" : "1353733784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047637210181251072\/2H2ZVnua_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117663833005277185\/A5I9Nc54_normal.jpg",
       "id" : 1353733784,
       "verified" : false
     }
@@ -2694,13 +2694,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2713,7 +2707,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 647661821562765312,
   "in_reply_to_status_id" : 647658618561523712,
   "created_at" : "2015-09-26 06:39:45 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -2821,7 +2815,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102236515508330497\/-lDYgdfx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110462673538478081\/-Z8kVXgw_normal.png",
       "id" : 14083693,
       "verified" : true
     }
@@ -3410,7 +3404,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Serf Life Saver",
+      "name" : "\uD83D\uDCA7Serf Life Saver",
       "screen_name" : "OccupiedOutback",
       "indices" : [ 3, 19 ],
       "id_str" : "2279032932",
@@ -3505,7 +3499,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 647252135617269760,
     "created_at" : "2015-09-25 03:31:49 +0000",
     "user" : {
-      "name" : "Serf Life Saver",
+      "name" : "\uD83D\uDCA7Serf Life Saver",
       "screen_name" : "OccupiedOutback",
       "protected" : false,
       "id_str" : "2279032932",
@@ -4870,12 +4864,6 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    }, {
       "name" : "Telstra",
       "screen_name" : "Telstra",
       "indices" : [ 13, 21 ],
@@ -4894,7 +4882,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 646855765110579200,
   "in_reply_to_status_id" : 646782270041227265,
   "created_at" : "2015-09-24 01:16:47 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -5685,7 +5673,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Ilya_invisible",
       "protected" : false,
       "id_str" : "1353733784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047637210181251072\/2H2ZVnua_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117663833005277185\/A5I9Nc54_normal.jpg",
       "id" : 1353733784,
       "verified" : false
     }
@@ -6629,125 +6617,6 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Wren, the Member for AUSPOL",
-      "screen_name" : "JohnWren1950",
-      "indices" : [ 3, 16 ],
-      "id_str" : "2603192304",
-      "id" : 2603192304
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/JohnWren1950\/status\/645853735617433600\/photo\/1",
-      "indices" : [ 73, 95 ],
-      "url" : "http:\/\/t.co\/Cj86kynMjH",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CPaIjORVAAE4CVW.jpg",
-      "id_str" : "645853735281819649",
-      "id" : 645853735281819649,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPaIjORVAAE4CVW.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 270,
-        "resize" : "fit",
-        "w" : 470
-      }, {
-        "h" : 270,
-        "resize" : "fit",
-        "w" : 470
-      }, {
-        "h" : 270,
-        "resize" : "fit",
-        "w" : 470
-      }, {
-        "h" : 270,
-        "resize" : "fit",
-        "w" : 470
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/Cj86kynMjH"
-    } ],
-    "hashtags" : [ {
-      "text" : "auspol",
-      "indices" : [ 65, 72 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "645880615544315904",
-  "text" : "RT @JohnWren1950: Ah yes. The perfect time to revisit this meme. #auspol http:\/\/t.co\/Cj86kynMjH",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/JohnWren1950\/status\/645853735617433600\/photo\/1",
-        "indices" : [ 55, 77 ],
-        "url" : "http:\/\/t.co\/Cj86kynMjH",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CPaIjORVAAE4CVW.jpg",
-        "id_str" : "645853735281819649",
-        "id" : 645853735281819649,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CPaIjORVAAE4CVW.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 470
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 470
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 470
-        }, {
-          "h" : 270,
-          "resize" : "fit",
-          "w" : 470
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/Cj86kynMjH"
-      } ],
-      "hashtags" : [ {
-        "text" : "auspol",
-        "indices" : [ 47, 54 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "645853735617433600",
-    "text" : "Ah yes. The perfect time to revisit this meme. #auspol http:\/\/t.co\/Cj86kynMjH",
-    "id" : 645853735617433600,
-    "created_at" : "2015-09-21 06:55:04 +0000",
-    "user" : {
-      "name" : "John Wren, the Member for AUSPOL",
-      "screen_name" : "JohnWren1950",
-      "protected" : false,
-      "id_str" : "2603192304",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846947093046530048\/eNts2Gp9_normal.jpg",
-      "id" : 2603192304,
-      "verified" : false
-    }
-  },
-  "id" : 645880615544315904,
-  "created_at" : "2015-09-21 08:41:53 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Peter Graham",
       "screen_name" : "triplecaution",
       "indices" : [ 0, 14 ],
@@ -7190,7 +7059,7 @@ Grailbird.data.tweets_2015_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -8434,7 +8303,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \u2665 shibacomputer \u2665",
+      "name" : "(\u3063\u25D4\u25E1\u25D4)\u3063 \uD83C\uDF43 shibacomputer \uD83D\uDD25",
       "screen_name" : "helveticade",
       "indices" : [ 0, 12 ],
       "id_str" : "14111299",
@@ -8869,7 +8738,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "TheMichaelMoran",
       "protected" : false,
       "id_str" : "14083693",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1102236515508330497\/-lDYgdfx_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1110462673538478081\/-Z8kVXgw_normal.png",
       "id" : 14083693,
       "verified" : true
     }
@@ -10128,7 +9997,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -10536,66 +10405,6 @@ Grailbird.data.tweets_2015_09 =
   "text" : "how overambitious of me to think they might have a mini-hdmi to dvi cable at officeworks",
   "id" : 643626369847554050,
   "created_at" : "2015-09-15 03:24:19 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dr Brooke Doherty",
-      "screen_name" : "ohboyohboys",
-      "indices" : [ 3, 15 ],
-      "id_str" : "155848998",
-      "id" : 155848998
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "onwatermatters",
-      "indices" : [ 113, 128 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "643619190985744384",
-  "text" : "RT @ohboyohboys: Let's be clear: Tony did not stop the boats, Tony banned anyone from telling us about the boats #onwatermatters #realaustr\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "onwatermatters",
-        "indices" : [ 96, 111 ]
-      }, {
-        "text" : "realaustralianssaywelcome",
-        "indices" : [ 112, 138 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "643397054278991873",
-    "text" : "Let's be clear: Tony did not stop the boats, Tony banned anyone from telling us about the boats #onwatermatters #realaustralianssaywelcome",
-    "id" : 643397054278991873,
-    "created_at" : "2015-09-14 12:13:06 +0000",
-    "user" : {
-      "name" : "Dr Brooke Doherty",
-      "screen_name" : "ohboyohboys",
-      "protected" : false,
-      "id_str" : "155848998",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1062278435068755973\/8Rf36FLm_normal.jpg",
-      "id" : 155848998,
-      "verified" : false
-    }
-  },
-  "id" : 643619190985744384,
-  "created_at" : "2015-09-15 02:55:47 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -11358,13 +11167,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -11377,7 +11180,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 642955458995597312,
   "in_reply_to_status_id" : 642955369736572931,
   "created_at" : "2015-09-13 06:58:21 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -11424,13 +11227,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -11443,7 +11240,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 642954496008589312,
   "in_reply_to_status_id" : 642273963435929600,
   "created_at" : "2015-09-13 06:54:32 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",
@@ -12191,7 +11988,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Michaels",
+      "name" : "Nick Michaels \uD83C\uDFA7\uD83C\uDFA4\uD83C\uDFBC\uD83C\uDDE6\uD83C\uDDFA",
       "screen_name" : "nick3m",
       "indices" : [ 0, 7 ],
       "id_str" : "79938775",
@@ -12651,7 +12448,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -12689,7 +12486,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "And now this",
+      "name" : "Spiral Kid",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -14190,7 +13987,7 @@ Grailbird.data.tweets_2015_09 =
       "id_str" : "26889548",
       "id" : 26889548
     }, {
-      "name" : "G E T   R A T I O E D",
+      "name" : "Rocketpilot",
       "screen_name" : "ABillionSuns",
       "indices" : [ 18, 31 ],
       "id_str" : "32317477",
@@ -15038,7 +14835,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "ambah___",
       "protected" : false,
       "id_str" : "41950932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101763934233616386\/lEBwlNiU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119909181706756100\/WABwkgfb_normal.jpg",
       "id" : 41950932,
       "verified" : false
     }
@@ -15383,7 +15180,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "Ilya_invisible",
       "protected" : false,
       "id_str" : "1353733784",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047637210181251072\/2H2ZVnua_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1117663833005277185\/A5I9Nc54_normal.jpg",
       "id" : 1353733784,
       "verified" : false
     }
@@ -16570,51 +16367,6 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "638869273998299136",
-  "text" : "RT @BrisbaneVinnie: \"Priests may absolve women who have had an abortion\"\n\nOH WOW THANKS POPE FRANKIE FOR YOUR FUCKEN BLESSING PRAISE THE LO\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "638834675989934080",
-    "text" : "\"Priests may absolve women who have had an abortion\"\n\nOH WOW THANKS POPE FRANKIE FOR YOUR FUCKEN BLESSING PRAISE THE LORD",
-    "id" : 638834675989934080,
-    "created_at" : "2015-09-01 22:03:50 +0000",
-    "user" : {
-      "name" : "KING DINGALING",
-      "screen_name" : "XXXX_G0LD",
-      "protected" : false,
-      "id_str" : "24145539",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071972651332063232\/UnP4X3y2_normal.jpg",
-      "id" : 24145539,
-      "verified" : false
-    }
-  },
-  "id" : 638869273998299136,
-  "created_at" : "2015-09-02 00:21:19 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "BandViews",
       "screen_name" : "BandViews",
@@ -16780,7 +16532,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "katrina \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "katrina \uD83D\uDD2E",
       "screen_name" : "katreeeena",
       "indices" : [ 0, 11 ],
       "id_str" : "21218422",
@@ -17082,13 +16834,7 @@ Grailbird.data.tweets_2015_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.twitter.com\" rel=\"nofollow\"\u003ETwitter for Windows\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Susanne Randall \uD83D\uDC9C",
-      "screen_name" : "Susieaxemen",
-      "indices" : [ 0, 12 ],
-      "id_str" : "2789849677",
-      "id" : 2789849677
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -17101,7 +16847,7 @@ Grailbird.data.tweets_2015_09 =
   "id" : 638552578326827008,
   "in_reply_to_status_id" : 638549559350718464,
   "created_at" : "2015-09-01 03:22:53 +0000",
-  "in_reply_to_screen_name" : "Susieaxemen",
+  "in_reply_to_screen_name" : "SusanneLRandall",
   "in_reply_to_user_id_str" : "2789849677",
   "user" : {
     "name" : "Joshua Byrd",

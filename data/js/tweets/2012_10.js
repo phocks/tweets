@@ -243,7 +243,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 263448053007134720,
   "in_reply_to_status_id" : 263442465892220930,
   "created_at" : "2012-10-31 01:11:25 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 261275819526213632,
   "in_reply_to_status_id" : 261270025191702528,
   "created_at" : "2012-10-25 01:19:44 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -1876,7 +1876,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 261082931307614208,
   "in_reply_to_status_id" : 261079939095330816,
   "created_at" : "2012-10-24 12:33:16 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -3664,7 +3664,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mark_2019copycopy.psd \uD83C\uDFAC\uD83C\uDFAE",
+      "name" : "Mark #Eggboy for PM \uD83E\uDD5A\uD83E\uDD5A \uD83C\uDFAC\uD83C\uDFAE",
       "screen_name" : "markh110",
       "indices" : [ 0, 9 ],
       "id_str" : "19019765",
@@ -4414,7 +4414,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emmageddon",
+      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

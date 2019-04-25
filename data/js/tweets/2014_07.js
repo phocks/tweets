@@ -3723,7 +3723,7 @@ Grailbird.data.tweets_2014_07 =
   "id" : 489043109817225217,
   "in_reply_to_status_id" : 489042735295246336,
   "created_at" : "2014-07-15 13:45:38 +0000",
-  "in_reply_to_screen_name" : "CaminMarie",
+  "in_reply_to_screen_name" : "marie_camin",
   "in_reply_to_user_id_str" : "300807632",
   "user" : {
     "name" : "Joshua Byrd",
@@ -4941,113 +4941,6 @@ Grailbird.data.tweets_2014_07 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/LuluCalrissian\/status\/487794809759748097\/photo\/1",
-      "indices" : [ 55, 77 ],
-      "url" : "http:\/\/t.co\/qwOtjMZwuM",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/BsT-y3yCUAEiH3l.jpg",
-      "id_str" : "487794809583587329",
-      "id" : 487794809583587329,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BsT-y3yCUAEiH3l.jpg",
-      "sizes" : [ {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 640
-      }, {
-        "h" : 611,
-        "resize" : "fit",
-        "w" : 640
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/qwOtjMZwuM"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "487869490676236288",
-  "text" : "RT @LuluCalrissian: when people invite me to anything: http:\/\/t.co\/qwOtjMZwuM",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/LuluCalrissian\/status\/487794809759748097\/photo\/1",
-        "indices" : [ 35, 57 ],
-        "url" : "http:\/\/t.co\/qwOtjMZwuM",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/BsT-y3yCUAEiH3l.jpg",
-        "id_str" : "487794809583587329",
-        "id" : 487794809583587329,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BsT-y3yCUAEiH3l.jpg",
-        "sizes" : [ {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 640
-        }, {
-          "h" : 611,
-          "resize" : "fit",
-          "w" : 640
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/qwOtjMZwuM"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "487794809759748097",
-    "text" : "when people invite me to anything: http:\/\/t.co\/qwOtjMZwuM",
-    "id" : 487794809759748097,
-    "created_at" : "2014-07-12 03:05:20 +0000",
-    "user" : {
-      "name" : "Lucy Valentine",
-      "screen_name" : "LucyXIV",
-      "protected" : false,
-      "id_str" : "35407832",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034600263703658496\/36AcZSDb_normal.jpg",
-      "id" : 35407832,
-      "verified" : true
-    }
-  },
-  "id" : 487869490676236288,
-  "created_at" : "2014-07-12 08:02:05 +0000",
-  "user" : {
-    "name" : "Joshua Byrd",
-    "screen_name" : "phocks",
-    "protected" : false,
-    "id_str" : "5703342",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
-    "id" : 5703342,
-    "verified" : true
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -5384,7 +5277,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Lake Baikal Facts",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
