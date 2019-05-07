@@ -2425,11 +2425,11 @@ Grailbird.data.tweets_2013_02 =
     "id" : 302264856378224640,
     "created_at" : "2013-02-15 03:55:32 +0000",
     "user" : {
-      "name" : "Lil Y THE BASEDDOG",
+      "name" : "Beatle Paul",
       "screen_name" : "YuriKalzone69",
       "protected" : false,
       "id_str" : "359846371",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119031815241494528\/rucYhHzq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124314845006815233\/NdIeob9W_normal.jpg",
       "id" : 359846371,
       "verified" : false
     }

@@ -6136,7 +6136,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "JacobLeigh",
       "protected" : false,
       "id_str" : "20220718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1115070578728132609\/ev9SN_FB_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124899387333726208\/5QaN20Ud_normal.jpg",
       "id" : 20220718,
       "verified" : false
     }

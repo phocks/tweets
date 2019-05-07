@@ -3784,7 +3784,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "\u003Ca href=\"http:\/\/twidroyd.com\" rel=\"nofollow\"\u003Etwidroyd (original)\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4202,7 +4202,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "BobBrownFndn",
       "protected" : false,
       "id_str" : "25298261",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/926619613395263488\/9cEDPGrJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1122758381595316224\/S2vuvfTR_normal.png",
       "id" : 25298261,
       "verified" : false
     }

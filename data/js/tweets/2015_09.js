@@ -657,7 +657,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 649074852519809024,
     "created_at" : "2015-09-30 04:14:38 +0000",
     "user" : {
-      "name" : "\uD835\uDE8C\uD835\uDE91\uD835\uDE98\uD835\uDE97\uD835\uDE94\uD835\uDEA2\uD835\uDE9D\uD835\uDE98\uD835\uDE97\uD835\uDE94",
+      "name" : "\u201CGotta Love Goo\u201D",
       "screen_name" : "villainmorris",
       "protected" : false,
       "id_str" : "2910620690",
@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "m",
+      "name" : "molly",
       "screen_name" : "deadseraphim",
       "indices" : [ 3, 16 ],
       "id_str" : "2585244434",
@@ -1392,11 +1392,11 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "m",
+      "name" : "molly",
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101014467502960640\/QtPq0WsR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1125274305179185153\/OTQBqLqe_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -4798,7 +4798,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke",
+      "name" : "Georgie Luhur Cooke \u2022 in \uD83C\uDDE8\uD83C\uDDFF",
       "screen_name" : "georgiecel",
       "indices" : [ 1, 12 ],
       "id_str" : "18328488",
@@ -6190,7 +6190,7 @@ Grailbird.data.tweets_2015_09 =
     "id" : 646105729531645953,
     "created_at" : "2015-09-21 23:36:24 +0000",
     "user" : {
-      "name" : "Caitlin Moushall",
+      "name" : "Changin my surname to Stark so I can save everyone",
       "screen_name" : "CaitlinMoushall",
       "protected" : false,
       "id_str" : "879162762",
@@ -7059,7 +7059,7 @@ Grailbird.data.tweets_2015_09 =
     "user" : {
       "name" : "Rosey",
       "screen_name" : "roseysoho",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "15424441",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1008862592658362368\/HUC7WUBL_normal.jpg",
       "id" : 15424441,
@@ -9082,11 +9082,11 @@ Grailbird.data.tweets_2015_09 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "m",
+      "name" : "molly",
       "screen_name" : "deadseraphim",
       "protected" : false,
       "id_str" : "2585244434",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1101014467502960640\/QtPq0WsR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1125274305179185153\/OTQBqLqe_normal.jpg",
       "id" : 2585244434,
       "verified" : false
     }
@@ -9997,7 +9997,7 @@ Grailbird.data.tweets_2015_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -14835,7 +14835,7 @@ Grailbird.data.tweets_2015_09 =
       "screen_name" : "ambah___",
       "protected" : false,
       "id_str" : "41950932",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119909181706756100\/WABwkgfb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1124521626240897029\/hvoKFlQf_normal.jpg",
       "id" : 41950932,
       "verified" : false
     }
@@ -16355,6 +16355,51 @@ Grailbird.data.tweets_2015_09 =
   },
   "id" : 638891080411279360,
   "created_at" : "2015-09-02 01:47:58 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "638869273998299136",
+  "text" : "RT @BrisbaneVinnie: \"Priests may absolve women who have had an abortion\"\n\nOH WOW THANKS POPE FRANKIE FOR YOUR FUCKEN BLESSING PRAISE THE LO\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "638834675989934080",
+    "text" : "\"Priests may absolve women who have had an abortion\"\n\nOH WOW THANKS POPE FRANKIE FOR YOUR FUCKEN BLESSING PRAISE THE LORD",
+    "id" : 638834675989934080,
+    "created_at" : "2015-09-01 22:03:50 +0000",
+    "user" : {
+      "name" : "GUCCI MA$ALA",
+      "screen_name" : "XXXX_G0LD",
+      "protected" : false,
+      "id_str" : "24145539",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1071972651332063232\/UnP4X3y2_normal.jpg",
+      "id" : 24145539,
+      "verified" : false
+    }
+  },
+  "id" : 638869273998299136,
+  "created_at" : "2015-09-02 00:21:19 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

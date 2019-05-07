@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2013_10 =
     "verified" : true
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/www.flipboard.com\" rel=\"nofollow\"\u003EFlipboard\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/www.flipboard.com\" rel=\"nofollow\"\u003EFlipboard\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

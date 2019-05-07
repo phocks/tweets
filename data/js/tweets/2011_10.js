@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_10 =
     "id" : 130165141626032129,
     "created_at" : "2011-10-29 06:12:42 +0000",
     "user" : {
-      "name" : "Sam",
+      "name" : "Samantha Lewis",
       "screen_name" : "battledinosaur",
       "protected" : false,
       "id_str" : "22708423",

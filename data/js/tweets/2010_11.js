@@ -3840,7 +3840,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -7775,7 +7775,7 @@ Grailbird.data.tweets_2010_11 =
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
       "name" : "REEBOK PUMP",
-      "screen_name" : "RUN_AMOK_",
+      "screen_name" : "SecretCommando",
       "protected" : false,
       "id_str" : "1352881",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959764596469874688\/oKg2SDBF_normal.jpg",
@@ -9201,7 +9201,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",

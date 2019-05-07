@@ -2202,7 +2202,7 @@ Grailbird.data.tweets_2010_12 =
   "id" : 18107494781947904,
   "in_reply_to_status_id" : 18097264308264960,
   "created_at" : "2010-12-24 00:55:37 +0000",
-  "in_reply_to_screen_name" : "RUN_AMOK_",
+  "in_reply_to_screen_name" : "SecretCommando",
   "in_reply_to_user_id_str" : "1352881",
   "user" : {
     "name" : "Joshua Byrd",
