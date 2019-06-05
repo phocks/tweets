@@ -2647,7 +2647,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "yokoono",
       "protected" : false,
       "id_str" : "17681513",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1105108162317901825\/EdV2Phas_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1132974546695458818\/H0FhA64C_normal.jpg",
       "id" : 17681513,
       "verified" : true
     }

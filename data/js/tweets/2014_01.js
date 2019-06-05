@@ -260,13 +260,7 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "mm",
-      "screen_name" : "sicklepumpkin",
-      "indices" : [ 11, 25 ],
-      "id_str" : "1070495169688956928",
-      "id" : 1070495169688956928
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3370,7 +3364,7 @@ Grailbird.data.tweets_2014_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
+      "name" : "Beatle Paul",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
@@ -3897,7 +3891,7 @@ Grailbird.data.tweets_2014_01 =
       "id_str" : "14656514",
       "id" : 14656514
     }, {
-      "name" : "Georgie Luhur Cooke \u2022 in \uD83C\uDDE8\uD83C\uDDFF",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 18, 29 ],
       "id_str" : "18328488",
@@ -5148,27 +5142,16 @@ Grailbird.data.tweets_2014_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Monica",
-      "screen_name" : "MonicaLyne",
-      "indices" : [ 0, 11 ],
-      "id_str" : "200655660",
-      "id" : 200655660
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "418900605764001792",
   "geo" : { },
   "id_str" : "418900819015376896",
-  "in_reply_to_user_id" : 200655660,
   "text" : "@monicalyne I don't know how I hadn't heard of it before. It was so good! :)",
   "id" : 418900819015376896,
-  "in_reply_to_status_id" : 418900605764001792,
   "created_at" : "2014-01-03 00:25:12 +0000",
-  "in_reply_to_screen_name" : "MonicaLyne",
-  "in_reply_to_user_id_str" : "200655660",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

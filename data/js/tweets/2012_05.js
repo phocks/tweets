@@ -3879,7 +3879,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "1090160656496570369",
       "id" : 1090160656496570369
     }, {
-      "name" : "No Context Scotto",
+      "name" : "Still Working LOST into Every Conversation",
       "screen_name" : "scottowilliams",
       "indices" : [ 12, 27 ],
       "id_str" : "45299787",
@@ -5255,7 +5255,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",

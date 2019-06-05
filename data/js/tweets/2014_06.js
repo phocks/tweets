@@ -106,27 +106,16 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "483436914150612992",
   "geo" : { },
   "id_str" : "483439799252951040",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 yes, butter is a must!",
   "id" : 483439799252951040,
-  "in_reply_to_status_id" : 483436914150612992,
   "created_at" : "2014-06-30 02:40:04 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -140,7 +129,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD835\uDE76\uD835\uDE98\uD835\uDE97\uD835\uDE8E \uD835\uDE71\uD835\uDE8E\uD835\uDE9B\uD835\uDE94\uD835\uDE98",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -172,27 +161,16 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "483430733197766657",
   "geo" : { },
   "id_str" : "483435644685783041",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 I usually stick with good old Vegemite! :)",
   "id" : 483435644685783041,
-  "in_reply_to_status_id" : 483430733197766657,
   "created_at" : "2014-06-30 02:23:34 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -315,13 +293,7 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dallas Ashton",
-      "screen_name" : "dallasashton",
-      "indices" : [ 0, 13 ],
-      "id_str" : "155795127",
-      "id" : 155795127
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -574,7 +546,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -990,7 +962,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 3, 12 ],
       "id_str" : "16217140",
@@ -1034,11 +1006,11 @@ Grailbird.data.tweets_2014_06 =
     "in_reply_to_screen_name" : "phocks",
     "in_reply_to_user_id_str" : "5703342",
     "user" : {
-      "name" : "\uD835\uDE76\uD835\uDE98\uD835\uDE97\uD835\uDE8E \uD835\uDE71\uD835\uDE8E\uD835\uDE9B\uD835\uDE94\uD835\uDE98",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "protected" : false,
       "id_str" : "16217140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1119221351674310656\/4gDqSCf3_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1132915306798542848\/F6gZx3X8_normal.jpg",
       "id" : 16217140,
       "verified" : false
     }
@@ -6644,13 +6616,7 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Dallas Ashton",
-      "screen_name" : "dallasashton",
-      "indices" : [ 0, 13 ],
-      "id_str" : "155795127",
-      "id" : 155795127
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

@@ -6278,7 +6278,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 0, 12 ],
       "id_str" : "27845142",
@@ -6311,7 +6311,7 @@ Grailbird.data.tweets_2011_12 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 0, 12 ],
       "id_str" : "27845142",

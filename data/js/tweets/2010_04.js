@@ -6704,6 +6704,57 @@ Grailbird.data.tweets_2010_04 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ {
+      "name" : "mjrosado",
+      "screen_name" : "mjrosado",
+      "indices" : [ 3, 12 ],
+      "id_str" : "255908860",
+      "id" : 255908860
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "11617222751",
+  "text" : "RT @MJRosado: You're my wonderwall",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "11617148372",
+    "text" : "You're my wonderwall",
+    "id" : 11617148372,
+    "created_at" : "2010-04-05 01:33:37 +0000",
+    "user" : {
+      "name" : "Monica",
+      "screen_name" : "TheMonicaShow",
+      "protected" : false,
+      "id_str" : "93123286",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108207794656821248\/7mK9rrwl_normal.jpg",
+      "id" : 93123286,
+      "verified" : false
+    }
+  },
+  "id" : 11617222751,
+  "created_at" : "2010-04-05 00:00:00 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],

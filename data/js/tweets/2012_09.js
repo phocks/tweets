@@ -2256,7 +2256,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 0, 9 ],
       "id_str" : "16217140",
@@ -5026,7 +5026,7 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "907835672",
       "id" : 907835672
     }, {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 21, 32 ],
       "id_str" : "15080202",

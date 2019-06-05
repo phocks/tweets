@@ -322,7 +322,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "21481069",
       "id" : 21481069
     }, {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 39, 50 ],
       "id_str" : "15080202",
@@ -632,7 +632,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 0, 11 ],
       "id_str" : "15080202",
@@ -4144,7 +4144,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spiral Kid",
+      "name" : "That\u2019s DOCTOR Eggboy to you sir",
       "screen_name" : "ErikVeland",
       "indices" : [ 93, 104 ],
       "id_str" : "15080202",
@@ -4239,6 +4239,57 @@ Grailbird.data.tweets_2010_11 =
   "text" : "disliking the facebookification of twitter and the twitterfication of facebook",
   "id" : 4735122133753856,
   "created_at" : "2010-11-17 03:18:35 +0000",
+  "user" : {
+    "name" : "Joshua Byrd",
+    "screen_name" : "phocks",
+    "protected" : false,
+    "id_str" : "5703342",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1031356125017387008\/70sigmWq_normal.jpg",
+    "id" : 5703342,
+    "verified" : true
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Natalia [BT-DIQ17-28\/29dic]",
+      "screen_name" : "doiha",
+      "indices" : [ 3, 9 ],
+      "id_str" : "18040565",
+      "id" : 18040565
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "4715672193994754",
+  "text" : "RT @doiha: Tumblr ...  Y U no open well!!!???",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "4715081048793088",
+    "text" : "Tumblr ...  Y U no open well!!!???",
+    "id" : 4715081048793088,
+    "created_at" : "2010-11-17 01:58:57 +0000",
+    "user" : {
+      "name" : "Natalia [BT-DIQ17-28\/29dic]",
+      "screen_name" : "doiha",
+      "protected" : false,
+      "id_str" : "18040565",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964969601015734274\/IK5Af6QG_normal.jpg",
+      "id" : 18040565,
+      "verified" : false
+    }
+  },
+  "id" : 4715672193994754,
+  "created_at" : "2010-11-17 02:01:18 +0000",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

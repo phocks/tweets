@@ -2544,7 +2544,7 @@ Grailbird.data.tweets_2013_06 =
       "id_str" : "1671845244",
       "id" : 1671845244
     }, {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 14, 26 ],
       "id_str" : "27845142",
@@ -3542,7 +3542,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark #Eggboy for PM \uD83E\uDD5A\uD83E\uDD5A \uD83C\uDFAC\uD83C\uDFAE",
+      "name" : "mark_harris.exe \uD83C\uDFAC\uD83C\uDFAE",
       "screen_name" : "markh110",
       "indices" : [ 0, 9 ],
       "id_str" : "19019765",
@@ -3847,7 +3847,7 @@ Grailbird.data.tweets_2013_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
+      "name" : "Beatle Paul",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",

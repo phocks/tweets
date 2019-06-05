@@ -104,27 +104,16 @@ Grailbird.data.tweets_2011_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Monica",
-      "screen_name" : "MonicaLyne",
-      "indices" : [ 0, 11 ],
-      "id_str" : "200655660",
-      "id" : 200655660
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "108719437477191680",
   "geo" : { },
   "id_str" : "108756700651196416",
-  "in_reply_to_user_id" : 200655660,
   "text" : "@MonicaLyne I work plugging holes in leaky computer systems for various companies. Someone just randomly brought in pet food yesterday :)",
   "id" : 108756700651196416,
-  "in_reply_to_status_id" : 108719437477191680,
   "created_at" : "2011-08-31 04:23:12 +0000",
-  "in_reply_to_screen_name" : "MonicaLyne",
-  "in_reply_to_user_id_str" : "200655660",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -160,7 +149,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy",
+      "name" : "lulu_stradley \uD83C\uDF9B\uFE0F\uD83C\uDF9A\uD83E\uDD41",
       "screen_name" : "JollyEasyZebra",
       "indices" : [ 0, 15 ],
       "id_str" : "118651111",
@@ -2389,12 +2378,6 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Monica",
-      "screen_name" : "MonicaLyne",
-      "indices" : [ 1, 12 ],
-      "id_str" : "200655660",
-      "id" : 200655660
-    }, {
       "name" : "Joshua Byrd",
       "screen_name" : "phocks",
       "indices" : [ 14, 21 ],
@@ -3218,7 +3201,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "memily",
       "protected" : false,
       "id_str" : "5949072",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714611363985899520\/8HIVT8e2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1127815698833522688\/PMW3LZay_normal.jpg",
       "id" : 5949072,
       "verified" : false
     }
@@ -4961,7 +4944,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RestingBicycleFace",
+      "name" : "YouHadOneJobAustralia",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

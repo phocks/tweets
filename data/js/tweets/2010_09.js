@@ -8858,27 +8858,16 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Raluca",
-      "screen_name" : "RalucaMihaela",
-      "indices" : [ 0, 14 ],
-      "id_str" : "21180328",
-      "id" : 21180328
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "22853341691",
   "geo" : { },
   "id_str" : "22856433768",
-  "in_reply_to_user_id" : 21180328,
   "text" : "@RalucaMihaela it was delicious!",
   "id" : 22856433768,
-  "in_reply_to_status_id" : 22853341691,
   "created_at" : "2010-09-03 00:00:00 +0000",
-  "in_reply_to_screen_name" : "RalucaMihaela",
-  "in_reply_to_user_id_str" : "21180328",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -9433,7 +9422,7 @@ Grailbird.data.tweets_2010_09 =
     "id" : 22711228653,
     "created_at" : "2010-09-01 14:22:15 +0000",
     "user" : {
-      "name" : "Tom Whalley, Don'cha Know",
+      "name" : "whalley is name",
       "screen_name" : "whalleyrulz",
       "protected" : false,
       "id_str" : "23409021",

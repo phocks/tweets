@@ -1390,7 +1390,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ron Dalby \uD83C\uDF08\uD83C\uDDE6\uD83C\uDDFA",
+      "name" : "\uD83D\uDCA7Ron Dalby \uD83C\uDDE6\uD83C\uDDFA \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "ronsondalby",
       "indices" : [ 0, 12 ],
       "id_str" : "266343724",
@@ -4813,12 +4813,6 @@ Grailbird.data.tweets_2011_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    }, {
       "name" : "paranorgia",
       "screen_name" : "paranorgia",
       "indices" : [ 19, 30 ],
@@ -4829,16 +4823,11 @@ Grailbird.data.tweets_2011_07 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "91752144255983616",
   "geo" : { },
   "id_str" : "91767382254698496",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 @fishnotworm @paranorgia ;)",
   "id" : 91767382254698496,
-  "in_reply_to_status_id" : 91752144255983616,
   "created_at" : "2011-07-15 07:13:43 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

@@ -2987,27 +2987,16 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Raluca",
-      "screen_name" : "RalucaMihaela",
-      "indices" : [ 0, 14 ],
-      "id_str" : "21180328",
-      "id" : 21180328
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "19264809514",
   "geo" : { },
   "id_str" : "19266094493",
-  "in_reply_to_user_id" : 21180328,
   "text" : "@RalucaMihaela well i must be in limbo right now, as my brain is fairly fried from the film. might have to see it again..",
   "id" : 19266094493,
-  "in_reply_to_status_id" : 19264809514,
   "created_at" : "2010-07-23 00:00:00 +0000",
-  "in_reply_to_screen_name" : "RalucaMihaela",
-  "in_reply_to_user_id_str" : "21180328",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4422,7 +4411,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "17018153",
       "id" : 17018153
     }, {
-      "name" : "\uD83C\uDF0AEmmagate\uD83C\uDF0A",
+      "name" : "\u0280\u1D07\u1D05(\u029C\u1D07\u1D00\u1D05) \u1D1C\u0274\u1D05\u1D07\u0280 \u1D1B\u029C\u1D07 \u0299\u1D07\u1D05",
       "screen_name" : "emmsyish",
       "indices" : [ 102, 111 ],
       "id_str" : "16217140",

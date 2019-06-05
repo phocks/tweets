@@ -762,7 +762,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 0, 12 ],
       "id_str" : "27845142",
@@ -1220,27 +1220,16 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "140621831420915712",
   "geo" : { },
   "id_str" : "140622113986977792",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 right on! love them.",
   "id" : 140622113986977792,
-  "in_reply_to_status_id" : 140621831420915712,
   "created_at" : "2011-11-27 02:44:59 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4649,7 +4638,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the ghost of TrishwaH future",
+      "name" : "Trishwahtaurus-Rex \uD83E\uDD96",
       "screen_name" : "TrishwaH",
       "indices" : [ 42, 51 ],
       "id_str" : "26123986",
@@ -7416,27 +7405,16 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "133735537172422656",
   "geo" : { },
   "id_str" : "133735866651770880",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 oh god, i hope so!",
   "id" : 133735866651770880,
-  "in_reply_to_status_id" : 133735537172422656,
   "created_at" : "2011-11-08 02:41:29 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -8806,7 +8784,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "RestingBicycleFace",
+      "name" : "YouHadOneJobAustralia",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",
@@ -9348,7 +9326,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Well Done Angus",
+      "name" : "YouHadOneJobAustralia",
       "screen_name" : "ScarletOHairer",
       "indices" : [ 0, 15 ],
       "id_str" : "154535572",

@@ -2079,7 +2079,7 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "19856351",
       "id" : 19856351
     }, {
-      "name" : "Kim Samiotis",
+      "name" : "Kim",
       "screen_name" : "jemappellekim",
       "indices" : [ 118, 132 ],
       "id_str" : "17986046",

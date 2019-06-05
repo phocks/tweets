@@ -3141,7 +3141,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 0, 12 ],
       "id_str" : "27845142",
@@ -3370,7 +3370,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "thistornado",
+      "name" : "reprehensible bisexual",
       "screen_name" : "thistornado",
       "indices" : [ 0, 12 ],
       "id_str" : "27845142",
@@ -6178,7 +6178,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u20D3 \u20D4 \u20D5 \u20D6 \u20D7Hed \u20D8 \u20D9 \u20DA \u20DB \u20DC \u20DD \u20DE \u20DF\u00A0\u20E0",
+      "name" : "Jeff Susan\u2019s",
       "screen_name" : "BanalityBuzz",
       "indices" : [ 0, 13 ],
       "id_str" : "259234033",
@@ -6233,7 +6233,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u20D3 \u20D4 \u20D5 \u20D6 \u20D7Hed \u20D8 \u20D9 \u20DA \u20DB \u20DC \u20DD \u20DE \u20DF\u00A0\u20E0",
+      "name" : "Jeff Susan\u2019s",
       "screen_name" : "BanalityBuzz",
       "indices" : [ 0, 13 ],
       "id_str" : "259234033",
@@ -8313,7 +8313,7 @@ Grailbird.data.tweets_2011_04 =
       "id_str" : "977537880",
       "id" : 977537880
     }, {
-      "name" : "The Stu That Was Promised",
+      "name" : "Disco Stu",
       "screen_name" : "discostu",
       "indices" : [ 12, 21 ],
       "id_str" : "15029303",
@@ -8592,27 +8592,16 @@ Grailbird.data.tweets_2011_04 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "54671690235527168",
   "geo" : { },
   "id_str" : "54673070413193216",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 honey on one, rasberry jam on the other :)",
   "id" : 54673070413193216,
-  "in_reply_to_status_id" : 54671690235527168,
   "created_at" : "2011-04-03 22:34:10 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",

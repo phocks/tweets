@@ -1328,7 +1328,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Georgie Luhur Cooke \u2022 in \uD83C\uDDE8\uD83C\uDDFF",
+      "name" : "Georgie Luhur Cooke",
       "screen_name" : "georgiecel",
       "indices" : [ 82, 93 ],
       "id_str" : "18328488",
@@ -2765,7 +2765,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vroenis [clock sync] \u007B * \u007D",
+      "name" : "Vroenis [VA stepping filter] \u007B * \u007D",
       "screen_name" : "Vroenis",
       "indices" : [ 0, 8 ],
       "id_str" : "139668058",
@@ -3828,7 +3828,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
+      "name" : "Beatle Paul",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
@@ -3860,27 +3860,16 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "489000965178019840",
   "geo" : { },
   "id_str" : "489002977487622145",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 delicious!",
   "id" : 489002977487622145,
-  "in_reply_to_status_id" : 489000965178019840,
   "created_at" : "2014-07-15 11:06:09 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -4888,27 +4877,16 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Chris",
-      "screen_name" : "crk5",
-      "indices" : [ 0, 5 ],
-      "id_str" : "214783050",
-      "id" : 214783050
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "487873406474256384",
   "geo" : { },
   "id_str" : "487887627949842432",
-  "in_reply_to_user_id" : 214783050,
   "text" : "@crk5 me too ^_^",
   "id" : 487887627949842432,
-  "in_reply_to_status_id" : 487873406474256384,
   "created_at" : "2014-07-12 09:14:09 +0000",
-  "in_reply_to_screen_name" : "crk5",
-  "in_reply_to_user_id_str" : "214783050",
   "user" : {
     "name" : "Joshua Byrd",
     "screen_name" : "phocks",
@@ -5277,7 +5255,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Steven",
+      "name" : "Board Man",
       "screen_name" : "hoaxie",
       "indices" : [ 0, 7 ],
       "id_str" : "801634435",
@@ -7136,7 +7114,7 @@ Grailbird.data.tweets_2014_07 =
       "screen_name" : "artywah",
       "protected" : false,
       "id_str" : "6727372",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1003908651466145793\/tHwxRwcg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1134260371911454720\/LXf8d8sy_normal.jpg",
       "id" : 6727372,
       "verified" : false
     }
@@ -7360,7 +7338,7 @@ Grailbird.data.tweets_2014_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lil Y THE BASEDDOG",
+      "name" : "Beatle Paul",
       "screen_name" : "YuriKalzone69",
       "indices" : [ 0, 14 ],
       "id_str" : "359846371",
